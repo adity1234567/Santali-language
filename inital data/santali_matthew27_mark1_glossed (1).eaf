@@ -1,0 +1,868 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" AUTHOR="" DATE="2026-05-02T00:00:00+00:00" FORMAT="3.0" VERSION="3.0" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:santali-matthew27-mark1-glossed</PROPERTY>
+        <PROPERTY NAME="CORPUS">Santali Biblical Text Matthew 27-28 and Mark 1</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1"  TIME_VALUE="0"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2"  TIME_VALUE="2000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3"  TIME_VALUE="2200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4"  TIME_VALUE="4200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5"  TIME_VALUE="4400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6"  TIME_VALUE="6400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7"  TIME_VALUE="6600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8"  TIME_VALUE="8600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9"  TIME_VALUE="8800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="10800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="11000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="13000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="13200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="15200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="15400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="17400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="17600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="19600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="19800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="21800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="22000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="24000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="24200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="26200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="26400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="28400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="28600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="30600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="30800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="32800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="33000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="35000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="35200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="37200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="37400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="39400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="39600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="41600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="41800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="43800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="44000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="46000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="46200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="48200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts45" TIME_VALUE="48400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts46" TIME_VALUE="50400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts47" TIME_VALUE="50600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts48" TIME_VALUE="52600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts49" TIME_VALUE="52800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts50" TIME_VALUE="54800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts51" TIME_VALUE="55000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts52" TIME_VALUE="57000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts53" TIME_VALUE="57200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts54" TIME_VALUE="59200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts55" TIME_VALUE="59400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts56" TIME_VALUE="61400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts57" TIME_VALUE="61600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts58" TIME_VALUE="63600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts59" TIME_VALUE="63800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts60" TIME_VALUE="65800"/>
+    </TIME_ORDER>
+
+    <!-- ============================================================
+         TIER 1: ref — utterance-level IPA (time-aligned)
+         Sources: Matthew 27:3–28:20; Mark 1:1–21
+         30 representative utterances
+         ============================================================ -->
+    <TIER LINGUISTIC_TYPE_REF="utterance" TIER_ID="ref">
+
+        <!-- Matt 27:4 — Jihuda kastaoena: kaiakadah miridog miñayam joro ocoakatte -->
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1" TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
+                <ANNOTATION_VALUE>kaiakad̪ah miɾid̪os miɲajam ɟoɾo ok'-akat̪-t̪e</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+
+        <!-- Matt 27:5 — taka mundilre capar gidikate calaoena ar senkate phasi docena -->
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2" TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE>t̪akamund̪il-ɾe t͡ʃapaɾ ɡid̪ikat̪-e t͡ʃalao-ena aɾ senkat̪-e pʰasi d̪ot͡ʃ-ena</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+
+        <!-- Matt 27:11 — Am do Jihudikoren raj kanam? -->
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3" TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts6">
+                <ANNOTATION_VALUE>am d̪o ɟiʰud̪ikoɾen ɾaɟ kan-am</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+
+        <!-- Matt 27:11 — Jisui menkeda: Amem meneda -->
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4" TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE>ɟisu-i menkeda amem men-ed̪a</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+
+        <!-- Matt 27:22 — Endekhan Masiko metae Jisu don cekayea? -->
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5" TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts10">
+                <ANNOTATION_VALUE>end̪ekʰan masiʔ-ko met̪ae ɟisu d̪oɲ t͡ʃekajeːa</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+
+        <!-- Matt 27:22 — Jotogeko menkeda, Krus ocok'mae -->
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6" TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE>ɟot̪oɡe-ko menkeda kɾus ok'-ok'-mae</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+
+        <!-- Matt 27:24 — Pilate dak' hataokate tiye abukena ar menkeda: in don miridosgea -->
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7" TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts14">
+                <ANNOTATION_VALUE>pilat̪ d̪ak' hat̪ao-kat̪-e t̪ij-e abuk-ena aɾ menkeda iɲ d̪oɲ miɾid̪os-ɡea noa maːjam kʰon d̪o</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+
+        <!-- Matt 27:25 — Sanam horko ror ruarkeda: Uniak' mayam do alere ar aleren gidrakore parok'ta -->
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8" TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE>sanam hɔɽ-ko ɾoɾ ɾuaɾkeda uniʔak' maːjam d̪o ale-ɾe aɾ aleɾen ɡid̪ɾa-koɾe paɾok'-t̪a</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+
+        <!-- Matt 27:29 — Johar, Jihudikoren raj -->
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9" TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts18">
+                <ANNOTATION_VALUE>ɟohaɾ ɟiʰud̪ikoɾen ɾaɟ</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+
+        <!-- Matt 27:37 — NUI DO JISU JIHUDIKOREN RAJ KANAE -->
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10" TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE>nui d̪o ɟisu ɟiʰud̪ikoɾen ɾaɟ kana-e</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+
+        <!-- Matt 27:40 — Isorren Hopon kanam men khan, krus khon argon me -->
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11" TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts22">
+                <ANNOTATION_VALUE>isoɾ-ɾen hopon kan-am men-kʰan kɾus kʰon aɾɡon-me</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+
+        <!-- Matt 27:42 — Israel koren raj kanae, nitok' krus khone argo hijuk'ma, ado unire bon patiauk'a -->
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12" TIME_SLOT_REF1="ts23" TIME_SLOT_REF2="ts24">
+                <ANNOTATION_VALUE>isɾael-koɾen ɾaɟ kana-e nit̪ok' kɾus kʰon-e aɾɡo hiɟ-uk'-ma ad̪o uni-ɾe bon pat̪iau-k'-a</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+
+        <!-- Matt 27:46 — Eli, Eli lama sabakthani — E iñren Isor, E iñren Isor, cetak'er bagi gidiadiña -->
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13" TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts26">
+                <ANNOTATION_VALUE>eli eli lama sabakt̪ʰani metak'-me e iɲ-ɾen isoɾ e iɲ-ɾen isoɾ t͡ʃet̪ak'-eɾ baɡi ɡid̪iad̪-iɲa</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+
+        <!-- Matt 27:54 — Subedar: Sarige nui do Isorren Hopone tahekana -->
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14" TIME_SLOT_REF1="ts27" TIME_SLOT_REF2="ts28">
+                <ANNOTATION_VALUE>saɾiɡe nui d̪o isoɾ-ɾen hopon-e t̪ahen-kana</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+
+        <!-- Matt 28:5–6 — dut maejiue metat'kina: Aloben botorok'a; krus ocolen Jisuben ñamekana -->
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15" TIME_SLOT_REF1="ts29" TIME_SLOT_REF2="ts30">
+                <ANNOTATION_VALUE>alo-ben bot̪oɾok'-a kɾus ok'-ol-en ɟisuben ɲam-ekana</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+
+        <!-- Matt 28:7 — senkate uniren cela laiakoben goc'ko khone jiweT beret'ena -->
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a16" TIME_SLOT_REF1="ts31" TIME_SLOT_REF2="ts32">
+                <ANNOTATION_VALUE>senkat̪-e uniɾen t͡ʃela lajakoben ɡot͡ʃ'-ko kʰon-e ɟiwet̪' beɾet̪'-ena</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+
+        <!-- Matt 28:10 — Jisu metat'kina: Aloben botorok'a; senkate iñren boehako laiakoben jemon Galilteko calak' -->
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a17" TIME_SLOT_REF1="ts33" TIME_SLOT_REF2="ts34">
+                <ANNOTATION_VALUE>alo-ben bot̪oɾ-ok'-a senkat̪-e iɲ-ɾen boeha-ko lajakoben ɟemon ɡalil-t̪e-ko t͡ʃalak'</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+
+        <!-- Matt 28:18 — Sermare ar otre sanam ektiari in then emakana -->
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a18" TIME_SLOT_REF1="ts35" TIME_SLOT_REF2="ts36">
+                <ANNOTATION_VALUE>seɾmaɾe aɾ ot̪ɾe sanam ekt̪iaɾi iɲ t̪ʰen emakana</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+
+        <!-- Matt 28:19 — Senkate sanam jatko celakope, ar Baba ar Hopon ar Sonot Jiu ħutumte baptiskope -->
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a19" TIME_SLOT_REF1="ts37" TIME_SLOT_REF2="ts38">
+                <ANNOTATION_VALUE>senkat̪-e sanam ɟat̪-ko t͡ʃela-ko-pe aɾ baba aɾ hopon aɾ sonot̪ ɟiu ɲut̪um-t̪e bapt̪is-ko-pe</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+
+        <!-- Matt 28:20 — in do jao hilok' ape tuluc' menaña, jug mucat' habic'ge -->
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a20" TIME_SLOT_REF1="ts39" TIME_SLOT_REF2="ts40">
+                <ANNOTATION_VALUE>iɲ d̪o ɟao hilok' ape t̪ulut͡ʃ' menaɲa ɟuɡ mukat̪' habɪt͡ʃ'-ɡe</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+
+        <!-- Mark 1:1 — Isorren Hopon Jisu Masiak' bhage sombat reak' etohop' -->
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a21" TIME_SLOT_REF1="ts41" TIME_SLOT_REF2="ts42">
+                <ANNOTATION_VALUE>isoɾ-ɾen hopon ɟisu masiak' bʰaɡe sombat̪ ɾeak' et̪ohop'</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+
+        <!-- Mark 1:4 — Johan babaptisic' do hahankarre kai ikak' lagit' mon acur reak' baptisma porcarkan hec'ena -->
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a22" TIME_SLOT_REF1="ts43" TIME_SLOT_REF2="ts44">
+                <ANNOTATION_VALUE>ɟohan babaptisit͡ʃ' d̪o ɦaɦankaɾ-ɾe kai ikak' laɡit̪' mon at͡ʃuɾ ɾeak' bapt̪isma poɾt͡ʃaɾ-kan het͡ʃ'-ena</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+
+        <!-- Mark 1:7 — Iñ khon dareanic' iñ tayomte daraekana, one uniak' kharpa reak' tonol ho engot'kate raraetae lek don ban kan -->
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a23" TIME_SLOT_REF1="ts45" TIME_SLOT_REF2="ts46">
+                <ANNOTATION_VALUE>iɲ kʰon d̪aɾeaniʔ iɲ t̪ajom-t̪e d̪aɾaekana one uniʔak' kʰaɾpa ɾeak' t̪onol hɔ̃ eŋɡot̪'-kat̪e ɾaɾaet̪ae lek d̪oɲ baɲ kan</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+
+        <!-- Mark 1:8 — Iñ do dak'ten baptiskedea, uni do Sonot Jiuteye baptispea -->
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a24" TIME_SLOT_REF1="ts47" TIME_SLOT_REF2="ts48">
+                <ANNOTATION_VALUE>iɲ d̪o d̪ak'-t̪en bapt̪iskед-ea uni d̪o sonot̪ ɟiu-t̪-e-je bapt̪is-pe-a</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+
+        <!-- Mark 1:11 — serma khon aran hoyena: Am do iñren dularia Hopon kanam, arñren kusiakana -->
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a25" TIME_SLOT_REF1="ts49" TIME_SLOT_REF2="ts50">
+                <ANNOTATION_VALUE>seɾma kʰon aɾan hɔj-ena am d̪o iɲ-ɾen d̪ulaɾia hopon kan-am aɾɲɾen kusiak-ana</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+
+        <!-- Mark 1:15 — Okte ao purauakana ar Isorak' raj do sorakana; mon acur pe ar bhage sombatre patiauk'pe -->
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a26" TIME_SLOT_REF1="ts51" TIME_SLOT_REF2="ts52">
+                <ANNOTATION_VALUE>okt̪e aʔo puɾau-akana aɾ isoɾ-ak' ɾaɟ d̪o soɾak-ana mon at͡ʃuɾ-pe aɾ bʰaɡe sombat̪-ɾe pat̪iau-k'-pe</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+
+        <!-- Mark 1:17 — Dela iñ tayomte, ado manwa sasap' keotan hoe ocobena -->
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a27" TIME_SLOT_REF1="ts53" TIME_SLOT_REF2="ts54">
+                <ANNOTATION_VALUE>d̪ela iɲ t̪ajom-t̪e ad̪o manwa sasap' keot̪an hoe ok'-ob-ena</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+
+        <!-- Mark 1:18 — Khan ina taptege jalko bagiat'tekin panjakeda -->
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a28" TIME_SLOT_REF1="ts55" TIME_SLOT_REF2="ts56">
+                <ANNOTATION_VALUE>kʰan ina t̪apt̪-eɡe ɟal-ko baɡiat̪'-t̪ekin panɟakeda</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+
+        <!-- Mark 1:20 — khange akinren apat Sabdae do laukare munisko tuluc'kin bagi otoadea ar uni tayomtekin calaoena -->
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a29" TIME_SLOT_REF1="ts57" TIME_SLOT_REF2="ts58">
+                <ANNOTATION_VALUE>kʰaŋɡe akin-ɾen apat̪ sabd̪ae d̪o laukaɾe munis-ko t̪ulut͡ʃ'-kin baɡi ot̪oad̪ea aɾ uni t̪ajom-t̪ekin t͡ʃalao-ena</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+
+        <!-- Mark 1:21 — ar pahil jirauk' maha hilok'ge sunagogre boloyenteye cet'at'koa -->
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a30" TIME_SLOT_REF1="ts59" TIME_SLOT_REF2="ts60">
+                <ANNOTATION_VALUE>aɾ paɦil ɟiɾauk' maɦa hilok'-ɡe sunaɡoɡ-ɾe boloj-ent̪e-je t͡ʃet̪'at̪'-koa</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+
+    </TIER>
+
+    <!-- ============================================================
+         TIER 2: mb — morpheme breakdown (INCLUDED_IN child of ref)
+         ============================================================ -->
+    <TIER LINGUISTIC_TYPE_REF="morpheme" PARENT_REF="ref" TIER_ID="mb">
+
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a31" ANNOTATION_REF="a1">
+                <ANNOTATION_VALUE>kaiakad̪ah miɾid̪os miɲ-ajam ɟoɾo ok'-akat̪-t̪e</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a32" ANNOTATION_REF="a2">
+                <ANNOTATION_VALUE>t̪aka mund̪il-ɾe t͡ʃapaɾ ɡid̪i-kat̪-e t͡ʃalao-ena aɾ senkat̪-e pʰasi d̪ot͡ʃ-ena</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a33" ANNOTATION_REF="a3">
+                <ANNOTATION_VALUE>am d̪o ɟiʰud̪i-koɾen ɾaɟ kan-am</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a34" ANNOTATION_REF="a4">
+                <ANNOTATION_VALUE>ɟisu-i men-keda am-em men-ed̪a</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a35" ANNOTATION_REF="a5">
+                <ANNOTATION_VALUE>end̪e-kʰan masiʔ-ko met̪ae ɟisu d̪o-ɲ t͡ʃekaj-e-a</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a36" ANNOTATION_REF="a6">
+                <ANNOTATION_VALUE>ɟot̪o-ɡe-ko men-keda kɾus ok'-ok'-mae</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a37" ANNOTATION_REF="a7">
+                <ANNOTATION_VALUE>pilat̪ d̪ak' hat̪ao-kat̪-e t̪ij-e abuk-ena aɾ men-keda iɲ d̪o-ɲ miɾid̪os-ɡea noa maːjam kʰon d̪o ape-ɡe ɲel-ɟon-pe</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a38" ANNOTATION_REF="a8">
+                <ANNOTATION_VALUE>sanam hɔɽ-ko ɾoɾ ɾuaɾ-keda uniʔ-ak' maːjam d̪o ale-ɾe aɾ ale-ɾen ɡid̪ɾa-koɾe paɾ-ok'-t̪a</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a39" ANNOTATION_REF="a9">
+                <ANNOTATION_VALUE>ɟohaɾ ɟiʰud̪i-koɾen ɾaɟ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a40" ANNOTATION_REF="a10">
+                <ANNOTATION_VALUE>nui d̪o ɟisu ɟiʰud̪i-koɾen ɾaɟ kana-e</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a41" ANNOTATION_REF="a11">
+                <ANNOTATION_VALUE>isoɾ-ɾen hopon kan-am men-kʰan kɾus kʰon aɾɡon-me</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a42" ANNOTATION_REF="a12">
+                <ANNOTATION_VALUE>isɾael-koɾen ɾaɟ kana-e nit̪-ok' kɾus kʰon-e aɾɡo hiɟ-uk'-ma ad̪o uni-ɾe bon pat̪iau-k'-a</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a43" ANNOTATION_REF="a13">
+                <ANNOTATION_VALUE>eli eli lama sabakt̪ʰani metak'-me e iɲ-ɾen isoɾ e iɲ-ɾen isoɾ t͡ʃet̪-ak'-eɾ baɡi ɡid̪i-ad̪-iɲa</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a44" ANNOTATION_REF="a14">
+                <ANNOTATION_VALUE>saɾiɡe nui d̪o isoɾ-ɾen hopon-e t̪ahen-kana</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a45" ANNOTATION_REF="a15">
+                <ANNOTATION_VALUE>alo-ben bot̪oɾ-ok'-a kɾus ok'-ol-en ɟisu-ben ɲam-e-kana</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a46" ANNOTATION_REF="a16">
+                <ANNOTATION_VALUE>senkat̪-e uni-ɾen t͡ʃela lajakob-en ɡot͡ʃ'-ko kʰon-e ɟiwet̪' beɾet̪'-ena</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a47" ANNOTATION_REF="a17">
+                <ANNOTATION_VALUE>alo-ben bot̪oɾ-ok'-a senkat̪-e iɲ-ɾen boeha-ko lajakob-en ɟemon ɡalil-t̪e-ko t͡ʃal-ak'</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a48" ANNOTATION_REF="a18">
+                <ANNOTATION_VALUE>seɾma-ɾe aɾ ot̪-ɾe sanam ekt̪iaɾi iɲ t̪ʰen em-akana</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a49" ANNOTATION_REF="a19">
+                <ANNOTATION_VALUE>senkat̪-e sanam ɟat̪-ko t͡ʃela-ko-pe aɾ baba aɾ hopon aɾ sonot̪ ɟiu ɲut̪um-t̪e bapt̪is-ko-pe</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a50" ANNOTATION_REF="a20">
+                <ANNOTATION_VALUE>iɲ d̪o ɟao hilok' ape t̪ulut͡ʃ' mena-ɲa ɟuɡ mukat̪'-habɪt͡ʃ'-ɡe</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a51" ANNOTATION_REF="a21">
+                <ANNOTATION_VALUE>isoɾ-ɾen hopon ɟisu masi-ak' bʰaɡe sombat̪ ɾeak' et̪o-hop'</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a52" ANNOTATION_REF="a22">
+                <ANNOTATION_VALUE>ɟohan babapt̪isit͡ʃ' d̪o ɦaɦankaɾ-ɾe kai ik-ak' laɡit̪' mon at͡ʃuɾ ɾeak' bapt̪isma poɾt͡ʃaɾ-kan het͡ʃ'-ena</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a53" ANNOTATION_REF="a23">
+                <ANNOTATION_VALUE>iɲ kʰon d̪aɾean-iʔ iɲ t̪ajom-t̪e d̪aɾae-kana one uniʔ-ak' kʰaɾpa ɾeak' t̪onol hɔ̃ eŋɡot̪'-kat̪e ɾaɾae-t̪ae lek d̪o-ɲ ba-ɲ kan</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a54" ANNOTATION_REF="a24">
+                <ANNOTATION_VALUE>iɲ d̪o d̪ak'-t̪en bapt̪is-ked-ea uni d̪o sonot̪ ɟiu-t̪-e-je bapt̪is-pe-a</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a55" ANNOTATION_REF="a25">
+                <ANNOTATION_VALUE>seɾma kʰon aɾan hɔj-ena am d̪o iɲ-ɾen d̪ulaɾia hopon kan-am aɾ-ɲ-ɾen kusiak-ana</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a56" ANNOTATION_REF="a26">
+                <ANNOTATION_VALUE>okt̪e aʔo puɾau-akana aɾ isoɾ-ak' ɾaɟ d̪o soɾak-ana mon at͡ʃuɾ-pe aɾ bʰaɡe sombat̪-ɾe pat̪iau-k'-pe</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a57" ANNOTATION_REF="a27">
+                <ANNOTATION_VALUE>d̪ela iɲ t̪ajom-t̪e ad̪o manwa sasap' keot̪an hoe ok'-ob-ena</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a58" ANNOTATION_REF="a28">
+                <ANNOTATION_VALUE>kʰan ina t̪apt̪-eɡe ɟal-ko baɡi-at̪'-t̪ekin panɟ-akeda</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a59" ANNOTATION_REF="a29">
+                <ANNOTATION_VALUE>kʰaŋɡe akin-ɾen apat̪ sabd̪ae d̪o laukaɾe munis-ko t̪ulut͡ʃ'-kin baɡi ot̪o-ad̪ea aɾ uni t̪ajom-t̪ekin t͡ʃalao-ena</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a60" ANNOTATION_REF="a30">
+                <ANNOTATION_VALUE>aɾ paɦil ɟiɾauk' maɦa hilok'-ɡe sunaɡoɡ-ɾe boloj-ent̪e-je t͡ʃet̪'-at̪'-koa</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+    </TIER>
+
+    <!-- ============================================================
+         TIER 3: gl — gloss (SYMBOLIC_ASSOCIATION child of mb)
+         Leipzig Glossing Rules:
+         TOP=Topic, NEG=Negation, COP=Copula, FIN=Finite,
+         3SG=3rd sg, 1SG=1st sg, 2SG=2nd sg, PL=Plural,
+         GEN=Genitive, LOC=Locative, PST=Past, PROG=Progressive,
+         PROH=Prohibitive, IMP=Imperative, EMPH=Emphatic,
+         Q=Question, DAT=Dative, COMIT=Comitative, SUB=Subordinator,
+         QUOT=Quotative, CAUS=Causative, REFL=Reflexive,
+         CLSSFR=Classifier, M=Masculine, TR=Transitive,
+         ITER=Iterative, DU=Dual, INCL=Inclusive, EXCL=Exclusive,
+         VOC=Vocative, PERF=Perfect, SEQ=Sequential
+         ============================================================ -->
+    <TIER LINGUISTIC_TYPE_REF="gloss" PARENT_REF="mb" TIER_ID="gl">
+
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a61" ANNOTATION_REF="a31">
+                <ANNOTATION_VALUE>Sinned Innocent Blood Pour FIN-PERF-SUB</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a62" ANNOTATION_REF="a32">
+                <ANNOTATION_VALUE>Silver Temple-LOC Throw Go.down-SEQ-3SG Depart-PST:A And Go-SEQ Hang Hang-PST:A</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a63" ANNOTATION_REF="a33">
+                <ANNOTATION_VALUE>2SG TOP Jew-GEN:PL King COP-2SG</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a64" ANNOTATION_REF="a34">
+                <ANNOTATION_VALUE>Jesus-3SG Say-PST:A 2SG-2SG:SUBJ Say-PST:A</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a65" ANNOTATION_REF="a35">
+                <ANNOTATION_VALUE>Then-COND Messiah-3PL Say Jesus TOP-1SG:SUBJ What Do-FIN-FIN</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a66" ANNOTATION_REF="a36">
+                <ANNOTATION_VALUE>All-EMPH-3PL Say-PST:A Cross Crucify-FIN-IMP:3SG</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a67" ANNOTATION_REF="a37">
+                <ANNOTATION_VALUE>Pilate Water Wash-SEQ-3SG 3SG:SUBJ Declare-PST:A And Say-PST:A 1SG TOP-1SG:SUBJ Innocent This Blood From TOP 2PL-EMPH See-QUOT-2PL:IMP</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a68" ANNOTATION_REF="a38">
+                <ANNOTATION_VALUE>All People-3PL Shout Say-PST:A 3SG-GEN Blood TOP 1PL-LOC And 1PL-GEN Children-LOC Fall-FIN-DESID</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a69" ANNOTATION_REF="a39">
+                <ANNOTATION_VALUE>Hail Jew-GEN:PL King</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a70" ANNOTATION_REF="a40">
+                <ANNOTATION_VALUE>This TOP Jesus Jew-GEN:PL King COP-3SG</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a71" ANNOTATION_REF="a41">
+                <ANNOTATION_VALUE>God-GEN Son COP-2SG:SUBJ COND Cross From Descend-2SG:IMP</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a72" ANNOTATION_REF="a42">
+                <ANNOTATION_VALUE>Israel-GEN:PL King COP-3SG Now-FIN Cross From-3SG Descend Come-CAUS-IMP:PROH Then 3SG-LOC 1PL.INCL Believe-FIN-FIN</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a73" ANNOTATION_REF="a43">
+                <ANNOTATION_VALUE>Eli Eli Lama Sabachthani That.is.to.say VOC 1SG-GEN God VOC 1SG-GEN God Why-GEN:3SG Abandon Go-PST:A-1SG</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a74" ANNOTATION_REF="a44">
+                <ANNOTATION_VALUE>Truly This TOP God-GEN Son-3SG Stay-FIN</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a75" ANNOTATION_REF="a45">
+                <ANNOTATION_VALUE>PROH-1PL.INCL Fear-FIN-FIN Crucified-PERF-3SG:OBJ Jesus-1PL.INCL Seek-PROG-FIN</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a76" ANNOTATION_REF="a46">
+                <ANNOTATION_VALUE>Go-SEQ 3SG-GEN Disciple Tell-1PL.INCL Dead-3PL From-3SG Alive Arise-PST:A</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a77" ANNOTATION_REF="a47">
+                <ANNOTATION_VALUE>PROH-1PL.INCL Fear-FIN-FIN Go-SEQ 1SG-GEN Brother-3PL Tell-1PL.INCL Like Galilee-LOC-3PL Go-FIN</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a78" ANNOTATION_REF="a48">
+                <ANNOTATION_VALUE>Sky-LOC And Earth-LOC All Authority 1SG To Give-FIN</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a79" ANNOTATION_REF="a49">
+                <ANNOTATION_VALUE>Go-SEQ All Nation-3PL Disciple-3PL-2PL And Father And Son And Holy Spirit Name-LOC Baptise-3PL-2PL</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a80" ANNOTATION_REF="a50">
+                <ANNOTATION_VALUE>1SG TOP Every Day 2PL With Exist-1SG Age End Until-EMPH</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a81" ANNOTATION_REF="a51">
+                <ANNOTATION_VALUE>God-GEN Son Jesus Christ-GEN Good News GEN Beginning</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a82" ANNOTATION_REF="a52">
+                <ANNOTATION_VALUE>John Baptist TOP Wilderness-LOC Sin Forgive-FIN For Repentance GEN Baptism Proclaim-FIN Come-PST:A</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a83" ANNOTATION_REF="a53">
+                <ANNOTATION_VALUE>1SG From Worthy 1SG After-LOC Come-FIN One 3SG-GEN Sandal GEN Strap Also Untie-SEQ Bow-DESID-3SG Like 1SG-1SG NEG-1SG COP</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a84" ANNOTATION_REF="a54">
+                <ANNOTATION_VALUE>1SG TOP Water-COMIT Baptise-PST:A-2PL 3SG TOP Holy Spirit-COMIT-3SG-3SG Baptise-2PL-FIN</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a85" ANNOTATION_REF="a55">
+                <ANNOTATION_VALUE>Sky From Voice Come-PST:A 2SG TOP 1SG-GEN Beloved Son COP-2SG 1SG-1SG-GEN Be.pleased-FIN</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a86" ANNOTATION_REF="a56">
+                <ANNOTATION_VALUE>Time Also Fulfilled-FIN And God-GEN Kingdom TOP Come-FIN Repent-2PL:IMP And Good News-LOC Believe-FIN-2PL</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a87" ANNOTATION_REF="a57">
+                <ANNOTATION_VALUE>Come 1SG After-LOC Then People Fisher Become FIN-CAUS-FIN</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a88" ANNOTATION_REF="a58">
+                <ANNOTATION_VALUE>And Immediately Net-3PL Abandon-SEQ-DU Follow-PST:A</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a89" ANNOTATION_REF="a59">
+                <ANNOTATION_VALUE>Immediately 3DU-GEN Father Zebedee TOP Boat Hired.workers-3PL With-DU Abandon Leave-PST:A And 3SG After-LOC-DU Depart-PST:A</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a90" ANNOTATION_REF="a60">
+                <ANNOTATION_VALUE>And First Sabbath Day-EMPH Synagogue-LOC Enter-SUB-3SG Teach-ITER-3PL:OBJ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+    </TIER>
+
+    <!-- ============================================================
+         TIER 4: ft — free translation (INCLUDED_IN child of ref)
+         ============================================================ -->
+    <TIER LINGUISTIC_TYPE_REF="translation" PARENT_REF="ref" TIER_ID="ft">
+
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a91" ANNOTATION_REF="a1">
+                <ANNOTATION_VALUE>I have sinned by betraying innocent blood.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a92" ANNOTATION_REF="a2">
+                <ANNOTATION_VALUE>And throwing down the pieces of silver in the temple, he departed, and he went and hanged himself.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a93" ANNOTATION_REF="a3">
+                <ANNOTATION_VALUE>Are you the King of the Jews?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a94" ANNOTATION_REF="a4">
+                <ANNOTATION_VALUE>Jesus said, "You have said so."</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a95" ANNOTATION_REF="a5">
+                <ANNOTATION_VALUE>What shall I do then with Jesus who is called Christ?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a96" ANNOTATION_REF="a6">
+                <ANNOTATION_VALUE>They all said, "Let him be crucified!"</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a97" ANNOTATION_REF="a7">
+                <ANNOTATION_VALUE>Pilate washed his hands before the crowd, saying, "I am innocent of this man's blood; see to it yourselves."</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a98" ANNOTATION_REF="a8">
+                <ANNOTATION_VALUE>And all the people answered, "His blood be on us and on our children!"</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a99" ANNOTATION_REF="a9">
+                <ANNOTATION_VALUE>Hail, King of the Jews!</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a100" ANNOTATION_REF="a10">
+                <ANNOTATION_VALUE>This is Jesus, the King of the Jews.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a101" ANNOTATION_REF="a11">
+                <ANNOTATION_VALUE>If you are the Son of God, come down from the cross.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a102" ANNOTATION_REF="a12">
+                <ANNOTATION_VALUE>He is the King of Israel; let him come down now from the cross, and we will believe in him.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a103" ANNOTATION_REF="a13">
+                <ANNOTATION_VALUE>Eli, Eli, lema sabachthani? That is, "My God, my God, why have you forsaken me?"</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a104" ANNOTATION_REF="a14">
+                <ANNOTATION_VALUE>Truly this was the Son of God!</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a105" ANNOTATION_REF="a15">
+                <ANNOTATION_VALUE>Do not be afraid, for I know that you seek Jesus who was crucified.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a106" ANNOTATION_REF="a16">
+                <ANNOTATION_VALUE>Then go quickly and tell his disciples that he has risen from the dead.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a107" ANNOTATION_REF="a17">
+                <ANNOTATION_VALUE>Do not be afraid; go and tell my brothers to go to Galilee, and there they will see me.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a108" ANNOTATION_REF="a18">
+                <ANNOTATION_VALUE>All authority in heaven and on earth has been given to me.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a109" ANNOTATION_REF="a19">
+                <ANNOTATION_VALUE>Go therefore and make disciples of all nations, baptising them in the name of the Father and of the Son and of the Holy Spirit.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a110" ANNOTATION_REF="a20">
+                <ANNOTATION_VALUE>And behold, I am with you always, to the end of the age.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a111" ANNOTATION_REF="a21">
+                <ANNOTATION_VALUE>The beginning of the gospel of Jesus Christ, the Son of God.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a112" ANNOTATION_REF="a22">
+                <ANNOTATION_VALUE>John appeared, baptising in the wilderness and proclaiming a baptism of repentance for the forgiveness of sins.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a113" ANNOTATION_REF="a23">
+                <ANNOTATION_VALUE>After me comes he who is mightier than I, the strap of whose sandals I am not worthy to stoop down and untie.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a114" ANNOTATION_REF="a24">
+                <ANNOTATION_VALUE>I have baptised you with water, but he will baptise you with the Holy Spirit.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a115" ANNOTATION_REF="a25">
+                <ANNOTATION_VALUE>And a voice came from heaven: "You are my beloved Son; with you I am well pleased."</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a116" ANNOTATION_REF="a26">
+                <ANNOTATION_VALUE>The time is fulfilled, and the kingdom of God is at hand; repent and believe in the gospel.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a117" ANNOTATION_REF="a27">
+                <ANNOTATION_VALUE>Follow me, and I will make you become fishers of men.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a118" ANNOTATION_REF="a28">
+                <ANNOTATION_VALUE>And immediately they left their nets and followed him.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a119" ANNOTATION_REF="a29">
+                <ANNOTATION_VALUE>And immediately he left his father Zebedee in the boat with the hired servants and followed him.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a120" ANNOTATION_REF="a30">
+                <ANNOTATION_VALUE>And immediately on the Sabbath he entered the synagogue and was teaching.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+    </TIER>
+
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="utterance"   TIME_ALIGNABLE="true"  CONSTRAINTS="TIME_ALIGNABLE"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="morpheme"    TIME_ALIGNABLE="false" CONSTRAINTS="INCLUDED_IN"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="gloss"       TIME_ALIGNABLE="false" CONSTRAINTS="SYMBOLIC_ASSOCIATION"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="translation" TIME_ALIGNABLE="false" CONSTRAINTS="INCLUDED_IN"/>
+    <CONSTRAINT DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval"  STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations referring to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation"                                                         STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed"        STEREOTYPE="Included_In"/>
+</ANNOTATION_DOCUMENT>

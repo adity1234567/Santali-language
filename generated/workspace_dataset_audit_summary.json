@@ -1,0 +1,1729 @@
+[
+  {
+    "file": "audit_generated_5k_datasets.py",
+    "size_bytes": 11335,
+    "suffix": ".py",
+    "kind": "python",
+    "lines": 303,
+    "chars": 11326,
+    "mojibake_markers": true,
+    "compile_ok": true,
+    "compile_error": ""
+  },
+  {
+    "file": "audit_workspace_outputs.py",
+    "size_bytes": 13687,
+    "suffix": ".py",
+    "kind": "python",
+    "lines": 371,
+    "chars": 13678,
+    "mojibake_markers": true,
+    "compile_ok": true,
+    "compile_error": ""
+  },
+  {
+    "file": "convert_eaf_to_csv_and_test.py",
+    "size_bytes": 11197,
+    "suffix": ".py",
+    "kind": "python",
+    "lines": 317,
+    "chars": 11187,
+    "mojibake_markers": false,
+    "compile_ok": true,
+    "compile_error": ""
+  },
+  {
+    "file": "Copy of Copy of Final Report.Team Clausetrophobic (1).txt",
+    "size_bytes": 148028,
+    "suffix": ".txt",
+    "kind": "txt",
+    "lines": 2991,
+    "chars": 127477,
+    "mojibake_markers": false
+  },
+  {
+    "file": "extracted_templates.json",
+    "size_bytes": 3216649,
+    "suffix": ".json",
+    "kind": "json",
+    "top_type": "list",
+    "items": 10164,
+    "first_keys": [
+      "source_file",
+      "utterance_id",
+      "santali_ref",
+      "santali_example",
+      "english",
+      "template",
+      "dictionary_slots"
+    ]
+  },
+  {
+    "file": "generate_santali_40k.py",
+    "size_bytes": 21689,
+    "suffix": ".py",
+    "kind": "python",
+    "lines": 583,
+    "chars": 21437,
+    "mojibake_markers": false,
+    "compile_ok": true,
+    "compile_error": ""
+  },
+  {
+    "file": "generated_5k_dataset_audit_rows.csv",
+    "size_bytes": 2296306,
+    "suffix": ".csv",
+    "kind": "csv",
+    "rows": 10000,
+    "columns": 8,
+    "column_names": [
+      "dataset",
+      "sentence_id",
+      "issues",
+      "santali_sentence",
+      "english_gloss",
+      "source_eaf_file",
+      "source_eaf_utterance_id",
+      "confidence"
+    ],
+    "unique_santali_sentence": 9274,
+    "duplicate_santali_sentence": 726,
+    "blank_english_gloss": 9722,
+    "blank_bangla_gloss": 10000,
+    "blank_sentence_type": 10000,
+    "one_token_santali": 3246,
+    "english_like_santali": 4888,
+    "mojibake_rows": 0,
+    "confidence_counts": {
+      "medium": 9616,
+      "high": 384
+    }
+  },
+  {
+    "file": "generated_5k_dataset_audit_summary.json",
+    "size_bytes": 5899,
+    "suffix": ".json",
+    "kind": "json",
+    "top_type": "list",
+    "items": 2,
+    "first_keys": [
+      "dataset",
+      "physical_lines",
+      "rows_parsed",
+      "permissive_json_errors",
+      "strict_json_errors",
+      "strict_json_error_examples",
+      "unique_sentence_ids",
+      "duplicate_sentence_ids",
+      "unique_santali_sentences",
+      "duplicate_santali_sentences",
+      "confidence_counts",
+      "missing_required_counts",
+      "one_token_outputs",
+      "two_or_fewer_token_outputs",
+      "english_like_santali_rows",
+      "possible_mojibake_rows",
+      "valid_source_eaf_file_rows",
+      "valid_source_file_utterance_rows",
+      "source_pattern_verified_rows",
+      "generated_sentence_found_in_cited_eaf_rows",
+      "dictionary_slot_count",
+      "dictionary_slot_parse_errors",
+      "dictionary_slot_blank_headwords",
+      "dictionary_slot_headword_hits",
+      "top_source_files"
+    ]
+  },
+  {
+    "file": "generated_high_confidence_against_eaf.csv",
+    "size_bytes": 3116375,
+    "suffix": ".csv",
+    "kind": "csv",
+    "rows": 11202,
+    "columns": 16,
+    "column_names": [
+      "generated_id",
+      "template_id",
+      "generated_santali",
+      "generated_english",
+      "generated_bangla",
+      "best_eaf_file",
+      "best_eaf_utterance_id",
+      "best_eaf_santali",
+      "best_eaf_english",
+      "best_eaf_bangla",
+      "combined_score",
+      "english_word_score",
+      "english_overlap_score",
+      "bangla_overlap_score",
+      "santali_overlap_score",
+      "confidence"
+    ],
+    "unique_generated_santali": 11202,
+    "duplicate_generated_santali": 0,
+    "one_token_generated_santali": 0,
+    "english_like_generated_santali": 10524,
+    "score_min": 0.55,
+    "score_max": 1.0
+  },
+  {
+    "file": "generated_high_confidence_sentence_eaf.csv",
+    "size_bytes": 2446415,
+    "suffix": ".csv",
+    "kind": "csv",
+    "rows": 7403,
+    "columns": 16,
+    "column_names": [
+      "generated_id",
+      "template_id",
+      "generated_santali",
+      "generated_english",
+      "generated_bangla",
+      "best_eaf_file",
+      "best_eaf_utterance_id",
+      "best_eaf_santali",
+      "best_eaf_english",
+      "best_eaf_bangla",
+      "combined_score",
+      "english_word_score",
+      "english_overlap_score",
+      "bangla_overlap_score",
+      "santali_overlap_score",
+      "confidence"
+    ],
+    "unique_generated_santali": 7403,
+    "duplicate_generated_santali": 0,
+    "one_token_generated_santali": 0,
+    "english_like_generated_santali": 6939,
+    "score_min": 0.5501,
+    "score_max": 1.0
+  },
+  {
+    "file": "generated_low_confidence_sample_against_eaf.csv",
+    "size_bytes": 153531,
+    "suffix": ".csv",
+    "kind": "csv",
+    "rows": 500,
+    "columns": 16,
+    "column_names": [
+      "generated_id",
+      "template_id",
+      "generated_santali",
+      "generated_english",
+      "generated_bangla",
+      "best_eaf_file",
+      "best_eaf_utterance_id",
+      "best_eaf_santali",
+      "best_eaf_english",
+      "best_eaf_bangla",
+      "combined_score",
+      "english_word_score",
+      "english_overlap_score",
+      "bangla_overlap_score",
+      "santali_overlap_score",
+      "confidence"
+    ],
+    "unique_generated_santali": 500,
+    "duplicate_generated_santali": 0,
+    "one_token_generated_santali": 0,
+    "english_like_generated_santali": 444,
+    "score_min": 0.1179,
+    "score_max": 0.2999
+  },
+  {
+    "file": "generated_santali.jsonl",
+    "size_bytes": 33539,
+    "suffix": ".jsonl",
+    "kind": "jsonl",
+    "physical_lines": 50,
+    "rows": 50,
+    "permissive_json_errors": 0,
+    "strict_json_errors": 47,
+    "unique_sentence_ids": 50,
+    "duplicate_sentence_ids": 0,
+    "unique_santali_sentence": 50,
+    "duplicate_santali_sentence": 0,
+    "missing_required": {
+      "sentence_id": 0,
+      "santali_sentence": 0,
+      "english_gloss": 47,
+      "bangla_gloss": 50,
+      "sentence_type": 50,
+      "confidence": 0,
+      "source_eaf_file": 0,
+      "source_eaf_utterance_id": 0,
+      "source_eaf_pattern": 0,
+      "synthetic": 0,
+      "needs_native_review": 0
+    },
+    "confidence_counts": {
+      "high": 50
+    },
+    "one_token_santali": 17,
+    "two_or_fewer_token_santali": 24,
+    "english_like_santali": 19,
+    "mojibake_rows": 0,
+    "valid_source_eaf_file": 50,
+    "valid_source_file_utterance": 50,
+    "source_pattern_verified": 50
+  },
+  {
+    "file": "generated_santali_5k.csv",
+    "size_bytes": 1777442,
+    "suffix": ".csv",
+    "kind": "csv",
+    "rows": 5000,
+    "columns": 15,
+    "column_names": [
+      "sentence_id",
+      "santali_sentence",
+      "english_gloss",
+      "bangla_gloss",
+      "sentence_type",
+      "confidence",
+      "source_eaf_file",
+      "source_eaf_utterance_id",
+      "source_eaf_pattern",
+      "source_report_section",
+      "dictionary_slots_json",
+      "morphology_notes",
+      "rejection_risk",
+      "synthetic",
+      "needs_native_review"
+    ],
+    "unique_santali_sentence": 5000,
+    "duplicate_santali_sentence": 0,
+    "blank_english_gloss": 4732,
+    "blank_bangla_gloss": 5000,
+    "blank_sentence_type": 5000,
+    "one_token_santali": 1916,
+    "english_like_santali": 1662,
+    "mojibake_rows": 0,
+    "confidence_counts": {
+      "medium": 4669,
+      "high": 331
+    }
+  },
+  {
+    "file": "generated_santali_5k.jsonl",
+    "size_bytes": 3248703,
+    "suffix": ".jsonl",
+    "kind": "jsonl",
+    "physical_lines": 5000,
+    "rows": 5000,
+    "permissive_json_errors": 0,
+    "strict_json_errors": 4732,
+    "unique_sentence_ids": 5000,
+    "duplicate_sentence_ids": 0,
+    "unique_santali_sentence": 5000,
+    "duplicate_santali_sentence": 0,
+    "missing_required": {
+      "sentence_id": 0,
+      "santali_sentence": 0,
+      "english_gloss": 4732,
+      "bangla_gloss": 5000,
+      "sentence_type": 5000,
+      "confidence": 0,
+      "source_eaf_file": 0,
+      "source_eaf_utterance_id": 0,
+      "source_eaf_pattern": 0,
+      "synthetic": 0,
+      "needs_native_review": 0
+    },
+    "confidence_counts": {
+      "medium": 4669,
+      "high": 331
+    },
+    "one_token_santali": 1916,
+    "two_or_fewer_token_santali": 2627,
+    "english_like_santali": 1662,
+    "mojibake_rows": 0,
+    "valid_source_eaf_file": 5000,
+    "valid_source_file_utterance": 5000,
+    "source_pattern_verified": 5000
+  },
+  {
+    "file": "generated_santali_5k_all_data.csv",
+    "size_bytes": 878522,
+    "suffix": ".csv",
+    "kind": "csv",
+    "rows": 5000,
+    "columns": 12,
+    "column_names": [
+      "sentence_id",
+      "santali_sentence",
+      "english_gloss",
+      "bangla_gloss",
+      "sentence_type",
+      "confidence",
+      "source_eaf_file",
+      "source_eaf_utterance_id",
+      "source_eaf_pattern",
+      "dictionary_slots_json",
+      "synthetic",
+      "needs_native_review"
+    ],
+    "unique_santali_sentence": 5000,
+    "duplicate_santali_sentence": 0,
+    "blank_english_gloss": 4990,
+    "blank_bangla_gloss": 5000,
+    "blank_sentence_type": 5000,
+    "one_token_santali": 1330,
+    "english_like_santali": 3226,
+    "mojibake_rows": 0,
+    "confidence_counts": {
+      "medium": 4947,
+      "high": 53
+    }
+  },
+  {
+    "file": "generated_santali_5k_all_data.jsonl",
+    "size_bytes": 2095099,
+    "suffix": ".jsonl",
+    "kind": "jsonl",
+    "physical_lines": 5000,
+    "rows": 5000,
+    "permissive_json_errors": 0,
+    "strict_json_errors": 217,
+    "unique_sentence_ids": 5000,
+    "duplicate_sentence_ids": 0,
+    "unique_santali_sentence": 5000,
+    "duplicate_santali_sentence": 0,
+    "missing_required": {
+      "sentence_id": 0,
+      "santali_sentence": 0,
+      "english_gloss": 4990,
+      "bangla_gloss": 5000,
+      "sentence_type": 5000,
+      "confidence": 0,
+      "source_eaf_file": 0,
+      "source_eaf_utterance_id": 4647,
+      "source_eaf_pattern": 0,
+      "synthetic": 0,
+      "needs_native_review": 0
+    },
+    "confidence_counts": {
+      "medium": 4947,
+      "high": 53
+    },
+    "one_token_santali": 1330,
+    "two_or_fewer_token_santali": 1662,
+    "english_like_santali": 3226,
+    "mojibake_rows": 0,
+    "valid_source_eaf_file": 147,
+    "valid_source_file_utterance": 147,
+    "source_pattern_verified": 147
+  },
+  {
+    "file": "generated_santali_large.csv",
+    "size_bytes": 1080268,
+    "suffix": ".csv",
+    "kind": "csv",
+    "rows": 3000,
+    "columns": 15,
+    "column_names": [
+      "sentence_id",
+      "santali_sentence",
+      "english_gloss",
+      "bangla_gloss",
+      "sentence_type",
+      "confidence",
+      "source_eaf_file",
+      "source_eaf_utterance_id",
+      "source_eaf_pattern",
+      "source_report_section",
+      "dictionary_slots_json",
+      "morphology_notes",
+      "rejection_risk",
+      "synthetic",
+      "needs_native_review"
+    ],
+    "unique_santali_sentence": 3000,
+    "duplicate_santali_sentence": 0,
+    "blank_english_gloss": 2877,
+    "blank_bangla_gloss": 3000,
+    "blank_sentence_type": 3000,
+    "one_token_santali": 1009,
+    "english_like_santali": 1074,
+    "mojibake_rows": 0,
+    "confidence_counts": {
+      "medium": 2749,
+      "high": 251
+    }
+  },
+  {
+    "file": "generated_santali_large.jsonl",
+    "size_bytes": 1961597,
+    "suffix": ".jsonl",
+    "kind": "jsonl",
+    "physical_lines": 3000,
+    "rows": 3000,
+    "permissive_json_errors": 0,
+    "strict_json_errors": 2877,
+    "unique_sentence_ids": 3000,
+    "duplicate_sentence_ids": 0,
+    "unique_santali_sentence": 3000,
+    "duplicate_santali_sentence": 0,
+    "missing_required": {
+      "sentence_id": 0,
+      "santali_sentence": 0,
+      "english_gloss": 2877,
+      "bangla_gloss": 3000,
+      "sentence_type": 3000,
+      "confidence": 0,
+      "source_eaf_file": 0,
+      "source_eaf_utterance_id": 0,
+      "source_eaf_pattern": 0,
+      "synthetic": 0,
+      "needs_native_review": 0
+    },
+    "confidence_counts": {
+      "medium": 2749,
+      "high": 251
+    },
+    "one_token_santali": 1009,
+    "two_or_fewer_token_santali": 1416,
+    "english_like_santali": 1074,
+    "mojibake_rows": 0,
+    "valid_source_eaf_file": 3000,
+    "valid_source_file_utterance": 3000,
+    "source_pattern_verified": 3000
+  },
+  {
+    "file": "generated_santali_summary.csv",
+    "size_bytes": 4506,
+    "suffix": ".csv",
+    "kind": "csv",
+    "rows": 50,
+    "columns": 7,
+    "column_names": [
+      "sentence_id",
+      "santali_sentence",
+      "english_gloss",
+      "sentence_type",
+      "confidence",
+      "source_eaf_file",
+      "source_eaf_utterance_id"
+    ],
+    "unique_santali_sentence": 50,
+    "duplicate_santali_sentence": 0,
+    "blank_english_gloss": 47,
+    "blank_bangla_gloss": 50,
+    "blank_sentence_type": 50,
+    "one_token_santali": 17,
+    "english_like_santali": 19,
+    "mojibake_rows": 0,
+    "confidence_counts": {
+      "high": 50
+    }
+  },
+  {
+    "file": "generated_vs_eaf_semantic_matches.csv",
+    "size_bytes": 12440005,
+    "suffix": ".csv",
+    "kind": "csv",
+    "rows": 40000,
+    "columns": 16,
+    "column_names": [
+      "generated_id",
+      "template_id",
+      "generated_santali",
+      "generated_english",
+      "generated_bangla",
+      "best_eaf_file",
+      "best_eaf_utterance_id",
+      "best_eaf_santali",
+      "best_eaf_english",
+      "best_eaf_bangla",
+      "combined_score",
+      "english_word_score",
+      "english_overlap_score",
+      "bangla_overlap_score",
+      "santali_overlap_score",
+      "confidence"
+    ],
+    "unique_generated_santali": 40000,
+    "duplicate_generated_santali": 0,
+    "one_token_generated_santali": 0,
+    "english_like_generated_santali": 37113,
+    "score_min": 0.1021,
+    "score_max": 1.0
+  },
+  {
+    "file": "generated_vs_eaf_semantic_summary.csv",
+    "size_bytes": 1174,
+    "suffix": ".csv",
+    "kind": "csv",
+    "rows": 13,
+    "columns": 4,
+    "column_names": [
+      "metric",
+      "value",
+      "status",
+      "detail"
+    ]
+  },
+  {
+    "file": "generated_vs_eaf_sentence_semantic_matches.csv",
+    "size_bytes": 14051402,
+    "suffix": ".csv",
+    "kind": "csv",
+    "rows": 40000,
+    "columns": 16,
+    "column_names": [
+      "generated_id",
+      "template_id",
+      "generated_santali",
+      "generated_english",
+      "generated_bangla",
+      "best_eaf_file",
+      "best_eaf_utterance_id",
+      "best_eaf_santali",
+      "best_eaf_english",
+      "best_eaf_bangla",
+      "combined_score",
+      "english_word_score",
+      "english_overlap_score",
+      "bangla_overlap_score",
+      "santali_overlap_score",
+      "confidence"
+    ],
+    "unique_generated_santali": 40000,
+    "duplicate_generated_santali": 0,
+    "one_token_generated_santali": 0,
+    "english_like_generated_santali": 37113,
+    "score_min": 0.1021,
+    "score_max": 1.0
+  },
+  {
+    "file": "generated_vs_eaf_sentence_semantic_summary.csv",
+    "size_bytes": 1288,
+    "suffix": ".csv",
+    "kind": "csv",
+    "rows": 14,
+    "columns": 4,
+    "column_names": [
+      "metric",
+      "value",
+      "status",
+      "detail"
+    ]
+  },
+  {
+    "file": "generated_vs_eaf_test_report.csv",
+    "size_bytes": 1316,
+    "suffix": ".csv",
+    "kind": "csv",
+    "rows": 12,
+    "columns": 4,
+    "column_names": [
+      "metric",
+      "value",
+      "status",
+      "detail"
+    ]
+  },
+  {
+    "file": "generation_validation_report.json",
+    "size_bytes": 1126,
+    "suffix": ".json",
+    "kind": "json",
+    "top_type": "dict",
+    "keys": [
+      "total_generated",
+      "unique_sentences",
+      "duplicates_removed",
+      "confidence_counts",
+      "unique_source_patterns",
+      "top_sources_sample"
+    ],
+    "preview": {
+      "total_generated": 50,
+      "unique_sentences": 50,
+      "duplicates_removed": 0,
+      "confidence_counts": {
+        "high": 50
+      },
+      "unique_source_patterns": 50,
+      "top_sources_sample": [
+        [
+          [
+            "matthew_santali_glossed.eaf",
+            49
+          ],
+          1
+        ],
+        [
+          [
+            "matthew_santali_glossed.eaf",
+            8
+          ],
+          1
+        ],
+        [
+          [
+            "santali_glossed_1.eaf",
+            96
+          ],
+          1
+        ],
+        [
+          [
+            "matthew_santali_glossed.eaf",
+            47
+          ],
+          1
+        ],
+        [
+          [
+            "matthew_santali_glossed_ipa.eaf",
+            42
+          ],
+          1
+        ],
+        [
+          [
+            "santali_new_glossed.eaf",
+            60
+          ],
+          1
+        ],
+        [
+          [
+            "matthew_santali_glossed_ipa.eaf",
+            1
+          ],
+          1
+        ],
+        [
+          [
+            "santali_matthew_glossed.eaf",
+            19
+          ],
+          1
+        ],
+        [
+          [
+            "santali_glossed_new_3.eaf",
+            19
+          ],
+          1
+        ],
+        [
+          [
+            "lexicon.eaf",
+            180
+          ],
+          1
+        ]
+      ]
+    }
+  },
+  {
+    "file": "generation_validation_report_5k.json",
+    "size_bytes": 238,
+    "suffix": ".json",
+    "kind": "json",
+    "top_type": "dict",
+    "keys": [
+      "requested_N",
+      "generated",
+      "attempts",
+      "unique_headwords_used",
+      "target_vocab",
+      "confidence_counts",
+      "unique_source_patterns_used"
+    ],
+    "preview": {
+      "requested_N": 5000,
+      "generated": 5000,
+      "attempts": 5017,
+      "unique_headwords_used": 5280,
+      "target_vocab": 7000,
+      "confidence_counts": {
+        "medium": 4669,
+        "high": 331
+      },
+      "unique_source_patterns_used": 300
+    }
+  },
+  {
+    "file": "generation_validation_report_5k_all_data.json",
+    "size_bytes": 135,
+    "suffix": ".json",
+    "kind": "json",
+    "top_type": "dict",
+    "keys": [
+      "requested_N",
+      "generated",
+      "attempts",
+      "unique_headwords_used",
+      "total_dict_entries"
+    ],
+    "preview": {
+      "requested_N": 5000,
+      "generated": 5000,
+      "attempts": 5000,
+      "unique_headwords_used": 5053,
+      "total_dict_entries": 7046
+    }
+  },
+  {
+    "file": "generation_validation_report_large.json",
+    "size_bytes": 2108,
+    "suffix": ".json",
+    "kind": "json",
+    "top_type": "dict",
+    "keys": [
+      "requested_N",
+      "generated",
+      "attempts",
+      "confidence_counts",
+      "unique_source_patterns_used",
+      "top_sources_sample"
+    ],
+    "preview": {
+      "requested_N": 3000,
+      "generated": 3000,
+      "attempts": 3741,
+      "confidence_counts": {
+        "medium": 2749,
+        "high": 251
+      },
+      "unique_source_patterns_used": 295,
+      "top_sources_sample": [
+        [
+          [
+            "lexicon(1).eaf",
+            109
+          ],
+          13
+        ],
+        [
+          [
+            "matthew_santali_glossed.eaf",
+            19
+          ],
+          13
+        ],
+        [
+          [
+            "santali_glossed_new_2.eaf",
+            21
+          ],
+          13
+        ],
+        [
+          [
+            "matthew_santali_glossed.eaf",
+            26
+          ],
+          13
+        ],
+        [
+          [
+            "matthew_santali_glossed.eaf",
+            15
+          ],
+          13
+        ],
+        [
+          [
+            "santali_glossed_dialogues.eaf",
+            56
+          ],
+          13
+        ],
+        [
+          [
+            "santali_dialogues_glossed.eaf",
+            56
+          ],
+          13
+        ],
+        [
+          [
+            "matthew_santali_glossed.eaf",
+            24
+          ],
+          13
+        ],
+        [
+          [
+            "santali_glossed_new.eaf",
+            77
+          ],
+          13
+        ],
+        [
+          [
+            "santali_glossed_2.eaf",
+            31
+          ],
+          13
+        ],
+        [
+          [
+            "santali_glossed_1.eaf",
+            99
+          ],
+          13
+        ],
+        [
+          [
+            "santali_new_glossed (1).eaf",
+            32
+          ],
+          13
+        ],
+        [
+          [
+            "santali_matthew_glossed (1).eaf",
+            22
+          ],
+          13
+        ],
+        [
+          [
+            "santali_glossed_new.eaf",
+            32
+          ],
+          13
+        ],
+        [
+          [
+            "santali_matthew_glossed.eaf",
+            7
+          ],
+          13
+        ],
+        [
+          [
+            "santali_glossed_new_3.eaf",
+            99
+          ],
+          13
+        ],
+        [
+          [
+            "santali_glossed_dialogues.eaf",
+            64
+          ],
+          13
+        ],
+        [
+          [
+            "matthew_santali_glossed.eaf",
+            29
+          ],
+          13
+        ],
+        [
+          [
+            "matthew_santali_glossed.eaf",
+            35
+          ],
+          13
+        ],
+        [
+          [
+            "matthew_santali_glossed_ipa.eaf",
+            32
+          ],
+          13
+        ]
+      ]
+    }
+  },
+  {
+    "file": "inital data/2015.324513.Sahaj-Sanotali.pdf",
+    "size_bytes": 5399864,
+    "suffix": ".pdf",
+    "kind": "pdf",
+    "read_mode": "metadata_only"
+  },
+  {
+    "file": "inital data/bangla_sentences_glossed.eaf",
+    "size_bytes": 58222,
+    "suffix": ".eaf",
+    "kind": "eaf",
+    "tiers": 4,
+    "annotations": 184,
+    "root_tiers": [
+      "ref"
+    ],
+    "tier_counts": {
+      "ref": 46,
+      "mb": 46,
+      "gl": 46,
+      "ft": 46
+    }
+  },
+  {
+    "file": "inital data/Copy of Copy of Final Report.Team Clausetrophobic.docx",
+    "size_bytes": 38518946,
+    "suffix": ".docx",
+    "kind": "docx",
+    "read_mode": "metadata_only"
+  },
+  {
+    "file": "inital data/lexicon(1).eaf",
+    "size_bytes": 249156,
+    "suffix": ".eaf",
+    "kind": "eaf",
+    "tiers": 4,
+    "annotations": 996,
+    "root_tiers": [
+      "ref"
+    ],
+    "tier_counts": {
+      "ref": 249,
+      "mb": 249,
+      "gl": 249,
+      "ft": 249
+    }
+  },
+  {
+    "file": "inital data/lexicon.eaf",
+    "size_bytes": 249156,
+    "suffix": ".eaf",
+    "kind": "eaf",
+    "tiers": 4,
+    "annotations": 996,
+    "root_tiers": [
+      "ref"
+    ],
+    "tier_counts": {
+      "ref": 249,
+      "mb": 249,
+      "gl": 249,
+      "ft": 249
+    }
+  },
+  {
+    "file": "inital data/Literature 6.pdf",
+    "size_bytes": 2373419,
+    "suffix": ".pdf",
+    "kind": "pdf",
+    "read_mode": "metadata_only"
+  },
+  {
+    "file": "inital data/matthew_santali_glossed.eaf",
+    "size_bytes": 76806,
+    "suffix": ".eaf",
+    "kind": "eaf",
+    "tiers": 4,
+    "annotations": 240,
+    "root_tiers": [
+      "ref"
+    ],
+    "tier_counts": {
+      "ref": 60,
+      "mb": 60,
+      "gl": 60,
+      "ft": 60
+    }
+  },
+  {
+    "file": "inital data/matthew_santali_glossed_ipa.eaf",
+    "size_bytes": 80860,
+    "suffix": ".eaf",
+    "kind": "eaf",
+    "tiers": 4,
+    "annotations": 240,
+    "root_tiers": [
+      "ref"
+    ],
+    "tier_counts": {
+      "ref": 60,
+      "mb": 60,
+      "gl": 60,
+      "ft": 60
+    }
+  },
+  {
+    "file": "inital data/MTZ_Santali_Dictionary.xlsx",
+    "size_bytes": 593844,
+    "suffix": ".xlsx",
+    "kind": "xlsx",
+    "worksheet_files": 2,
+    "dictionary_entries": 7046,
+    "unique_headwords": 5280,
+    "pos_counts": {
+      "n.": 3167,
+      "v.": 1838,
+      "adj.": 1393,
+      "adv.": 344,
+      "interj.": 32,
+      "prep.": 30,
+      "n. / adj.": 29,
+      "pron.": 28,
+      "num.": 25,
+      "n./adj.": 19,
+      "n. / v.": 19,
+      "n./v.": 15,
+      "conj.": 14,
+      "prep./adv.": 8,
+      "adj. / v.": 7
+    }
+  },
+  {
+    "file": "inital data/santali_bangla_glossed.eaf",
+    "size_bytes": 65667,
+    "suffix": ".eaf",
+    "kind": "eaf",
+    "tiers": 4,
+    "annotations": 224,
+    "root_tiers": [
+      "ref"
+    ],
+    "tier_counts": {
+      "ref": 56,
+      "mb": 56,
+      "gl": 56,
+      "ft": 56
+    }
+  },
+  {
+    "file": "inital data/santali_dialogues_glossed.eaf",
+    "size_bytes": 73384,
+    "suffix": ".eaf",
+    "kind": "eaf",
+    "tiers": 4,
+    "annotations": 236,
+    "root_tiers": [
+      "ref"
+    ],
+    "tier_counts": {
+      "ref": 59,
+      "mb": 59,
+      "gl": 59,
+      "ft": 59
+    }
+  },
+  {
+    "file": "inital data/santali_glossed_1.eaf",
+    "size_bytes": 475993,
+    "suffix": ".eaf",
+    "kind": "eaf",
+    "tiers": 7,
+    "annotations": 1968,
+    "root_tiers": [
+      "Bangla"
+    ],
+    "tier_counts": {
+      "Bangla": 104,
+      "English": 104,
+      "IPA-Original": 104,
+      "IPA-Normalized": 104,
+      "Segmentation": 724,
+      "Gloss": 724,
+      "Notes": 104
+    }
+  },
+  {
+    "file": "inital data/santali_glossed_2.eaf",
+    "size_bytes": 54931,
+    "suffix": ".eaf",
+    "kind": "eaf",
+    "tiers": 4,
+    "annotations": 176,
+    "root_tiers": [
+      "ref"
+    ],
+    "tier_counts": {
+      "ref": 44,
+      "mb": 44,
+      "gl": 44,
+      "ft": 44
+    }
+  },
+  {
+    "file": "inital data/santali_glossed_3.eaf",
+    "size_bytes": 154142,
+    "suffix": ".eaf",
+    "kind": "eaf",
+    "tiers": 4,
+    "annotations": 584,
+    "root_tiers": [
+      "ref"
+    ],
+    "tier_counts": {
+      "ref": 146,
+      "mb": 146,
+      "gl": 146,
+      "ft": 146
+    }
+  },
+  {
+    "file": "inital data/santali_glossed_dialogues.eaf",
+    "size_bytes": 86510,
+    "suffix": ".eaf",
+    "kind": "eaf",
+    "tiers": 4,
+    "annotations": 284,
+    "root_tiers": [
+      "ref"
+    ],
+    "tier_counts": {
+      "ref": 71,
+      "mb": 71,
+      "gl": 71,
+      "ft": 71
+    }
+  },
+  {
+    "file": "inital data/santali_glossed_new.eaf",
+    "size_bytes": 116699,
+    "suffix": ".eaf",
+    "kind": "eaf",
+    "tiers": 4,
+    "annotations": 384,
+    "root_tiers": [
+      "ref"
+    ],
+    "tier_counts": {
+      "ref": 96,
+      "mb": 96,
+      "gl": 96,
+      "ft": 96
+    }
+  },
+  {
+    "file": "inital data/santali_glossed_new_2.eaf",
+    "size_bytes": 157812,
+    "suffix": ".eaf",
+    "kind": "eaf",
+    "tiers": 4,
+    "annotations": 564,
+    "root_tiers": [
+      "ref"
+    ],
+    "tier_counts": {
+      "ref": 141,
+      "mb": 141,
+      "gl": 141,
+      "ft": 141
+    }
+  },
+  {
+    "file": "inital data/santali_glossed_new_3(1).eaf",
+    "size_bytes": 127799,
+    "suffix": ".eaf",
+    "kind": "eaf",
+    "tiers": 4,
+    "annotations": 416,
+    "root_tiers": [
+      "ref"
+    ],
+    "tier_counts": {
+      "ref": 104,
+      "mb": 104,
+      "gl": 104,
+      "ft": 104
+    }
+  },
+  {
+    "file": "inital data/santali_glossed_new_3.eaf",
+    "size_bytes": 127799,
+    "suffix": ".eaf",
+    "kind": "eaf",
+    "tiers": 4,
+    "annotations": 416,
+    "root_tiers": [
+      "ref"
+    ],
+    "tier_counts": {
+      "ref": 104,
+      "mb": 104,
+      "gl": 104,
+      "ft": 104
+    }
+  },
+  {
+    "file": "inital data/santali_imperatives_glossed.eaf",
+    "size_bytes": 102725,
+    "suffix": ".eaf",
+    "kind": "eaf",
+    "tiers": 4,
+    "annotations": 332,
+    "root_tiers": [
+      "ref"
+    ],
+    "tier_counts": {
+      "ref": 83,
+      "mb": 83,
+      "gl": 83,
+      "ft": 83
+    }
+  },
+  {
+    "file": "inital data/santali_mark1_glossed.eaf",
+    "size_bytes": 44138,
+    "suffix": ".eaf",
+    "kind": "eaf",
+    "tiers": 4,
+    "annotations": 136,
+    "root_tiers": [
+      "ref"
+    ],
+    "tier_counts": {
+      "ref": 34,
+      "mb": 34,
+      "gl": 34,
+      "ft": 34
+    }
+  },
+  {
+    "file": "inital data/santali_matthew27_mark1_glossed (1).eaf",
+    "size_bytes": 43799,
+    "suffix": ".eaf",
+    "kind": "eaf",
+    "tiers": 4,
+    "annotations": 120,
+    "root_tiers": [
+      "ref"
+    ],
+    "tier_counts": {
+      "ref": 30,
+      "mb": 30,
+      "gl": 30,
+      "ft": 30
+    }
+  },
+  {
+    "file": "inital data/santali_matthew_glossed (1).eaf",
+    "size_bytes": 43286,
+    "suffix": ".eaf",
+    "kind": "eaf",
+    "tiers": 4,
+    "annotations": 120,
+    "root_tiers": [
+      "ref"
+    ],
+    "tier_counts": {
+      "ref": 30,
+      "mb": 30,
+      "gl": 30,
+      "ft": 30
+    }
+  },
+  {
+    "file": "inital data/santali_matthew_glossed(1).eaf",
+    "size_bytes": 34595,
+    "suffix": ".eaf",
+    "kind": "eaf",
+    "tiers": 4,
+    "annotations": 100,
+    "root_tiers": [
+      "ref"
+    ],
+    "tier_counts": {
+      "ref": 25,
+      "mb": 25,
+      "gl": 25,
+      "ft": 25
+    }
+  },
+  {
+    "file": "inital data/santali_matthew_glossed.eaf",
+    "size_bytes": 34595,
+    "suffix": ".eaf",
+    "kind": "eaf",
+    "tiers": 4,
+    "annotations": 100,
+    "root_tiers": [
+      "ref"
+    ],
+    "tier_counts": {
+      "ref": 25,
+      "mb": 25,
+      "gl": 25,
+      "ft": 25
+    }
+  },
+  {
+    "file": "inital data/santali_new_glossed (1).eaf",
+    "size_bytes": 61608,
+    "suffix": ".eaf",
+    "kind": "eaf",
+    "tiers": 4,
+    "annotations": 196,
+    "root_tiers": [
+      "ref"
+    ],
+    "tier_counts": {
+      "ref": 49,
+      "mb": 49,
+      "gl": 49,
+      "ft": 49
+    }
+  },
+  {
+    "file": "inital data/santali_new_glossed.eaf",
+    "size_bytes": 121059,
+    "suffix": ".eaf",
+    "kind": "eaf",
+    "tiers": 4,
+    "annotations": 444,
+    "root_tiers": [
+      "ref"
+    ],
+    "tier_counts": {
+      "ref": 111,
+      "mb": 111,
+      "gl": 111,
+      "ft": 111
+    }
+  },
+  {
+    "file": "inital data/santali_new_glossed_1.eaf",
+    "size_bytes": 101653,
+    "suffix": ".eaf",
+    "kind": "eaf",
+    "tiers": 4,
+    "annotations": 348,
+    "root_tiers": [
+      "ref"
+    ],
+    "tier_counts": {
+      "ref": 87,
+      "mb": 87,
+      "gl": 87,
+      "ft": 87
+    }
+  },
+  {
+    "file": "inital data/santali_paradigm_glossed.eaf",
+    "size_bytes": 215642,
+    "suffix": ".eaf",
+    "kind": "eaf",
+    "tiers": 4,
+    "annotations": 812,
+    "root_tiers": [
+      "ref"
+    ],
+    "tier_counts": {
+      "ref": 203,
+      "mb": 203,
+      "gl": 203,
+      "ft": 203
+    }
+  },
+  {
+    "file": "inital data/santali_pasted_text.eaf",
+    "size_bytes": 148695,
+    "suffix": ".eaf",
+    "kind": "eaf",
+    "tiers": 4,
+    "annotations": 500,
+    "root_tiers": [
+      "ref"
+    ],
+    "tier_counts": {
+      "ref": 125,
+      "mb": 125,
+      "gl": 125,
+      "ft": 125
+    }
+  },
+  {
+    "file": "inital data/santali_school_dialogue_glossed.eaf",
+    "size_bytes": 45095,
+    "suffix": ".eaf",
+    "kind": "eaf",
+    "tiers": 4,
+    "annotations": 96,
+    "root_tiers": [
+      "ref"
+    ],
+    "tier_counts": {
+      "ref": 24,
+      "mb": 24,
+      "gl": 24,
+      "ft": 24
+    }
+  },
+  {
+    "file": "inital data/santali_see_paradigm.eaf",
+    "size_bytes": 85745,
+    "suffix": ".eaf",
+    "kind": "eaf",
+    "tiers": 4,
+    "annotations": 324,
+    "root_tiers": [
+      "ref"
+    ],
+    "tier_counts": {
+      "ref": 81,
+      "mb": 81,
+      "gl": 81,
+      "ft": 81
+    }
+  },
+  {
+    "file": "inital data/santali_texts_glossed.eaf",
+    "size_bytes": 92315,
+    "suffix": ".eaf",
+    "kind": "eaf",
+    "tiers": 4,
+    "annotations": 308,
+    "root_tiers": [
+      "ref"
+    ],
+    "tier_counts": {
+      "ref": 77,
+      "mb": 77,
+      "gl": 77,
+      "ft": 77
+    }
+  },
+  {
+    "file": "inital data/santali_with_ipa.eaf",
+    "size_bytes": 169893,
+    "suffix": ".eaf",
+    "kind": "eaf",
+    "tiers": 5,
+    "annotations": 680,
+    "root_tiers": [
+      "ref"
+    ],
+    "tier_counts": {
+      "ref": 136,
+      "mb": 136,
+      "gl": 136,
+      "ft": 136,
+      "ipa": 136
+    }
+  },
+  {
+    "file": "inital data/Thesis on LLM (1).pdf",
+    "size_bytes": 398326,
+    "suffix": ".pdf",
+    "kind": "pdf",
+    "read_mode": "metadata_only"
+  },
+  {
+    "file": "initial_data_eaf_annotations_long.csv",
+    "size_bytes": 1462228,
+    "suffix": ".csv",
+    "kind": "csv",
+    "rows": 12524,
+    "columns": 11,
+    "column_names": [
+      "file",
+      "annotation_id",
+      "annotation_type",
+      "tier_id",
+      "tier_std",
+      "parent_tier",
+      "linguistic_type",
+      "parent_annotation_id",
+      "start_ms",
+      "end_ms",
+      "value"
+    ]
+  },
+  {
+    "file": "initial_data_eaf_utterances.csv",
+    "size_bytes": 1320185,
+    "suffix": ".csv",
+    "kind": "csv",
+    "rows": 2709,
+    "columns": 19,
+    "column_names": [
+      "file",
+      "utterance_id",
+      "root_annotation_id",
+      "root_tier",
+      "start_ms",
+      "end_ms",
+      "ref",
+      "mb",
+      "gl",
+      "ft",
+      "ipa",
+      "bangla",
+      "english",
+      "ipa_original",
+      "ipa_normalized",
+      "segmentation",
+      "gloss",
+      "notes",
+      "all_tiers_json"
+    ]
+  },
+  {
+    "file": "llm_grounded_santali_generation_prompt.md",
+    "size_bytes": 10439,
+    "suffix": ".md",
+    "kind": "md",
+    "lines": 282,
+    "chars": 10320,
+    "mojibake_markers": false
+  },
+  {
+    "file": "MTZ_Santali_Dictionary.xlsx",
+    "size_bytes": 593908,
+    "suffix": ".xlsx",
+    "kind": "xlsx",
+    "worksheet_files": 2,
+    "dictionary_entries": 7046,
+    "unique_headwords": 5280,
+    "pos_counts": {
+      "n.": 3167,
+      "v.": 1838,
+      "adj.": 1393,
+      "adv.": 344,
+      "interj.": 32,
+      "prep.": 30,
+      "n. / adj.": 29,
+      "pron.": 28,
+      "num.": 25,
+      "n./adj.": 19,
+      "n. / v.": 19,
+      "n./v.": 15,
+      "conj.": 14,
+      "prep./adv.": 8,
+      "adj. / v.": 7
+    }
+  },
+  {
+    "file": "output_layoutA (1).csv",
+    "size_bytes": 538531,
+    "suffix": ".csv",
+    "kind": "csv",
+    "rows": 2605,
+    "columns": 8,
+    "column_names": [
+      "file",
+      "utterance_id",
+      "start_ms",
+      "end_ms",
+      "ref",
+      "mb",
+      "gl",
+      "ft"
+    ]
+  },
+  {
+    "file": "output_layoutA.csv",
+    "size_bytes": 144966,
+    "suffix": ".csv",
+    "kind": "csv",
+    "rows": 892,
+    "columns": 8,
+    "column_names": [
+      "file",
+      "utterance_id",
+      "start_ms",
+      "end_ms",
+      "ref",
+      "mb",
+      "gl",
+      "ft"
+    ]
+  },
+  {
+    "file": "output_layoutB (1).csv",
+    "size_bytes": 57760,
+    "suffix": ".csv",
+    "kind": "csv",
+    "rows": 104,
+    "columns": 11,
+    "column_names": [
+      "file",
+      "utterance_id",
+      "start_ms",
+      "end_ms",
+      "bangla",
+      "english",
+      "ipa_original",
+      "ipa_normalized",
+      "segments",
+      "glosses",
+      "notes"
+    ]
+  },
+  {
+    "file": "output_layoutB.csv",
+    "size_bytes": 58176,
+    "suffix": ".csv",
+    "kind": "csv",
+    "rows": 104,
+    "columns": 11,
+    "column_names": [
+      "file",
+      "utterance_id",
+      "start_ms",
+      "end_ms",
+      "bangla",
+      "english",
+      "ipa_original",
+      "ipa_normalized",
+      "segments",
+      "glosses",
+      "notes"
+    ]
+  },
+  {
+    "file": "santali_synthetic_40k_sentences.csv",
+    "size_bytes": 18103687,
+    "suffix": ".csv",
+    "kind": "csv",
+    "rows": 40000,
+    "columns": 17,
+    "column_names": [
+      "sentence_id",
+      "santali_sentence",
+      "english_gloss",
+      "bangla_gloss",
+      "template_id",
+      "sentence_type",
+      "source_pattern",
+      "subject_slot",
+      "noun_slot",
+      "verb_slot",
+      "adjective_slot",
+      "adverb_slot",
+      "place_slot",
+      "number_slot",
+      "synthetic",
+      "quality_note",
+      "source_files"
+    ],
+    "unique_santali_sentence": 40000,
+    "duplicate_santali_sentence": 0,
+    "blank_english_gloss": 0,
+    "blank_bangla_gloss": 0,
+    "blank_sentence_type": 0,
+    "one_token_santali": 0,
+    "english_like_santali": 37113,
+    "mojibake_rows": 0,
+    "confidence_counts": {
+      "": 40000
+    }
+  },
+  {
+    "file": "semantic_test_generated_against_eaf.py",
+    "size_bytes": 13607,
+    "suffix": ".py",
+    "kind": "python",
+    "lines": 384,
+    "chars": 13597,
+    "mojibake_markers": false,
+    "compile_ok": true,
+    "compile_error": ""
+  },
+  {
+    "file": "semantic_test_generated_against_sentence_eaf.py",
+    "size_bytes": 3513,
+    "suffix": ".py",
+    "kind": "python",
+    "lines": 113,
+    "chars": 3513,
+    "mojibake_markers": false,
+    "compile_ok": true,
+    "compile_error": ""
+  }
+]

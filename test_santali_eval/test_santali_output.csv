@@ -1,0 +1,1001 @@
+﻿line_no,input_ft,generated_santali,generated_mb,generated_gl,generation_method,source_file,source_utterance_id,source_start_ms,source_end_ms
+1,We two do not see.,ɘliɲ bɘliɲ ɲɛla,ɘliɲ bɘ-liɲ ɲɛl-a,1DU.EXCL NEG-1DU.EXCL see-FIN,eaf_sequence_match,santali_see_paradigm.eaf,1,0,2000
+2,We do not see.,alɛ balɛ ɲɛla,alɛ ba-lɛ ɲɛl-a,1PL NEG-1PL see-FIN,eaf_sequence_match,santali_see_paradigm.eaf,2,2000,4000
+3,You do not see.,am bam ɲɛla,am ba-m ɲɛl-a,2SG NEG-2SG see-FIN,eaf_sequence_match,santali_see_paradigm.eaf,3,4000,6000
+4,You two do not see.,abɛn babɛn ɲɛla,abɛn ba-bɛn ɲɛl-a,2DU NEG-2DU see-FIN,eaf_sequence_match,santali_see_paradigm.eaf,4,6000,8000
+5,You do not see.,apɛ bapɛ ɲɛla,apɛ ba-pɛ ɲɛl-a,2PL NEG-2PL see-FIN,eaf_sequence_match,santali_see_paradigm.eaf,5,8000,10000
+6,He/She does not see.,uni ba͡i̯ ɲɛla,uni ba-i̯ ɲɛl-a,3SG.ANIM NEG-3SG see-FIN,eaf_sequence_match,santali_see_paradigm.eaf,6,10000,12000
+7,That does not see.,ɔna ba͡i̯ ɲɛla,ɔna ba-i̯ ɲɛl-a,3SG.INANIM NEG-3SG see-FIN,eaf_sequence_match,santali_see_paradigm.eaf,7,12000,14000
+8,The two do not see.,uŋkin bɘkin ɲɛla,uŋkin bɘ-kin ɲɛl-a,3DU.ANIM NEG-3DU see-FIN,eaf_sequence_match,santali_see_paradigm.eaf,8,14000,16000
+9,Those two do not see.,ɔnakin bɘkin ɲɛla,ɔnakin bɘ-kin ɲɛl-a,3DU.INANIM NEG-3DU see-FIN,eaf_sequence_match,santali_see_paradigm.eaf,9,16000,18000
+10,We are watching.,alɛlɛ ɲɛlɛd̪a,alɛ-lɛ ɲɛl-ɛ-d̪a,1PL-1PL see-PROG-FIN,eaf_sequence_match,santali_see_paradigm.eaf,10,18000,20000
+11,You are seeing.,amɛm ɲɛlɛd̪a,am-ɛm ɲɛl-ɛ-d̪a,2SG-2SG see-PROG-FIN,eaf_sequence_match,santali_see_paradigm.eaf,11,20000,22000
+12,You two are watching.,abɛnbɛn ɲɛlɛd̪a,abɛn-bɛn ɲɛl-ɛ-d̪a,2DU-2DU see-PROG-FIN,eaf_sequence_match,santali_see_paradigm.eaf,12,22000,24000
+13,You see.,apɛpɛ ɲɛlɛd̪a,apɛ-pɛ ɲɛl-ɛ-d̪a,2PL-2PL see-PROG-FIN,eaf_sequence_match,santali_see_paradigm.eaf,13,24000,26000
+14,He/She is watching.,uni͡i̯ ɲɛlɛd̪a,uni-i̯ ɲɛl-ɛ-d̪a,3SG.ANIM-3SG see-PROG-FIN,eaf_sequence_match,santali_see_paradigm.eaf,14,26000,28000
+15,That is seeing.,ona͡i̯ ɲɛlɛd̪a,ona-i̯ ɲɛl-ɛ-d̪a,3SG.INANIM-3SG see-PROG-FIN,eaf_sequence_match,santali_see_paradigm.eaf,15,28000,30000
+16,The two are watching.,unkinkin ɲɛlɛd̪a,unkin-kin ɲɛl-ɛ-d̪a,3DU.ANIM-3DU see-PROG-FIN,eaf_sequence_match,santali_see_paradigm.eaf,16,30000,32000
+17,Those two are watching.,onakinkin ɲɛlɛd̪a,onakin-kin ɲɛl-ɛ-d̪a,3DU.INANIM-3DU see-PROG-FIN,eaf_sequence_match,santali_see_paradigm.eaf,17,32000,34000
+18,They are watching.,onkoko ɲɛlɛd̪a,onko-ko ɲɛl-ɛ-d̪a,3PL.ANIM-3PL see-PROG-FIN,eaf_sequence_match,santali_see_paradigm.eaf,18,34000,36000
+19,Those are seeing.,onakoko ɲɛlɛd̪a,onako-ko ɲɛl-ɛ-d̪a,3PL.INANIM-3PL see-PROG-FIN,eaf_sequence_match,santali_see_paradigm.eaf,19,36000,38000
+20,I saw.,iɲiɲ ɲɛlked̪a,iɲ-iɲ ɲɛl-ke-d̪a,1SG-1SG see-PST-FIN,eaf_sequence_match,santali_see_paradigm.eaf,20,38000,40000
+21,We two saw.,ɘliɲliɲ ɲɛlked̪a,ɘliɲ-liɲ ɲɛl-ke-d̪a,1DU.EXCL-1DU.EXCL see-PST-FIN,eaf_sequence_match,santali_see_paradigm.eaf,21,40000,42000
+22,We saw.,alɛlɛ ɲɛlked̪a,alɛ-lɛ ɲɛl-ke-d̪a,1PL-1PL see-PST-FIN,eaf_sequence_match,santali_see_paradigm.eaf,22,42000,44000
+23,You saw.,amɛm ɲɛlked̪a,am-ɛm ɲɛl-ke-d̪a,2SG-2SG see-PST-FIN,eaf_sequence_match,santali_see_paradigm.eaf,23,44000,46000
+24,You two saw.,abɛnbɛn ɲɛlked̪a,abɛn-bɛn ɲɛl-ke-d̪a,2DU-2DU see-PST-FIN,eaf_sequence_match,santali_see_paradigm.eaf,24,46000,48000
+25,You saw.,apɛpɛ ɲɛlked̪a,apɛ-pɛ ɲɛl-ke-d̪a,2PL-2PL see-PST-FIN,eaf_sequence_match,santali_see_paradigm.eaf,25,48000,50000
+26,He/She saw.,uni͡i̯ ɲɛlked̪a,uni-i̯ ɲɛl-ke-d̪a,3SG.ANIM-3SG see-PST-FIN,eaf_sequence_match,santali_see_paradigm.eaf,26,50000,52000
+27,That saw.,ɔna͡i̯ ɲɛlked̪a,ɔna-i̯ ɲɛl-ke-d̪a,3SG.INANIM-3SG see-PST-FIN,eaf_sequence_match,santali_see_paradigm.eaf,27,52000,54000
+28,The two saw.,unkinkin ɲɛlked̪a,unkin-kin ɲɛl-ke-d̪a,3DU.ANIM-3DU see-PST-FIN,eaf_sequence_match,santali_see_paradigm.eaf,28,54000,56000
+29,Those two saw.,ɔnakinkin ɲɛlked̪a,ɔnakin-kin ɲɛl-ke-d̪a,3DU.INANIM-3DU see-PST-FIN,eaf_sequence_match,santali_see_paradigm.eaf,29,56000,58000
+30,They saw.,onkoko ɲɛlked̪a,onko-ko ɲɛl-ke-d̪a,3PL.ANIM-3PL see-PST-FIN,eaf_sequence_match,santali_see_paradigm.eaf,30,58000,60000
+31,Those saw.,onakoko ɲɛlked̪a,onako-ko ɲɛl-ke-d̪a,3PL.INANIM-3PL see-PST-FIN,eaf_sequence_match,santali_see_paradigm.eaf,31,60000,62000
+32,I was watching.,iɲiɲ ɲɛlɛt̪̚ʔkan t̪ahɛ̃na,iɲ-iɲ ɲɛl-ɛ-t̪̚ʼkan t̪ahɛ̃-na,1SG-1SG see-PROG-PTCP-CONT stay.PST-FIN,eaf_sequence_match,santali_see_paradigm.eaf,32,62000,64000
+33,We two were watching.,ɘliɲliɲ ɲɛlɛt̪̚ʔkan t̪ahɛ̃na,ɘliɲ-liɲ ɲɛl-ɛ-t̪̚ʼkan t̪ahɛ̃-na,1DU.EXCL-1DU.EXCL see-PROG-PTCP-CONT stay.PST-FIN,eaf_sequence_match,santali_see_paradigm.eaf,33,64000,66000
+34,We were watching.,alɛlɛ ɲɛlɛt̪̚ʔkan t̪ahɛ̃na,alɛ-lɛ ɲɛl-ɛ-t̪̚ʼkan t̪ahɛ̃-na,1PL-1PL see-PROG-PTCP-CONT stay.PST-FIN,eaf_sequence_match,santali_see_paradigm.eaf,34,66000,68000
+35,You were watching.,amɛm ɲɛlɛt̪̚ʔkan t̪ahɛ̃na,am-ɛm ɲɛl-ɛ-t̪̚ʼkan t̪ahɛ̃-na,2SG-2SG see-PROG-PTCP-CONT stay.PST-FIN,eaf_sequence_match,santali_see_paradigm.eaf,35,68000,70000
+36,You two were watching.,abɛnbɛn ɲɛlɛt̪̚ʔkan t̪ahɛ̃na,abɛn-bɛn ɲɛl-ɛ-t̪̚ʼkan t̪ahɛ̃-na,2DU-2DU see-PROG-PTCP-CONT stay.PST-FIN,eaf_sequence_match,santali_see_paradigm.eaf,36,70000,72000
+37,You were watching.,apɛpɛ ɲɛlɛt̪̚ʔkan t̪ahɛ̃na,apɛ-pɛ ɲɛl-ɛ-t̪̚ʼkan t̪ahɛ̃-na,2PL-2PL see-PROG-PTCP-CONT stay.PST-FIN,eaf_sequence_match,santali_see_paradigm.eaf,37,72000,74000
+38,He/She was watching.,uni͡i̯ ɲɛlɛt̪̚ʔkan t̪ahɛ̃na,uni-i̯ ɲɛl-ɛ-t̪̚ʼkan t̪ahɛ̃-na,3SG.ANIM-3SG see-PROG-PTCP-CONT stay.PST-FIN,eaf_sequence_match,santali_see_paradigm.eaf,38,74000,76000
+39,That was watching.,ɔna͡i̯ ɲɛlɛt̪̚ʔkan t̪ahɛ̃na,ɔna-i̯ ɲɛl-ɛ-t̪̚ʼkan t̪ahɛ̃-na,3SG.INANIM-3SG see-PROG-PTCP-CONT stay.PST-FIN,eaf_sequence_match,santali_see_paradigm.eaf,39,76000,78000
+40,The two were watching.,unkinkin ɲɛlɛt̪̚ʔkan t̪ahɛ̃na,unkin-kin ɲɛl-ɛ-t̪̚ʼkan t̪ahɛ̃-na,3DU.ANIM-3DU see-PROG-PTCP-CONT stay.PST-FIN,eaf_sequence_match,santali_see_paradigm.eaf,40,78000,80000
+41,Those two were watching.,ɔnakinkin ɲɛlɛt̪̚ʔkan t̪ahɛ̃na,ɔnakin-kin ɲɛl-ɛ-t̪̚ʼkan t̪ahɛ̃-na,3DU.INANIM-3DU see-PROG-PTCP-CONT stay.PST-FIN,eaf_sequence_match,santali_see_paradigm.eaf,41,80000,82000
+42,They were watching.,onkoko ɲɛlɛt̪̚ʔkan t̪ahɛ̃na,onko-ko ɲɛl-ɛ-t̪̚ʼkan t̪ahɛ̃-na,3PL.ANIM-3PL see-PROG-PTCP-CONT stay.PST-FIN,eaf_sequence_match,santali_see_paradigm.eaf,42,82000,84000
+43,Those were watching.,ɔnakoko ɲɛlɛt̪̚ʔkan t̪ahɛ̃na,ɔnako-ko ɲɛl-ɛ-t̪̚ʼkan t̪ahɛ̃-na,3PL.INANIM-3PL see-PROG-PTCP-CONT stay.PST-FIN,eaf_sequence_match,santali_see_paradigm.eaf,43,84000,86000
+44,I saw.,iɲiɲ ɲɛllɛd̪a,iɲ-iɲ ɲɛl-lɛ-d̪a,1SG-1SG see-REM.PST-FIN,eaf_sequence_match,santali_see_paradigm.eaf,44,86000,88000
+45,We two saw.,ɘliɲliɲ ɲɛllɛd̪a,ɘliɲ-liɲ ɲɛl-lɛ-d̪a,1DU.EXCL-1DU.EXCL see-REM.PST-FIN,eaf_sequence_match,santali_see_paradigm.eaf,45,88000,90000
+46,We saw.,alɛlɛ ɲɛllɛd̪a,alɛ-lɛ ɲɛl-lɛ-d̪a,1PL-1PL see-REM.PST-FIN,eaf_sequence_match,santali_see_paradigm.eaf,46,90000,92000
+47,You saw.,amɛm ɲɛllɛd̪a,am-ɛm ɲɛl-lɛ-d̪a,2SG-2SG see-REM.PST-FIN,eaf_sequence_match,santali_see_paradigm.eaf,47,92000,94000
+48,You two saw.,abɛnbɛn ɲɛllɛd̪a,abɛn-bɛn ɲɛl-lɛ-d̪a,2DU-2DU see-REM.PST-FIN,eaf_sequence_match,santali_see_paradigm.eaf,48,94000,96000
+49,You saw.,apɛpɛ ɲɛllɛd̪a,apɛ-pɛ ɲɛl-lɛ-d̪a,2PL-2PL see-REM.PST-FIN,eaf_sequence_match,santali_see_paradigm.eaf,49,96000,98000
+50,He/She saw.,uni͡i̯ ɲɛllɛd̪a,uni-i̯ ɲɛl-lɛ-d̪a,3SG.ANIM-3SG see-REM.PST-FIN,eaf_sequence_match,santali_see_paradigm.eaf,50,98000,100000
+51,That saw.,ɔna͡i̯ ɲɛllɛd̪a,ɔna-i̯ ɲɛl-lɛ-d̪a,3SG.INANIM-3SG see-REM.PST-FIN,eaf_sequence_match,santali_see_paradigm.eaf,51,100000,102000
+52,The two saw.,unkinkin ɲɛllɛd̪a,unkin-kin ɲɛl-lɛ-d̪a,3DU.ANIM-3DU see-REM.PST-FIN,eaf_sequence_match,santali_see_paradigm.eaf,52,102000,104000
+53,Those two saw.,ɔnakinkin ɲɛllɛd̪a,ɔnakin-kin ɲɛl-lɛ-d̪a,3DU.INANIM-3DU see-REM.PST-FIN,eaf_sequence_match,santali_see_paradigm.eaf,53,104000,106000
+54,They saw.,onkoko ɲɛllɛd̪a,onko-ko ɲɛl-lɛ-d̪a,3PL.ANIM-3PL see-REM.PST-FIN,eaf_sequence_match,santali_see_paradigm.eaf,54,106000,108000
+55,Those saw.,onakoko ɲɛllɛd̪a,onako-ko ɲɛl-lɛ-d̪a,3PL.INANIM-3PL see-REM.PST-FIN,eaf_sequence_match,santali_see_paradigm.eaf,55,108000,110000
+56,I will see.,iɲiɲ ɲɛla,iɲ-iɲ ɲɛl-a,1SG-1SG see-FIN,eaf_sequence_match,santali_see_paradigm.eaf,56,110000,112000
+57,We two will see.,aliɲliɲ ɲɛla,aliɲ-liɲ ɲɛl-a,1DU.INCL-1DU.INCL see-FIN,eaf_sequence_match,santali_see_paradigm.eaf,57,112000,114000
+58,We will see.,alɛlɛ ɲɛla,alɛ-lɛ ɲɛl-a,1PL-1PL see-FIN,eaf_sequence_match,santali_see_paradigm.eaf,58,114000,116000
+59,You will see.,amɛm ɲɛla,am-ɛm ɲɛl-a,2SG-2SG see-FIN,eaf_sequence_match,santali_see_paradigm.eaf,59,116000,118000
+60,You two will see.,abɛnbɛn ɲɛla,abɛn-bɛn ɲɛl-a,2DU-2DU see-FIN,eaf_sequence_match,santali_see_paradigm.eaf,60,118000,120000
+61,You will see.,apɛpɛ ɲɛla,apɛ-pɛ ɲɛl-a,2PL-2PL see-FIN,eaf_sequence_match,santali_see_paradigm.eaf,61,120000,122000
+62,He/She will see.,uni͡i̯ ɲɛla,uni-i̯ ɲɛl-a,3SG.ANIM-3SG see-FIN,eaf_sequence_match,santali_see_paradigm.eaf,62,122000,124000
+63,That will see.,ɔna͡i̯ ɲɛla,ɔna-i̯ ɲɛl-a,3SG.INANIM-3SG see-FIN,eaf_sequence_match,santali_see_paradigm.eaf,63,124000,126000
+64,The two will see.,unkinkin ɲɛla,unkin-kin ɲɛl-a,3DU.ANIM-3DU see-FIN,eaf_sequence_match,santali_see_paradigm.eaf,64,126000,128000
+65,Those two will see.,ɔnakinkin ɲɛla,ɔnakin-kin ɲɛl-a,3DU.INANIM-3DU see-FIN,eaf_sequence_match,santali_see_paradigm.eaf,65,128000,130000
+66,They will see.,onkoko ɲɛla,onko-ko ɲɛl-a,3PL.ANIM-3PL see-FIN,eaf_sequence_match,santali_see_paradigm.eaf,66,130000,132000
+67,Those will see.,onakoko ɲɛla,onako-ko ɲɛl-a,3PL.INANIM-3PL see-FIN,eaf_sequence_match,santali_see_paradigm.eaf,67,132000,134000
+68,I will not see.,iɲ bɘɲ ɲɛla,iɲ bɘ-ɲ ɲɛl-a,1SG NEG-1SG see-FIN,eaf_sequence_match,santali_see_paradigm.eaf,68,134000,136000
+69,We two will not see.,ɘliɲ bɘliɲ ɲɛla,ɘliɲ bɘ-liɲ ɲɛl-a,1DU.EXCL NEG-1DU.EXCL see-FIN,eaf_sequence_match,santali_see_paradigm.eaf,69,136000,138000
+70,We will not see.,alɛ balɛ ɲɛla,alɛ ba-lɛ ɲɛl-a,1PL NEG-1PL see-FIN,eaf_sequence_match,santali_see_paradigm.eaf,70,138000,140000
+71,You will not see.,am bam ɲɛla,am ba-m ɲɛl-a,2SG NEG-2SG see-FIN,eaf_sequence_match,santali_see_paradigm.eaf,71,140000,142000
+72,You two will not see.,abɛn babɛn ɲɛla,abɛn ba-bɛn ɲɛl-a,2DU NEG-2DU see-FIN,eaf_sequence_match,santali_see_paradigm.eaf,72,142000,144000
+73,You will not see.,apɛ bapɛ ɲɛla,apɛ ba-pɛ ɲɛl-a,2PL NEG-2PL see-FIN,eaf_sequence_match,santali_see_paradigm.eaf,73,144000,146000
+74,He/She will not see.,uni ba͡i̯ ɲɛla,uni ba-i̯ ɲɛl-a,3SG.ANIM NEG-3SG see-FIN,eaf_sequence_match,santali_see_paradigm.eaf,74,146000,148000
+75,That will not see.,ɔna ba͡i̯ ɲɛla,ɔna ba-i̯ ɲɛl-a,3SG.INANIM NEG-3SG see-FIN,eaf_sequence_match,santali_see_paradigm.eaf,75,148000,150000
+76,The two will not see.,uŋkin bɘkin ɲɛla,uŋkin bɘ-kin ɲɛl-a,3DU.ANIM NEG-3DU see-FIN,eaf_sequence_match,santali_see_paradigm.eaf,76,150000,152000
+77,Those two will not see.,onakin bɘkin ɲɛla,onakin bɘ-kin ɲɛl-a,3DU.INANIM NEG-3DU see-FIN,eaf_sequence_match,santali_see_paradigm.eaf,77,152000,154000
+78,They will not see.,oŋko bako ɲɛla,oŋko ba-ko ɲɛl-a,3PL.ANIM NEG-3PL see-FIN,eaf_sequence_match,santali_see_paradigm.eaf,78,154000,156000
+79,Those will not see.,onkoko bako ɲɛla,onko-ko ba-ko ɲɛl-a,3PL.INANIM-3PL NEG-3PL see-FIN,eaf_sequence_match,santali_see_paradigm.eaf,79,156000,158000
+80,I am seeing.,iɲiɲ ɲɛlɛd̪a,iɲ-iɲ ɲɛl-ɛ-d̪a,1SG-1SG see-PROG-FIN,eaf_sequence_match,santali_see_paradigm.eaf,80,158000,160000
+81,I have seen.,iɲiɲ ɲɛlakad̪a,iɲ-iɲ ɲɛl-a-ka-d̪a,1SG-1SG see-FIN-PRF-FIN,eaf_sequence_match,santali_see_paradigm.eaf,81,160000,162000
+82,Please come in.,d̪a.ja kat̪ɛ bʰit̪ɾi sɛʲc̚ʔ hiɟuʔ-mɛ,d̪a.ja kat̪ɛ bʰit̪ɾi sɛʲc̚ʔ hiɟuʔ-mɛ,Please Manner Inside DIR Come-IMP.2SG.POL,eaf_sequence_match,santali_imperatives_glossed.eaf,1,0,2000
+83,Please have something cold.,d̪a.ja kat̪ɛ ɾe͡aɽaʔ hat̪a͡omɛ,d̪a.ja kat̪ɛ ɾe͡aɽaʔ hat̪a͡o-mɛ,Please Manner Cold.Thing Take-IMP.2SG.POL,eaf_sequence_match,santali_imperatives_glossed.eaf,2,2200,4200
+84,Wait for a while.,mit̪ʔ gʰɘɽi t̪ɘŋgi-mɛ,mit̪ʔ gʰɘɽi t̪ɘŋgi-mɛ,One Hour Wait-IMP.2SG.POL,eaf_sequence_match,santali_imperatives_glossed.eaf,3,4400,6400
+85,Tell that incident.,ɔnaʈaʔ ɟɘɽ lɘ͡i-mɛ,ɔna-ʈaʔ ɟɘɽ lɘ͡i-mɛ,That-CLSSFR Incident Tell-IMP.2SG.POL,eaf_sequence_match,santali_imperatives_glossed.eaf,4,6600,8600
+86,Speak slowly.,t̪ʰɔɽa bɘ͡i bɘ͡i-ɲɔʔ kat̪ʰa ɾɔɽ-mɛ,t̪ʰɔɽa bɘ͡i bɘ͡i-ɲɔʔ kat̪ʰa ɾɔɽ-mɛ,Little Slow-REDUP Talk Speak-IMP.2SG.POL,eaf_sequence_match,santali_imperatives_glossed.eaf,5,8800,10800
+87,Come again.,aɾhɔ̃ hiɟuʔ-mɛ,aɾhɔ̃ hiɟuʔ-mɛ,Again Come-IMP.2SG.POL,eaf_sequence_match,santali_imperatives_glossed.eaf,6,11000,13000
+88,Don't you go there.,ɔnɖɛ alom cala-a,ɔnɖɛ alom cala-a,There PROH Go-FIN.2SG,eaf_sequence_match,santali_imperatives_glossed.eaf,7,13200,15200
+89,Don't talk anymore.,aɾ alom ɾɔɽ-a,aɾ alom ɾɔɽ-a,More PROH Speak-FIN.2SG,eaf_sequence_match,santali_imperatives_glossed.eaf,8,15400,17400
+90,Would you please come here for a bit?,d̪a.ja kat̪ɛ nɔnɖɛ-m hiɟuʔ-a,d̪a.ja kat̪ɛ nɔnɖɛ-m hiɟuʔ-a,Please Manner Here-2SG Come-FIN.Q,eaf_sequence_match,santali_imperatives_glossed.eaf,9,17600,19600
+91,Speak less.,t̪ʰɔɽa macʰa ɾɔɽ-mɛ,t̪ʰɔɽa macʰa ɾɔɽ-mɛ,Little Less Speak-IMP.2SG.POL,eaf_sequence_match,santali_imperatives_glossed.eaf,10,19800,21800
+92,Sit down to eat.,ɟɔɟɔm d̪uɽup̚ʔ-pɛ,ɟɔɟɔm d̪uɽup̚ʔ-pɛ,Eat Sit-IMP.2PL,eaf_sequence_match,santali_imperatives_glossed.eaf,11,22000,24000
+93,Say it again.,aɾhɔ̃ ɾɔɽ-mɛ,aɾhɔ̃ ɾɔɽ-mɛ,Again Speak-IMP.2SG.POL,eaf_sequence_match,santali_imperatives_glossed.eaf,12,24200,26200
+94,You will not talk to me.,iɲ sã͡ot̪ɛ alom ɾɔɽ-a,iɲ sã͡o-t̪ɛ alom ɾɔɽ-a,1SG COMIT-INSTR PROH Speak-FIN.2SG,eaf_sequence_match,santali_imperatives_glossed.eaf,13,26400,28400
+95,Don't talk too much.,ɟɘst̪i kat̪ʰa alom ɾɔɽ-a,ɟɘst̪i kat̪ʰa alom ɾɔɽ-a,Much Talk PROH Speak-FIN.2SG,eaf_sequence_match,santali_imperatives_glossed.eaf,14,28600,30600
+96,Don't stay out too long.,ɘɖi gʰɘɽi-ʲc̚ʔ bahɾɛ-ɾɛ alom t̪ahɛ̃-na,ɘɖi gʰɘɽi-ʲc̚ʔ bahɾɛ-ɾɛ alom t̪ahɛ̃-na,So.Much Hour-ABL Outside-LOC PROH Stay-FIN.2SG,eaf_sequence_match,santali_imperatives_glossed.eaf,15,30800,32800
+97,Help me.,gɔɽɔ͡-ɘɲ-mɛ,gɔɽɔ-ɘɲ-mɛ,Help-1SG.OBJ-IMP.2SG.POL,eaf_sequence_match,santali_imperatives_glossed.eaf,16,33000,35000
+98,Help him.,gɔɽɔ-a͡i-mɛ,gɔɽɔ-a͡i-mɛ,Help-3SG.OBJ-IMP.2SG.POL,eaf_sequence_match,santali_imperatives_glossed.eaf,17,35200,37200
+99,Respect the elders.,lɘʈu-ko manɔt̪ʔ-kom,lɘʈu-ko manɔt̪ʔ-kom,Elder-3PL Respect-IMP.2SG.3PL.OBJ,eaf_sequence_match,santali_imperatives_glossed.eaf,18,37400,39400
+100,Love the youngers.,kɘʈi-ʲc̚ʔ-ko d̪ulɘɽ-kom,kɘʈi-ʲc̚ʔ-ko d̪ulɘɽ-kom,Young-ABL-3PL Love-IMP.2SG.3PL.OBJ,eaf_sequence_match,santali_imperatives_glossed.eaf,19,39600,41600
+101,Study well.,mɔ̃ɟ-t̪ɛ ɔɭɔʔ paɽhaʔ-mɛ,mɔ̃ɟ-t̪ɛ ɔɭɔʔ paɽhaʔ-mɛ,Well-INSTR Writing Study-IMP.2SG.POL,eaf_sequence_match,santali_imperatives_glossed.eaf,20,41800,43800
+102,You will always love your mother tongue.,gɔgo pɘɾsi ɟa͡oge d̪ulɘɽ-aʔ-mɛ,gɔgo pɘɾsi ɟa͡oge d̪ulɘɽ-aʔ-mɛ,Mother Tongue Always Love-CONT-IMP.2SG.POL,eaf_sequence_match,santali_imperatives_glossed.eaf,21,44000,46000
+103,Walk slower.,aɾhɔ̃ bɘ͡i bɘ͡i-t̪ɛ t̪aɽam-mɛ,aɾhɔ̃ bɘ͡i bɘ͡i-t̪ɛ t̪aɽam-mɛ,Again Slowly-REDUP-INSTR Walk-IMP.2SG.POL,eaf_sequence_match,santali_imperatives_glossed.eaf,22,46200,48200
+104,Speak loudly.,ãʈ mɘcʰi-ʲc̚ʔ ɾɔɽ-mɛ,ãʈ mɘcʰi-ʲc̚ʔ ɾɔɽ-mɛ,Voice Raise-ABL Speak-IMP.2SG.POL,eaf_sequence_match,santali_imperatives_glossed.eaf,23,48400,50400
+105,Please take your shoes off before entering.,d̪a.ja kat̪ɛ panahi bɔʲc̚ʔ kat̪ɛ bɔlɔʔ-mɛ,d̪a.ja kat̪ɛ panahi bɔʲc̚ʔ kat̪ɛ bɔlɔʔ-mɛ,Please Manner Shoe Remove-ABL Manner Enter-IMP.2SG.POL,eaf_sequence_match,santali_imperatives_glossed.eaf,24,50600,52600
+106,Have breakfast with us tomorrow morning.,gapa set̪aʔ alɛ sã͡ot̪ɛ baski.ja-gɔʔ-mɛ,gapa set̪aʔ alɛ sã͡o-t̪ɛ baski.ja-gɔʔ-mɛ,Tomorrow Morning 1PL.EXCL COMIT-INSTR Breakfast.Eat-IMP.2SG.POL,eaf_sequence_match,santali_imperatives_glossed.eaf,25,52800,54800
+107,Eat lunch with us tomorrow noon.,gapa t̪ikin alɛ sã͡ot̪ɛ maɲɟan-ɔʔ-mɛ,gapa t̪ikin alɛ sã͡o-t̪ɛ maɲɟan-ɔʔ-mɛ,Tomorrow Noon 1PL.EXCL COMIT-INSTR Eat.Lunch-IMP.2SG.POL,eaf_sequence_match,santali_imperatives_glossed.eaf,26,55000,57000
+108,Tomorrow you will have lunch at our home.,gapa alɛ ɔɽaʔ-ɾɛ maɲɟan-ɔʔ-mɛ,gapa alɛ ɔɽaʔ-ɾɛ maɲɟan-ɔʔ-mɛ,Tomorrow 1PL.EXCL House-LOC Eat.Lunch-IMP.2SG.POL,eaf_sequence_match,santali_imperatives_glossed.eaf,27,57200,59200
+109,Don't stay out too long.,ɟɘst̪i gʰaɽi-ʲc̚ʔ bahɾɛ-ɾɛ alom t̪ahɛ̃-na,ɟɘst̪i gʰaɽi-ʲc̚ʔ bahɾɛ-ɾɛ alom t̪ahɛ̃-na,Much Hour-ABL Outside-LOC PROH Stay-FIN.2SG,eaf_sequence_match,santali_imperatives_glossed.eaf,28,59400,61400
+110,Don't you go to work today.,t̪eheɲ d̪ɔ kɘmi alɔm cala-a,t̪eheɲ d̪ɔ kɘmi alɔm cala-a,Today TOP Work PROH Go-FIN.2SG,eaf_sequence_match,santali_imperatives_glossed.eaf,29,61600,63600
+111,Aren't you going today?,apɛ d̪ɔ cɛt̪ʔ t̪iheɲ calaʔ baŋ ho.joʔ t̪apɛ͡a,apɛ d̪ɔ cɛt̪ʔ t̪iheɲ calaʔ baŋ ho.joʔ t̪a-pɛ͡a,2PL TOP Q Today Go NEG Happen FIN-2PL.Q,eaf_sequence_match,santali_imperatives_glossed.eaf,30,63800,65800
+112,Where should the letter be sent and where should it not be sent?,no͡a ciʈʰi ɔka ɔka-ɾɛ kol ho.jo-a aɾ ɔka ɔka-ɾɛ baŋ kol ho.jo-a,no͡a ciʈʰi ɔka ɔka-ɾɛ kol ho.jo-a aɾ ɔka ɔka-ɾɛ baŋ kol ho.jo-a,This Letter Where Where-LOC Send Happen-FIN And Where Where-LOC NEG Send Happen-FIN,eaf_sequence_match,santali_imperatives_glossed.eaf,31,66000,68000
+113,Who has not been sent the news?,no͡a sɔŋbat̪ʔ ɔko͡i-koʈʰɛn baŋ kol ho.ja-kana,no͡a sɔŋbat̪ʔ ɔko͡i-ko-ʈʰɛn baŋ kol ho.ja-kana,This News Who-3PL-ABL NEG Send Happen-PST.FIN,eaf_sequence_match,santali_imperatives_glossed.eaf,32,68200,70200
+114,Could they not complete this job?,oŋko d̪ɔ cɛt̪ʔ no͡a kɘmi bako puɾɘ͡u d̪aɽɛ.jaʔ-a,oŋko d̪ɔ cɛt̪ʔ no͡a kɘmi ba-ko puɾɘ͡u d̪aɽɛ.jaʔ-a,3PL TOP Q This Work NEG-3PL Finish Can-FIN,eaf_sequence_match,santali_imperatives_glossed.eaf,33,70400,72400
+115,Is the food not good to eat?,ɟɔmaʔ-ko baŋ sibila-kana,ɟɔmaʔ-ko baŋ sibila-kana,Food-3PL NEG Tasty-PST.FIN,eaf_sequence_match,santali_imperatives_glossed.eaf,34,72600,74600
+116,Why didn't you go anywhere yesterday?,amd̪ɔ ced̪aʔ hɔla ɔkat̪ehɔ̃ bam cala͡o-lena,am-d̪ɔ ced̪aʔ hɔla ɔka-t̪e-hɔ̃ ba-m cala͡o-len-a,2SG-TOP Why Yesterday Where-INSTR-Also NEG-2SG Go-PST-FIN,eaf_sequence_match,santali_imperatives_glossed.eaf,35,74800,76800
+117,Why is it not raining much this time?,ni͡ɘ d̪ʰa͡o d̪ɔ ced̪aʔ ɟɘst̪i ba͡i d̪aʔ-eda,ni͡ɘ d̪ʰa͡o d̪ɔ ced̪aʔ ɟɘst̪i baŋ d̪aʔ-eda,This Time TOP Why Much NEG Rain-NPST.FIN,eaf_sequence_match,santali_imperatives_glossed.eaf,36,77000,79000
+118,Didn't you ask him to come?,amd̪ɔ uni hiɟuʔ bam mɛna-ka͡ode͡a,am-d̪ɔ uni hiɟuʔ ba-m mɛna-ka͡o-de͡a,2SG-TOP 3SG Come NEG-2SG Tell-CAUS-PST.FIN,eaf_sequence_match,santali_imperatives_glossed.eaf,37,79200,81200
+119,I forgot how long I haven't been travelling.,iɲ t̪inɘʔ d̪in kʰɔn d̪aɽan bɘɲ cala͡o-akan ɔna d̪ɔɲ hiɽiɲ-ăkada,iɲ t̪inɘʔ d̪in kʰɔn d̪aɽan bɘ-ɲ cala͡o-akan ɔna d̪ɔ-ɲ hiɽiɲ-ăkada,1SG How.Many Day ABL Roaming NEG-1SG Go-HAB That TOP-1SG Forget-PRF.FIN,eaf_sequence_match,santali_imperatives_glossed.eaf,38,81400,83400
+120,How many of you do not agree to go to that place?,apɛ ɔkɔ͡i ɔkɔ͡i-ko ɔna ʈoʈʰa calaʔ bapɛ mene-da,apɛ ɔkɔ͡i ɔkɔ͡i-ko ɔna ʈoʈʰa calaʔ ba-pɛ mene-da,2PL Who Who-3PL That Place Go NEG-2PL Agree-FIN,eaf_sequence_match,santali_imperatives_glossed.eaf,39,83600,85600
+121,Aren't you going anywhere tomorrow?,amd̪ɔ cɛʈ̪ʔ gapa ɔkat̪ɛhɔ̃ bam cala-a,am-d̪ɔ cɛʈ̪ʔ gapa ɔka-t̪ɛ-hɔ̃ ba-m cala-a,2SG-TOP Q Tomorrow Where-INSTR-Also NEG-2SG Go-FIN,eaf_sequence_match,santali_imperatives_glossed.eaf,40,85800,87800
+122,Then,unɟɔkʰɛʲc̚ʔ,un-ɟɔkʰɛ-ʲc̚ʔ,That-Time-ABL,eaf_sequence_match,santali_imperatives_glossed.eaf,41,88000,90000
+123,Now,nit̪ʔ,nit̪ʔ,Now,eaf_sequence_match,santali_imperatives_glossed.eaf,42,90200,92200
+124,Yesterday,hɔla,hɔla,Yesterday,eaf_sequence_match,santali_imperatives_glossed.eaf,43,92400,94400
+125,Tomorrow,gapa,gapa,Tomorrow,eaf_sequence_match,santali_imperatives_glossed.eaf,44,94600,96600
+126,The Day After Tomorrow,mand̪ʰɛɾ,mand̪ʰɛɾ,Day.After.Tomorrow,eaf_sequence_match,santali_imperatives_glossed.eaf,45,96800,98800
+127,This Time,ni͡ɘd̪ʰa͡o,ni͡ɘ-d̪ʰa͡o,This-Time,eaf_sequence_match,santali_imperatives_glossed.eaf,46,99000,101000
+128,Just Now,nit̪ʔgi,nit̪ʔ-gi,Now-EMPH,eaf_sequence_match,santali_imperatives_glossed.eaf,47,101200,103200
+129,So Long (for that many days),unɘʔd̪in,un-ɘʔ-d̪in,That-CLSSFR-Day,eaf_sequence_match,santali_imperatives_glossed.eaf,48,103400,105400
+130,After,t̪a.jɔmt̪ɛ,t̪a.jɔm-t̪ɛ,After-INSTR,eaf_sequence_match,santali_imperatives_glossed.eaf,49,105600,107600
+131,That Day,unhilɘʔ,un-hilɘʔ,That-Day,eaf_sequence_match,santali_imperatives_glossed.eaf,50,107800,109800
+132,On The Right,ɟɔɟɔm-sɛʲc̚ʔ,ɟɔɟɔm-sɛʲc̚ʔ,Right.Hand-DIR,eaf_sequence_match,santali_imperatives_glossed.eaf,51,110000,112000
+133,On The Left,lɛŋga-sɛʲc̚ʔ,lɛŋga-sɛʲc̚ʔ,Left.Hand-DIR,eaf_sequence_match,santali_imperatives_glossed.eaf,52,112200,114200
+134,Behind,t̪a.jɔm-sɛc̚ʔ,t̪a.jɔm-sɛc̚ʔ,Back-DIR,eaf_sequence_match,santali_imperatives_glossed.eaf,53,114400,116400
+135,Near,suɾ-ɾɛ,suɾ-ɾɛ,Near-LOC,eaf_sequence_match,santali_imperatives_glossed.eaf,54,116600,118600
+136,Far Away,ɘɖi sɘŋgiɲ,ɘɖi sɘŋgiɲ,Very Far,eaf_sequence_match,santali_imperatives_glossed.eaf,55,118800,120800
+137,In Between,t̪ala-ɾɛ,t̪ala-ɾɛ,Middle-LOC,eaf_sequence_match,santali_imperatives_glossed.eaf,56,121000,123000
+138,Straight,suɟhi,suɟhi,Straight,eaf_sequence_match,santali_imperatives_glossed.eaf,57,123200,125200
+139,Alone,ɛskaɾ,ɛskaɾ,Alone,eaf_sequence_match,santali_imperatives_glossed.eaf,58,125400,127400
+140,Loudly,ãʈ̚-t̪ɛ,ãʈ̚-t̪ɛ,Loud-INSTR,eaf_sequence_match,santali_imperatives_glossed.eaf,59,127600,129600
+141,Quickly,usɘɾa-t̪ɛ,usɘɾa-t̪ɛ,Quick-INSTR,eaf_sequence_match,santali_imperatives_glossed.eaf,60,129800,131800
+142,Slowly,bɘ͡i bɘ͡i-t̪ɛ,bɘ͡i bɘ͡i-t̪ɛ,Slow Slow-INSTR.REDUP,eaf_sequence_match,santali_imperatives_glossed.eaf,61,132000,134000
+143,Mostly,ɟɘst̪i-gi,ɟɘst̪i-gi,Much-EMPH,eaf_sequence_match,santali_imperatives_glossed.eaf,62,134200,136200
+144,More / Much,ɟɘst̪i,ɟɘst̪i,Much,eaf_sequence_match,santali_imperatives_glossed.eaf,63,136400,138400
+145,Less / Little,t̪ʰɔɽa,t̪ʰɔɽa,Little,eaf_sequence_match,santali_imperatives_glossed.eaf,64,138600,140600
+146,Today,t̪eheɲ,t̪eheɲ,Today,eaf_sequence_match,santali_imperatives_glossed.eaf,65,140800,142800
+147,One Day,mit̪ʔ-d̪in,mit̪ʔ-d̪in,One-Day,eaf_sequence_match,santali_imperatives_glossed.eaf,66,143000,145000
+148,In Front,samaŋ-ɾɛ,samaŋ-ɾɛ,Front-LOC,eaf_sequence_match,santali_imperatives_glossed.eaf,67,145200,147200
+149,Above,cet̪an-ɾɛ,cet̪an-ɾɛ,Above-LOC,eaf_sequence_match,santali_imperatives_glossed.eaf,68,147400,149400
+150,Below / Down,lat̪aɾ-ɾɛ,lat̪aɾ-ɾɛ,Below-LOC,eaf_sequence_match,santali_imperatives_glossed.eaf,69,149600,151600
+151,Beside,aɽe-ɾɛ,aɽe-ɾɛ,Side-LOC,eaf_sequence_match,santali_imperatives_glossed.eaf,70,151800,153800
+152,Away / Far,sɘŋgiɲ-ɾɛ,sɘŋgiɲ-ɾɛ,Far-LOC,eaf_sequence_match,santali_imperatives_glossed.eaf,71,154000,156000
+153,Outside,bahɾɛ-ɾɛ,bahɾɛ-ɾɛ,Outside-LOC,eaf_sequence_match,santali_imperatives_glossed.eaf,72,156200,158200
+154,Inside,bʰit̪ɾi-ɾɛ,bʰit̪ɾi-ɾɛ,Inside-LOC,eaf_sequence_match,santali_imperatives_glossed.eaf,73,158400,160400
+155,A Lot,a͡ima,a͡ima,A.Lot,eaf_sequence_match,santali_imperatives_glossed.eaf,74,160600,162600
+156,The Fourth,ponaʔ,pon-aʔ,Four-ORD,eaf_sequence_match,santali_imperatives_glossed.eaf,75,162800,164800
+157,The Fifth,mɔ̃ɽɛ̃.jaʔ,mɔ̃ɽɛ̃.ja-ʔ,Five-ORD,eaf_sequence_match,santali_imperatives_glossed.eaf,76,165000,167000
+158,The Sixth,t̪uɾu.jaʔ,t̪uɾu.ja-ʔ,Six-ORD,eaf_sequence_match,santali_imperatives_glossed.eaf,77,167200,169200
+159,The Seventh,e͡a.jaʔ,e͡a.ja-ʔ,Seven-ORD,eaf_sequence_match,santali_imperatives_glossed.eaf,78,169400,171400
+160,The Eighth,iɾɘl-aʔ,iɾɘl-aʔ,Eight-ORD,eaf_sequence_match,santali_imperatives_glossed.eaf,79,171600,173600
+161,The Ninth,aɾɛ.jaʔ,aɾɛ.ja-ʔ,Nine-ORD,eaf_sequence_match,santali_imperatives_glossed.eaf,80,173800,175800
+162,The Tenth,gɛː l-aʔ,gɛː l-aʔ,Ten-ORD,eaf_sequence_match,santali_imperatives_glossed.eaf,81,176000,178000
+163,The First,pɘhil-aʔ,pɘhil-aʔ,First-ORD,eaf_sequence_match,santali_imperatives_glossed.eaf,82,178200,180200
+164,The Second,d̪osaɾ-aʔ,d̪osaɾ-aʔ,Second-ORD,eaf_sequence_match,santali_imperatives_glossed.eaf,83,180400,182400
+165,Mother's breast milk works like medicine for the baby.,gɔgɔo̯͡aʔ kɔɽam t̪ɔ̯͡a d̪ɔ gid̪ɾɘ lɘgit̪̚ʔ ɾan lekage͡i̯ kɘmi.ja,gɔgɔ-o̯͡aʔ kɔɽam t̪ɔ̯͡a d̪ɔ gid̪ɾɘ lɘgit̪̚ʔ ɾan leka-ge͡i̯ kɘmi-ja,mother-GEN.IN chest milk TOP child for medicine like-EMPH work-FIN,eaf_sequence_match,santali_glossed_3.eaf,1,0,2000
+166,The baby should be breastfed for up to 6 months.,t̪uɾu͡i̯ cand̪o hɘbiʲc̚ʔ gid̪ɾɘ d̯ɔ gɔgɔ t̪o̯͡age ɟɔm oco.je ho.jo.a,t̪uɾu͡i̯ cand̪o hɘbiʲc̚ʔ gid̪ɾɘ d̪ɔ gɔgɔ t̪o̯͡a-ge ɟɔm-oco-je ho.jo-a,six month until child TOP mother milk-EMPH eat-CAUS-3SG.SUBJ become-FIN,eaf_sequence_match,santali_glossed_3.eaf,2,2200,4200
+167,"After that, the baby should be given other food besides milk.",inɘ t̪a.jɔm t̪͡o̯͡a ɟɔm sã͡o̯ sã͡o̯t̪ɛ eʈaʔ ɟɔmaʔhɔ̃ ema͡i̯ ho.jo.a,inɘ t̪a.jɔm t̪o̯͡a ɟɔm sã͡o̯ sã͡o̯-t̪ɛ eʈaʔ ɟɔmaʔ-hɔ̃ ema͡i̯ ho.jo-a,after.that after milk eat with with-INS other food-also give become-FIN,eaf_sequence_match,santali_glossed_3.eaf,3,4400,6400
+168,It is not good to feed a baby many foods at once.,gid̪ɾɘ d̪ɔ mit̪̚ʔsãot̪ɛ a͡i̯ma ɟɔm ema͡i̯ d̪ɔ baŋ boge.ja,gid̪ɾɘ d̪ɔ mit̪̚ʔ-sã͡o̯-t̪ɛ a͡i̯ma ɟɔm ema͡i̯ d̪ɔ baŋ boge-ja,child TOP one-with-INS many food give TOP NEG good-FIN,eaf_sequence_match,santali_glossed_3.eaf,4,6600,8600
+169,Children should be fed vegetables and fruit juices.,gid̪ɾɘ d̪ɔ aɽaʔ sakam sã͡o̯ ɟɔː ɾe.jaʔ ɾɔs hɔ̃ ɲu oco͡i̯ ho.jo.a,gid̪ɾɘ d̪ɔ aɽaʔ sakam sã͡o̯ ɟɔː ɾe.jaʔ ɾɔs hɔ̃ ɲu-oco͡i̯ ho.jo-a,child TOP vegetable leaf with fruit GEN.IN juice also drink-CAUS become-FIN,eaf_sequence_match,santali_glossed_3.eaf,5,8800,10800
+170,Sleep is very important for babies.,gid̪ɾɘ lagit̪̚ʔ ɟɘpit̪̚ʔ d̪ɔ ɘɖi ɟɘɾuɽanaʔ kange.ja,gid̪ɾɘ lagit̪̚ʔ ɟɘpit̪̚ʔ d̪ɔ ɘɖi ɟɘɾuɽanaʔ kan-ge-ja,child for sleep TOP very necessary COP-EMPH-FIN,eaf_sequence_match,santali_glossed_3.eaf,6,11000,13000
+171,In this way the baby stays healthy and grows well.,noŋkat̪ɛ gid̪ɾɘ d̪ɔ boge aɾ mɔ̃ːɟɛ haɾa buɾuʔkana,noŋka-t̪ɛ gid̪ɾɘ d̪ɔ boge aɾ mɔ̃ɟɛ haɾa buɾuʔ-kana,DEM.MAN-INS child TOP good and well grow grow.up-PROG,eaf_sequence_match,santali_glossed_3.eaf,7,13200,15200
+172,A baby should be given 5 vaccinations within one year.,mit̪̚ʔʈɛn gid̪ɾɘ d̪ɔ mit̪̚ʔ seɾma t̪alaɾɛ mɔ̃ɽɛ̃gɔʈɛn ʈikɘ ema͡i̯ ho.jo.a,mit̪̚ʔ-ʈɛn gid̪ɾɘ d̪ɔ mit̪̚ʔ seɾma t̪ala-ɾɛ mɔ̃ɽɛ̃-gɔʈɛn ʈikɘ ema͡i̯ ho.jo-a,one-CLF child TOP one year within-LOC five-CLF vaccine give become-FIN,eaf_sequence_match,santali_glossed_3.eaf,8,15400,17400
+173,Babies can catch many diseases if not vaccinated.,ʈikɘ baŋ ema͡i̯kʰan gid̪ɾɘo̯͡aʔ a͡i̯ma lekan ɾu̯͡ɘ ho͡i̯ d̪aɽeo̯͡aʔa,ʈikɘ baŋ ema͡i̯-kʰan gid̪ɾɘ-o̯͡aʔ a͡i̯ma lekan ɾu̯͡ɘ ho͡i̯ d̪aɽe-o̯͡aʔ-a,vaccine NEG give-COND child-GEN.IN many kind disease happen able-GEN.IN-FIN,eaf_sequence_match,santali_glossed_3.eaf,9,17600,19600
+174,The doctor will say when which vaccine the baby needs.,gid̪ɾɘ d̪ɔ ɔka ɔk̚t̪ɛ ɔka ʈikɘ ema͡i̯ ho.joʔa ona d̪ɔ ɖakt̪aɾge͡i̯ lɘː.ja,gid̪ɾɘ d̪ɔ ɔka ɔk̚t̪ɛ ɔka ʈikɘ ema͡i̯ ho.jo-a ona d̪ɔ ɖakt̪aɾ-ge͡i̯ lɘː-ja,child TOP which time which vaccine give become-FIN DEM.DIST TOP doctor-EMPH say-FIN,eaf_sequence_match,santali_glossed_3.eaf,10,19800,21800
+175,The baby can be vaccinated by going to a nearby hospital.,soɾɾenaʔ haspat̪alɾege gid̪ɾɘ d̪ɔ ʈikɘ ema͡i̯ ho.jo.a,soɾ-ɾenaʔ haspat̪al-ɾe-ge gid̪ɾɘ d̪ɔ ʈikɘ ema͡i̯ ho.jo-a,near-GEN.IN hospital-LOC-EMPH child TOP vaccine give become-FIN,eaf_sequence_match,santali_glossed_3.eaf,11,22000,24000
+176,Family,gʰaɾɔɟ,gʰaɾɔɟ,family,eaf_sequence_match,santali_glossed_3.eaf,12,24200,26200
+177,Discussion,galmaɾa͡o̯,galmaɾa͡o̯,discussion,eaf_sequence_match,santali_glossed_3.eaf,13,26400,28400
+178,Question,kuk̚li,kuk̚li,question,eaf_sequence_match,santali_glossed_3.eaf,14,28600,30600
+179,Answer,ɾɔɽɾu̯͡ɘɽ,ɾɔɽɾu̯͡ɘɽ,answer,eaf_sequence_match,santali_glossed_3.eaf,15,30800,32800
+180,Medicine,ɾaːn,ɾaːn,medicine,eaf_sequence_match,santali_glossed_3.eaf,16,33000,35000
+181,Dream,kuk̚mu,kuk̚mu,dream,eaf_sequence_match,santali_glossed_3.eaf,17,35200,37200
+182,Birth,ɟanam,ɟanam,birth,eaf_sequence_match,santali_glossed_3.eaf,18,37400,39400
+183,Death,guɟuʔ,guɟuʔ,death,eaf_sequence_match,santali_glossed_3.eaf,19,39600,41600
+184,Marriage,bap̚la,bap̚la,marriage,eaf_sequence_match,santali_glossed_3.eaf,20,41800,43800
+185,Work,kɘmi,kɘmi,work,eaf_sequence_match,santali_glossed_3.eaf,21,44000,46000
+186,Gold,sɔna,sɔna,gold,eaf_sequence_match,santali_glossed_3.eaf,22,46200,48200
+187,Silver,ɾupɘ,ɾupɘ,silver,eaf_sequence_match,santali_glossed_3.eaf,23,48400,50400
+188,Ornaments,sapap̚ʔ,sapap̚ʔ,ornament,eaf_sequence_match,santali_glossed_3.eaf,24,50600,52600
+189,Good,bʰage,bʰage,good,eaf_sequence_match,santali_glossed_3.eaf,25,52800,54800
+190,Evil,bɘɽiʲc̚ʔ,bɘɽiʲc̚ʔ,bad,eaf_sequence_match,santali_glossed_3.eaf,26,55000,57000
+191,Beautiful,napa͡i̯,napa͡i̯,beautiful,eaf_sequence_match,santali_glossed_3.eaf,27,57200,59200
+192,Ugly,baŋ mɔ̃ɟ,baŋ mɔ̃ɟ,NEG good,eaf_sequence_match,santali_glossed_3.eaf,28,59400,61400
+193,Heavy,hamal,hamal,heavy,eaf_sequence_match,santali_glossed_3.eaf,29,61600,63600
+194,Light,ɾa͡ɔ̯al,ɾa͡ɔ̯al,light,eaf_sequence_match,santali_glossed_3.eaf,30,63800,65800
+195,Small,kɘʈiʲc̚ʔ,kɘʈiʲc̚ʔ,small,eaf_sequence_match,santali_glossed_3.eaf,31,66000,68000
+196,Big,lɘʈu,lɘʈu,big,eaf_sequence_match,santali_glossed_3.eaf,32,68200,70200
+197,Raw,bɛɾɛl,bɛɾɛl,raw,eaf_sequence_match,santali_glossed_3.eaf,33,70400,72400
+198,Seasoned,bele,bele,ripe,eaf_sequence_match,santali_glossed_3.eaf,34,72600,74600
+199,Sour,ɟɔɟɔ,ɟɔɟɔ,sour,eaf_sequence_match,santali_glossed_3.eaf,35,74800,76800
+200,Spicy,ɟʰal,ɟʰal,spicy,eaf_sequence_match,santali_glossed_3.eaf,36,77000,79000
+201,Sweet,hɛɽɛm,hɛɽɛm,sweet,eaf_sequence_match,santali_glossed_3.eaf,37,79200,81200
+202,Alive,ɟiu̯͡ɘt̪̚ʔ,ɟiu̯͡ɘt̪̚ʔ,alive,eaf_sequence_match,santali_glossed_3.eaf,38,81400,83400
+203,Dead,gɔʲc̚ʔ,gɔʲc̚ʔ,dead,eaf_sequence_match,santali_glossed_3.eaf,39,83600,85600
+204,High,cɔʈ̚,cɔʈ̚,high,eaf_sequence_match,santali_glossed_3.eaf,40,85800,87800
+205,Low,lat̪aɾ,lat̪aɾ,low,eaf_sequence_match,santali_glossed_3.eaf,41,88000,90000
+206,Soft,lɘbit̪̚ʔ,lɘbit̪̚ʔ,soft,eaf_sequence_match,santali_glossed_3.eaf,42,90200,92200
+207,Hot,lɔlɔ,lɔlɔ,hot,eaf_sequence_match,santali_glossed_3.eaf,43,92400,94400
+208,Hot,lɔlɔ,lɔlɔ,hot,eaf_sequence_match,santali_glossed_3.eaf,44,94600,96600
+209,Tough,kɛʈɛʲc̚ʔ,kɛʈɛʲc̚ʔ,tough,eaf_sequence_match,santali_glossed_3.eaf,45,96800,98800
+210,Clean,sapʰa,sapʰa,clean,eaf_sequence_match,santali_glossed_3.eaf,46,99000,101000
+211,Truth,sɘɾi,sɘɾi,true,eaf_sequence_match,santali_glossed_3.eaf,47,101200,103200
+212,Lie,ɛɽɛ,ɛɽɛ,lie,eaf_sequence_match,santali_glossed_3.eaf,48,103400,105400
+213,Thin,et̪aŋ,et̪aŋ,thin,eaf_sequence_match,santali_glossed_3.eaf,49,105600,107600
+214,Thick,mɔʈa,mɔʈa,thick,eaf_sequence_match,santali_glossed_3.eaf,50,107800,109800
+215,Married,bap̚laiʲc̚ʔ,bap̚la-iʲc̚ʔ,marriage-NMLZ,eaf_sequence_match,santali_glossed_3.eaf,51,110000,112000
+216,Unmarried,ɖɘŋu̯͡ɘ,ɖɘŋu̯͡ɘ,unmarried,eaf_sequence_match,santali_glossed_3.eaf,52,112200,114200
+217,Nina lives in the city with her parents.,nina d̪ɔ gɔgɔ baba sã͡o̯ sɔhɔɾɾɛ͡i̯ t̪ahɛ̃na,nina d̪ɔ gɔgɔ baba sã͡o̯ sɔhɔɾ-ɾɛ-͡i̯ t̪ahɛ̃-na,Nina TOP mother father with city-LOC-3SG.SUBJ stay-FIN,eaf_sequence_match,santali_glossed_3.eaf,53,114400,116400
+218,One day her grandmother sent a letter to her.,mit̪̚ʔd̪in aʲc̚ʔ gɔɽɔm buɖi d̪ɔ uni ʈʰɛn miʔʈɛn ciʈʰi͡i̯ koːlked̪a,mit̪̚ʔ-d̪in aʲc̚ʔ gɔɽɔm buɖi d̪ɔ uni ʈʰɛn miʔ-ʈɛn ciʈʰi-͡i̯ koːl-ked̪-a,one-day REFL elder old.woman TOP 3SG LOC.AN one-CLF letter-3SG.SUBJ send-PST.A-FIN,eaf_sequence_match,santali_glossed_3.eaf,54,116600,118600
+219,But Nina could not read that letter.,mɛnɛʔ nina d̪ɔ ɔna ciʈʰi ba͡i̯ paɽha͡o̯ d̪aɽe.jad̪a,mɛnɛʔ nina d̪ɔ ɔna ciʈʰi ba-͡i̯ paɽha͡o̯ d̪aɽe-jad̪-a,but Nina TOP DEM.DIST letter NEG-3SG.SUBJ read able-PST-FIN,eaf_sequence_match,santali_glossed_3.eaf,55,118800,120800
+220,"Because, although she can speak her own language, she cannot read.",ɛnt̪ɛʔ niɟeɾaʔ pɘɾsi baɖa͡i̯kanɾɛhɔ̃ ba͡i̯ paɽha͡o̯ d̪aɽe.jad̪a,ɛnt̪ɛʔ niɟeɾ-aʔ pɘɾsi baɖa͡i̯-kan-ɾɛ-hɔ̃ ba-͡i̯ paɽha͡o̯ d̪aɽe-jad̪-a,because self-GEN.IN language know-COP-LOC-also NEG-3SG.SUBJ read able-PST-FIN,eaf_sequence_match,santali_glossed_3.eaf,56,121000,123000
+221,Then Nina's father read the letter to her and explained the meaning.,unɾɛ nina apat̚ʔ d̪ɔ ɔna ciʈʰi paɽha͡o̯ kat̪ɛ manɛ͡i̯ buɟʰhɘ͡o̯ade.ja,un-ɾɛ nina apat̚ʔ d̪ɔ ɔna ciʈʰi paɽha͡o̯ kat̪ɛ manɛ-͡i̯ buɟʰhɘ͡o̯-ad̪e-ja,DEM.DIST-LOC Nina father TOP DEM.DIST letter read CONV meaning-3SG.SUBJ explain-3SG.OBJ-FIN,eaf_sequence_match,santali_glossed_3.eaf,57,123200,125200
+222,Nina sent some pictures in reply to the letter.,nina d̪ɔ ciʈʰiɾenaʔ ut̪̚t̪ɔɾ mɛnt̪ɛ kɔ.jekʈi cʰobi͡i̯ koːlad̪e.ja,nina d̪ɔ ciʈʰi-ɾenaʔ ut̪̚t̪ɔɾ mɛnt̪ɛ kɔ.jek-ʈi cʰobi-͡i̯ koːl-ad̪e-ja,Nina TOP letter-GEN.IN answer QUOT some-CLF picture-3SG.SUBJ send-3SG.OBJ-FIN,eaf_sequence_match,santali_glossed_3.eaf,58,125400,127400
+223,A few days later she received another letter from her grandmother.,inɘ t̪ʰɔɽa d̪in bad̪ɾɛ gɔɽɔm buɖi ʈʰɛn kʰɔn aɾhɔ mit̪̚ʔʈɛn ciʈʰi͡i̯ ɲamked̪a,inɘ t̪ʰɔɽa d̪in bad̪-ɾɛ gɔɽɔm buɖi ʈʰɛn kʰɔn aɾhɔ mit̪̚ʔ-ʈɛn ciʈʰi-͡i̯ ɲam-ked̪-a,after.that few day after-LOC elder old.woman LOC.AN ABL another one-CLF letter-3SG.SUBJ get-PST.A-FIN,eaf_sequence_match,santali_glossed_3.eaf,59,127600,129600
+224,"In that letter, the grandmother wrote that she was very happy to receive Nina's pictures.",ɔna ciʈʰiɾɛ gɔɽɔm buɖidɔ͡i̯ ɔlked̪a ɔna cʰobiko ɲam kat̪ɛ uni d̪ɔ ɘɖiaʈɛ kusilena,ɔna ciʈʰi-ɾɛ gɔɽɔm buɖi-d̪ɔ-͡i̯ ɔl-ked̪-a ɔna cʰobi-ko ɲam kat̪ɛ uni d̪ɔ ɘɖi-aʈɛ kusi-len-a,DEM.DIST letter-LOC elder old.woman-TOP-3SG.SUBJ write-PST.A-FIN DEM.DIST picture-PL get CONV 3SG TOP very-INS happy-PST.M-FIN,eaf_sequence_match,santali_glossed_3.eaf,60,129800,131800
+225,But Nina could not read her letter — she felt upset to know that.,nina ɔna ciʈʰi ba͡i̯ paɽha͡o̯ d̪aɽe.jaʔt̪ɛ mɔnɛ bɘɽiʲc̚ʔked̪a aɾ kɔsʈɔ͡i̯ ɘ͡i̯kɘ͡o̯ked̪a,nina ɔna ciʈʰi ba-͡i̯ paɽha͡o̯ d̪aɽe-jaʔ-t̪ɛ mɔn-ɛ bɘɽiʲc̚ʔ-ked̪-a aɾ kɔsʈɔ-͡i̯ ɘ͡i̯kɘ͡o̯-ked̪-a,Nina DEM.DIST letter NEG-3SG.SUBJ read able-NMLZ-INS mind-LOC bad-PST.A-FIN and pain-3SG.SUBJ feel-PST.A-FIN,eaf_sequence_match,santali_glossed_3.eaf,61,132000,134000
+226,Nina then began studying her native language so that she could write letters to her grandmother.,nina nit̪̚ʔ pɘɾsit̪ɛ ɔlɔʔpaɽhaʔɛ ɛhɔp̚ʔked̪a ɟɛmɔn aʲc̚ʔ gɔɽɔm buɖi ciʈʰi͡i̯ ɔl d̪aɽeo̯͡ai̯,nina nit̪̚ʔ pɘɾsi-t̪ɛ ɔlɔʔpaɽhaʔ-ɛ ɛhɔp̚ʔ-ked̪-a ɟɛmɔn aʲc̚ʔ gɔɽɔm buɖi ciʈʰi-͡i̯ ɔl d̪aɽe-o̯͡a-i̯,Nina own language-INS study-3SG.SUBJ begin-PST.A-FIN so.that REFL elder old.woman letter-3SG.SUBJ write able-FIN-3SG.SUBJ,eaf_sequence_match,santali_glossed_3.eaf,62,134200,136200
+227,This,ni̯͡ɘ,ni̯͡ɘ,DEM.PROX,eaf_sequence_match,santali_glossed_3.eaf,63,136400,138400
+228,That,hana,hana,DEM.DIST,eaf_sequence_match,santali_glossed_3.eaf,64,138600,140600
+229,Here,nɔnɖɛ,nɔnɖɛ,here,eaf_sequence_match,santali_glossed_3.eaf,65,140800,142800
+230,There,hanɖɛ,hanɖɛ,there,eaf_sequence_match,santali_glossed_3.eaf,66,143000,145000
+231,Someone,ɟãha͡i̯,ɟãha-͡i̯,INDEF-3SG,eaf_sequence_match,santali_glossed_3.eaf,67,145200,147200
+232,Something,nase.jaʔ,nase.jaʔ,something,eaf_sequence_match,santali_glossed_3.eaf,68,147400,149400
+233,Somewhere,ɔkaɾɛhõ,ɔka-ɾɛ-hõ,where-LOC-also,eaf_sequence_match,santali_glossed_3.eaf,69,149600,151600
+234,Any,cɛt̪̚ʔhɔ̃,cɛt̪̚ʔ-hɔ̃,what-also,eaf_sequence_match,santali_glossed_3.eaf,70,151800,153800
+235,Own,aʲc̚ʔ,aʲc̚ʔ,REFL,eaf_sequence_match,santali_glossed_3.eaf,71,154000,156000
+236,All/Every,sanam,sanam,all,eaf_sequence_match,santali_glossed_3.eaf,72,156200,158200
+237,Everyone,sanam,sanam,all,eaf_sequence_match,santali_glossed_3.eaf,73,158400,160400
+238,Everyone's,sanamko̯͡aʔ,sanam-ko-̯͡aʔ,all-PL-GEN.IN,eaf_sequence_match,santali_glossed_3.eaf,74,160600,162600
+239,By Himself/Herself,aʲc̚ʔ aʲc̚ʔ t̪ɛ,aʲc̚ʔ aʲc̚ʔ-t̪ɛ,REFL REFL-INS,eaf_sequence_match,santali_glossed_3.eaf,75,162800,164800
+240,Other/Another,ɛʈaʔ,ɛʈaʔ,other,eaf_sequence_match,santali_glossed_3.eaf,76,165000,167000
+241,Different,ɟud̪ɘ,ɟud̪ɘ,different,eaf_sequence_match,santali_glossed_3.eaf,77,167200,169200
+242,Home,ɔɽaʔ,ɔɽaʔ,house,eaf_sequence_match,santali_glossed_3.eaf,78,169400,171400
+243,Shed,sɘɽim,sɘɽim,shed,eaf_sequence_match,santali_glossed_3.eaf,79,171600,173600
+244,Pole,kʰunʈi,kʰunʈi,pole,eaf_sequence_match,santali_glossed_3.eaf,80,173800,175800
+245,The Door,d̪u̯͡ɘɾ,d̪u̯͡ɘɾ,door,eaf_sequence_match,santali_glossed_3.eaf,81,176000,178000
+246,The Fence,ʈɘʈi,ʈɘʈi,fence,eaf_sequence_match,santali_glossed_3.eaf,82,178200,180200
+247,The Wall,bʰit̪,bʰit̪,wall,eaf_sequence_match,santali_glossed_3.eaf,83,180400,182400
+248,The Stairs,siɽhi,siɽhi,stairs,eaf_sequence_match,santali_glossed_3.eaf,84,182600,184600
+249,The Yard,ɾaca,ɾaca,yard,eaf_sequence_match,santali_glossed_3.eaf,85,184800,186800
+250,Slaughterhouse,gɔɽa,gɔɽa,cattle.shed,eaf_sequence_match,santali_glossed_3.eaf,86,187000,189000
+251,Plate,t̪ʰɘɾi,t̪ʰɘɾi,plate,eaf_sequence_match,santali_glossed_3.eaf,87,189200,191200
+252,Dish,t̪ʰɘɾi,t̪ʰɘɾi,plate,eaf_sequence_match,santali_glossed_3.eaf,88,191400,193400
+253,Pitcher,kanɖa,kanɖa,pitcher,eaf_sequence_match,santali_glossed_3.eaf,89,193600,195600
+254,Kitchen Knife,kɘ͡i̯d̪ɘ,kɘ͡i̯d̪ɘ,knife,eaf_sequence_match,santali_glossed_3.eaf,90,195800,197800
+255,Kitchen Knife,binʈʰi,binʈʰi,knife,eaf_sequence_match,santali_glossed_3.eaf,91,198000,200000
+256,Lid,ɖʰɘkniʲc̚ʔ,ɖʰɘkniʲc̚ʔ,lid,eaf_sequence_match,santali_glossed_3.eaf,92,200200,202200
+257,Net,ɟʰɘli,ɟʰɘli,net,eaf_sequence_match,santali_glossed_3.eaf,93,202400,204400
+258,Stove,culhɘ,culhɘ,stove,eaf_sequence_match,santali_glossed_3.eaf,94,204600,206600
+259,Sheet,pɘchɘ͡o̯ɽi,pɘchɘ͡o̯ɽi,sheet,eaf_sequence_match,santali_glossed_3.eaf,95,206800,208800
+260,Rug,pɘʈi.jɘ,pɘʈi.jɘ,rug,eaf_sequence_match,santali_glossed_3.eaf,96,209000,211000
+261,Sitting Tool,ganɖo,ganɖo,stool,eaf_sequence_match,santali_glossed_3.eaf,97,211200,213200
+262,Sitting Tool,mɘci,mɘci,stool,eaf_sequence_match,santali_glossed_3.eaf,98,213400,215400
+263,Sitting Tool,mɘci,mɘci,stool,eaf_sequence_match,santali_glossed_3.eaf,99,215600,217600
+264,The Broom,ɟɔnɔʔ,ɟɔnɔʔ,broom,eaf_sequence_match,santali_glossed_3.eaf,100,217800,219800
+265,Cooking Pot,ʈukuʲc̚ʔ,ʈukuʲc̚ʔ,pot,eaf_sequence_match,santali_glossed_3.eaf,101,220000,222000
+266,Cooking Pot,celaŋ,celaŋ,pot,eaf_sequence_match,santali_glossed_3.eaf,102,222200,224200
+267,The Mirror,ɘɾsi,ɘɾsi,mirror,eaf_sequence_match,santali_glossed_3.eaf,103,224400,226400
+268,The Comb,nɘkiʲc̚ʔ,nɘkiʲc̚ʔ,comb,eaf_sequence_match,santali_glossed_3.eaf,104,226600,228600
+269,The Lock,kulup̚,kulup̚,lock,eaf_sequence_match,santali_glossed_3.eaf,105,228800,230800
+270,The Key,cʰɔɽan,cʰɔɽan,key,eaf_sequence_match,santali_glossed_3.eaf,106,231000,233000
+271,The Basket,kʰɘc̚lɘʔ,kʰɘc̚lɘʔ,basket,eaf_sequence_match,santali_glossed_3.eaf,107,233200,235200
+272,There was a garden in front of our house in childhood.,kɘʈiʲc̚ʔ ɔk̚t̪ɛ alɛ ɔɽaʔ samaŋɾɛ miʔʈɛn bagan t̪ahɛ̃kana,kɘʈiʲc̚ʔ ɔk̚t̪ɛ alɛ ɔɽaʔ samaŋ-ɾɛ miʔ-ʈɛn bagan t̪ahɛ̃-kana,small time 1PL.EXCL house front-LOC one-CLF garden be-PROG,eaf_sequence_match,santali_glossed_3.eaf,108,235400,237400
+273,There were different kinds of flowers and fruit trees in that garden.,ɔna baganɾɛ a͡i̯malɛkan baha aɾ ɟɔː d̪aɾe t̪ahɛ̃kana,ɔna bagan-ɾɛ a͡i̯ma-lɛkan baha aɾ ɟɔː d̪aɾe t̪ahɛ̃-kana,DEM.DIST garden-LOC many-kind flower and fruit tree be-PROG,eaf_sequence_match,santali_glossed_3.eaf,109,237600,239600
+274,There was also a vegetable field on one side of the garden.,bagan ɾe.jaʔ mit̪̚ʔaɽeɾɛ aɽaʔsakam hɔ̃ t̪ahɛ̃kana,bagan ɾe.jaʔ mit̪̚ʔ-aɽe-ɾɛ aɽaʔsakam hɔ̃ t̪ahɛ̃-kana,garden GEN.IN one-side-LOC vegetable also be-PROG,eaf_sequence_match,santali_glossed_3.eaf,110,239800,241800
+275,My sister and I used to work in that garden on holidays.,cʰuʈi d̪inɾɛ iɲ aɾ misɾaɲd̪ɔ ɔna baganɾɛliɲ kɘmi.jɛt̚ʔ t̪ahɛ̃kana,cʰuʈi d̪in-ɾɛ iɲ aɾ mis-ɾaɲ-d̪ɔ ɔna bagan-ɾɛ-liɲ kɘmi-jɛt̚ʔ t̪ahɛ̃-kana,holiday day-LOC 1SG and sister-1SG-TOP DEM.DIST garden-LOC-1PL.EXCL.SUBJ work-INCMPL be-PROG,eaf_sequence_match,santali_glossed_3.eaf,111,242000,244000
+276,We used to water all the plants and clean the weeds.,ɛʈaʔ d̪aɾeko t̪ut̪̚ʔgiɖikat̪ɛ ɟɔt̪ɔ daɾeɾɛ d̪aʔliɲ d̪ulɛt̪̚ʔt̪ahɛ̃kana,ɛʈaʔ d̪aɾe-ko t̪ut̪̚ʔgiɖi kat̪ɛ ɟɔt̪ɔ d̪aɾe-ɾɛ d̪aʔ-liɲ d̪ulɛ-t̪̚ʔ t̪ahɛ̃-kana,other tree-PL weed CONV all tree-LOC water-1PL.EXCL.SUBJ pour-INCMPL be-PROG,eaf_sequence_match,santali_glossed_3.eaf,112,244200,246200
+277,Sometimes we used cow dung and ash as fertilizers.,ɔk̚t̪ɛ ɔk̚t̪ɛ saɾ lɛkat̪ɛ guɾiʲc̚ʔ aɾ t̪ɔɾɔʲc̚ʔliɲ laga͡ɔ̯ɛt̪̚ʔt̪ahɛ̃kana,ɔk̚t̪ɛ ɔk̚t̪ɛ saɾ lɛkat̪ɛ guɾiʲc̚ʔ aɾ t̪ɔɾɔʲc̚ʔ-liɲ laga͡ɔ̯-ɛt̪̚ʔ t̪ahɛ̃-kana,time time fertilizer like dung and ash-1PL.EXCL.SUBJ apply-INCMPL be-PROG,eaf_sequence_match,santali_glossed_3.eaf,113,246400,248400
+278,We felt great when the trees blossomed and bore fruit.,d̪aɾeɾɛ ɟɔ aɾ baha ɲɛlɔʔɾɛ ɘɖi ɾɘskɘliɲ buɟʰhɘo͡ɛ̯t̪̚ʔt̪ahɛ̃kana,d̪aɾe-ɾɛ ɟɔ aɾ baha ɲɛl-ɔʔ-ɾɛ ɘɖi ɾɘskɘ-liɲ buɟʰhɘ-o͡ɛ̯t̪̚ʔ t̪ahɛ̃-kana,tree-LOC fruit and flower see-NMLZ-LOC very joy-1PL.EXCL.SUBJ feel-INCMPL be-PROG,eaf_sequence_match,santali_glossed_3.eaf,114,248600,250600
+279,"If any fruits were great in number, they were sold in the market.",ɟahã ɟɔ ɖheɾ sap̚ʔlɛnkʰan ɔna d̯ɔ baɟaɾɾɛlɛ ɘkʰɾiɲɛt̪̚ʔ t̪ahɛ̃kana,ɟahã ɟɔ ɖheɾ sap̚ʔ-lɛn-kʰan ɔna d̪ɔ baɟaɾ-ɾɛ-lɛ ɘkʰɾiɲ-ɛt̪̚ʔ t̪ahɛ̃-kana,INDEF fruit much catch-PST.M-COND DEM.DIST TOP market-LOC-1PL.EXCL.SUBJ sell-INCMPL be-PROG,eaf_sequence_match,santali_glossed_3.eaf,115,250800,252800
+280,"One day while working in the garden, an insect bit my hand.",mit̪̚ʔd̪in kɘmi ɔk̚t̪ɛɾɛ mit̪̚ʔʈɛn t̪eɟud̪ɔ t̪i.jɛː gɛɾkɛt̪̚ʔt̪iɲa,mit̪̚ʔ-d̪in kɘmi ɔk̚t̪ɛ-ɾɛ mit̪̚ʔ-ʈɛn t̪eɟu-d̪ɔ t̪i-jɛː gɛɾ-kɛt̪̚ʔ-t̪iɲ-a,one-day work time-LOC one-CLF insect-TOP hand-LOC bite-PST.A-1SG.OBJ-FIN,eaf_sequence_match,santali_glossed_3.eaf,116,253000,255000
+281,My hand was swollen at that time and it was painful.,unɾɛ t̪i d̪ɔ pʰulɘo͡ɛ̯na aɾ hasolid̪iɲa,un-ɾɛ t̪i d̪ɔ pʰul-ɘ-o͡ɛ̯-na aɾ haso-li-d̪iɲ-a,DEM.DIST-LOC hand TOP swell-EP-PST.M-FIN and pain-PST-1SG.OBJ-FIN,eaf_sequence_match,santali_glossed_3.eaf,117,255200,257200
+282,"After applying the medicine, my hand got better.",ɾan laga͡o̯ t̪a.jɔm t̪i d̪ɔ boge.jɛn t̪iɲa,ɾan laga͡o̯ t̪a.jɔm t̪i d̪ɔ boge-jɛn-t̪iɲ-a,medicine apply after hand TOP good-PST.M-1SG.OBJ-FIN,eaf_sequence_match,santali_glossed_3.eaf,118,257400,259400
+283,Smile,land̪a,land̪a,smile,eaf_sequence_match,santali_glossed_3.eaf,119,259600,261600
+284,Cry,ɾaʔ,ɾaʔ,cry,eaf_sequence_match,santali_glossed_3.eaf,120,261800,263800
+285,Joy,ɾɘskɘ,ɾɘskɘ,joy,eaf_sequence_match,santali_glossed_3.eaf,121,264000,266000
+286,Anger,ɾaŋga͡o̯,ɾaŋga͡o̯,anger,eaf_sequence_match,santali_glossed_3.eaf,122,266200,268200
+287,Fear,bɔt̪ɔɾ,bɔt̪ɔɾ,fear,eaf_sequence_match,santali_glossed_3.eaf,123,268400,270400
+288,Thinking,hud̪is,hud̪is,thought,eaf_sequence_match,santali_glossed_3.eaf,124,270600,272600
+289,Courage,himmɘt̪,himmɘt̪,courage,eaf_sequence_match,santali_glossed_3.eaf,125,272800,274800
+290,Kindness,d̪a.ja,d̪a.ja,kindness,eaf_sequence_match,santali_glossed_3.eaf,126,275000,277000
+291,Love,d̪ulɘɽ,d̪ulɘɽ,love,eaf_sequence_match,santali_glossed_3.eaf,127,277200,279200
+292,Adore,d̪ulɘɽ,d̪ulɘɽ,love,eaf_sequence_match,santali_glossed_3.eaf,128,279400,281400
+293,Hatred,hiɾkʰɘ,hiɾkʰɘ,hatred,eaf_sequence_match,santali_glossed_3.eaf,129,281600,283600
+294,Kitchen,culhɘ ɔɽaʔ,culhɘ ɔɽaʔ,stove house,eaf_sequence_match,santali_glossed_3.eaf,130,283800,285800
+295,Rice,d̪aka,d̪aka,rice,eaf_sequence_match,santali_glossed_3.eaf,131,286000,288000
+296,Lentil,d̪ɘl,d̪ɘl,lentil,eaf_sequence_match,santali_glossed_3.eaf,132,288200,290200
+297,Egg,bele,bele,egg,eaf_sequence_match,santali_glossed_3.eaf,133,290400,292400
+298,Curry,ut̪u,ut̪u,curry,eaf_sequence_match,santali_glossed_3.eaf,134,292600,294600
+299,Breakfast,baske.jaʔ,baske.jaʔ,morning.meal,eaf_sequence_match,santali_glossed_3.eaf,135,294800,296800
+300,Lunch,maɲɟan,maɲɟan,noon.meal,eaf_sequence_match,santali_glossed_3.eaf,136,297000,299000
+301,Dinner,ked̪oʔ,ked̪oʔ,evening.meal,eaf_sequence_match,santali_glossed_3.eaf,137,299200,301200
+302,Puffed rice,kʰɘɟɘɽi,kʰɘɟɘɽi,puffed.rice,eaf_sequence_match,santali_glossed_3.eaf,138,301400,303400
+303,Flattened rice,t̪abɛn,t̪abɛn,flattened.rice,eaf_sequence_match,santali_glossed_3.eaf,139,303600,305600
+304,Jaggery,guɽ,guɽ,jaggery,eaf_sequence_match,santali_glossed_3.eaf,140,305800,307800
+305,Salt,buluŋ,buluŋ,salt,eaf_sequence_match,santali_glossed_3.eaf,141,308000,310000
+306,Meat,ɟel,ɟel,meat,eaf_sequence_match,santali_glossed_3.eaf,142,310200,312200
+307,Chicken,sim ɟel,sim ɟel,chicken meat,eaf_sequence_match,santali_glossed_3.eaf,143,312400,314400
+308,Beef,ɖaŋɾa ɟel,ɖaŋɾa ɟel,ox meat,eaf_sequence_match,santali_glossed_3.eaf,144,314600,316600
+309,Mutton,mɛɾɔm ɟel,mɛɾɔm ɟel,goat meat,eaf_sequence_match,santali_glossed_3.eaf,145,316800,318800
+310,Pork,sukɾi ɟel,sukɾi ɟel,pig meat,eaf_sequence_match,santali_glossed_3.eaf,146,319000,321000
+311,"Mother, younger brother will go to school for the first time today.",gɔː huɖiɲ bɔ͡i̯ha d̪ɔ t̪eheɲ pɘhil d̪ʰa͡o̯ iskulɛ calaʔa,gɔː huɖ-iɲ bɔ͡i̯ha d̪ɔ t̪eheɲ pɘhil d̪ʰa͡o̯ iskul-ɛ cala-ʔ-a,VOC younger.sibling-1SG.POSS today TOP this.time first day school-LOC go-NFIN-FIN,eaf_sequence_match,santali_school_dialogue_glossed.eaf,1,0,2000
+312,He is afraid to go to school.,uni d̪ɔ iskul calaʔɛ bɔt̪ɔɾɔʔ kana,uni d̪ɔ iskul cala-ʔ-ɛ bɔt̪ɔɾɔ-ʔ kan-a,3SG.AN TOP school go-NFIN-INF afraid-NFIN COP.PROG-FIN,eaf_sequence_match,santali_school_dialogue_glossed.eaf,2,2200,4200
+313,"What shall I do now, Mother?",nit̪̚ cɛʔiɲ ceka ja gɔː,nit̪̚ cɛ-ʔ-iɲ cek-a ja gɔː,now what-NFIN-1SG.SUBJ do-FIN Q VOC,eaf_sequence_match,santali_school_dialogue_glossed.eaf,3,4400,6400
+314,It will be fine if you go to school with him.,uni sã͡ɔ̯t̪ɛ am d̪ɔ iskulɛ m cala͡o̯lɛnkʰange ho jo a,uni sã͡ɔ̯t̪ɛ am d̪ɔ iskul-ɛ -m cala͡o̯-lɛn-kʰan-ge ho-jo-a,3SG.AN with 2SG TOP school-LOC 2SG.SUBJ go-CAUS-COND-EMPH be.good-RESLT-FIN,eaf_sequence_match,santali_school_dialogue_glossed.eaf,4,6600,8600
+315,"If you stay with him, he will not be afraid.",uni sã͡o̯ɾɛ m t̪ahɛ̃lɛnkʰan ba͡i̯ bɔt̪ɔɾɔ a,uni sã͡o̯ɾɛ -m t̪ahɛ̃-lɛn-kʰan ba-͡i̯ bɔt̪ɔɾɔ-a,3SG.AN with-LOC 2SG.SUBJ stay-CAUS-COND NEG-3SG.SUBJ afraid-FIN,eaf_sequence_match,santali_school_dialogue_glossed.eaf,5,8800,10800
+316,I will certainly go with him.,iɲ d̪ɔ ɔbɔs ge uni sã͡o̯t̪ɛ ɲ cala a,iɲ d̪ɔ ɔbɔs ge uni sã͡o̯t̪ɛ -ɲ cala-a,1SG TOP certainly EMPH 3SG.AN with 1SG.SUBJ go-FIN,eaf_sequence_match,santali_school_dialogue_glossed.eaf,6,11000,13000
+317,He will be alone in the class; then he might get scared.,uni d̪ɔ klasɾɛ eɛs kaɾge͡i̯ t̪ahɛ̃na unɾɛ͡i̯ bɔt̪ɔɾ d̪aɽe jaʔa,uni d̪ɔ klas-ɾɛ eɛs kaɾ-ge-͡i̯ t̪ahɛ̃-na uni-ɾɛ-͡i̯ bɔt̪ɔɾ d̪aɽe-ja-ʔ-a,3SG.AN TOP class-LOC alone-EMPH-3SG.SUBJ stay-EVID.FIN 3SG.AN-LOC-3SG.SUBJ afraid can-MOD-NFIN-FIN,eaf_sequence_match,santali_school_dialogue_glossed.eaf,7,13200,15200
+318,There is nothing to be afraid of.,bɔt̪ɔɾɔʔ ɾenaʔ cɛt̪̚ʔ hɔ̃ bɘnu a,bɔt̪ɔɾɔ-ʔ ɾenaʔ cɛt̪̚ʔ hɔ̃ bɘnu-a,afraid-NFIN GEN nothing even NEG.EXIST-FIN,eaf_sequence_match,santali_school_dialogue_glossed.eaf,8,15400,17400
+319,Now he will play more than study.,nit̪̚ d̪ɔ uni ɔlɔʔ paɽhaʔ bɔd̪ɔlt̪ɛ gate ʔge ɟɘst̪i͡i̯ kusi a,nit̪̚ d̪ɔ uni ɔlɔʔ paɽha-ʔ bɔd̪ɔl-t̪ɛ gate-ʔ-ge ɟɘst̪i-͡i̯ kusi-a,now TOP 3SG.AN study study-NFIN instead.of-ABL play-NFIN-EMPH more-3SG.SUBJ happy-FIN,eaf_sequence_match,santali_school_dialogue_glossed.eaf,9,17600,19600
+320,This is better than studying suddenly.,ac̚ka ac̚ka paɽhaʔ bɔd̪ɔlt̪ɛ no̯͡a kɘmi ge boge ja,ac̚ka ac̚ka paɽha-ʔ bɔd̪ɔl-t̪ɛ no̯͡a kɘmi-ge boge-ja,suddenly suddenly study-NFIN instead.of-ABL PROX.DEM manner-EMPH good-MOD.FIN,eaf_sequence_match,santali_school_dialogue_glossed.eaf,10,19800,21800
+321,He can do many things though.,mɛnɛʔ uni d̪ɔ a͡i̯ma ge͡i̯ d̪aɽe jaʔa,mɛnɛʔ uni d̪ɔ a͡i̯ma-ge-͡i̯ d̪aɽe-ja-ʔ-a,although 3SG.AN TOP many-EMPH-3SG.SUBJ can-MOD-NFIN-FIN,eaf_sequence_match,santali_school_dialogue_glossed.eaf,11,22000,24000
+322,"He knows the letters and alphabets, can count, and can name the months and days.",uni d̪ɔ haɾɔp̚ko bɔɾnɔmalako lɛkʰa cand̪o aɾ d̪in ɾe jaʔ ɲit̪umɛ ɾɔɽ d̪aɽe o̯͡aʔa,uni d̪ɔ haɾɔp̚-ko bɔɾnɔmala-ko lɛkʰa cand̪o aɾ d̪in ɾenaʔ ɲit̪um-ɛ ɾɔɽ d̪aɽe-o̯͡a-ʔ-a,3SG.AN TOP letter-PL alphabet-PL count month and day GEN name-OBJ say can-3SG.OBJ-NFIN-FIN,eaf_sequence_match,santali_school_dialogue_glossed.eaf,12,24200,26200
+323,But can he state his home address?,cɛt̪̚ʔ uni d̪ɔ a jaʔ ɔɽaʔ ɾenaʔ ʈʰikana͡i̯ lɘ͡͡i̯ d̪aɽe jaʔa,cɛt̪̚ʔ uni d̪ɔ a-jaʔ ɔɽaʔ ɾenaʔ ʈʰikana-͡i̯ lɘ-͡i̯ d̪aɽe-jaʔ-a,but 3SG.AN TOP 3SG.AN-GEN house GEN address-3SG.SUBJ say-3SG.SUBJ can-NFIN-FIN,eaf_sequence_match,santali_school_dialogue_glossed.eaf,13,26400,28400
+324,I think he still cannot do this.,hud̪i sid̪ɘɲ uni d̪ɔ no̯͡a nit̪̚ hɔ̃ ba͡i̯ lɘ͡i̯ d̪aɽe jaʔa,hud̪i sid̪-ɘɲ uni d̪ɔ no̯͡a nit̪̚ hɔ̃ ba-͡i̯ lɘ-͡i̯ d̪aɽe-jaʔ-a,think seem-1SG.SUBJ 3SG.AN TOP PROX.DEM now still NEG-3SG.SUBJ say-3SG.SUBJ can-NFIN-FIN,eaf_sequence_match,santali_school_dialogue_glossed.eaf,14,28600,30600
+325,Why does he need to know these?,no̯͡a d̪ɔ ced̪aʔ baɖa͡i̯ ɟɘɾuɽ ta ja,no̯͡a d̪ɔ ced̪aʔ baɖa-͡i̯ ɟɘɾuɽ-ta-ja,PROX.DEM TOP why know-3SG.SUBJ need-NMLZ-MOD.FIN,eaf_sequence_match,santali_school_dialogue_glossed.eaf,15,30800,32800
+326,All children need to know these things.,ɟɔt̪ɔ gid̪ɾɘo̯͡aʔ ge no̯͡ako baɖa͡i̯ d̪ɔ ɟɘɾuɽ ge ja,ɟɔt̪ɔ gid̪ɾɘ-o̯͡aʔ-ge no̯͡a-ko baɖa-͡i̯ d̪ɔ ɟɘɾuɽ-ge-ja,all child-3PL-EMPH PROX.DEM-PL know-3SG.SUBJ TOP need-EMPH-MOD.FIN,eaf_sequence_match,santali_school_dialogue_glossed.eaf,16,33000,35000
+327,So that they can answer if someone asks.,ɟãhã͡i̯ko kuli̯͡ɛɾɛ ɟɛmɔnɛ lɘ͡i̯ d̪aɽe jaʔ,ɟãhã-͡i̯-ko kuli̯͡ɛ-ɾɛ ɟɛmɔnɛ lɘ-͡i̯ d̪aɽe-jaʔ,whoever-3SG-PL ask-LOC so.that say-3SG.SUBJ can-NFIN,eaf_sequence_match,santali_school_dialogue_glossed.eaf,17,35200,37200
+328,"Besides, if he knows these, he will not get lost.",ɔna cʰaɖa no̯͡a baɖa͡i̯ t̪ahɛn kʰan ba͡i̯ ad̪ɔʔa,ɔna cʰaɖa no̯͡a baɖa-͡i̯ t̪ahɛn-kʰan ba-͡i̯ ad̪ɔ-ʔ-a,DIST.DEM apart.from PROX.DEM know-3SG.SUBJ stay-COND NEG-3SG.SUBJ get.lost-NFIN-FIN,eaf_sequence_match,santali_school_dialogue_glossed.eaf,18,37400,39400
+329,"You are right, Mother.",am d̪ɔ ʈʰik ge m mɛne d̪a gɔ,am d̪ɔ ʈʰik-ge -m mɛne-d̪a gɔ,2SG TOP right-EMPH 2SG.SUBJ say-PST.FIN VOC,eaf_sequence_match,santali_school_dialogue_glossed.eaf,19,39600,41600
+330,What things need to be bought for him?,uni lɘgit̪̚ʔ cɛt̪̚ʔ cɛt̪̚ʔ ko kiɾiɲ ɟɘɾuɽa,uni lɘgit̪̚ʔ cɛt̪̚ʔ cɛt̪̚ʔ-ko kiɾ-iɲ ɟɘɾuɽ-a,3SG.AN for what what-PL buy-1SG.SUBJ need-FIN,eaf_sequence_match,santali_school_dialogue_glossed.eaf,20,41800,43800
+331,"Need to buy a school bag, paper, pencil, eraser, and sharpener.",iskul bɛg kagɔc̚ pensil iɾeɟaɾ saɾp̚naɾ no̯͡ako kiɾiɲ ɟɘɾuɽa,iskul bɛg kagɔc̚ pensil iɾeɟaɾ saɾp̚naɾ no̯͡a-ko kiɾ-iɲ ɟɘɾuɽ-a,school bag paper pencil eraser sharpener PROX.DEM-PL buy-1SG.SUBJ need-FIN,eaf_sequence_match,santali_school_dialogue_glossed.eaf,21,44000,46000
+332,"Alright, I am taking him to the shop now.",ac̚cʰa uni ni jɘ ge d̪okani ɲ calaʔ kana,ac̚cʰa uni ni-jɘ-ge d̪okan-iɲ cala-ʔ-kan-a,alright 3SG.AN take-TR-EMPH shop-1SG.OBJ go-NFIN-COP.PROG-FIN,eaf_sequence_match,santali_school_dialogue_glossed.eaf,22,46200,48200
+333,It would be better if he buys the things he likes himself.,uni d̪ɔ aʲcʔ kusiʔ lekan ɟinis ko kiɾiɲ lekʰan boge ho jo a,uni d̪ɔ aʲcʔ kusi-ʔ-lekan ɟinis-ko kiɾ-iɲ-lekan boge-ho-jo-a,3SG.AN TOP self like-NFIN-REL thing-PL buy-1SG.OBJ-REL good-be-RESLT-FIN,eaf_sequence_match,santali_school_dialogue_glossed.eaf,23,48400,50400
+334,"Yes, tomorrow you will take him to school.",hɛ̃ gapa d̪ɔ uni ni͡ɘ̯ iskul ɛ m cala a,hɛ̃ gapa d̪ɔ uni ni-͡ɘ̯ iskul-ɛ -m cala-a,yes tomorrow TOP 3SG.AN take-TR school-LOC 2SG.SUBJ go-FIN,eaf_sequence_match,santali_school_dialogue_glossed.eaf,24,50600,52600
+335,A pregnant woman (mother) should visit a doctor immediately right after conception.,hɔɽmɔ-ɾɛ gid̪ɾɘ hɛʲc̚ʔ t̪a.jɔm t̪a.jɔm-ge gɔgɔ hɔɽ-aʔ ɖak̚t̪aɾ-ʈʰɛʲc̚ʔ cala-ʔ ɟɘɾuɽ-a,hɔɽmɔ-ɾɛ gid̪ɾɘ hɛʲc̚ʔ t̪a.jɔm t̪a.jɔm-ge gɔgɔ hɔɽ-aʔ ɖak̚t̪aɾ-ʈʰɛʲc̚ʔ cala-ʔ ɟɘɾuɽ-a,body-LOC child come after after-EMPH mother person-GEN doctor-LOC go-IPFV need-FIN,eaf_sequence_match,santali_glossed_new.eaf,1,0,2000
+336,Any minor ailment should not be neglected during this time.,nɔŋkan ɔkt̪ɛ-ɾɛ kɘʈiʲc̚ʔ lɘʈu ɟãhalɛkan ɾu̯͡ɘ-ge baŋ pɔsɽa͡o̯ ho.jo.a,nɔŋkan ɔkt̪ɛ-ɾɛ kɘʈiʲc̚ʔ lɘʈu ɟãhalɛkan ɾu̯͡ɘ-ge baŋ pɔsɽa͡o̯ ho.jo-a,such time-LOC small minor any disease-EMPH NEG neglect become-FIN,eaf_sequence_match,santali_glossed_new.eaf,2,2200,4200
+337,It is better to know from the doctor what needs to be done at this time.,no̯͡a ɔkt̪ɛ-ɾɛ ganɔʔ baŋ ganɔʔ kɘmi-ko d̪ɔ ɖak̚t̪aɾ ʈʰɛn kʰɔn baɖa͡i̯-ɟɔŋ ho.jo.a,no̯͡a ɔkt̪ɛ-ɾɛ ganɔʔ baŋ ganɔʔ kɘmi-ko d̪ɔ ɖak̚t̪aɾ ʈʰɛn kʰɔn baɖa͡i̯-ɟɔŋ ho.jo-a,this time-LOC what NEG what work-3PL TOP doctor LOC ABL know-1SG become-FIN,eaf_sequence_match,santali_glossed_new.eaf,3,4400,6400
+338,"In this time, attention should be paid to what kind of food one gives the mother to eat so that both the baby and the mother will be well.",ɔna ɔkt̪ɛ cɛt̪̚ʔ cɛt̪̚ʔ ɟɔm lɛkʰan gid̪ɾɘ aɾ gɔgɔ hɔɽ-aʔ bo-ge ho.jo.a ɔna-hɔ̃ ɲɛl ho.jo.a,ɔna ɔkt̪ɛ cɛt̪̚ʔ cɛt̪̚ʔ ɟɔm lɛkʰan gid̪ɾɘ aɾ gɔgɔ hɔɽ-aʔ bo-ge ho.jo-a ɔna-hɔ̃ ɲɛl ho.jo-a,that time what what eat COND child and mother person-GEN good-EMPH become-FIN that-also see become-FIN,eaf_sequence_match,santali_glossed_new.eaf,4,6600,8600
+339,A pregnant mother should not do any heavy work.,ɟahan hamal kɘmi kɘmi͡i̯ d̪ɔ pɛɾɛʲc̚ʔ hɔɽmɔ gɔgɔ hɔɽ-aʔ baŋ ganɔ.a,ɟahan hamal kɘmi kɘmi͡i̯ d̪ɔ pɛɾɛʲc̚ʔ hɔɽmɔ gɔgɔ hɔɽ-aʔ baŋ ganɔ-a,any heavy work work-NMLZ TOP pregnant body mother person-GEN NEG do-FIN,eaf_sequence_match,santali_glossed_new.eaf,5,8800,10800
+340,A pregnant mother should always be given nutritious/good food.,hamal hɔɽmɔ gɔgɔ-hɔɽ d̪ɔ bʰa-ge bʰa-ge ɟɔm ɲu em-a-ko ho.jo.a,hamal hɔɽmɔ gɔgɔ-hɔɽ d̪ɔ bʰa-ge bʰa-ge ɟɔm ɲu em-a-ko ho.jo-a,pregnant body mother-person TOP good-EMPH good-EMPH eat drink give-FIN-3PL become-FIN,eaf_sequence_match,santali_glossed_new.eaf,6,11000,13000
+341,During this time fasting is not permitted.,no̯͡a ɔk̚t̪ɛ bɛgɔɾ ɟɔm-t̪ɛ baŋ t̪ãhɛn ho.jo.a,no̯͡a ɔk̚t̪ɛ bɛgɔɾ ɟɔm-t̪ɛ baŋ t̪ãhɛn ho.jo-a,this time without eat-CVB NEG stay become-FIN,eaf_sequence_match,santali_glossed_new.eaf,7,13200,15200
+342,We have to be careful so that the mother's body does not become too heavy.,gɔgɔ hɔɽ-aʔ hɔɽmɔ ɟɛnɔ ɘɖi ɟɘst̪i baŋ hamal-ɔʔ-t̪a͡i̯ ɔnt̪ɛ-hɔ̃ ɲɛl ho.j-a,gɔgɔ hɔɽ-aʔ hɔɽmɔ ɟɛnɔ ɘɖi ɟɘst̪i baŋ hamal-ɔʔ-t̪a͡i̯ ɔnt̪ɛ-hɔ̃ ɲɛl ho.j-a,mother person-GEN body so.that very much NEG heavy-IPFV-3SG that-also see become-FIN,eaf_sequence_match,santali_glossed_new.eaf,8,15400,17400
+343,"If the pregnant woman's body becomes too heavy, various diseases can attack.",hɔɽmɔ ɘɖi ɟɘst̪i hamal lɛn-kʰan uni gɔgɔ hɔɽ-aʔ a͡i̯malɛkan ɾu̯͡ɘ haso ho͡i̯ d̪aɽe.j-aʔa,hɔɽmɔ ɘɖi ɟɘst̪i hamal lɛn-kʰan uni gɔgɔ hɔɽ-aʔ a͡i̯malɛkan ɾu̯͡ɘ haso ho͡i̯ d̪aɽe.j-aʔa,body very much heavy become-COND 3SG.DEF mother person-GEN various disease pain become can-FIN,eaf_sequence_match,santali_glossed_new.eaf,9,17600,19600
+344,"Nipa: Hello, (Greetings)! Is the Doctor speaking?",ɟohaɾ ɖak̚t̪aɾ-ɛm mɛn-ɛd̪-a,ɟohaɾ ɖak̚t̪aɾ-ɛm mɛn-ɛd̪-a,greetings doctor-2SG say-PROG-FIN,eaf_sequence_match,santali_glossed_new.eaf,10,19800,21800
+345,"Doctor: Yes, I am speaking.",hɛɲ mɛn-ɛd̪-a,hɛɲ mɛn-ɛd̪-a,yes say-PROG-FIN,eaf_sequence_match,santali_glossed_new.eaf,11,22000,24000
+346,Nipa: My son got attacked by a sudden cold and diarrhoea.,iɲ-ɾɛn kɔɽa gid̪ɾɘ-ɔ̯͡aʔ huʈgɘ-ɾi-t̪ɛ mand̪a aɾ ciɖiɾ ɛhɔb̚ʔ-akan-t̪a.j-a,iɲ-ɾɛn kɔɽa gid̪ɾɘ-ɔ̯͡aʔ huʈgɘ-ɾi-t̪ɛ mand̪a aɾ ciɖiɾ ɛhɔb̚ʔ-akan-t̪a.j-a,1SG-GEN boy child-GEN sudden-NMLZ-CVB cold and diarrhoea start-PRF-3SG-FIN,eaf_sequence_match,santali_glossed_new.eaf,12,24200,26200
+347,Doctor: How old is your child?,am-ɾɛn gid̪ɾɘ-ɔ̯͡aʔ t̪inɘʔ umɘɾ,am-ɾɛn gid̪ɾɘ-ɔ̯͡aʔ t̪inɘʔ umɘɾ,2SG-GEN child-GEN how.much age,eaf_sequence_match,santali_glossed_new.eaf,13,26400,28400
+348,Nipa: He is 10 months old.,uni.j-aʔ umɘɾ gɛl cand̪o,uni.j-aʔ umɘɾ gɛl cand̪o,3SG-GEN age ten month,eaf_sequence_match,santali_glossed_new.eaf,14,28600,30600
+349,Doctor: Does he have a fever?,uni.j-aʔ hɔɽmɔ-ɾɛ cɛt̪̚ʔ ɾu̯͡ɘ mɛn-a-a,uni.j-aʔ hɔɽmɔ-ɾɛ cɛt̪̚ʔ ɾu̯͡ɘ mɛn-a-a,3SG-GEN body-LOC what fever exist-FIN-Q,eaf_sequence_match,santali_glossed_new.eaf,15,30800,32800
+350,"Nipa: Not a fever, but his body is slightly warm.",hɔɽmɔ-ɾɛ ɾu̯͡ɘ bɘnu-a t̪ɔbɛ hɔɽmɔ t̪ʰɔɽa lɔlɔ-ge mɛn-a-a,hɔɽmɔ-ɾɛ ɾu̯͡ɘ bɘnu-a t̪ɔbɛ hɔɽmɔ t̪ʰɔɽa lɔlɔ-ge mɛn-a-a,body-LOC fever NEG-FIN but body little warm-EMPH exist-FIN-FIN,eaf_sequence_match,santali_glossed_new.eaf,16,33000,35000
+351,Doctor: How long has this condition been for the child?,gid̪ɾɘ-ɔ̯͡aʔ ni̯͡ɘ halɔt̪̚ʔ t̪inɘʔ-din-kʰɔn,gid̪ɾɘ-ɔ̯͡aʔ ni̯͡ɘ halɔt̪̚ʔ t̪inɘʔ-din-kʰɔn,child-GEN this condition how.much-day-ABL,eaf_sequence_match,santali_glossed_new.eaf,17,35200,37200
+352,Nipa: This situation started from last night.,hɔla ɲind̪ɘ-kʰɔn ni̯͡ɘ halɔt̪̚ʔ ɛhɔp̚ʔ-akan-t̪a.j-a,hɔla ɲind̪ɘ-kʰɔn ni̯͡ɘ halɔt̪̚ʔ ɛhɔp̚ʔ-akan-t̪a.j-a,yesterday night-ABL this condition start-PRF-3SG-FIN,eaf_sequence_match,santali_glossed_new.eaf,18,37400,39400
+353,Doctor: How many times has he defecated since morning?,sɛt̪aʔ-kʰɔn uni t̪inɘʔ-d̪ʰa͡o̯-ɛ ʈɘnɖi.j-akad̪-a,sɛt̪aʔ-kʰɔn uni t̪inɘʔ-d̪ʰa͡o̯-ɛ ʈɘnɖi.j-akad̪-a,morning-ABL 3SG.DEF how.much-time-3SG defecate-PRF-FIN,eaf_sequence_match,santali_glossed_new.eaf,19,39600,41600
+354,Nipa: He has defecated 5 times since morning.,sɛt̪aʔ-kʰɔn uniː mɔ̃ɽɛ-d̪ʰa͡o̯-ɛ ʈɘnɖi.j-akad̪-a,sɛt̪aʔ-kʰɔn uniː mɔ̃ɽɛ-d̪ʰa͡o̯-ɛ ʈɘnɖi.j-akad̪-a,morning-ABL 3SG.DEF five-time-3SG defecate-PRF-FIN,eaf_sequence_match,santali_glossed_new.eaf,20,41800,43800
+355,Doctor: Is the stool thin or thick?,ʈɘnɖi-t̪ɛt̪̚ʔ-d̪ɔ cɛt̪̚ʔ lɛhɛɾ-ge.j-a sɛ kɛʈɛʲc̚ʔ-ge.j-a,ʈɘnɖi-t̪ɛt̪̚ʔ-d̪ɔ cɛt̪̚ʔ lɛhɛɾ-ge.j-a sɛ kɛʈɛʲc̚ʔ-ge.j-a,stool-NMLZ-TOP what thin-EMPH-FIN or thick-EMPH-FIN,eaf_sequence_match,santali_glossed_new.eaf,21,44000,46000
+356,Nipa: Not too thin.,ɘɖi ɟɘst̪i-d̪ɔː baŋ lɛhɛɾ-a,ɘɖi ɟɘst̪i-d̪ɔː baŋ lɛhɛɾ-a,very much-TOP NEG thin-FIN,eaf_sequence_match,santali_glossed_new.eaf,22,46200,48200
+357,Doctor: Give him saline to drink.,sɛla.jin ɲu ŭcu.j-ɛm,sɛla.jin ɲu ŭcu.j-ɛm,saline drink CAUS-2SG.IMP,eaf_sequence_match,santali_glossed_new.eaf,23,48400,50400
+358,Doctor: You can also give him coconut water to drink.,ɖab ɾe.j-aʔ d̪aʔ hɔ̃-m ɲu oco d̪aɽe-o̯͡a.j-a,ɖab ɾe.j-aʔ d̪aʔ hɔ̃-m ɲu oco d̪aɽe-o̯͡a.j-a,coconut LOC-GEN water also-2SG drink CAUS can-FIN-FIN,eaf_sequence_match,santali_glossed_new.eaf,24,50600,52600
+359,"Doctor: And, if he has a fever, give him [this] medicine.",aɾ ɾu̯͡ɘ t̪ahɛn-kʰan ni.jɘ ɾaːn-ɛm ɟɔm-ŏco͡i̯-a,aɾ ɾu̯͡ɘ t̪ahɛn-kʰan ni.jɘ ɾaːn-ɛm ɟɔm-ŏco͡i̯-a,and fever stay-COND this medicine-2SG eat-CAUS.2SG.IMP-FIN,eaf_sequence_match,santali_glossed_new.eaf,25,52800,54800
+360,Nipa: Should I feed the baby rice porridge in addition to the medicine and breast milk?,ɾan aɾ kɔɽam ɾe.j-aʔ t̪o̯͡a baɾhɛ cɛt̪̚ʔ gid̪ɾɘ d̪ɔ ɟɘ͡o̯ d̪aka-ɲ ɟɔm oco d̪aɽe-ɔ̯͡a.j-a,ɾan aɾ kɔɽam ɾe.j-aʔ t̪o̯͡a baɾhɛ cɛt̪̚ʔ gid̪ɾɘ d̪ɔ ɟɘ͡o̯ d̪aka-ɲ ɟɔm oco d̪aɽe-ɔ̯͡a.j-a,medicine and breast LOC-GEN milk besides what child TOP porridge rice-1SG eat CAUS can-FIN-Q,eaf_sequence_match,santali_glossed_new.eaf,26,55000,57000
+361,Doctor: No need to do that.,ɟɘɾuɽ bɘnu-a,ɟɘɾuɽ bɘnu-a,need NEG-FIN,eaf_sequence_match,santali_glossed_new.eaf,27,57200,59200
+362,"Nipa: Thank you, (Greetings).",am-d̪ɔ ai̯͡ma saɾha͡o̯ ɟohaɾ,am-d̪ɔ ai̯͡ma saɾha͡o̯ ɟohaɾ,2SG-TOP much thanks greetings,eaf_sequence_match,santali_glossed_new.eaf,28,59400,61400
+363,There is a big bamboo forest next to our house.,alɛ ɔɽaʔ aɽe-ɾɛ mit̪̚ʔʈɛʲc̚ʔ lɘʈu-gi mãt̪̚ʔ t̪ʰɔp̚ʔ men-a-a,alɛ ɔɽaʔ aɽe-ɾɛ mit̪̚ʔ-ʈɛʲc̚ʔ lɘʈu-gi mãt̪̚ʔ t̪ʰɔp̚ʔ men-a-a,1PL.EX house side-LOC one-CLF big-EMPH bamboo cluster exist-FIN-FIN,eaf_sequence_match,santali_glossed_new.eaf,29,61600,63600
+364,Many types of known and unknown birds live there.,ɔnɖɛ d̪ɔ baɖa͡i̯ baŋ baɖa͡i̯ nanahunɘɾ cɛ̃ɽɛ̃-ko ta̪hɛ̃-n-a,ɔnɖɛ d̪ɔ baɖa͡i̯ baŋ baɖa͡i̯ nanahunɘɾ cɛ̃ɽɛ̃-ko ta̪hɛ̃-n-a,there TOP know NEG know various bird-3PL stay-3PL-FIN,eaf_sequence_match,santali_glossed_new.eaf,30,63800,65800
+365,Every morning we wake up to the chirping of those birds.,d̪inɘm-hilɘʔ sɛt̪aʔ-ɾɛ cɛ̃ɽɛ̃-ko-ɔ̯͡aʔ cɛɾɔ-bɛɾɔ aɲɟɔm-t̪ɛ alɛ d̪ɔ-lɛ ɛbʰɛn-ɔʔ-a,d̪inɘm-hilɘʔ sɛt̪aʔ-ɾɛ cɛ̃ɽɛ̃-ko-ɔ̯͡aʔ cɛɾɔ-bɛɾɔ aɲɟɔm-t̪ɛ alɛ d̪ɔ-lɛ ɛbʰɛn-ɔʔ-a,everyday morning-LOC bird-3PL-GEN chirp-RDP hear-CVB 1PL.EX TOP-1PL.EX wake-IPFV-FIN,eaf_sequence_match,santali_glossed_new.eaf,31,66000,68000
+366,Hearing the birds' chirping makes you feel better.,cɛ̃ɽɛ̃-ko-ɔ̯͡aʔ cɛɾɔ-bɛɾɔ aɲɟɔm-t̪ɛ ale.j-aʔ mɔn d̪ɔ ɾɘs-kɛ-t̪ɛ pɛɾɛɟ-ɔʔ-a,cɛ̃ɽɛ̃-ko-ɔ̯͡aʔ cɛɾɔ-bɛɾɔ aɲɟɔm-t̪ɛ ale.j-aʔ mɔn d̪ɔ ɾɘs-kɛ-t̪ɛ pɛɾɛɟ-ɔʔ-a,bird-3PL-GEN chirp-RDP hear-CVB 1PL.EX-GEN heart TOP joy-PST-CVB fill-IPFV-FIN,eaf_sequence_match,santali_glossed_new.eaf,32,68200,70200
+367,The Warbler is the tiniest bird among all the birds.,oŋko mut̪̚ʔ-ɾɛ kɘʈiʲc̚ʔ ut̪ɘɾiʔ cɛ̃ɽɛ̃.j-aʔ ɲut̪um d̪ɔ pʰecaʔ,oŋko mut̪̚ʔ-ɾɛ kɘʈiʲc̚ʔ ut̪ɘɾiʔ cɛ̃ɽɛ̃.j-aʔ ɲut̪um d̪ɔ pʰecaʔ,3PL all-LOC small tiny bird-GEN name TOP warbler,eaf_sequence_match,santali_glossed_new.eaf,33,70400,72400
+368,"They do not sit in one place, but fly from one branch to another branch of trees.",noko d̪ɔ ba-ko d̪uɽup̚ʔ t̪ʰiɾ-u-a mit̪̚ʔ ɖɘɾ kʰɔn eʈaʔ ɖɘɾ-ko uɖɘ͡o̯ baɽa-j-a,noko d̪ɔ ba-ko d̪uɽup̚ʔ t̪ʰiɾ-u-a mit̪̚ʔ ɖɘɾ kʰɔn eʈaʔ ɖɘɾ-ko uɖɘ͡o̯ baɽa-j-a,DEM.PROX TOP NEG-3PL sit stable-VBLZ-FIN one branch ABL other branch-3PL fly wander-FIN-FIN,eaf_sequence_match,santali_glossed_new.eaf,34,72600,74600
+369,They seem to be always dancing.,ɲɛl-kat̪ɛ-m mɛn-ke̯͡a ɛnɛɟ-ɔʔ-t̪i-gi men-aʔ-ko̯͡a,ɲɛl-kat̪ɛ-m mɛn-ke̯͡a ɛnɛɟ-ɔʔ-t̪i-gi men-aʔ-ko̯͡a,see-CVB-2SG say-3SG dance-IPFV-PROG-EMPH exist-FIN-3PL,eaf_sequence_match,santali_glossed_new.eaf,35,74800,76800
+370,A little bigger bird than them is called the Sparrow.,onko kʰɔn lɘʈu macʰi cɛ̃ɽɛ̃.j-aʔ ɲut̪m d̪ɔ gʰa͡o̯ɽa,onko kʰɔn lɘʈu macʰi cɛ̃ɽɛ̃.j-aʔ ɲut̪um d̪ɔ gʰa͡o̯ɽa,3PL ABL big slightly bird-GEN name TOP sparrow,eaf_sequence_match,santali_glossed_new.eaf,36,77000,79000
+371,They also fly from branches to branches like the Warbler.,uŋko-hɔ̃ pʰecaʔ cɛ̃ɽɛ̃-leka hana ɖɘɾ nʰao̯͡a ɖɘɾ-ku uɖɘ͡o̯ baɽa-j-a,uŋko-hɔ̃ pʰecaʔ cɛ̃ɽɛ̃-leka hana ɖɘɾ nʰao̯͡a ɖɘɾ-ku uɖɘ͡o̯ baɽa-j-a,3PL-also warbler bird-like that branch this branch-3PL fly wander-FIN-FIN,eaf_sequence_match,santali_glossed_new.eaf,37,79200,81200
+372,Another type of small bird is called the Weaver.,aɾ mit̪̚ʔ-lɛkan kɘʈiʲc̚ʔ cɛ̃ɽɛ̃-ɔ̯͡aʔ ɲut̪um d̪ɔ hojoʔkana hisi cɛ̃ɽɛ̃,aɾ mit̪̚ʔ-lɛkan kɘʈiʲc̚ʔ cɛ̃ɽɛ̃-ɔ̯͡aʔ ɲut̪um d̪ɔ hojoʔ-kana hisi cɛ̃ɽɛ̃,and one-kind small bird-GEN name TOP be-PROG weaver bird,eaf_sequence_match,santali_glossed_new.eaf,38,81400,83400
+373,They can make very beautiful nests in the tree branches.,oŋko d̪ɔ d̪aɾɛ ɖɘɾ-ɾɛ ɘɖi mɔ̃ɟ mɔ̃ɟ t̪ukɘ-ku bɛna-ɔ̯͡a,oŋko d̪ɔ d̪aɾɛ ɖɘɾ-ɾɛ ɘɖi mɔ̃ɟ mɔ̃ɟ t̪ukɘ-ku bɛna-ɔ̯͡a,3PL TOP tree branch-LOC very beautiful beautiful nest-3PL make-FIN,eaf_sequence_match,santali_glossed_new.eaf,39,83600,85600
+374,A little bigger bird than them is the Nightingale.,aɾ uŋko kʰɔn t̪ʰɔɽa lɘʈu cɛ̃ɽɛ̃.j-aʔ ɲut̪um d̪ɔ hojoʔ-kana ʈiʔʈɔɽɔ̃ʔ,aɾ uŋko kʰɔn t̪ʰɔɽa lɘʈu cɛ̃ɽɛ̃.j-aʔ ɲut̪um d̪ɔ hojoʔ-kana ʈiʔʈɔɽɔ̃ʔ,and 3PL ABL little big bird-GEN name TOP be-PROG nightingale,eaf_sequence_match,santali_glossed_new.eaf,40,85800,87800
+375,This bird can sing very well.,nɔŋkan cɛ̃ɽɛ̃ ɘɖi mɔ̃ɟ cɛɾɔ-bɛɾɔ-ko seɾeɲ-a,nɔŋkan cɛ̃ɽɛ̃ ɘɖi mɔ̃ɟ cɛɾɔ-bɛɾɔ-ko seɾeɲ-a,such bird very good chirp-RDP-3PL sing-FIN,eaf_sequence_match,santali_glossed_new.eaf,41,88000,90000
+376,Many times children break the nests of the birds and steal their babies.,ɔka d̪ɔ gid̪ɾɛ-ko cɛ̃ɽɛ̃ t̪ukɘ-ku ɾɘpud̪-a aɾ uŋko-ɾɛn hɔpɔn-ko t̪i.jɘʔ-ko̯͡a,ɔka d̪ɔ gid̪ɾɛ-ko cɛ̃ɽɛ̃ t̪ukɘ-ku ɾɘpud̪-a aɾ uŋko-ɾɛn hɔpɔn-ko t̪i.jɘʔ-ko̯͡a,where TOP child-3PL bird nest-3PL break-FIN and 3PL-GEN child-3PL steal-3PL,eaf_sequence_match,santali_glossed_new.eaf,42,90200,92200
+377,The birds suffer a lot because of this.,onat̪ɛ cɛ̃ɽɛ̃-ku d̪ɔ ɘɖi d̪uk̚-ku ɲaːm-a,onat̪ɛ cɛ̃ɽɛ̃-ku d̪ɔ ɘɖi d̪uk̚-ku ɲaːm-a,therefore bird-3PL TOP very pain-3PL get-FIN,eaf_sequence_match,santali_glossed_new.eaf,43,92400,94400
+378,Birds should not be harmed/ not good to harm the birds.,cɛ̃ɽɛ̃-ko-ɔ̯͡aʔ bɘɽiʲc̚ʔ hojoʔ noŋkan kɘmi kɘmi͡i̯ d̪ɔ baŋ leːka,cɛ̃ɽɛ̃-ko-ɔ̯͡aʔ bɘɽiʲc̚ʔ hojoʔ noŋkan kɘmi kɘmi͡i̯ d̪ɔ baŋ leːka,bird-3PL-GEN harm be such work work-NMLZ TOP NEG good,eaf_sequence_match,santali_glossed_new.eaf,44,94600,96600
+379,"Buyer: Brother, I need 5 KGs of rice.",bɔ͡i̯ha iɲ mɔ̃ɽɛ kiɟi ca͡o̯le laga͡o̯-ɘ-ɲ-ɘ,bɔ͡i̯ha iɲ mɔ̃ɽɛ kiɟi ca͡o̯le laga͡o̯-ɘ-ɲ-ɘ,brother 1SG five kg rice need-FIN-1SG-FIN,eaf_sequence_match,santali_glossed_new.eaf,45,96800,98800
+380,Vendor: Will you take parboiled rice or sunned rice?,t̪iki ca͡o̯le sɛ ad̪o̯͡a ca͡o̯le-m hat̪a͡o̯-a,t̪iki ca͡o̯le sɛ ad̪o̯͡a ca͡o̯le-m hat̪a͡o̯-a,parboiled rice or sunned rice-2SG take-FIN,eaf_sequence_match,santali_glossed_new.eaf,46,99000,101000
+381,Buyer: How much is the price of sunned rice?,ad̪o͡a̯ ca͡o̯le ɾe.j-aʔ d̪am t̪inɘʔ,ad̪o͡a̯ ca͡o̯le ɾe.j-aʔ d̪am t̪inɘʔ,sunned rice LOC-GEN price how.much,eaf_sequence_match,santali_glossed_new.eaf,47,101200,103200
+382,Vendor: BDT 80 per KG.,kiɟi-ɾɛ iɾɘl gɛl kɘ͡o̯ɖi,kiɟi-ɾɛ iɾɘl gɛl kɘ͡o̯ɖi,kg-LOC eight ten taka,eaf_sequence_match,santali_glossed_new.eaf,48,103400,105400
+383,Buyer: The price has increased so much!,unɘʔ d̪am ɖʰeɾ-ăkana,unɘʔ d̪am ɖʰeɾ-ăkana,such price grow-PRF,eaf_sequence_match,santali_glossed_new.eaf,49,105600,107600
+384,Vendor: Everything in the market has gone up in price now.,baɟaɾ ɾɛ ɲit̪̚ʔ sanamaʔ ɾe.j-aʔ d̪am-ge ɖʰeɾ-ăkana,baɟaɾ ɾɛ ɲit̪̚ʔ sanamaʔ ɾe.j-aʔ d̪am-ge ɖʰeɾ-ăkana,market LOC now everything LOC-GEN price-EMPH grow-PRF,eaf_sequence_match,santali_glossed_new.eaf,50,107800,109800
+385,Vendor: A lot of paddy has been damaged in the storm this year.,ni͡ɘ-d̪ʰa͡o̯ hɔi̯͡d̪aʔ-t̪ɛ a͡i̯ma hoɽo kʰot̪i.j-akana,ni͡ɘ-d̪ʰa͡o̯ hɔi̯͡d̪aʔ-t̪ɛ a͡i̯ma hoɽo kʰot̪i.j-akana,this-time storm-CVB much paddy damage-PRF,eaf_sequence_match,santali_glossed_new.eaf,51,110000,112000
+386,Vendor: So there is a rice crisis in the market.,ɔnat̪ɛ baɟaɾ-ɾɛ ca͡o̯le t̪ʰɔɽa-ge.j-a,ɔnat̪ɛ baɟaɾ-ɾɛ ca͡o̯le t̪ʰɔɽa-ge.j-a,therefore market-LOC rice little-EMPH-FIN,eaf_sequence_match,santali_glossed_new.eaf,52,112200,114200
+387,Buyer: Give me 3 KGs of sunned rice instead of 5 KGs.,iɲ-d̪ɔ mɔ̃ɽɛ kiɟi bɔd̪ɔl-t̪ɛ pɛ kiɟi ad̪o̯͡a ca͡o̯le i-m-ɘ-ɲ-mɛ,iɲ-d̪ɔ mɔ̃ɽɛ kiɟi bɔd̪ɔl-t̪ɛ pɛ kiɟi ad̪o̯͡a ca͡o̯le i-m-ɘ-ɲ-mɛ,1SG-TOP five kg replace-CVB three kg sunned rice give-2SG-FIN-1SG-IMP,eaf_sequence_match,santali_glossed_new.eaf,53,114400,116400
+388,Buyer: Also give 1 KG of puffed rice.,sã͡o̯t̪ɛ mit̪̚ʔ keɟi kʰɘɟɘɽi-hɔ̃ i-m-ɘ-ɲ-mɛ,sã͡o̯t̪ɛ mit̪̚ʔ keɟi kʰɘɟɘɽi-hɔ̃ i-m-ɘ-ɲ-mɛ,with one kg puffed.rice-also give-2SG-FIN-1SG-IMP,eaf_sequence_match,santali_glossed_new.eaf,54,116600,118600
+389,Vendor: What else do you need?,aɾ cɛt̪̚ʔ cɛt̪̚ʔ laga͡o̯-ma,aɾ cɛt̪̚ʔ cɛt̪̚ʔ laga͡o̯-ma,and what what need-2SG.Q,eaf_sequence_match,santali_glossed_new.eaf,55,118800,120800
+390,"Buyer: Also need a couple of coconuts, a bath soap and a laundry soap.",mit̪̚ʔ ɟɔɽa nɘɽkɔɽ miʔʈɛn ɖɘbɾɘ sɘbun aɾ miʔʈɛn kic̚ɾiʔ sɘbun laga͡o̯-ɲ-ɘ,mit̪̚ʔ ɟɔɽa nɘɽkɔɽ miʔ-ʈɛn ɖɘbɾɘ sɘbun aɾ miʔ-ʈɛn kic̚ɾiʔ sɘbun laga͡o̯-ɲ-ɘ,one pair coconut one-CLF bath soap and one-CLF clothes soap need-1SG-FIN,eaf_sequence_match,santali_glossed_new.eaf,56,121000,123000
+391,Vendor: Need some ginger-garlic?,ad̪ʰhɛ ɾɘsun ɟahanaʔ laga͡o̯-ma,ad̪ʰhɛ ɾɘsun ɟahanaʔ laga͡o̯-ma,ginger garlic anything need-2SG.Q,eaf_sequence_match,santali_glossed_new.eaf,57,123200,125200
+392,"Buyer: Yes, give half a KG of ginger.",hɛ̃ ad̪ʰa keɟi ad̪ʰhɛ-m i-m-ɘ-ɲ-ɘ,hɛ̃ ad̪ʰa keɟi ad̪ʰhɛ-m i-m-ɘ-ɲ-ɘ,yes half kg ginger-2SG give-2SG-FIN-1SG-FIN,eaf_sequence_match,santali_glossed_new.eaf,58,125400,127400
+393,Vendor: I am packing everything together.,iɲ-d̪ɔ sanamaʔ-ge mit̪̚ʔ-sã͡o̯-t̪ɛ-ɲ pɛkeʈ-am-kana,iɲ-d̪ɔ sanamaʔ-ge mit̪̚ʔ-sã͡o̯-t̪ɛ-ɲ pɛkeʈ-am-kana,1SG-TOP everything-EMPH one-together-CVB-1SG packet-2SG.OBJ-PROG,eaf_sequence_match,santali_glossed_new.eaf,59,127600,129600
+394,An ant went to the river bank to drink water.,miʔʈɛn mũʲc̚ʔ d̪aʔ ɲu lɘgit̪̚ʔ gaɖa aɽe-i̯ cala͡o̯-ena,miʔ-ʈɛn mũʲc̚ʔ d̪aʔ ɲu lɘgit̪̚ʔ gaɖa aɽe-i̯ cala͡o̯-ena,one-CLF ant water drink PURP river side-3SG go-PST,eaf_sequence_match,santali_glossed_new.eaf,60,129800,131800
+395,The wind was blowing very strongly and the river had a strong current.,ɘɖi-kaɟakɛ hɔ.j-ɛt̪̚ʔ-kan t̪ahɛ̃na aɾ gaɖa-ɾɛ ɘɖi kaɟak̚ sɔ̃t̪̚ʔ t̪ɛhɛ-kana,ɘɖi-kaɟakɛ hɔ.j-ɛt̪̚ʔ-kan t̪ahɛ̃-na aɾ gaɖa-ɾɛ ɘɖi kaɟak̚ sɔ̃t̪̚ʔ t̪ɛhɛ-kana,very-strong wind-PROG-PROG stay-PST and river-LOC very strong current be-PROG,eaf_sequence_match,santali_glossed_new.eaf,61,132000,134000
+396,The ant fell into the water due to the wind.,hɔ͡i̯-kakʰant̪ɛ muʲc̚ʔ d̪ɔ d̪aʔ-ɾɛ.j-ɛ ɲuɾ-hɘ͡i̯na,hɔ͡i̯-kakʰant̪ɛ muʲc̚ʔ d̪ɔ d̪aʔ-ɾɛ.j-ɛ ɲuɾ-hɘ͡i̯-na,wind-because ant TOP water-LOC-3SG fall-go-PST,eaf_sequence_match,santali_glossed_new.eaf,62,134200,136200
+397,A dove was sitting on a tree branch watching this happening.,mit̪̚ʔ-ʈɛn pɔt̪am cɛ̃ɽɛ̃ d̪ɔ d̪aɾɛ ɖɘɾ-ɾɛ d̪uɽup̚ʔ-kat̪ɛ nɔ̯͡a gʰɔʈɔna-i̯ ɲɛl-ɛt̪̚ʔ-kan t̪ahɛ̃na,mit̪̚ʔ-ʈɛn pɔt̪am cɛ̃ɽɛ̃ d̪ɔ d̪aɾɛ ɖɘɾ-ɾɛ d̪uɽup̚ʔ-kat̪ɛ nɔ̯͡a gʰɔʈɔna-i̯ ɲɛl-ɛt̪̚ʔ-kan t̪ahɛ̃-na,one-CLF dove bird TOP tree branch-LOC sit-CVB this happening-3SG see-PROG-PROG stay-PST,eaf_sequence_match,santali_glossed_new.eaf,63,136400,138400
+398,He threw a leaf into the water to save that ant.,uni d̪ɔ muʲc̚ʔ-ɛː baɲca͡o̯-ɛ lɘgit̪̚ʔ mit̪̚ʔ-ʈɛn sakam d̪aʔ-ɾɛ.j-ɛ ɲuɾ-h-ɛked-a,uni d̪ɔ muʲc̚ʔ-ɛː baɲca͡o̯-ɛ lɘgit̪̚ʔ mit̪̚ʔ-ʈɛn sakam d̪aʔ-ɾɛ.j-ɛ ɲuɾ-h-ɛked-a,3SG.DEF TOP ant-3SG.OBJ save-3SG PURP one-CLF leaf water-LOC-3SG drop-CAUS-PST-FIN,eaf_sequence_match,santali_glossed_new.eaf,64,138600,140600
+399,The ant climbed onto that leaf and saved its life.,mũʲc̚ʔ d̪ɔ ɔna sakam-ɾɛ d̪ɛʲc̚ʔ-kat̪ɛ-t̪̚ʔ a.j-aʔ ɟiu̯͡i.j-ɛ baɲca͡o̯-kɛd̪-a,mũʲc̚ʔ d̪ɔ ɔna sakam-ɾɛ d̪ɛʲc̚ʔ-kat̪ɛ-t̪̚ʔ a.j-aʔ ɟiu̯͡i.j-ɛ baɲca͡o̯-kɛd̪-a,ant TOP that leaf-LOC climb-CVB-CVB 3SG-GEN life-3SG save-PST-FIN,eaf_sequence_match,santali_glossed_new.eaf,65,140800,142800
+400,Then the ant and the dove became friends.,inɘ t̪a.jɔm muʲc̚ʔ aɾ pot̪am d̪ɔ banahɔɽ gat̪e-kin ho͡i̯-ĕna,inɘ t̪a.jɔm muʲc̚ʔ aɾ pot̪am d̪ɔ banahɔɽ gat̪e-kin ho͡i̯-ĕna,this after ant and dove TOP both friend-3DU become-PST,eaf_sequence_match,santali_glossed_new.eaf,66,143000,145000
+401,After many days a hunter came to that bank of the river.,a͡i̯ma-d̪in t̪a.jɔm mit̪̚ʔ sikɘɾi.j-ɘ gaɖa aɽɛ-ɾɛ.j-ɛ hɛʲc̚ʔ-ena,a͡i̯ma-d̪in t̪a.jɔm mit̪̚ʔ sikɘɾi.j-ɘ gaɖa aɽɛ-ɾɛ.j-ɛ hɛʲc̚ʔ-ena,many-day after one hunter-FIN river side-LOC-3SG come-PST,eaf_sequence_match,santali_glossed_new.eaf,67,145200,147200
+402,"Seeing the dove on the tree, the hunter aimed his arrow at it.",d̪aɾe cɔʈ̚-ɾɛ pɔt̪am-ɛ ɲɛl-ked̪-e-kʰan sikɘɾi.j-ɘ d̪ɔ a.j-aʔ aʔ-ɛː soɟh-eked̪-a,d̪aɾe cɔʈ̚-ɾɛ pɔt̪am-ɛ ɲɛl-ked̪-e-kʰan sikɘɾi.j-ɘ d̪ɔ a.j-aʔ aʔ-ɛː soɟh-eked̪-a,tree top-LOC dove-3SG see-PST-3SG-COND hunter-FIN TOP 3SG-GEN arrow-3SG.OBJ aim-PST-FIN,eaf_sequence_match,santali_glossed_new.eaf,68,147400,149400
+403,After seeing this the ant immediately bit the hunter's leg.,muʲc̚ʔ-d̪ɔ ɲɛl-ɲam-kat̪ɛ-t̪̚ʔ unɾe-ge.j-ɛ sikɘɾi.j-ɘ-ɔ̯͡aʔ kaʈa-ɾɛ.j-ɛ gɛɾ ked̪-e.j-a,muʲc̚ʔ-d̪ɔ ɲɛl-ɲam-kat̪ɛ-t̪̚ʔ unɾe-ge.j-ɛ sikɘɾi.j-ɘ-ɔ̯͡aʔ kaʈa-ɾɛ.j-ɛ gɛɾ ked̪-e.j-a,ant-TOP see-find-CVB-CVB then-EMPH-3SG hunter-FIN-GEN leg-LOC-3SG bite PST-3SG-FIN,eaf_sequence_match,santali_glossed_new.eaf,69,149600,151600
+404,The arrow fell from the hunter's hand after being bitten and the bird survived.,gɛɾ ɟɔm-kat̪ɛ sikɘɾi.j-ɘ-ɔ̯͡aʔ t̪i ɾe.j-aʔ saɾ d̪ɔ laɽa͡o̯-ena aɾ cɛ̃ɾɛ̃-d̪ɔ-i̯ baɲca͡ɔ̯-ɛ-na,gɛɾ ɟɔm-kat̪ɛ sikɘɾi.j-ɘ-ɔ̯͡aʔ t̪i ɾe.j-aʔ saɾ d̪ɔ laɽa͡o̯-ena aɾ cɛ̃ɾɛ̃-d̪ɔ-i̯ baɲca͡ɔ̯-ɛ-na,bite eat-CVB hunter-FIN-GEN hand LOC-GEN arrow TOP move-PST and bird-TOP-3SG save-PST-PST,eaf_sequence_match,santali_glossed_new.eaf,70,151800,153800
+405,"Sister: Do you know, the goat next door had a baby!",baɖa.j-am paseɾ ɔɽaʔ-ɾɛ mɛɾɔm-ko hɔpɔn-akana,baɖa.j-am paseɾ ɔɽaʔ-ɾɛ mɛɾɔm-ko hɔpɔn-akana,know-2SG neighbouring house-LOC goat-3PL bear.child-PRF,eaf_sequence_match,santali_glossed_new.eaf,71,154000,156000
+406,Brother: I don't like goats.,mɛɾɔm-d̪ɔː iɲ mɔ̃ɟ bɘ-ɲ ɘ͡i̯kɘ͡o̯-ko͡a,mɛɾɔm-d̪ɔː iɲ mɔ̃ɟ bɘ-ɲ ɘ͡i̯kɘ͡o̯-ko͡a,goat-TOP 1SG good NEG-1SG like-3PL,eaf_sequence_match,santali_glossed_new.eaf,72,156200,158200
+407,Brother: I like cows.,iɲ-d̪ɔː ɖaŋgɾa mɔɟ-iɲ ɘ͡i̯kɘ͡o̯-ko̯͡a,iɲ-d̪ɔː ɖaŋgɾa mɔɟ-iɲ ɘ͡i̯kɘ͡o̯-ko̯͡a,1SG-TOP cow good-1SG like-3PL,eaf_sequence_match,santali_glossed_new.eaf,73,158400,160400
+408,Brother: I want to keep cows.,iɲ-d̪ɔː ɖaŋgɾa ɘsul-iɲ mɛn-d̪-a,iɲ-d̪ɔː ɖaŋgɾa ɘsul-iɲ mɛn-d̪-a,1SG-TOP cow rear-1SG say-PROG-FIN,eaf_sequence_match,santali_glossed_new.eaf,74,160600,162600
+409,Sister: But cows need a lot of space.,mɛn-kʰan ɖaŋgɾa lɘgit̪̚ʔ ɘɖi maɾaŋ ɟa͡i̯ga laga-a,mɛn-kʰan ɖaŋgɾa lɘgit̪̚ʔ ɘɖi maɾaŋ ɟa͡i̯ga laga-a,say-COND cow PURP very big space need-FIN,eaf_sequence_match,santali_glossed_new.eaf,75,162800,164800
+410,Sister: We don't have that much space in our house.,abo ɔɽaʔ-ɾɛ un-maɾaŋ ɟa͡i̯ga bɘnu-a,abo ɔɽaʔ-ɾɛ un-maɾaŋ ɟa͡i̯ga bɘnu-a,1PL.IN house-LOC such-big space NEG-FIN,eaf_sequence_match,santali_glossed_new.eaf,76,165000,167000
+411,"Brother: If there was a cow, we could have milk to drink from it.",ɖaŋɾa-i̯ t̪ahɛn-kʰan abo uni ʈʰɛn-kʰɔn t̪o̯͡a-bon ɲu d̪aɽe-ke.j-a,ɖaŋɾa-i̯ t̪ahɛn-kʰan abo uni ʈʰɛn-kʰɔn t̪o̯͡a-bon ɲu d̪aɽe-ke.j-a,cow-3SG stay-COND 1PL.IN 3SG.DEF LOC-ABL milk-1PL.IN drink can-PST-FIN,eaf_sequence_match,santali_glossed_new.eaf,77,167200,169200
+412,"Sister: Milk can come from the goat too, you can drink that milk too.",t̪o̯͡a d̪ɔ mɛɾɔm-aʔ-hɔ̃ men-a-a am-d̪ɔ ɔna t̪o̯͡a-hɔ-m ɲu d̪aɽe.j-a-a,t̪o̯͡a d̪ɔ mɛɾɔm-aʔ-hɔ̃ men-a-a am-d̪ɔ ɔna t̪o̯͡a-hɔ̃-m ɲu d̪aɽe.j-a-a,milk TOP goat-GEN-also exist-FIN-FIN 2SG-TOP that milk-also-2SG drink can-FIN-FIN,eaf_sequence_match,santali_glossed_new.eaf,78,169400,171400
+413,Brother: Goats have many baby goats.,mɛɾɔm-ɾɛn a͡i̯ma-ko hɔpɔn-ɔʔ-a,mɛɾɔm-ɾɛn a͡i̯ma-ko hɔpɔn-ɔʔ-a,goat-GEN much-3PL bear.child-IPFV-FIN,eaf_sequence_match,santali_glossed_new.eaf,79,171600,173600
+414,"Brother: After the baby goats drink milk, there is no more milk left in the goat's breast.",hɔpɔn-ko t̪o̯͡a ɲu t̪a.jɔm mɛɾɔm-aʔ aɾ t̪o̯͡a baŋ ho.jo-a,hɔpɔn-ko t̪o̯͡a ɲu t̪a.jɔm mɛɾɔm-aʔ aɾ t̪o̯͡a baŋ ho.jo-a,child-3PL milk drink after goat-GEN more milk NEG become-FIN,eaf_sequence_match,santali_glossed_new.eaf,80,173800,175800
+415,Brother: So not much milk is available.,ɔnat̪ɛ ɟɘst̪i t̪ɔ̯͡a baŋ ɲam-ɔ-a,ɔnat̪ɛ ɟɘst̪i t̪ɔ̯͡a baŋ ɲam-ɔ-a,therefore much milk NEG get-IPFV-FIN,eaf_sequence_match,santali_glossed_new.eaf,81,176000,178000
+416,Sister: You have told the right thing.,am ʈʰik̚-ge-m mɛːn-akad̪-a,am ʈʰik̚-ge-m mɛːn-akad̪-a,2SG correct-EMPH-2SG say-PRF-FIN,eaf_sequence_match,santali_glossed_new.eaf,82,178200,180200
+417,Sister: But it costs a lot of money to buy a cow.,mɛn-kʰan ɖaŋɾa kiɾiɲ-t̪ɛ a͡i̯ma kɘ͡u̯ɖi laga-a,mɛn-kʰan ɖaŋɾa kiɾiɲ-t̪ɛ a͡i̯ma kɘ͡u̯ɖi laga-a,say-COND cow buy-CVB much money need-FIN,eaf_sequence_match,santali_glossed_new.eaf,83,180400,182400
+418,Sister: Father doesn't have enough money to buy a cow.,baba-ʈʰɛn ɖaŋɾa kiɾiɲ-leka kɘ͡u̯ɖi bɘnu-a,baba-ʈʰɛn ɖaŋɾa kiɾiɲ-leka kɘ͡u̯ɖi bɘnu-a,father-LOC cow buy-like money NEG-FIN,eaf_sequence_match,santali_glossed_new.eaf,84,182600,184600
+419,Brother: I will give money to father to buy a cow.,ɖaŋɾa kiɾiɲ lɘgit̪̚ʔ iːɲ baba kɘ͡o̯ɖi-ɲ em-a-j-a,ɖaŋɾa kiɾiɲ lɘgit̪̚ʔ iːɲ baba kɘ͡o̯ɖi-ɲ em-a-j-a,cow buy PURP 1SG father money-1SG give-FIN-3SG-FIN,eaf_sequence_match,santali_glossed_new.eaf,85,184800,186800
+420,Sister: Where will you get the money from?,am-d̪ɔ ɔka-kʰɔn kɘ͡u̯ɖi-m ɲam-a,am-d̪ɔ ɔka-kʰɔn kɘ͡u̯ɖi-m ɲam-a,2SG-TOP where-ABL money-2SG get-FIN,eaf_sequence_match,santali_glossed_new.eaf,86,187000,189000
+421,Brother: I will raise roosters and chickens first.,iɲ-d̪ɔ pɘhil-ɾɛ kalɔʈ̚ aɾ sɘnɖi sim-iɲ ɘsul-ko̯͡a,iɲ-d̪ɔ pɘhil-ɾɛ kalɔʈ̚ aɾ sɘnɖi sim-iɲ ɘsul-ko̯͡a,1SG-TOP first-LOC rooster and chicken bird-1SG rear-3PL,eaf_sequence_match,santali_glossed_new.eaf,87,189200,191200
+422,Brother: I will start with a rooster and a hen.,miʔ-ʈɛn sɘnɖi aɾ miʔ-ʈɛn kalɔʈ̚ ni̯͡ɘ-t̪ɛ-ɲ ɛhɔb-a,miʔ-ʈɛn sɘnɖi aɾ miʔ-ʈɛn kalɔʈ̚ ni̯͡ɘ-t̪ɛ-ɲ ɛhɔb-a,one-CLF chicken and one-CLF rooster this-CVB-1SG start-FIN,eaf_sequence_match,santali_glossed_new.eaf,88,191400,193400
+423,Brother: Chickens will have many chicks all at once.,sim-kʰɔn mit̪̚ʔ-sã͡ɔ̯-t̪ɛ a͡i̯ma-ko hɔpɔn-ɔʔ-a,sim-kʰɔn mit̪̚ʔ-sã͡ɔ̯-t̪ɛ a͡i̯ma-ko hɔpɔn-ɔʔ-a,chicken-ABL one-together-CVB much-3PL bear.child-IPFV-FIN,eaf_sequence_match,santali_glossed_new.eaf,89,193600,195600
+424,"Brother: After that, when they are big enough, we can get a lot of money by selling them.",inɘ-t̪a.jɔm onko-ko lɘʈu-lɛn-kʰan ɘkʰɾiɲ-kat̪ɛ-t̪̚ʔ a͡i̯ma kɘ͡u̯ɖi ɲam-ɔ-a,inɘ-t̪a.jɔm onko-ko lɘʈu-lɛn-kʰan ɘkʰɾiɲ-kat̪ɛ-t̪̚ʔ a͡i̯ma kɘ͡u̯ɖi ɲam-ɔ-a,this-after 3PL-3PL big-become-COND sell-CVB-CVB much money get-IPFV-FIN,eaf_sequence_match,santali_glossed_new.eaf,90,195800,197800
+425,Brother: I will buy a cow with that money.,ɔna kɘ͡u̯ɖi-t̪ɛ ɖaŋɾa-ɲ kiɾi.ɲi.j-a,ɔna kɘ͡u̯ɖi-t̪ɛ ɖaŋɾa-ɲ kiɾi.ɲi.j-a,that money-CVB cow-1SG buy-FIN,eaf_sequence_match,santali_glossed_new.eaf,91,198000,200000
+426,Sister: Do you like cows that much?,ɖaŋɾa unɘʔ-ɛ-m kusi.j-akokana,ɖaŋɾa unɘʔ-ɛ-m kusi.j-akokana,cow such-3SG-2SG happy-PRF,eaf_sequence_match,santali_glossed_new.eaf,92,200200,202200
+427,Sister: I have some money saved.,iɲ-aʔ t̪ʰɔɽa ɟɔma kɘ͡u̯ɖi men-a-a,iɲ-aʔ t̪ʰɔɽa ɟɔma kɘ͡u̯ɖi men-a-a,1SG-GEN little saved money exist-FIN-FIN,eaf_sequence_match,santali_glossed_new.eaf,93,202400,204400
+428,Sister: I can give you some money from that saving.,ɔŋɖɛ-kʰɔn iɲ t̪ʰɔɽa kɘ͡u̯ɖi am-iɲ ɛm d̪aɽe-ɔ̯͡a-ma,ɔŋɖɛ-kʰɔn iɲ t̪ʰɔɽa kɘ͡u̯ɖi am-iɲ ɛm d̪aɽe-ɔ̯͡a-ma,there-ABL 1SG little money 2SG-1SG give can-FIN-2SG,eaf_sequence_match,santali_glossed_new.eaf,94,204600,206600
+429,"Sister: Alright, we will take care of that cow together.",ʈhik-ge.j-a alaŋ banahɔɽ-t̪ɛ ɖaŋɾa-laŋ ɘsul-e.j-a,ʈhik-ge.j-a alaŋ banahɔɽ-t̪ɛ ɖaŋɾa-laŋ ɘsul-e.j-a,alright-EMPH-FIN 1DU.IN both-CVB cow-1DU.IN rear-FIN-FIN,eaf_sequence_match,santali_glossed_new.eaf,95,206800,208800
+430,Sister: I will also give money to buy the cow.,iɲ-hɔ̃ ɖaŋɾa kiɾiɲ ɾe.j-aʔ kɘ͡u̯ɖi-ɲ ɛm-ɔ-a,iɲ-hɔ̃ ɖaŋɾa kiɾiɲ ɾe.j-aʔ kɘ͡u̯ɖi-ɲ ɛm-ɔ-a,1SG-also cow buy LOC-GEN money-1SG give-IPFV-FIN,eaf_sequence_match,santali_glossed_new.eaf,96,209000,211000
+431,Greetings!,ɟohaːɾ,ɟohaːɾ,Greetings,eaf_sequence_match,santali_new_glossed (1).eaf,1,0,2000
+432,"How are you, Sir?",cɛt̪̚ʔlɛka menama mahasɔ͡i̯,cɛt̪̚ʔ-lɛka men-am-a mahasɔ͡i̯,how-like be.NFIN-2SG-FIN sir,eaf_sequence_match,santali_new_glossed (1).eaf,2,2200,4200
+433,I am fine.,mɔ̃ɟge menɘɲɘ,mɔ̃ɟ-ge men-ɘɲ-ɘ,good-EMPH be.NFIN-1SG-FIN,eaf_sequence_match,santali_new_glossed (1).eaf,3,4400,6400
+434,You came after a long time!,a͡i̯ma d̪in t̪a.jɔmɛm hɛc̚ʔĕna,a͡i̯ma d̪in t̪a-jɔm-ɛm hɛc̚ʔ-ĕ-na,many day DLIM-COM-2SG:SUBJ come-PERF-3SG:SUBJ-FIN,eaf_sequence_match,santali_new_glossed (1).eaf,4,6600,8600
+435,Couldn't come because of being busy with work.,kɘmi ɾe.jaʔ cãɽt̪ɛ bɘɲ hɛc̚ʔ d̪aɽe.jad̪a,kɘmi ɾe-jaʔ cãɽ-t̪ɛ bɘ-ɲ hɛc̚ʔ d̪aɽe-j-a-d̪a,work LOC-GEN reason-ABL NEG-1SG come able-FIN-PST-FIN,eaf_sequence_match,santali_new_glossed (1).eaf,5,8800,10800
+436,"Now tell me, why have you come?",ni̯͡ɘd̪ʰa͡o̯ lɘ͡i̯mɛ ced̪aʔɛm hɛc̚ʔakana,ni̯͡ɘd̪ʰa͡o̯ lɘ͡i̯-mɛ ced̪aʔ-ɛm hɛc̚ʔ-a-kana,now say-2SG:IMP what-2SG:SUBJ come-PERF-FIN,eaf_sequence_match,santali_new_glossed (1).eaf,6,11000,13000
+437,I want to enroll my younger son in your school.,iɲɾɛn gid̪ɾɘ amaʔ is͡kulɾɛ bʰuɾt̪iɲ mɛnɛd̪a,iɲ-ɾɛn gid̪ɾɘ am-aʔ iskul-ɾɛ bʰuɾt̪i-ɲ mɛn-ɛ-d̪a,1SG-GEN child 2SG-GEN school-LOC enroll-1SG:SUBJ want-3SG:SUBJ-FIN,eaf_sequence_match,santali_new_glossed (1).eaf,7,13200,15200
+438,How old is he?,uni.jaʔ umɘɾ t̪inɘʔ,uni-jaʔ umɘɾ t̪inɘʔ,3SG-GEN age how.much,eaf_sequence_match,santali_new_glossed (1).eaf,8,15400,17400
+439,Now he is 5 years old.,ni͡ɘbaɾ uni͡aʔ umɘɾ mɔ̃ɽɛ sɛɾma ho͡i̯ena,ni͡ɘ-baɾ uni-aʔ umɘɾ mɔ̃ɽɛ sɛɾma ho͡i̯-e-na,this-time 3SG-GEN age five year become-PERF-FIN,eaf_sequence_match,santali_new_glossed (1).eaf,9,17600,19600
+440,Did he learn anything at home?,uni d̪ɔ cɛt̪̚ʔ ɔɽaʔɾɛ ɟahanaʔɛ cet̪̚ʔakada,uni d̪ɔ cɛt̪̚ʔ ɔɽaʔ-ɾɛ ɟahanaʔ-ɛ cet̪̚ʔ-a-k-a-d̪a,3SG TOP what house-LOC anything-3SG:SUBJ learn-PERF-M-PST-FIN,eaf_sequence_match,santali_new_glossed (1).eaf,10,19800,21800
+441,Does he know letters?,uni d̪ɔ cɛt̪̚ʔ haɾɔp̚ɛ ɲɛl cinhɘ͡o̯ge.ja,uni d̪ɔ cɛt̪̚ʔ haɾɔp̚ ɲɛl cinh-ɘ͡o̯-ge-j-a,3SG TOP what letter-PL know recognize-IPFV-EMPH-FIN-FIN,eaf_sequence_match,santali_new_glossed (1).eaf,11,22000,24000
+442,"Yes, he knows the alphabet.",hɛ̃ uni d̪ɔ akʰɔɾmala͡i̯ baɖa.ja,hɛ̃ uni d̪ɔ akʰɔɾmala-i̯ baɖ-a-j-a,yes 3SG TOP alphabet-ACC know-PERF-FIN-FIN,eaf_sequence_match,santali_new_glossed (1).eaf,12,24200,26200
+443,Can also count from 1 to 10.,mit̪̚ʔkʰɔn gɛl hɘbiʔhɔ̃͡i̯ lɛkʰa d̪aɽe.jaʔa,mit̪̚ʔ-kʰɔn gɛl hɘbiʔ-hɔ̃͡i̯ lɛkʰa d̪aɽe-jaʔ-a,one-ABL ten until-DLIM count able-FIN-FIN,eaf_sequence_match,santali_new_glossed (1).eaf,13,26400,28400
+444,Then he can be admitted in the children's class.,t̪ahlɛ uni d̪ɔ keɟi kilɘsɾɛ bʰuɾt̪id̪aɽeo̯͡a.ja,t̪ahlɛ uni d̪ɔ keɟi kilɘs-ɾɛ bʰuɾt̪i-d̪aɽe-o̯͡a-j-a,then 3SG TOP children class-LOC enroll-able-FIN-FIN-FIN,eaf_sequence_match,santali_new_glossed (1).eaf,14,28600,30600
+445,You take this form.,amd̪ɔ ni.jɘ pʰɔɾɔm id̪i t̪oɾa͡i̯mɛ,am-d̪ɔ ni-jɘ pʰɔɾɔm id̪i t̪oɾa͡i̯-mɛ,2SG-TOP this-DLIM form take go-2SG:IMP,eaf_sequence_match,santali_new_glossed (1).eaf,15,30800,32800
+446,Fill up the form and submit it along with a photograph of your son.,pʰɔɾɔm puɾɘ͡o̯ kat̪ɛ gid̪ɾɘo͡aʔ miʔʈɛn pʰɔʈo sã͡o̯ ɟɔma oʈokam,pʰɔɾɔm puɾɘ͡o̯ kat̪ɛ gid̪ɾɘ-oʔ mit̪̚ʔ-ʈɛn pʰɔʈo sã͡o̯ ɟɔma oʈo-k-am,form fill CVB child-GEN one-CLSSFR photo with submit put-M-2SG:IMP,eaf_sequence_match,santali_new_glossed (1).eaf,16,33000,35000
+447,All right.,ʈʰikge.ja,ʈʰik-ge-j-a,right-EMPH-FIN-FIN,eaf_sequence_match,santali_new_glossed (1).eaf,17,35200,37200
+448,I will submit it the day after tomorrow.,me.jaŋsɛʔiɲ ɟɔma oʈo kaʔa,me.jaŋsɛʔ-iɲ ɟɔma oʈo k-aʔ-a,day.after.tomorrow-1SG:SUBJ submit put FUT-FIN-FIN,eaf_sequence_match,santali_new_glossed (1).eaf,18,37400,39400
+449,Classes will start from January 1st.,ɟano̯͡aɾi ɾejaʔ pɘhil t̪ɘɾikʰkʰɔn kilɘs ɛhɔbɔʔa,ɟano̯͡aɾi ɾe-jaʔ pɘhil t̪ɘɾikʰ-kʰɔn kilɘs ɛ-hɔbɔ-ʔa,January LOC-GEN first date-ABL class start-INCH-FIN,eaf_sequence_match,santali_new_glossed (1).eaf,19,39600,41600
+450,On that day he will be given new books from school.,unhilɘʔ unid̪ɔ iskulkʰɔn naɔ̯͡a put̪ʰi͡i̯ ɲaːma,un-hilɘʔ uni-d̪ɔ iskul-kʰɔn naɔ̯͡a put̪ʰi ɲaː-m-a,3SG-day 3SG-TOP school-ABL new book give-PASS-FIN,eaf_sequence_match,santali_new_glossed (1).eaf,20,41800,43800
+451,You will make a school uniform for him.,amd̪ɔ uni lɘgit̪̚ʔ iskul kic̚ɾiʔɛm bɛnaɔ̯͡a,am-d̪ɔ uni lɘgit̪̚ʔ iskul kic̚ɾiʔ-ɛm bɛna-o̯͡a,2SG-TOP 3SG for school dress-2SG:SUBJ make-FIN,eaf_sequence_match,santali_new_glossed (1).eaf,21,44000,46000
+452,Have to buy him a bag too.,unid̪ɔ mit̪̚ʔʈɛn bɛghɔ̃ kiɾiɲa͡i̯ hojoʔa,uni-d̪ɔ mit̪̚ʔ-ʈɛn bɛghɔ̃ kiɾiɲ-a͡i̯ hoj-oʔ-a,3SG-TOP one-CLSSFR bag buy-also become-INCH-FIN,eaf_sequence_match,santali_new_glossed (1).eaf,22,46200,48200
+453,I will bring him to the school on the 1st of the month.,iɲ pɘhil t̪ɘɾikʰ uni sɔŋgɛkat̪ɛt̪̚ iskuliɲ hɘɟu.a,iɲ pɘhil t̪ɘɾikʰ uni sɔŋgɛ-kat̪ɛ-t̪̚ iskul-iɲ hɘɟu-a,1SG first date 3SG with-CVB school-1SG:SUBJ come-FIN,eaf_sequence_match,santali_new_glossed (1).eaf,23,48400,50400
+454,There are many types of trees in the forest.,biɾ ɾɛ a͡i̯malekan d̪aɾe mena.a,biɾ ɾɛ a͡i̯ma-lekan d̪aɾe men-a-a,forest LOC many-kind tree exist-FIN-FIN,eaf_sequence_match,santali_new_glossed (1).eaf,24,50600,52600
+455,Birds nest in forest trees.,biɾ ɾe.jaʔ d̪aɾeɾɛ cɛ̃ɽɛ̃koko t̪ukɘ.ja,biɾ ɾe-jaʔ d̪aɾe-ɾɛ cɛ̃ɽɛ̃-ko-ko t̪uk-ɘ-j-a,forest LOC-GEN tree-LOC bird-PL-PL nest-IPFV-FIN-FIN,eaf_sequence_match,santali_new_glossed (1).eaf,25,52800,54800
+456,"A variety of fruits, honey and wood are found in the forest.",biɾ ɾɛ a͡i̯malekan ɟɔ ɲɛlɛɾasa aɾ sahanko ɲamɔ.a,biɾ ɾɛ a͡i̯ma-lekan ɟɔ ɲɛlɛɾasa aɾ sahan-ko ɲam-ɔ-a,forest LOC many-kind fruit honey and wood-PL get-IPFV-FIN,eaf_sequence_match,santali_new_glossed (1).eaf,26,55000,57000
+457,Houses are made of forest trees or wood.,biɾ ɾe.jaʔ d̪aɾe sɛ kaʈʰt̪ɛ ɔɽaʔd̪u͡ɘɾ bɛna͡o̯ʔa,biɾ ɾe-jaʔ d̪aɾe sɛ kaʈʰ-t̪ɛ ɔɽaʔ-du͡ɘɾ bɛna-o̯-ʔa,forest LOC-GEN tree or wood-ABL house-GEN make-PASS-FIN,eaf_sequence_match,santali_new_glossed (1).eaf,27,57200,59200
+458,"Various animals including tigers, bears, lions, deer, elephants live in dense forests.",gɘhiɽ biɾ ɾɛ t̪ɘɾup̚ʔ bana kul ɟel hɘt̪isa͡o̯ a͡i̯malekan ɟibku giɾɘbɘsiʔkana,gɘhiɽ biɾ ɾɛ t̪ɘɾup̚ʔ bana kul ɟel hɘt̪i-sa͡o̯ a͡i̯ma-lekan ɟib-ku giɾɘbɘsi-ʔ-kana,dense forest LOC tiger bear lion deer elephant-with many-kind animal-PL live-PROG-FIN,eaf_sequence_match,santali_new_glossed (1).eaf,28,59400,61400
+459,Going alone in the forest can be dangerous.,ɟaha͡i̯ ɛskaɾ biɾɾeko cala͡o̯lɛnkʰan a.jaʔ muhim ho͡i̯ d̪aɽe.jaʔa,ɟaha-i̯ ɛskaɾ biɾ-ɾe-ko cala͡o̯-lɛn-kʰan a-jaʔ muhim ho͡i̯ d̪aɽe-jaʔ-a,whoever alone forest-LOC-PL go-PERF-COND 3SG-GEN danger become able-FIN-FIN,eaf_sequence_match,santali_new_glossed (1).eaf,29,61600,63600
+460,Forests keep people and the earth alive.,biɾ d̯ɔ d̪ʰɘɾt̪i aɾ mano̯͡ai̯ baɲca͡o̯ d̪ɔhɔ.ɔ̆akat̪̚ʔko͡a,biɾ d̯ɔ d̪ʰɘɾt̪i aɾ mano̯͡ai̯ baɲca͡o̯ d̪ɔhɔ-ɔ̆ak-at̪̚ʔ-ko͡a,forest TOP earth and human keep.alive maintain-PERF-FIN-PL,eaf_sequence_match,santali_new_glossed (1).eaf,30,63800,65800
+461,Forests protect us from storms and floods.,hɔ͡i̯ bɘɾuɽ aɾ ɖubɘ kʰɔn biɾ d̪ɔ abo͡i̯ ɾukʰi̯͡ɘ d̪ɔhɔ.jɛt̪̚ʔbona,hɔ͡i̯ bɘɾuɽ aɾ ɖubɘ kʰɔn biɾ d̪ɔ abo͡i̯ ɾukʰi̯͡ɘ d̪ɔhɔ-jɛt̪̚ʔ-bona,storm wind and flood ABL forest TOP 1PL.INCL protect maintain-FIN-1PL,eaf_sequence_match,santali_new_glossed (1).eaf,31,66000,68000
+462,"As the number of people is increasing, the forests are decreasing.",mano̯͡͡a t̪inɘʔko ɟɘstiʔkana biɾ unɘʔ t̪ʰɔɽaʔkana,mano̯͡a t̪inɘʔ-ko ɟɘsti-ʔkana biɾ unɘʔ t̪ʰɔɽa-ʔkana,human number-PL increase-PROG forest decrease-PROG,eaf_sequence_match,santali_new_glossed (1).eaf,32,68200,70200
+463,Elephants migrate to villages when forests decrease.,biɾ t̪ʰɔɽalɛnkʰan hɘt̪i at̪oɾɛko hiɟu.a,biɾ t̪ʰɔɽa-lɛn-kʰan hɘt̪i at̪oɾɛ-ko hiɟu-a,forest decrease-PERF-COND elephant village-LOC-PL come-FIN,eaf_sequence_match,santali_new_glossed (1).eaf,33,70400,72400
+464,Forest elephants damage field crops.,biɾ ɾɛn hɘt̪i kʰɛt̪ ɾe.jaʔ pʰɔsɔlko bɘɽiɟa,biɾ-ɾɛn hɘt̪i kʰɛt̪ ɾe-jaʔ pʰɔsɔl-ko bɘɽi-j-a,forest-GEN elephant field LOC-GEN crop-PL damage-FIN-FIN,eaf_sequence_match,santali_new_glossed (1).eaf,34,72600,74600
+465,Then people keep vigil at night to protect from elephants.,hɘt̪ikʰɔn baɲca͡o̯ lɘgit̪̚ʔt̪ɛ hɔɽko ɲind̪ɘ ɛbʰɛnkat̪ɛʔko paɾha.ja,hɘt̪i-kʰɔn baɲca͡o̯ lɘgit̪̚ʔ-t̪ɛ hɔɽ-ko ɲind̪ɘ ɛbʰɛn-kat̪ɛ-ʔko paɾha-j-a,elephant-ABL protect for-ABL people-PL sleep forgo-CVB-PL guard-FIN-FIN,eaf_sequence_match,santali_new_glossed (1).eaf,35,74800,76800
+466,Various medicines are prepared from the trees and leaves of the forest.,biɾɾe.jaʔ d̪aɾenɘɽikʰɔn a͡i̯malekan ɾan t̪e.jaɾɔ.a,biɾ-ɾe-jaʔ d̪aɾe-nɘɽi-kʰɔn a͡i̯ma-lekan ɾan t̪e-jaɾ-o-a,forest-LOC-GEN tree-leaf-ABL many-kind medicine make-CAUS-PASS-FIN,eaf_sequence_match,santali_new_glossed (1).eaf,36,77000,79000
+467,The fences and poles of the house are made by fetching bamboos from the forest.,biɾ kʰɔn mãt̪̚ʔ ɘgukat̪ɛ ɔɽaʔɾe.jaʔ kʰunʈi aɾ ʈɘʈiko t̪e.jaɾa,biɾ kʰɔn mãt̪̚ʔ ɘgu-kat̪ɛ ɔɽaʔ-ɾe-jaʔ kʰunʈi aɾ ʈɘʈi-ko t̪e-jaɾ-a,forest ABL bamboo bring-CVB house-LOC-GEN post and fence-PL make-FIN,eaf_sequence_match,santali_new_glossed (1).eaf,37,79200,81200
+468,Houses are covered with the forest thatch.,biɾ ɾe.jaʔ sɘ͡o̯ɽit̪ɛ ɔɽaʔɾe.jaʔ sat̪eko d̪aːba,biɾ ɾe-jaʔ sɘ͡o̯ɽi-t̪ɛ ɔɽaʔ-ɾe-jaʔ sat̪e-ko d̪aː-b-a,forest LOC-GEN thatch-ABL house-LOC-GEN roof-PL cover-PASS-FIN,eaf_sequence_match,santali_new_glossed (1).eaf,38,81400,83400
+469,Most of the people of Bangladesh live in the villages.,baŋlad̪isɘmɾɛn ɟɘst̪ibʰag hɔɽ at̪oɾɛko giɾɘbɘsiʔkana,baŋlad̪isɘm-ɾɛn ɟɘst̪ibʰag hɔɽ at̪oɾɛ-ko giɾɘbɘsi-ʔkana,Bangladesh-GEN most.part people village-LOC-PL live-PROG-FIN,eaf_sequence_match,santali_new_glossed (1).eaf,39,83600,85600
+470,Haat-bazaar is a very useful place for the village people.,at̪oɾɛn hɔɽ lɘgit̪̚ʔ mit̪̚ʔʈɛn haʈbaɟaɾ d̪ɔ ɘɖi ɟɘɾuɽ miʈɛn ʈʰɘ͡i̯kana,at̪oɾɛn hɔɽ lɘgit̪̚ʔ mit̪̚ʔ-ʈɛn haʈbaɟaɾ d̪ɔ ɘɖi ɟɘɾuɽ mit̪̚ʔ-ʈɛn ʈʰɘ͡i̯kana,village-GEN people for one-CLSSFR market TOP very necessary one-CLSSFR place-FIN,eaf_sequence_match,santali_new_glossed (1).eaf,40,85800,87800
+471,Here their useful goods are bought and sold.,nɔnɖɛ ako̯͡͡aʔ ɟɘɾuɽ ɟinisku kiɾiɲ ɘkʰɾiɲ ho.joʔkana,nɔnɖɛ ako̯͡aʔ ɟɘɾuɽ ɟinis-ku kiɾiɲ ɘkʰɾiɲ hoj-oʔ-kana,here 3PL-GEN necessary thing-PL buy sell become-INCH-FIN,eaf_sequence_match,santali_new_glossed (1).eaf,41,88000,90000
+472,"Farmers sell their crop in the market, fishermen sell their fish.",hɘʈi̯͡ɘ baɟaɾɾɛ kisɘnko d̪ɔ pʰɔsɔlko ɘkʰɾiɲa aɾ ɟɘli̯͡ɘkod̪ɔ hakoko ɘkʰɾiɲko̯͡a,hɘʈi̯͡ɘ baɟaɾ-ɾɛ kisɘn-ko d̪ɔ pʰɔsɔl-ko ɘkʰɾiɲ-a aɾ ɟɘli̯͡ɘ-ko-d̪ɔ haka-ko ɘkʰɾiɲ-ko͡a,market market-LOC farmer-PL TOP crop-PL sell-FIN and fisherman-PL-TOP fish-PL sell-PL-FIN,eaf_sequence_match,santali_new_glossed (1).eaf,42,90200,92200
+473,"Not only shopping, but the village people also meet each other in the haat.",ɛkɛn kiɾiɲ ɘkʰɾiɲd̪ɔ baŋ hɘʈi̯͡ɘɾɛ at̪oɾɛn hɔɽ mit̪̚ʔhɔɽ sã͡o̯t̪ɛ aɾ mit̪̚ʔ hɔɽaʔ ɲɛpɛl ɲapamhɔ̃ ho.jo.a,ɛkɛn kiɾiɲ ɘkʰɾiɲ-d̪ɔ baŋ hɘʈi̯͡ɘ-ɾɛ at̪oɾɛn hɔɽ mit̪̚ʔ-hɔɽ sã͡o̯-t̪ɛ aɾ mit̪̚ʔ-hɔɽ ɲɛpɛl ɲapam-hɔ̃ hoj-o-a,only buy sell-TOP NEG market-LOC village-GEN people one-person with-ABL and one-person meet encounter-also become-INCH-FIN,eaf_sequence_match,santali_new_glossed (1).eaf,43,92400,94400
+474,"The haat sits two days a week, but the bazaar sits every day.",hɘʈi̯͡ɘd̪ɔ hap̚t̪aɾɛ baɾd̪in d̪uɽubɔʔa mɛnkʰan baɟaɾd̪ɔ d̪ʰinɘmd̪in d̪uɽubɔʔa,hɘʈi̯͡ɘ-d̪ɔ hap̚t̪a-ɾɛ baɾ-d̪in d̪uɽu-bɔʔ-a mɛnkʰan baɟaɾ-d̪ɔ d̪ʰinɘm-d̪in d̪uɽu-bɔʔ-a,market-TOP week-LOC two-day sit-INCH-FIN but bazaar-TOP daily sit-INCH-FIN,eaf_sequence_match,santali_new_glossed (1).eaf,44,94600,96600
+475,"The haat hours are from noon to evening, while the bazaar hours are from morning to noon.",hɘʈi̯͡ɘ ɾe.jaʔ ɔk̚t̪ɛd̪ɔ tikin kʰɔn ɘ.jup̚ʔ hɘbiʲc̚ʔ bic̚kɔm baɟaɾ ɾijaʔ ɔkt̪ɛd̪ɔ sɛt̪aʔkʰɔn t̪ikin hɘbiʲc̚ʔ,hɘʈi̯͡ɘ ɾe-jaʔ ɔk̚t̪ɛ-d̪ɔ tikin kʰɔn ɘ.jup̚ʔ hɘbi-c̚ʔ mɛnkʰan baɟaɾ ɾi-jaʔ ɔkt̪ɛ-d̪ɔ sɛt̪aʔ-kʰɔn t̪ikin hɘbi-c̚ʔ,market LOC-GEN time-TOP noon ABL evening until but bazaar LOC-GEN time-TOP morning-ABL noon until,eaf_sequence_match,santali_new_glossed (1).eaf,45,96800,98800
+476,People of the village meet their needs by buying useful items from the haat.,hɘʈi̯͡ɘkʰɔn ɟɘɾuɽ ɟinisku kiɾiɲkat̪ɛt̚ʔ at̪oɾɛn hɔɽ ako̯͡aʔ okulɘnko meʈao̯͡a,hɘʈi̯͡ɘ-kʰɔn ɟɘɾuɽ ɟinis-ku kiɾiɲ-kat̪ɛ at̪oɾɛn hɔɽ ako̯͡aʔ okul-ɘn-ko meʈa-o̯͡a,market-ABL necessary thing-PL buy-CVB village-GEN people 3PL-GEN need-PL-PL fulfil-FIN,eaf_sequence_match,santali_new_glossed (1).eaf,46,99000,101000
+477,Earlier there used to be big haat-bazaars on the banks of the river.,sed̪a͡i̯d̪ɔ gaɖa aɽeɾɛ maɾaŋ maɾaŋ hɘʈi̯͡ɘ baɟaɾ d̪uɽubɔʔkan t̪ahɛ̃na,sed̪a͡i̯-d̪ɔ gaɖa aɽe-ɾɛ maɾaŋ maɾaŋ hɘʈi̯͡ɘ baɟaɾ d̪uɽu-bɔʔ-kan t̪ahɛ̃-na,before-TOP river bank-LOC big big market bazaar sit-INCH-HAB PST-FIN,eaf_sequence_match,santali_new_glossed (1).eaf,47,101200,103200
+478,Now the haat-bazaar sits in an easily accessible place.,nit̪̚ʔ algat̪ɛ cala͡o̯ d̪aɽe.jaʔ noŋkan ʈʰɘ͡i̯ɾɛ hɘʈi̯͡ɘ baɟaɾ d̪uɽubɔʔkana,nit̪̚ʔ alg-at̪ɛ cala͡o̯ d̪aɽe-jaʔ noŋkan ʈʰɘ͡i̯-ɾɛ hɘʈi̯͡ɘ baɟaɾ d̪uɽu-bɔʔ-kana,now easy-CVB go able-GEN such place-LOC market bazaar sit-INCH-FIN,eaf_sequence_match,santali_new_glossed (1).eaf,48,103400,105400
+479,"When I was a child, I used to go to the haat with my father, and buy toys.",kɘʈiʲc̚ʔ bid̪ɘlɾɛ iɲ ɘpuɲ sã͡ɔ̯t̪ɛ hɘʈi͡ɘ̯ɲ calaʔkan t̪ahɛ̃na aɾ a͡i̯ma lɛkan kʰilɘʈ ɟiniskoɲ kiɾiɲ ɘgu.jɛt̪̚ʔkan t̪ahɛna,kɘʈi-c̚ʔ bid̪ɘl-ɾɛ iɲ ɘpu-ɲ sã͡ɔ̯-t̪ɛ hɘʈi̯͡ɘ-ɲ cala-ʔ-kan t̪ahɛ̃-na aɾ a͡i̯ma-lekan kʰilɘʈ ɟinis-ko-ɲ kiɾiɲ ɘgu-j-ɛt̪̚ʔ-kan t̪ahɛ-na,child time-LOC 1SG father-1SG:GEN with-ABL market-1SG:SUBJ go-HAB-FIN and many-kind toy thing-PL-1SG:SUBJ buy bring-FIN-HAB PST-FIN,eaf_sequence_match,santali_new_glossed (1).eaf,49,105600,107600
+480,A drop of honey was on the ground.,ɔt̪ʔɾɛ mit̪ʔ ʈʰɔp ɲɛlɛɾasa ɲuːɾakan t̪ahɛ̃kana,ɔt̪ʔ-ɾɛ mit̪ʔ ʈʰɔp ɲɛlɛɾasa ɲu-ɾa-kan t̪ahɛ̃-kan-a,ground-LOC one drop honey lie-PROG-COP be-PROG-FIN,eaf_sequence_match,santali_glossed_new_3(1).eaf,1,0,2000
+481,An ant passing by smelled that honey.,paɾɔm calaʔ ɟɔkʰɛʲcʔ miʔʈɛʲcʔ mũʲcʔ ɲɛlɛɾasa sɔi̯ ɲamked̪a,paɾɔm calaʔ ɟɔkʰɛc-ʔ miʔ-ʈɛn muɲɟ-ʔ ɲɛlɛɾasa sɔi̯ ɲam-ked-a,pass go time-EMPH one-CLF ant-EMPH honey smell get-PST.TR-FIN,eaf_sequence_match,santali_glossed_new_3(1).eaf,2,2200,4200
+482,The ant started consuming honey from one side.,uni mũʲcʔ d̪ɔ miʔsɛʲcʔ kʰɔʲcʔ ɲɛɭɛɾasa ɲuɲui̯ ɛhɔp̚ʔena,uni muɲɟ-ʔ d̪ɔ miʔ-sɛc-ʔ kʰɔc-ʔ ɲɛlɛɾasa ɲu-ɲu-i̯ ɛhɔp-ʔ-en-a,3SG ant-EMPH TOP one-side-EMPH from-EMPH honey eat-RDPL-3SG begin-PST-INTR-FIN,eaf_sequence_match,santali_glossed_new_3(1).eaf,3,4400,6400
+483,After consuming once he was very amused and kept eating.,mit̪ʔd̪ʰaɔ̯ ɲɛlɛɾasa ɲu kat̪ɛt̪ʔ ɘɖi sibil ked̪e.ja aɾ uni d̪ɔ ɲuɲut̪igei̯ t̪ãhɛi̯na,mit̪ʔ-d̪ʰaɔ̯ ɲɛlɛɾasa ɲu kat̪ɛ-t̪ʔ ɘɖi sibil ked-e-a aɾ uni d̪ɔ ɲu-ɲut̪-i-ge-i̯ t̪ahɛ-i̯-en-a,one-time honey eat CVB-EMPH very tasty PST.TR-3SG.OBJ-FIN and 3SG TOP eat-CONT-3SG-EMPH-3SG be-3SG-INTR-FIN,eaf_sequence_match,santali_glossed_new_3(1).eaf,4,6600,8600
+484,"His stomach swelled as he kept devouring the honey, but still he did not stop eating.",ɲɛlɛɾasa ɲu ɲut̪ɛ uni.jaʔ laʲcʔ d̪ɔ pʰulɘɔ̯ɛnt̪a.ja ɛnɾɛhɔ̃ ɲɛlɛɾasa ɲuɲu d̪ɔ bai̯ bɘgi.jad̪a,ɲɛlɛɾasa ɲu-ɲut̪-ɛ uni-aʔ lac-ʔ d̪ɔ pʰulɘɔ̯-en-t̪a-a ɛnɾɛ-hɔ̃ ɲɛlɛɾasa ɲu-ɲu d̪ɔ ba-i̯ bɘgi-ad-a,honey eat-CONT-3SG 3SG-GEN belly-EMPH TOP swell-PST-COP-FIN even.then-EMPH honey eat-RDPL TOP NEG-3SG leave-PST.TR-FIN,eaf_sequence_match,santali_glossed_new_3(1).eaf,5,8800,10800
+485,"While consuming, he stepped in between drops of honey and got his foot stuck in the honey.",ɲɛlɛɾasa ɲuɲut̪ɛ unid̪ɔ ɲɛlɛɾasa t̪alaɾɛi̯ bɔlɔi̯na aɾ a.jaʔ ɟaŋga d̪ɔ ɲɛlɛɾasaɾɛ t̪ʰɘli.jɛnt̪a.ja,ɲɛlɛɾasa ɲu-ɲut̪-ɛ uni-d̪ɔ ɲɛlɛɾasa t̪ala-ɾɛ-i̯ bɔlɔ-i̯-en-a aɾ aj-aʔ ɟaŋga d̪ɔ ɲɛlɛɾasa-ɾɛ t̪ʰɘli-i̯-en-t̪a-a,honey eat-CONT-3SG 3SG-TOP honey middle-LOC-3SG enter-3SG-INTR-FIN and 3SG-GEN leg TOP honey-LOC stick-3SG-INTR-COP-FIN,eaf_sequence_match,santali_glossed_new_3(1).eaf,6,11000,13000
+486,"The more he tried to get his foot out, the more he sank inward.",baɲcaʔ lɘgit̪ʔ a.jaʔ kaʈa t̪inɘʔɛ ɔcɔʔɛʔt̪a.ja unɘʔgi bʰit̪ɾisɛʲcʔɛ bɔlɔ cala͡o̯ɛna,baɲ-c-aʔ lɘgit̪ʔ aj-aʔ kaʈa t̪inɘʔ-ɛ ɔcɔʔ-ɛʔ-t̪a-a unɘʔ-gi bʰit̪ɾi-sɛc-ʔ-ɛ bɔlɔ calaɔ̯-en-a,escape-INF for 3SG-GEN leg how.much-3SG release-3SG.OBJ-COP-FIN that.much-EMPH inside-side-EMPH-3SG enter go-PST.INTR-FIN,eaf_sequence_match,santali_glossed_new_3(1).eaf,7,13200,15200
+487,At one point the ant suffocated and died.,sahɛ̃t̪ʔ bɔnd̪ɔ.jɛnt̪a͡i̯t̪ɛ uni muʲcʔ d̪ɔ mit̪ʔgʰɘɽi t̪ai̯nɔmɛ gɔʲcʔɛna,sahɛ̃t̪ʔ bɔnd̪ɔ-i̯-en-t̪a-i̯-t̪ɛ uni muɲɟ-ʔ d̪ɔ mit̪ʔ-gʰɘɽi t̪ai̯-nɔmɛ gɔc-ʔ-en-a,breath stop-3SG-PST-COP-3SG-INST 3SG ant-EMPH TOP one-moment stay-PUNCT die-PST-INTR-FIN,eaf_sequence_match,santali_glossed_new_3(1).eaf,8,15400,17400
+488,The ant died due to its greed.,a.jaʔ lalɔcʔ ijɘt̪ɛ uni mũʲcʔ d̪ɔi̯ gɔʲcʔena,aj-aʔ lalɔc-ʔ ijɘ-t̪ɛ uni muɲɟ-ʔ d̪ɔ-i̯ gɔc-ʔ-en-a,3SG-GEN greed-EMPH cause-INST 3SG ant-EMPH TOP-3SG die-PST-INTR-FIN,eaf_sequence_match,santali_glossed_new_3(1).eaf,9,17600,19600
+489,A tiger and a pig went to a well to drink water.,mit̪ʔʈɛn t̪ɘɾup̚ʔ aɾ mit̪ʔʈɛn suk̚ɾi mit̪ʔʈɛn kuɲɾɛː d̪aʔ ɲukin cala͡o̯lɛna,mit̪ʔ-ʈɛn t̪ɘɾup-ʔ aɾ mit̪ʔ-ʈɛn suk̚ɾi mit̪ʔ-ʈɛn kuɲ-ɾɛ d̪aʔ ɲu-kin calaɔ̯-len-a,one-CLF tiger-EMPH and one-CLF pig one-CLF well-LOC water drink-3DU go-PST-FIN,eaf_sequence_match,santali_glossed_new_3(1).eaf,10,19800,21800
+490,But they quarreled over who would drink the water first.,mɛnkʰan ɔkɔi̯ lahaɾɛ d̪aʔɛː ɲu.ja noa̯ ni̯ɘt̪ɛ ɘkint̪alaɾɛ kɘpɘɾiɘo̯ laga͡ɔ̯ɛna,mɛnkʰan ɔkɔ-i̯ laha-ɾɛ d̪aʔ-ɛ ɲu-a nɔa̯ ni̯ɘ-t̪ɛ ɘkin-t̪ala-ɾɛ kɘpɘɾiɘɔ̯ lagaɔ̯-en-a,but who-3SG before-LOC water-3SG drink-FIN this regarding-INST 3DU-middle-LOC quarrel begin-PST-FIN,eaf_sequence_match,santali_glossed_new_3(1).eaf,11,22000,24000
+491,The tiger did not want to let the pig drink the water first.,t̪ɘɾup̚ʔ ɔkalɛkat̪ɛhɔ̃ suk̚ɾi lahaɾɛ d̪aʔ ɲu ucu bai̯ kʰɔɟlɛna,t̪ɘɾup-ʔ ɔka-lɛka-t̪ɛ-hɔ̃ suk̚ɾi laha-ɾɛ d̪aʔ ɲu ucu ba-i̯ kʰɔɟ-len-a,tiger-EMPH any-way-INST-EMPH pig before-LOC water drink let NEG-3SG want-PST-FIN,eaf_sequence_match,santali_glossed_new_3(1).eaf,12,24200,26200
+492,The pig also refused to let the tiger drink the water first.,suk̚ɾi hɔ̃ t̪ɘɾup̚ʔ lahaɾɛ d̪aʔ ɲu ucu d̪ɔ bai̯ ɾɛbɛnlɛna,suk̚ɾi hɔ̃ t̪ɘɾup-ʔ laha-ɾɛ d̪aʔ ɲu ucu d̪ɔ ba-i̯ ɾɛbɛn-len-a,pig also tiger-EMPH before-LOC water drink let TOP NEG-3SG agree-PST-FIN,eaf_sequence_match,santali_glossed_new_3(1).eaf,13,26400,28400
+493,A group of vultures sitting on the tree was observing their situation.,d̪aɾeɾɛ d̪uɽup̚ʔ kat̪ɛ miʔ ɟʰãk gid̪i d̪ɔ ɘkinaʔ noa̯ gʰɔʈɔnako ɲɛlɛt̪ʔkant̪ãhɛna,d̪aɾe-ɾɛ d̪uɽup-ʔ kat̪ɛ miʔ ɟʰãk gid̪i d̪ɔ ɘkin-aʔ nɔa̯ gʰɔʈɔna-ko ɲɛl-ɛt̪ʔ-kan-t̪ahɛ-n-a,tree-LOC sit-EMPH CVB one group vulture TOP 3DU-GEN this event-3PL see-PROG-COP-stay-INTR-FIN,eaf_sequence_match,santali_glossed_new_3(1).eaf,14,28600,30600
+494,"When the tiger and the pig would die, vultures were thinking about eating their flesh.",t̪ɘɾup̚ʔ aɾ suk̚ɾikin gɔʲcʔlɛnkʰan gid̪ikod̪ɔ uŋkinaʔ ɟil jɔmko hud̪isɔʔkan t̪ahɛna,t̪ɘɾup-ʔ aɾ suk̚ɾi-kin gɔc-ʔ-len-kʰan gid̪i-ko-d̪ɔ uŋkin-aʔ ɟil jɔm-ko hud̪isɔʔ-kan t̪ahɛ-n-a,tiger-EMPH and pig-3DU die-PST-INTR-when vulture-3PL-TOP 3DU-GEN flesh eat-3PL think-PROG be-INTR-FIN,eaf_sequence_match,santali_glossed_new_3(1).eaf,15,30800,32800
+495,At some point the tiger understood this and told the pig.,mit̪ʔ ɔk̚t̪ɛ t̪ɘɾup̚ʔ nɔai̯ buɟʰhɘo̯ked̪a aɾ suk̚ɾi.jɛ mɛt̪ade.ja,mit̪ʔ ɔk̚t̪ɛ t̪ɘɾup-ʔ nɔa-i̯ buɟʰhɘɔ̯-ked-a aɾ suk̚ɾi-ɛ mɛt̪-ad-e-a,one time tiger-EMPH this-3SG understand-PST.TR-FIN and pig-3SG say-PST.TR-3SG.OBJ-FIN,eaf_sequence_match,santali_glossed_new_3(1).eaf,16,33000,35000
+496,Then they stopped fighting and both drank water and quenched their thirst.,nɔa̯ t̪a.jɔm unkin kɘpʰɘɾiɘo̯ t̪ʰiɾkat̪ɛ banahɔɽge d̪aʔkin ɲu ked̪a aɾ t̪ɛt̪aŋkin maɾaɔ̯ked̪a,nɔa̯ t̪ajɔm un-kin kɘpʰɘɾiɘɔ̯ t̪ʰiɾ-kat̪ɛ bana-hɔɽ-ge d̪aʔ-kin ɲu ked-a aɾ t̪ɛt̪aŋ-kin maɾaɔ̯-ked-a,this after that-3DU quarrel stop-CVB both-person-EMPH water-3DU drink PST.TR-FIN and thirst-3DU finish-PST.TR-FIN,eaf_sequence_match,santali_glossed_new_3(1).eaf,17,35200,37200
+497,It is easy to talk to the distant people with a mobile.,mobaĭlt̪ɛ sɘŋgiɲɾɛn hɔɽ sãɔ̯t̪ɛhɔ̃ kat̪ʰam ɾɔɽ d̪aɽe.jaʔa,mobaĭl-t̪ɛ sɘŋgiɲ-ɾɛn hɔɽ sãɔ̯-t̪ɛ-hɔ̃ kat̪ʰa-m ɾɔɽ d̪aɽe-jaʔ-a,mobile-INST far-GEN person with-INST-also word-2SG speak able-FIN-FIN,eaf_sequence_match,santali_glossed_new_3(1).eaf,18,37400,39400
+498,Relatives can be inquired through mobile.,mobaĭlt̪ɛ pɛɽakoa̯ʔ boge ɟud̪ɘhɔm baɖai̯ d̪aɽe.jaʔa,mobaĭl-t̪ɛ pɛɽa-ko-aʔ boge ɟud̪ɘ-hɔ-m baɖai̯ d̪aɽe-jaʔ-a,mobile-INST relative-3PL-GEN good news-EMPH-2SG know able-FIN-FIN,eaf_sequence_match,santali_glossed_new_3(1).eaf,19,39600,41600
+499,"Mobile can be used to listen to music, take pictures and watch movies.",mobaĭlt̪ɛ seɾeɲ aɲɟɔmɔʔa pʰɔʈɔ ɾakabɔʔa senema aɾ naʈɔk̚ ɲɛlɔ.a,mobaĭl-t̪ɛ seɾeɲ aɲɟɔm-ɔʔ-a pʰɔʈɔ ɾakab-ɔʔ-a senema aɾ naʈɔk̚ ɲɛl-ɔ-a,mobile-INST song listen-PASS-FIN photo take-PASS-FIN cinema and drama see-PASS-FIN,eaf_sequence_match,santali_glossed_new_3(1).eaf,20,41800,43800
+500,"Besides, numbers can be calculated and the time can be checked on the mobile.",mobaĭlt̪ɛm hisɘb d̪aɽeoa̯ʔa aɾ ɔk̚t̪ɛhɔm baɖai̯ d̪aɽe.jaʔa,mobaĭl-t̪ɛ-m hisɘb d̪aɽe-oaʔ-a aɾ ɔk̚t̪ɛ-hɔ-m baɖai̯ d̪aɽe-jaʔ-a,mobile-INST-2SG calculation able-PASS-FIN and time-EMPH-2SG know able-FIN-FIN,eaf_sequence_match,santali_glossed_new_3(1).eaf,21,44000,46000
+501,Initially the price was high so most people could not afford the mobile.,pɘhil pɘhil d̪ɔ mobaĭlɾe.jaʔ d̪am ɘɖi ɟɘst̪i t̪ahɛ̃kana ɔna i̯ɘt̪ɛ hɔɽd̪ɔ mobaĭl baku kiɾiɲ d̪aɽe.jaʔkant̪ahɛ̃na,pɘhil pɘhil d̪ɔ mobaĭl-ɾeaʔ d̪am ɘɖi ɟɘst̪i t̪ahɛ̃-kan-a ɔna iɘ-t̪ɛ hɔɽ-d̪ɔ mobaĭl ba-ko kiɾiɲ d̪aɽe-jaʔ-kan-t̪ahɛ̃-n-a,first first TOP mobile-GEN price very high stay-COP-FIN that cause-INST person-TOP mobile NEG-3PL buy able-FIN-COP-stay-INTR-FIN,eaf_sequence_match,santali_glossed_new_3(1).eaf,22,46200,48200
+502,"At that time, we had to go to the shop and talk with money.",unɾɛ d̪ɔkanɾɛ cala͡o̯kat̪ɛt̪ʔ ʈakat̪ɛ kat̪ʰa ɾɔɽ ho.joʔkan t̪ahɛ̃na,un-ɾɛ d̪ɔkan-ɾɛ calaɔ̯-kat̪ɛ-t̪ʔ ʈaka-t̪ɛ kat̪ʰa ɾɔɽ ho.j-oʔ-kan t̪ahɛ̃-n-a,that-LOC shop-LOC go-CVB-EMPH money-INST word speak become-PASS-COP stay-INTR-FIN,eaf_sequence_match,santali_glossed_new_3(1).eaf,23,48400,50400
+503,But now most people have mobile phones.,mɛnkʰan nit̪ d̪ɔ ɖʰeɾ hɔɽ ʈʰɛnge mobaĭl mena.a,mɛnkʰan nit̪ d̪ɔ ɖʰeɾ hɔɽ ʈʰɛn-ge mobaĭl mena-a,but now TOP many person near-EMPH mobile exist-FIN,eaf_sequence_match,santali_glossed_new_3(1).eaf,24,50600,52600
+504,Money can now be paid and received through mobile.,mobai̯ltege nit̪ d̪ɔ ʈaka kolo.a aɾ ʈaka ɲamɔ.a,mobai̯l-tege nit̪ d̪ɔ ʈaka kolo-a aɾ ʈaka ɲam-ɔ-a,mobile-INST.EMPH now TOP money send-FIN and money get-PASS-FIN,eaf_sequence_match,santali_glossed_new_3(1).eaf,25,52800,54800
+505,The Internet can be used/run on mobile.,mobaĭlɾɛ inʈaɾneʈ̚hɔ̃ku bɛbɔhaɾa,mobaĭl-ɾɛ inʈaɾneʈ-hɔ̃-ku bɛbɔhaɾ-a,mobile-LOC internet-also-3PL use-FIN,eaf_sequence_match,santali_glossed_new_3(1).eaf,26,55000,57000
+506,We can even study on the internet/online.,inʈaɾneʈ̚t̪ɛm ɔlɔʔ paɽha͡o̯ d̪aɽe.jaʔa,inʈaɾneʈ-t̪ɛ-m ɔlɔʔ paɽhaɔ̯ d̪aɽe-jaʔ-a,internet-INST-2SG read study able-FIN-FIN,eaf_sequence_match,santali_glossed_new_3(1).eaf,27,57200,59200
+507,One day a crow got very thirsty for water.,mit̪ʔd̪in mĭt̪ʔʈɛn kɘhũ ɘɖiː ãːʈ t̪et̪aŋked̪e.ja,mit̪ʔ-d̪in mit̪ʔ-ʈɛn kɘhũ ɘɖi ãʈ t̪et̪aŋ-ked-e-a,one-day one-CLF crow very thirst feel-PST.TR-3SG.OBJ-FIN,eaf_sequence_match,santali_glossed_new_3(1).eaf,28,59400,61400
+508,"Meanwhile, looking here and there, it saw an earthen pitcher in the yard.",hant̪ɛnat̪ɛ kɔ.jɔʔbaɽa kat̪ɛ unid̪ɔ ɾacaɾɛ mit̪ʔʈɛn hasaɾe.jaʔ kanɖai̯ ɲɛlɲamked̪a,hant̪ɛ-na-t̪ɛ kɔ.jɔʔ-baɽa kat̪ɛ uni-d̪ɔ ɾaca-ɾɛ mit̪ʔ-ʈɛn hasa-ɾeaʔ kanɖa-i̯ ɲɛl-ɲam-ked-a,here-there-DIR look-around CVB 3SG-TOP yard-LOC one-CLF clay-GEN pitcher-3SG see-find-PST.TR-FIN,eaf_sequence_match,santali_glossed_new_3(1).eaf,29,61600,63600
+509,But the water was at the bottom of the pitcher.,mɛnkʰan d̪aʔd̪ɔ t̪ahɛkana kanɖaɾe.jaʔ ɛkalt̪ɛ lat̪aɾ ɟalat̪ʔɾɛ,mɛnkʰan d̪aʔ-d̪ɔ t̪ahɛ-kan-a kanɖa-ɾeaʔ ɛkal-t̪ɛ lat̪aɾ ɟala-t̪ʔ-ɾɛ,but water-TOP stay-COP-FIN pitcher-GEN very-INST below bottom-EMPH-LOC,eaf_sequence_match,santali_glossed_new_3(1).eaf,30,63800,65800
+510,Because of this the crow could not drink that water.,ɔna kakʰant̪ɛ kɘhũd̪ɔ ɔna d̪aʔ bai̯ ɲu d̪aɽɛ.jad̪a,ɔna kakʰan-t̪ɛ kɘhũ-d̪ɔ ɔna d̪aʔ ba-i̯ ɲu d̪aɽɛ-jad-a,that reason-INST crow-TOP that water NEG-3SG drink able-PST.TR-FIN,eaf_sequence_match,santali_glossed_new_3(1).eaf,31,66000,68000
+511,Then the crow thought of a way.,unɾɛ kɘhũd̪ɔ mit̪ʔʈɛn upɘ.jɛ uɖuŋked̪a,un-ɾɛ kɘhũ-d̪ɔ mit̪ʔ-ʈɛn upɘ-i̯-ɛ uɖuŋ-ked-a,that-LOC crow-TOP one-CLF way-3SG-3SG bring.out-PST.TR-FIN,eaf_sequence_match,santali_glossed_new_3(1).eaf,32,68200,70200
+512,It started throwing pieces of stone into that pitcher.,uni d̪ɔ ɔna kanɖa bʰit̪ɾiɾɛ d̪ʰiɾiɾe.jaʔ kuʈ̚ɾɘ giɖii̯ laga͡o̯ɛna,uni d̪ɔ ɔna kanɖa bʰit̪ɾi-ɾɛ d̪ʰiɾi-ɾeaʔ kuʈɾɘ giɖi-i̯ lagaɔ̯-en-a,3SG TOP that pitcher inside-LOC stone-GEN piece throw-3SG begin-PST-FIN,eaf_sequence_match,santali_glossed_new_3(1).eaf,33,70400,72400
+513,The stones accumulated and the water came to the mouth of the pitcher.,d̪ʰiɾi kuʈ̚ɾɘ ɟɔma͡o̯ ɟɔma͡o̯t̪ɛ d̪aʔ d̪ɔ kanɖa ɾe.jaʔ mɔcaʈʰɛn hɛʲcʔɛna,d̪ʰiɾi kuʈɾɘ ɟɔmaɔ̯ ɟɔmaɔ̯-t̪ɛ d̪aʔ d̪ɔ kanɖa-ɾeaʔ mɔca-ʈʰɛn hɛc-ʔ-en-a,stone piece collect collect-INST water TOP pitcher-GEN mouth-near come-PST-INTR-FIN,eaf_sequence_match,santali_glossed_new_3(1).eaf,34,72600,74600
+514,The crow then drank that water.,kɘhũ d̪ɔ unɾɛ ɔna d̪aʔɛ ɲuː ked̪a,kɘhũ d̪ɔ un-ɾɛ ɔna d̪aʔ-ɛ ɲu ked-a,crow TOP that-LOC that water-3SG drink PST.TR-FIN,eaf_sequence_match,santali_glossed_new_3(1).eaf,35,74800,76800
+515,Bangladesh is a multilingual and multi-racial country.,baŋlad̪es ai̯ma pɘɾsi aɾ ai̯ma ɟɘt̪i ɾe.jaʔ mit̪ʔʈɛn d̪isɘm,baŋlad̪es ai̯ma pɘɾsi aɾ ai̯ma ɟɘt̪i-ɾeaʔ mit̪ʔ-ʈɛn d̪isɘm,Bangladesh many language and many ethnicity-GEN one-CLF country,eaf_sequence_match,santali_glossed_new_3(1).eaf,36,77000,79000
+516,"In addition to the Bangalees, about 50 other nationalities live in this country.",noa̯ d̪isɘmɾɛ baŋgali bɛgɔɾhɔ̃ noŋka mɔ̃ɽɛgɛlgɔʈɛn ɟɘt̪iɾɛn hɔɽko giɾɘbɘsiʔkana,nɔa̯ d̪isɘm-ɾɛ baŋgali bɛgɔɾ-hɔ̃ noŋka mɔ̃ɽɛ-gɛl-gɔʈɛn ɟɘt̪i-ɾɛn hɔɽ-ko giɾɘ-bɘsiʔ-kan-a,this country-LOC Bengali besides-also like five-ten-CLF ethnicity-GEN person-3PL settle-live-COP-FIN,eaf_sequence_match,santali_glossed_new_3(1).eaf,37,79200,81200
+517,"Like the Bangalees, they also have distinct languages and customs.",baŋgaliko lekage oŋkoa̯ʔhɔ̃ ɟud̪ɘ pɘɾsi aɾ ni.jɘm ɘɾi mena.a,baŋgali-ko leka-ge oŋko-aʔ-hɔ̃ ɟud̪ɘ pɘɾsi aɾ ni.jɘm ɘɾi mena-a,Bengali-3PL like-EMPH 3PL-GEN-also different language and custom tradition exist-FIN,eaf_sequence_match,santali_glossed_new_3(1).eaf,38,81400,83400
+518,Many languages are disappearing due to lack of usage.,bɛo̯haɾ t̪ʰoɽa ho.joʔkan kakʰant̪ɛ ai̯ma pɘɾsiko ad̪ɔʔkana,bɛo̯haɾ t̪ʰoɽa ho.j-oʔ-kan kakʰan-t̪ɛ ai̯ma pɘɾsi-ko ad̪-oʔ-kan-a,use little become-PASS-COP reason-INST many language-3PL lose-PASS-COP-FIN,eaf_sequence_match,santali_glossed_new_3(1).eaf,39,83600,85600
+519,It is important for children to study in their own language.,gid̪ɾɛko lɘgit̪ʔ apnaɾ pɘɾsit̪ɛ ɔlɔʔ paɽha͡o̯ ɟɘɾuɽa,gid̪ɾɛ-ko lɘgit̪ʔ apnaɾ pɘɾsi-t̪ɛ ɔlɔʔ paɽhaɔ̯ ɟɘɾuɽ-a,child-3PL for own language-INST read study necessary-FIN,eaf_sequence_match,santali_glossed_new_3(1).eaf,40,85800,87800
+520,"If one does not study in their mother language in childhood, one does not learn their own language later.",gid̪ɾɘ bid̪ɘlɾɛ gɔgɔ pɘɾsit̪ɛ ɔlɔʔ paɽha͡o̯ baŋ hoi̯lɛnkʰan t̪a.jɔmt̪ɛ apnaɾ pɘɾsi aɾ cet̪ʔ baŋ ho.joʔkana,gid̪ɾɘ bid̪ɘl-ɾɛ gɔgɔ pɘɾsi-t̪ɛ ɔlɔʔ paɽhaɔ̯ baŋ ho.j-i̯-len-kʰan t̪ajɔm-t̪ɛ apnaɾ pɘɾsi aɾ cet̪ʔ baŋ ho.j-oʔ-kan-a,child age-LOC mother language-INST read study NEG become-3SG-PST-when after-INST own language and learn NEG become-PASS-COP-FIN,eaf_sequence_match,santali_glossed_new_3(1).eaf,41,88000,90000
+521,I love my language.,iɲd̪ɔ iɲaʔ pɘɾsiɲ d̪ulɘɽaʔa,iɲ-d̪ɔ iɲ-aʔ pɘɾsi-ɲ d̪ulɘɽ-aʔ-a,1SG-TOP 1SG-GEN language-1SG love-FIN-FIN,eaf_sequence_match,santali_glossed_new_3(1).eaf,42,90200,92200
+522,I love my country.,iɲd̪ɔ iɲaʔ d̪isɘmiɲ d̪ulɘɽed̪a,iɲ-d̪ɔ iɲ-aʔ d̪isɘm-iɲ d̪ulɘɽ-ed-a,1SG-TOP 1SG-GEN country-1SG love-PRS.TR-FIN,eaf_sequence_match,santali_glossed_new_3(1).eaf,43,92400,94400
+523,"My golden Bangla, I love you.",iɲaʔ sɔneɾ baŋla iɲd̪ɔ amiɲ d̪ulɘɽɛt̪ʔme.ja,iɲ-aʔ sɔneɾ baŋla iɲ-d̪ɔ am-iɲ d̪ulɘɽ-ɛt̪ʔ-me-a,1SG-GEN golden Bengal 1SG-TOP 2SG-1SG love-PROG-2SG.OBJ-FIN,eaf_sequence_match,santali_glossed_new_3(1).eaf,44,94600,96600
+524,"Some languages use Bangalee fonts, some languages use English/Roman fonts, and some languages have their own fonts.",ad̪ɔm pɘɾsi baŋla akʰɔɾko bɛo̯haɾa ad̪ɔm pɘɾsi iŋɾeɟi sɛ ɾoman akʰɔɾko bɛo̯haɾa aɾ ad̪ɔm pɘɾsi.jaʔd̪ɔ apnaɾaʔ akʰɔɾ mena.a,ad̪ɔm pɘɾsi baŋla akʰɔɾ-ko bɛo̯haɾ-a ad̪ɔm pɘɾsi iŋɾeɟi sɛ ɾoman akʰɔɾ-ko bɛo̯haɾ-a aɾ ad̪ɔm pɘɾsi-aʔ-d̪ɔ apnaɾ-aʔ akʰɔɾ mena-a,some language Bengali letter-3PL use-FIN some language English or Roman letter-3PL use-FIN and some language-GEN-TOP own-GEN letter exist-FIN,eaf_sequence_match,santali_glossed_new_3(1).eaf,45,96800,98800
+525,Father is the head person/man of a family.,babad̪ɔ mit̪ʔʈɛn gʰaɾɔ̃ɟɾɛn mukʰi̯ɘ hɔɽ,baba-d̪ɔ mit̪ʔ-ʈɛn gʰaɾɔ̃ɟ-ɾɛn mukʰi̯ɘ hɔɽ,father-TOP one-CLF family-GEN head person,eaf_sequence_match,santali_glossed_new_3(1).eaf,46,99000,101000
+526,He takes care of the family.,uni d̪ɔ gʰaɾɔɟɾe.jaʔɛ ɲɛɭbaɽa.ja,uni d̪ɔ gʰaɾɔɟ-ɾeaʔ-ɛ ɲɛlbaɽa-a,3SG TOP family-GEN-3SG look.after-FIN,eaf_sequence_match,santali_glossed_new_3(1).eaf,47,101200,103200
+527,My father used to earn by working in agricultural fields.,iɲbaba d̪ɔ kʰɛt̪ɾɛ kɘmikat̪ɛt̪ʔɛ kɘmhɘ.jɛt̪ʔkant̪ahɛ̃na,iɲ-baba d̪ɔ kʰɛt̪-ɾɛ kɘmi-kat̪ɛ-t̪ʔ-ɛ kɘmhɘ-i̯-ɛt̪ʔ-kan-t̪ahɛ̃-n-a,1SG-father TOP field-LOC work-CVB-EMPH-3SG earn-3SG-PROG-COP-stay-INTR-FIN,eaf_sequence_match,santali_glossed_new_3(1).eaf,48,103400,105400
+528,I have learned to read and write from my father.,babaʈʰɛnkʰɔn iɲd̪ɔ ɔlɔʔ aɾ paɽha͡ɔ̯iɲ cit̪ʔakad̪a,baba-ʈʰɛn-kʰɔn iɲ-d̪ɔ ɔlɔʔ aɾ paɽhaɔ̯-iɲ cit̪ʔ-akad-a,father-from-ABL 1SG-TOP read and study-1SG learn-PRF.TR-FIN,eaf_sequence_match,santali_glossed_new_3(1).eaf,49,105600,107600
+529,"Sometimes when the school hours were over, I saw my father standing outside the school for me.",ɔk̚t̪ɛ ɔk̚t̪ɛ iskul cʰuʈilɛnkʰan ɲɛlɘɲ baba d̪ɔ iɲlɘgit̪ʔ iskul baɾhɛɾɛi̯ t̪eŋgo.ăkana,ɔk̚t̪ɛ ɔk̚t̪ɛ iskul cʰuʈi-len-kʰan ɲɛl-ɘ-ɲ baba d̪ɔ iɲ-lɘgit̪ʔ iskul baɾhɛ-ɾɛ-i̯ t̪eŋgɔ-akan-a,time time school holiday-PST-when see-FIN-1SG father TOP 1SG-for school outside-LOC-3SG stand-PRF.INTR-FIN,eaf_sequence_match,santali_glossed_new_3(1).eaf,50,107800,109800
+530,I saw tears in my father's eyes after getting good results in the exam.,biɖɘ͡o̯ɾɛ bʰage ɾeɟal t̪a.jɔm babaɔ̯aʔ mɛ̃t̪ʔd̪aʔiɲ ɲɛl lɛd̪a,biɖɘɔ̯-ɾɛ bʰage ɾeɟal t̪ajɔm baba-ɔ̯aʔ mɛ̃t̪ʔ-d̪aʔ-iɲ ɲɛl led-a,exam-LOC good result after father-GEN eye-water-1SG see PST.TR-FIN,eaf_sequence_match,santali_glossed_new_3(1).eaf,51,110000,112000
+531,I did not know that many people cry even when they are happy.,unɾɛ bɘɲbaɖai̯kant̪ahɛ̃na ai̯mahɔɽ ɾɘskɘlɛnkʰanhɔ̃ ku ɾaːga,un-ɾɛ bɘɲ-baɖai̯-kan-t̪ahɛ̃-n-a ai̯ma-hɔɽ ɾɘskɘ-len-kʰan-hɔ̃ ku-ɾaːg-a,that-LOC NEG.1SG-know-COP-stay-INTR-FIN many-person joy-PST-when-also 3PL-cry-FIN,eaf_sequence_match,santali_glossed_new_3(1).eaf,52,112200,114200
+532,Father himself could not study much.,baba aʲcʔt̪ɛt̪ʔhɔ̃ ɟɘst̪i ba͡i̯ ɔlɔʔ paɽha͡o̯ d̪aɽe.jakad̪a,baba ac-ʔ-t̪ɛ-t̪ʔ-hɔ̃ ɟɘst̪i ba-i̯ ɔlɔʔ paɽhaɔ̯ d̪aɽe-jakad-a,father self-EMPH-INST-EMPH-also much NEG-3SG read study able-PRF.TR-FIN,eaf_sequence_match,santali_glossed_new_3(1).eaf,53,114400,116400
+533,But he wanted me to pass MA.,mɛnkʰan unii̯ kʰɔɟlɛna iɲ e.meɲ pas ma,mɛnkʰan uni-i̯ kʰɔɟ-len-a iɲ e.me-ɲ pas-m-a,but 3SG-3SG want-PST-FIN 1SG M.A.-1SG pass-2SG-FIN,eaf_sequence_match,santali_glossed_new_3(1).eaf,54,116600,118600
+534,He sometimes helped my mother in cooking.,uni ɔk̚t̪ɛ ɔk̚t̪ɛ d̪akaut̪u kɘmiɾɛ gɔgɔhɔ̃.jɛ gɔɽɔ.ai̯kan t̪ahɛ̃na,uni ɔk̚t̪ɛ ɔk̚t̪ɛ d̪aka-ut̪u kɘmi-ɾɛ gɔgɔ-hɔ̃-ɛ gɔɽɔ-ai̯-kan t̪ahɛ̃-n-a,3SG time time rice-curry work-LOC mother-also-3SG help-3SG.OBJ-COP stay-INTR-FIN,eaf_sequence_match,santali_glossed_new_3(1).eaf,55,118800,120800
+535,I took care of father when he got old.,baba t̪inɾɛi̯ haɽam lena unɾɛ iɲ uniɲ ɟɔt̪ɔnăkadi.ja,baba t̪in-ɾɛ-i̯ haɽam len-a un-ɾɛ iɲ uni-ɲ ɟɔt̪ɔn-akad-i-a,father when-LOC-3SG old PST-FIN that-LOC 1SG 3SG-1SG care-PRF.TR-3SG.OBJ-FIN,eaf_sequence_match,santali_glossed_new_3(1).eaf,56,121000,123000
+536,"From my childhood, my father was a person I could follow.",kɘʈiʲcʔkʰɔnge baba d̪ɔ iɲɾɛn paɲɟalek hɔɽ kanai̯,kɘʈic-ʔ-kʰɔn-ge baba d̪ɔ iɲ-ɾɛn paɲɟa-lek hɔɽ kan-a-i̯,small-EMPH-ABL-EMPH father TOP 1SG-GEN follow-like person COP-FIN-3SG,eaf_sequence_match,santali_glossed_new_3(1).eaf,57,123200,125200
+537,I still feel like crying when I remember my father.,babai̯ɲ d̪isɘlekʰan nit̪hɔ̃ iɲ ɾaʔ ɾaʔiɲ ɘi̯kɘo̯a,baba-i̯-ɲ d̪isɘl-e-kʰan nit̪-hɔ̃ iɲ ɾaʔ ɾaʔ-iɲ ɘi̯-kɘɔ̯-a,father-3SG-1SG remember-3SG.OBJ-when now-also 1SG cry cry-1SG come-INCH-FIN,eaf_sequence_match,santali_glossed_new_3(1).eaf,58,125400,127400
+538,I feel proud of my father.,iɲd̪ɔ iɲ baba ni̯ɘt̪ɛɲ gɔɾɔbɔʔkana,iɲ-d̪ɔ iɲ baba ni̯ɘ-t̪ɛ-ɲ gɔɾɔb-ɔʔ-kan-a,1SG-TOP 1SG father regarding-INST-1SG proud-PASS-COP-FIN,eaf_sequence_match,santali_glossed_new_3(1).eaf,59,127600,129600
+539,I want my child to be proud of me too.,iɲiɲ kʰɔɟɔʔkana iɲɾɛn gid̪ɾɘhɔ̃ iɲ ni̯ɘt̪ɛ gɔɾɔb oco̯a,iɲ-iɲ kʰɔɟ-ɔʔ-kan-a iɲ-ɾɛn gid̪ɾɘ-hɔ̃ iɲ ni̯ɘ-t̪ɛ gɔɾɔb oc-oɔ̯-a,1SG-1SG want-PASS-COP-FIN 1SG-GEN child-also 1SG regarding-INST proud cause-CAUS-FIN,eaf_sequence_match,santali_glossed_new_3(1).eaf,60,129800,131800
+540,"[Greetings] Uncle, how are you?",ɟohaɾ hɔpɔnba cɛt̪ʔlɛka mɛnama,ɟohaɾ hɔpɔn-ba cɛt̪ʔ-lɛka mɛn-am-a,greeting son-uncle what-like exist-2SG-FIN,eaf_sequence_match,santali_glossed_new_3(1).eaf,61,132000,134000
+541,I am fine my son.,mɔɟge minɘɲɘ bɘbu,mɔɟ-ge min-ɘ-ɲ-ɘ bɘbu,good-EMPH exist-FIN-1SG-FIN son,eaf_sequence_match,santali_glossed_new_3(1).eaf,62,134200,136200
+542,How are you?,am cɛt̪ʔlɛka mɛnama,am cɛt̪ʔ-lɛka mɛn-am-a,2SG what-like exist-2SG-FIN,eaf_sequence_match,santali_glossed_new_3(1).eaf,63,136400,138400
+543,How are your parents?,amɾɛn gɔgɔbaba cɛt̪ʔlɛka menaʔkinɘ,am-ɾɛn gɔgɔ-baba cɛt̪ʔ-lɛka mena-ʔ-kin-ɘ,2SG-GEN mother-father what-like exist-COP-3DU-FIN,eaf_sequence_match,santali_glossed_new_3(1).eaf,64,138600,140600
+544,We are all fine.,alɛ ɟɔt̪ɔhɔɽ mɔ̃ɟge menaʔle.ja,alɛ ɟɔt̪ɔ-hɔɽ mɔ̃ɟ-ge mena-ʔ-le-a,1PL.EXCL all-person good-EMPH exist-COP-1PL.EXCL-FIN,eaf_sequence_match,santali_glossed_new_3(1).eaf,65,140800,142800
+545,"How is grandmother, Uncle?",buɖigɔ cɛt̪ʔlɛka mena.ja hɔpɔnba,buɖi-gɔ cɛt̪ʔ-lɛka mena-a hɔpɔn-ba,old-mother what-like exist-FIN son-uncle,eaf_sequence_match,santali_glossed_new_3(1).eaf,66,143000,145000
+546,She is sick since yesterday.,hɔlakʰɔn unii̯ ɾu̯ɘʔkana,hɔla-kʰɔn uni-i̯ ɾuɘ-ʔ-kan-a,yesterday-ABL 3SG-3SG sick-PASS-COP-FIN,eaf_sequence_match,santali_glossed_new_3(1).eaf,67,145200,147200
+547,I think I will take her to the doctor today.,gunɘnɔʔkɘnɘɲ t̪eheɲ uni ɖakt̪aɾʈʰɛniɲ idii̯.ja,gunɘ-nɔʔ-kɘn-ɘ-ɲ t̪eheɲ uni ɖakt̪aɾ-ʈʰɛn-iɲ idi-i̯-a,think-INCH-PROG-FIN-1SG today 3SG doctor-near-1SG take-3SG.OBJ-FIN,eaf_sequence_match,santali_glossed_new_3(1).eaf,68,147400,149400
+548,That would be good.,ɔnage bʰage ho.jo.a,ɔna-ge bʰage ho.j-o-a,that-EMPH good become-PASS-FIN,eaf_sequence_match,santali_glossed_new_3(1).eaf,69,149600,151600
+549,Let us know if you need anything.,ɟahanaʔ ɟɘɾuɽɔʔkʰan alɛm baɖai̯ŏcole.ja,ɟahan-aʔ ɟɘɾuɽ-ɔʔ-kʰan alɛ-m baɖai̯-oc-o-le-a,anything-GEN necessary-PASS-when 1PL.EXCL-2SG know-CAUS-PASS-1PL.EXCL-FIN,eaf_sequence_match,santali_glossed_new_3(1).eaf,70,151800,153800
+550,"Alright, I will let you know.",ac.cʰaɲ baɖai̯ocope.ja,accʰa-ɲ baɖai̯-oc-o-pe-a,alright-1SG know-CAUS-PASS-2PL-FIN,eaf_sequence_match,santali_glossed_new_3(1).eaf,71,154000,156000
+551,Tell your parents your grandmother is ill.,amɾɛn gɔgɔbaba lɘ.jakinmɛ ambuɖigɔi̯ ɾu̯ɘʔkana,am-ɾɛn gɔgɔ-baba lɘj-a-kin-mɛ am-buɖi-gɔ-i̯ ɾuɘ-ʔ-kan-a,2SG-GEN mother-father say-IMP-3DU-2SG 2SG-old-mother-3SG sick-PASS-COP-FIN,eaf_sequence_match,santali_glossed_new_3(1).eaf,72,156200,158200
+552,Tell them to come.,uŋkinhɔ̃ hiɟuʔmɛt̪aɔ̯ăkinmɛ,uŋkin-hɔ̃ hiɟu-ʔ-mɛ-t̪a-oɔ̯-akin-mɛ,3DU-also come-IMP-2SG-COP-CAUS-3DU-2SG,eaf_sequence_match,santali_glossed_new_3(1).eaf,73,158400,160400
+553,Of course I will tell them.,ɟɘɾuɽgeʲɲ lɘi̯.akina,ɟɘɾuɽ-ge-ɲ lɘj-akin-a,necessary-EMPH-1SG say-3DU.OBJ-FIN,eaf_sequence_match,santali_glossed_new_3(1).eaf,74,160600,162600
+554,My exam is ahead.,t̪ʰɔɽad̪in bʰit̪ɾiɾigi iɲaʔ biɖɘ͡o̯ ɛhɔbɔʔa,t̪ʰɔɽa-d̪in bʰit̪ɾi-ɾi-gi iɲ-aʔ biɖɘɔ̯ ɛhɔb-ɔʔ-a,few-day inside-LOC-EMPH 1SG-GEN exam begin-PASS-FIN,eaf_sequence_match,santali_glossed_new_3(1).eaf,75,162800,164800
+555,Pray for me.,iɲlɘgit̪ʔ bint̪ii̯mɛ,iɲ-lɘgit̪ʔ bint̪i-i̯-mɛ,1SG-for pray-3SG-2SG.IMP,eaf_sequence_match,santali_glossed_new_3(1).eaf,76,165000,167000
+556,Study well.,bʰaget̪ɛ paɽhaʔmɛ,bʰage-t̪ɛ paɽha-ʔ-mɛ,good-INST study-IMP-2SG,eaf_sequence_match,santali_glossed_new_3(1).eaf,77,167200,169200
+557,For many days there happens no festival in our locality.,ai̯mad̪inkʰɔn alɛ ʈoʈʰaɾɛ ɟahan pɔɾɔb baŋ hojoʔkana,ai̯ma-d̪in-kʰɔn alɛ ʈoʈʰa-ɾɛ ɟahan pɔɾɔb baŋ ho.j-oʔ-kan-a,many-day-ABL 1PL.EXCL locality-LOC any festival NEG become-PASS-COP-FIN,eaf_sequence_match,santali_glossed_new_3(1).eaf,78,169400,171400
+558,"Come on, let's organize a festival.",d̪ɛla abo mit̪ʔʈɛn pɔɾɔbbon sapɽa͡o̯kat̪ʔlege,d̪ɛla abo mit̪ʔ-ʈɛn pɔɾɔb-bon sapɽaɔ̯-kat̪ʔ-le-ge,come 1PL.INCL one-CLF festival-1PL.INCL organize-CVB-1PL.EXCL-EMPH,eaf_sequence_match,santali_glossed_new_3(1).eaf,79,171600,173600
+559,"Yes, it's a great/good idea.",hɛ̃ː noa̯ d̪ɔ mit̪ʔʈɛn bʰage hudis,hɛ̃ nɔa̯ d̪ɔ mit̪ʔ-ʈɛn bʰage hudis,yes this TOP one-CLF good idea,eaf_sequence_match,santali_glossed_new_3(1).eaf,80,173800,175800
+560,Have you thought about it?,amd̪ɔ cɛt̪ʔ noa̯ ni̯ɘt̪ɛ ɟahanaʔɛm ganɖɔnakad̪a,am-d̪ɔ cɛt̪ʔ nɔa̯ ni̯ɘ-t̪ɛ ɟahan-aʔ-ɛ-m ganɖ-ɔn-akad-a,2SG-TOP what this regarding-INST any-GEN-3SG-2SG think-INTR-PRF.TR-FIN,eaf_sequence_match,santali_glossed_new_3(1).eaf,81,176000,178000
+561,What will be in the festival?,pɔɾɔbɾɛ cɛt̪ʔ cɛt̪ʔ t̪ahɛ̃na,pɔɾɔb-ɾɛ cɛt̪ʔ cɛt̪ʔ t̪ahɛ̃-n-a,festival-LOC what what stay-INTR-FIN,eaf_sequence_match,santali_glossed_new_3(1).eaf,82,178200,180200
+562,The festival will include dancing and singing.,pɔɾɔbɾɛ ɛnɛʲcʔ seɾeɲ t̪ahɛna,pɔɾɔb-ɾɛ ɛnɛc-ʔ seɾeɲ t̪ahɛ-n-a,festival-LOC dance-EMPH song stay-INTR-FIN,eaf_sequence_match,santali_glossed_new_3(1).eaf,83,180400,182400
+563,There will also be a football match.,ɔna sãɔ̯t̪ɛ miʔʈɛn pʰuʈbɔl kʰilɘʈ t̪ahɛ̃na,ɔna sãɔ̯-t̪ɛ miʔ-ʈɛn pʰuʈbɔl kʰilɘʈ t̪ahɛ̃-n-a,that with-INST one-CLF football match stay-INTR-FIN,eaf_sequence_match,santali_glossed_new_3(1).eaf,84,182600,184600
+564,The football match will be between the married and the unmarried.,pʰuʈbɔl kʰilɘʈ d̪ɔ ho.jo.a bap̚laɔa̯akan aɾ ɖɘŋua̯ku t̪alaɾɛ,pʰuʈbɔl kʰilɘʈ d̪ɔ ho.j-o-a bap̚laɔ̯-akan aɾ ɖɘŋu̯ɘ-ku t̪ala-ɾɛ,football match TOP become-PASS-FIN marry-PRF.INTR and unmarried-3PL middle-LOC,eaf_sequence_match,santali_glossed_new_3(1).eaf,85,184800,186800
+565,When and where can this festival be held?,noa̯ pɔɾɔp̚ t̪is aɾ ɔkaɾɛ hoi̯ oco d̪aɽeja.a,nɔa̯ pɔɾɔp t̪is aɾ ɔka-ɾɛ ho.j-i̯ oco d̪aɽe-ja-a,this festival when and where-LOC become-3SG cause able-FIN-FIN,eaf_sequence_match,santali_glossed_new_3(1).eaf,86,187000,189000
+566,We can use the school grounds if we organize on holidays.,cʰuʈi hilɘʔ sapɽaɔ̯lɛkʰan abu iskulɾe.jaʔ maʈʰbun bɛbɔhaɾ d̪aɽe.jaʔa,cʰuʈi hilɘʔ sapɽaɔ̯-len-kʰan abu iskul-ɾeaʔ maʈʰ-bun bɛbɔhaɾ d̪aɽe-jaʔ-a,holiday day organize-PST-when 1PL.INCL school-GEN ground-1PL.INCL use able-FIN-FIN,eaf_sequence_match,santali_glossed_new_3(1).eaf,87,189200,191200
+567,We need to include the school in our festival.,abua̯ʔ pɔɾɔbɾɛ iskuld̪ɔ sãot̪ɛ d̪ɔhɔ ɟɘɾuɽa,abu-aʔ pɔɾɔb-ɾɛ iskul-d̪ɔ sãɔ̯-t̪ɛ d̪ɔhɔ ɟɘɾuɽ-a,1PL.INCL-GEN festival-LOC school-TOP with-INST keep necessary-FIN,eaf_sequence_match,santali_glossed_new_3(1).eaf,88,191400,193400
+568,Because school students could help us.,ced̪aʔsɛ iskulɾɛn gid̪ɾɘko aboko gɔɽɔ d̪aɽe͡o̯ɘ̆bona,ced̪aʔ-sɛ iskul-ɾɛn gid̪ɾɘ-ko abo-ko gɔɽɔ d̪aɽe-oɘ̯-bo-n-a,why-or school-GEN child-3PL 1PL.INCL-3PL help able-PASS-1PL.INCL-INTR-FIN,eaf_sequence_match,santali_glossed_new_3(1).eaf,89,193600,195600
+569,So we will have to talk to the headmaster of the school.,t̪ahalɛ iskulɾɛn maɾaŋ mahasɔi̯ sãot̪ɛ katʰa ɾɔɽ ho.j.a,t̪ahalɛ iskul-ɾɛn maɾaŋ mahasɔi̯ sãɔ̯-t̪ɛ katʰa ɾɔɽ ho.j-a,therefore school-GEN big teacher with-INST word speak become-FIN,eaf_sequence_match,santali_glossed_new_3(1).eaf,90,195800,197800
+570,What segments will be in the festival should also be needed to discuss.,pɔɾɔbɾɛ cɛt̪ʔ cɛt̪ʔ tahɛna ɔnako ni̯ɘt̪ɛhɔ̃ galmaɾa͡o̯ ho.joʔa,pɔɾɔb-ɾɛ cɛt̪ʔ cɛt̪ʔ t̪ahɛ-n-a ɔna-ko ni̯ɘ-t̪ɛ-hɔ̃ galmaɾaɔ̯ ho.j-oʔ-a,festival-LOC what what stay-INTR-FIN that-3PL regarding-INST-also discuss become-PASS-FIN,eaf_sequence_match,santali_glossed_new_3(1).eaf,91,198000,200000
+571,"How much money will be needed for the festival, how many people will be needed, everything has to be discussed.",pɔɾɔbɾɛ t̪inɘʔ kɘo̯ɖi laga.a t̪inɘʔ hɔɽko laga.a sanamko ni̯ɘt̪ɛ galmaɾa͡o̯ ho.joʔa,pɔɾɔb-ɾɛ t̪inɘʔ kɘɔ̯ɖi laga-a t̪inɘʔ hɔɽ-ko laga-a sanam-ko ni̯ɘ-t̪ɛ galmaɾaɔ̯ ho.j-oʔ-a,festival-LOC how.much money need-FIN how.much person-3PL need-FIN all-3PL regarding-INST discuss become-PASS-FIN,eaf_sequence_match,santali_glossed_new_3(1).eaf,92,200200,202200
+572,A committee should be formed to do the work properly.,kɘmi bʰage oco͡i̯ lɘgit̪ʔ miʔʈɛn komiʈi bɛna͡o̯ ɟɘɾuɽa,kɘmi bʰage oc-o-i̯ lɘgit̪ʔ miʔ-ʈɛn komiʈi bɛnaɔ̯ ɟɘɾuɽ-a,work good cause-PASS-3SG for one-CLF committee make necessary-FIN,eaf_sequence_match,santali_glossed_new_3(1).eaf,93,202400,204400
+573,I think we need to talk to our friends first.,iɲaʔ mɔnɛ ho.joʔkana ɛt̪ɔhɔbʔɾɛ gat̪eko sãot̪ɛ galmaɾa͡o̯ ɟɘɾuɽa,iɲ-aʔ mɔnɛ ho.j-oʔ-kan-a ɛt̪ɔhɔb-ʔ-ɾɛ gat̪e-ko sãɔ̯-t̪ɛ galmaɾaɔ̯ ɟɘɾuɽ-a,1SG-GEN mind become-PASS-COP-FIN beginning-EMPH-LOC friend-3PL with-INST discuss necessary-FIN,eaf_sequence_match,santali_glossed_new_3(1).eaf,94,204600,206600
+574,Then we will do the rest as they all suggest.,inɘ t̪a.jɔm oŋko sanam cɛʔlekako mɛna oŋkage bɘki kɘmi ho.joa,inɘ t̪ajɔm oŋko sanam cɛʔ-leka-ko mɛn-a oŋka-ge bɘki kɘmi ho.j-o-a,that after 3PL all what-like-3PL say-FIN that.way-EMPH rest work become-PASS-FIN,eaf_sequence_match,santali_glossed_new_3(1).eaf,95,206800,208800
+575,You are right.,am ʈʰikɛm mɛːnakad̪a,am ʈʰik-ɛ-m mɛn-akad-a,2SG correct-3SG-2SG say-PRF.TR-FIN,eaf_sequence_match,santali_glossed_new_3(1).eaf,96,209000,211000
+576,We want to celebrate the festival with everyone.,sanamko sãot̪ɛ ni̯ɘt̪ɛ alɛ pɔɾɔblɛ mɛnco͡i̯d̪a,sanam-ko sãɔ̯-t̪ɛ ni̯ɘ-t̪ɛ alɛ pɔɾɔb-le mɛn-oc-i̯-a,all-3PL with-INST regarding-INST 1PL.EXCL festival-1PL.EXCL say-CAUS-3SG-FIN,eaf_sequence_match,santali_glossed_new_3(1).eaf,97,211200,213200
+577,Everything will be easy if everyone cooperates.,ɟɔt̪ɔhɔɽko gɔɽɔlɛnkʰan sanamaʔge alga.aː,ɟɔt̪ɔ-hɔɽ-ko gɔɽɔ-len-kʰan sanam-aʔ-ge alga-a,all-person-3PL help-PST-when all-GEN-EMPH easy-FIN,eaf_sequence_match,santali_glossed_new_3(1).eaf,98,213400,215400
+578,We have to go to the nearby schools.,aɖɛpase ɾejaʔ iskulkoɾɛ abu calaʔ hojoʔt̪abona,aɖɛ-pase ɾejaʔ iskul-ko-ɾɛ abu calaʔ ho.j-oʔ-t̪a-bo-n-a,near-side GEN school-3PL-LOC 1PL.INCL go become-PASS-COP-1PL.INCL-INTR-FIN,eaf_sequence_match,santali_glossed_new_3(1).eaf,99,215600,217600
+579,School students should be informed about our festival.,iskulɾɛn gid̪ɾɛko aboa̯ʔ pɔɾɔb ɾe.jaʔ kat̪ʰa baɖa͡i̯ ocoko ho.joa,iskul-ɾɛn gid̪ɾɛ-ko abo-aʔ pɔɾɔb-ɾeaʔ kat̪ʰa baɖai̯ oc-o-ko ho.j-o-a,school-GEN child-3PL 1PL.INCL-GEN festival-GEN word know cause-PASS-3PL become-PASS-FIN,eaf_sequence_match,santali_glossed_new_3(1).eaf,100,217800,219800
+580,"If they participate in dancing and singing, the festival will be more joyous.",oŋko ɛnɛʲcʔseɾeɲɾɛko sɛlɛt̪ʔlɛnkʰan pɔɾɔb ɘɖi ɾɘskɘge ho.jo.a,oŋko ɛnɛc-ʔ-seɾeɲ-ɾɛ-ko sɛlɛt̪ʔ-len-kʰan pɔɾɔb ɘɖi ɾɘskɘ-ge ho.j-o-a,3PL dance-EMPH-song-LOC-3PL join-PST-when festival very joyful-EMPH become-PASS-FIN,eaf_sequence_match,santali_glossed_new_3(1).eaf,101,220000,222000
+581,Reward should be arranged/prepared for them.,oŋko lɘgit̪ʔ kuɽɘi̯ ɾe.jaʔ bɛbɔst̪a d̪ɔhɔkaʔ ho.joʔa,oŋko lɘgit̪ʔ kuɽɘi̯-ɾeaʔ bɛbɔst̪a d̪ɔhɔ-kaʔ ho.j-oʔ-a,3PL for reward-GEN arrangement keep-EMPH become-PASS-FIN,eaf_sequence_match,santali_glossed_new_3(1).eaf,102,222200,224200
+582,Okay.,ʈʰikge.ja,ʈʰik-ge-a,okay-EMPH-FIN,eaf_sequence_match,santali_glossed_new_3(1).eaf,103,224400,226400
+583,"Come on, let's get to work.",d̪ɛla kɘmibun ɛhɔp̚ʔkat̪ʔlege,d̪ɛla kɘmi-bun ɛhɔp̚ʔ-kat̪ʔ-le-ge,come work-1PL.INCL begin-CVB-1PL.EXCL-EMPH,eaf_sequence_match,santali_glossed_new_3(1).eaf,104,226600,228600
+584,She is my guest.,uni d̪ɔ iɲren peɽɑ kɑn-ɑ-e,uni d̪ɔ iɲ-ren peɽɑ kɑn-ɑ-e,3SG TOP 1SG-GEN Relative COP-FIN-3SG:SUBJ,eaf_sequence_match,santali_with_ipa.eaf,1,0,2000
+585,There are people in the house.,hɔɽ minɑ-e ɡiɑ,hɔɽ minɑ-e ɡiɑ,People Exist-3SG EMPH-FIN,eaf_sequence_match,santali_with_ipa.eaf,2,2200,4200
+586,I have a cow.,iɲ t̪ʰen gae minaʔ-a,iɲ t̪ʰen gae minaʔ-a,1SG-GEN One-CLSSFR Cow Exist-M-FIN,eaf_sequence_match,santali_with_ipa.eaf,3,4400,6400
+587,This is mine.,nɔɑ dɔ iɲɑkʔ ɟinis kɑn-ɑ,nɔɑ dɔ iɲ-ɑkʔ ɟinis kɑn-ɑ,This TOP 1SG-GEN Thing COP-FIN,eaf_sequence_match,santali_with_ipa.eaf,4,6600,8600
+588,"I know this, do you know this?",im dɔ bɑɟɑiɡi ɑmɑi bɑɟɑʲɡiɑ imhi bɑɟɑʲ kɑn-ɑ,im dɔ bɑɟɑi-ɡi ɑm-ɑi bɑɟɑʲ-ɡi-ɑ im-hi bɑɟɑʲ kɑn-ɑ,1SG TOP Know-1SG-EMPH 2SG-Q Know-2SG-EMPH-FIN 1SG-Too Know-2SG-COP-FIN,eaf_sequence_match,santali_with_ipa.eaf,5,8800,10800
+589,I knew this.,iɲ-d̪o nɔa bada-e led-a,iɲ-d̪o nɔa bada-e led-a,1SG-TOP This Know-TR PST-FIN,eaf_sequence_match,santali_with_ipa.eaf,6,11000,13000
+590,"It's noon, I'll have lunch.",d̪ɑʔkɑʲen cɔlɑʲen kɔdɔ d̪ikin nɑ,d̪ɑʔkɑʲ-en cɔlɑʲ-en kɔdɔ d̪ikin nɑ,Rice Eat Go-PROG Do-TOP 3SG FIN,eaf_sequence_match,santali_with_ipa.eaf,7,13200,15200
+591,"He won't do the work, I will.",uni d̪ɔ bɑ-e kɔmiɑ iɲ d̪ɔɲ kami-ɑ,uni d̪ɔ bɑ-e kɔmi-ɑ iɲ d̪ɔ-ɲ kami-ɑ,3SG TOP NEG-3SG:SUBJ Work-FIN 1SG TOP-1SG:SUBJ Work-FIN,eaf_sequence_match,santali_with_ipa.eaf,8,15400,17400
+592,He does not work.,uni d̪ɔ bɑ-e kami kɑn-ɑ,uni d̪ɔ bɑ-e kami kɑn-ɑ,3SG TOP NEG-3SG:SUBJ Work COP-FIN,eaf_sequence_match,santali_with_ipa.eaf,9,17600,19600
+593,"He used to work earlier, now he does not.",uni d̪oke kami kan tɑhen-kɑn-ɑ menkʰan nitok dɔ bɑ-e kami kɑn-ɑ,uni d̪o-ke kami kan tɑhen-kɑn-ɑ menkʰan nitok dɔ bɑ-e kami kɑn-ɑ,3SG TOP-PST Work Do PST-COP-FIN But Now TOP NEG-3SG:SUBJ Work COP-FIN,eaf_sequence_match,santali_with_ipa.eaf,10,19800,21800
+594,He is not my relative.,uni d̪ɔ iɲren peɽɑ dɔe bɑ-ŋ kɑn-ɑ,uni d̪ɔ iɲ-ren peɽɑ dɔ-e bɑ-ŋ kɑn-ɑ,3SG TOP 1SG-GEN Relative TOP-3SG:SUBJ NEG-1SG COP-FIN,eaf_sequence_match,santali_with_ipa.eaf,11,22000,24000
+595,I am not going anywhere.,iɲ d̪ɔ ɔkɑ hɔ̃ bɑ-ɲ cɑlɑokʔ kɑn-ɑ,iɲ d̪ɔ ɔkɑ hɔ̃ bɑ-ɲ cɑlɑo-kʔ kɑn-ɑ,1SG TOP Where Also NEG-1SG:SUBJ Go-M COP-FIN,eaf_sequence_match,santali_with_ipa.eaf,12,24200,26200
+596,This is not my thing.,noɑ d̪ɔ iɲɑkʔ ɟinis dɔ bɑ-ŋ kɑn-ɑ,noɑ d̪ɔ iɲ-ɑkʔ ɟinis dɔ bɑ-ŋ kɑn-ɑ,This TOP 1SG-GEN Thing TOP NEG COP-FIN,eaf_sequence_match,santali_with_ipa.eaf,13,26400,28400
+597,I never saw this.,iɲ d̪ɔ noɑ dɔ tis hɔ̃ bɑ-ɲ ɲelɑkɑdɑ,iɲ d̪ɔ noɑ dɔ tis hɔ̃ bɑ-ɲ ɲelɑ-kɑdɑ,1SG TOP This TOP When Also NEG-1SG:SUBJ See PRF:A-FIN,eaf_sequence_match,santali_with_ipa.eaf,14,28600,30600
+598,Did you not do it?,ɑm d̪ɔ noɑdɔ gɔɳ gɔrɑɔk d̪ɔ,ɑm d̪ɔ noɑ-dɔ gɔɳ gɔrɑɔk d̪ɔ,2SG TOP This-TOP How Do-PST:A TOP,eaf_sequence_match,santali_with_ipa.eaf,15,30800,32800
+599,"Even if it is noon, I will not eat.",dikin nɑ dɑʔkɑjɔn boʲen ɟɔm,dikin nɑ dɑʔkɑj-ɔn boʲ-en ɟɔm,3SG FIN Rice-OBJ NEG-1SG:SUBJ Eat,eaf_sequence_match,santali_with_ipa.eaf,16,33000,35000
+600,"She will not work, I will.",uni d̪ɔ bɑ-e kɔmi-ɑ iɲ dɔɲ kami-ɑ,uni d̪ɔ bɑ-e kɔmi-ɑ iɲ dɔ-ɲ kami-ɑ,3SG TOP NEG-3SG:SUBJ Work-FIN 1SG TOP-1SG:SUBJ Work-FIN,eaf_sequence_match,santali_with_ipa.eaf,17,35200,37200
+601,"There was only one person, I won't go.",mitʔʈen hɔɽ iɲ dɔ bɑ-ŋ tʃɑlɑo-ɑ,mit-ʔʈen hɔɽ iɲ dɔ bɑ-ŋ tʃɑlɑo-ɑ,One-CLSSFR Person 1SG TOP NEG Go-FIN,eaf_sequence_match,santali_with_ipa.eaf,18,37400,39400
+602,Won't you go?,ɑm d̪ɔ ɑlɔm tʃɑl-ɑ,ɑm d̪ɔ ɑlɔ-m tʃɑl-ɑ,2SG TOP PROHIB-2SG:SUBJ Go-FIN,eaf_sequence_match,santali_with_ipa.eaf,19,39600,41600
+603,Do you know where he resides?,ɑm d̪ɔ-m bɑɖɑyɑ uni d̪ɔ ɔkɑredeye tɑhen kɑn-ɑ,ɑm d̪ɔ-m bɑɖɑ-yɑ uni d̪ɔ ɔkɑ-re-de-ye tɑhen kɑn-ɑ,2SG TOP-2SG:SUBJ Know 3SG TOP Where-LOC-TOP-3SG:SUBJ Stay COP-FIN,eaf_sequence_match,santali_with_ipa.eaf,20,41800,43800
+604,"This is good, isn't it?",bɑnhojɔ kɑnbɑ,bɑnho-jɔ kɑn-bɑ,Good Be COP-Q,eaf_sequence_match,santali_with_ipa.eaf,21,44000,46000
+605,You must eat.,ɟɔŋgi lɑgɑ ɑcɔmne,ɟɔŋgi lɑgɑ ɑcɔm-ne,Eat-EMPH Must Now-IMP,eaf_sequence_match,santali_with_ipa.eaf,22,46200,48200
+606,Come again tomorrow.,ɡɑpɑ dɔ ruɑɽ hiɟukʔ me,ɡɑpɑ dɔ ruɑɽ hiɟu-kʔ me,Tomorrow TOP Again Come-M-2SG:IMP,eaf_sequence_match,santali_with_ipa.eaf,23,48400,50400
+607,"Father, don't eat.",bɑbɑ nɔwɑ dɔ ɑlɔ-m ɟɔm-a,bɑbɑ nɔwɑ dɔ ɑlɔ-m ɟɔm-a,Father This TOP NEG-2SG:SUBJ Eat-FIN,eaf_sequence_match,santali_with_ipa.eaf,24,50600,52600
+608,You have to eat something.,iɲ ɟahãnɑk ɟɔm lɔktiɲɑ,iɲ ɟahãnɑk ɟɔm lɔkti-ɲɑ,1SG Something Eat Must-1SG:SUBJ-FIN,eaf_sequence_match,santali_with_ipa.eaf,25,52800,54800
+609,I have to do it.,nɑtɔ tɔ kɔmiki lɑgɑhuʲe,nɑ-tɔ tɔ kɔmi-ki lɑgɑ-huʲ-e,this-TOP TOP Work Must-Become-3SG:SUBJ,eaf_sequence_match,santali_with_ipa.eaf,26,55000,57000
+610,You are not able to do it.,bɑ-m dɑre ɑnde kɑmi-jɑ-dɔ kɑunde ɑm tʃɑl-ɑ,bɑ-m dɑre ɑnde kɑmi-jɑ-dɔ kɑunde ɑm tʃɑl-ɑ,NEG:2SG Ability That Work-Do-TOP Can 2SG:SUBJ Go-FIN,eaf_sequence_match,santali_with_ipa.eaf,27,57200,59200
+611,There's nothing home.,ɔɽɑkʔ re cɛtʔ hɔ̃ bɑnukʔɑ,ɔɽɑkʔ re cɛtʔ hɔ̃ bɑ-nukʔ-ɑ,House-LOC What Also NEG-M-FIN,eaf_sequence_match,santali_with_ipa.eaf,28,59400,61400
+612,Only the two of us know.,ɑbɔ bɑnɑr ɡebɔn bɑdɑyɑ ɑr ɛtɑk dɔ bɑkɔ bɑdɑyɑ,ɑbɔ bɑnɑr ɡebɔ-n bɑdɑ-yɑ ɑr ɛtɑk dɔ bɑ-kɔ bɑdɑ-yɑ,1PL.INCL both EMPH-1PL:SUBJ Know and Other TOP NEG-3PL:SUBJ Know,eaf_sequence_match,santali_with_ipa.eaf,29,61600,63600
+613,We won't go as there are many people.,ɑemɑ hɔɽ kɔ minɑ tehen dɔ bɑbɔn cɑlɑoɑ,ɑemɑ hɔɽ kɔ minɑ tehen dɔ bɑ-bɔn cɑlɑo-ɑ,Many People Exist Today TOP NEG-1PL:SUBJ go-FIN,eaf_sequence_match,santali_with_ipa.eaf,30,63800,65800
+614,We eat puffed-rice and tea in the morning.,sitaʔ bela aled̪o tʃa khaɟaɽile ɟɔm-a,sitaʔ bela ale-d̪o tʃa khaɟaɽi-le ɟɔm-a,Morning 1PL.NOM Tea Puffed.rice Eat-FIN,eaf_sequence_match,santali_with_ipa.eaf,31,66000,68000
+615,I don't feel like eating puffed rice and tea today.,t̪ihind̪o tᶘa khaɟaɽido bɑ-ŋ ɟɔm sana-kan-a,t̪ihin-d̪o tᶘa khaɟaɽi-do bɑ-ŋ ɟɔm sana-kan-a,Today Tea Puffed.rice NEG.1SG Eat Wish-COP-FIN,eaf_sequence_match,santali_with_ipa.eaf,32,68200,70200
+616,He doesn't sing.,uni-d̪o ba-e siɽiɲ-a-e,uni-d̪o ba-e siɽiɲ-a-e,3SG.NOM-TOP NEG.3SG Sing-FIN-3SG:SUBJ,eaf_sequence_match,santali_with_ipa.eaf,33,70400,72400
+617,I eat rice.,iɲ-d̪o d̪aka-i ɟom-a,iɲ-d̪o d̪aka-i ɟom-a,1SG.NOM-TOP Rice-AUX Eat-FIN,eaf_sequence_match,santali_with_ipa.eaf,34,72600,74600
+618,I don't eat rice.,iɲ-d̪o d̪aka-t̪o bɔ-iɲ ɟom-a,iɲ-d̪o d̪aka-t̪o bɔ-iɲ ɟom-a,1SG.NOM-TOP rice-AUX NEG.1SG Eat-FIN,eaf_sequence_match,santali_with_ipa.eaf,35,74800,76800
+619,She used to work.,uni-d̪o lahat̪e kami-ə kan-t̪ahen-a,uni-d̪o lahat̪e kami-ə kan-t̪ahen-a,3SG.NOM-TOP Before Work BE-COP:PST-FIN,eaf_sequence_match,santali_with_ipa.eaf,36,77000,79000
+620,He didn't use to work before.,uni-d̪o lahat̪e ba-e kami-ə kan-t̪ʰen-a,uni-d̪o lahat̪e ba-e kami-ə kan-t̪ʰen-a,3SG.NOM-TOP Before NEG.3SG Work BE-COP:PST-FIN,eaf_sequence_match,santali_with_ipa.eaf,37,79200,81200
+621,He went home.,uni oɽae sen-len-a,uni oɽae sen-len-a,3SG.NOM Home Go-PLUP-FIN,eaf_sequence_match,santali_with_ipa.eaf,38,81400,83400
+622,He didn't go home.,uni oɽae ba-e sen-kan-a-e,uni oɽae ba-e sen-kan-a-e,3SG.NOM Home NEG.3SG Go-COP-FIN-3SG:SUBJ,eaf_sequence_match,santali_with_ipa.eaf,39,83600,85600
+623,You didn't see me.,am-ma iɲ ba-m ɲɛl-lid̪əɲ,am-ma iɲ ba-m ɲɛl-lid̪-əɲ,2SG.NOM-AUX 1SG NEG.2SG See-PST,eaf_sequence_match,santali_with_ipa.eaf,40,85800,87800
+624,You weren't able to see me.,am-ki iɲ ba-m ɲɛl-ɲam kad̪ina,am-ki iɲ ba-m ɲɛl-ɲam kad̪i-na,2SG.NOM-AUX 1SG NEG.2SG See Find-2SG-PST Get,eaf_sequence_match,santali_with_ipa.eaf,41,88000,90000
+625,They are sleeping.,un-ko ɟapi-t̪a,un-ko ɟapi-t̪a,3SG.PL.NOM-AUX Sleep-PST-PROG,eaf_sequence_match,santali_with_ipa.eaf,42,90200,92200
+626,They are not sleeping.,un-ko ba-ku ɟapi-t̪a,un-ko ba-ku ɟapi-t̪a,3SG.PL.NOM-AUX EXCL.NEG Sleep-PST-PROG,eaf_sequence_match,santali_with_ipa.eaf,43,92400,94400
+627,Everyone is working now.,næt̪aɾd̪o ɟɔt̪t̪ohoɽgiku kami-d̪a,næt̪aɾ-d̪o ɟɔt̪t̪o-hoɽ-gi-ku kami-d̪a,Now All Work-PROG,eaf_sequence_match,santali_with_ipa.eaf,44,94600,96600
+628,He used to work before.,uni-d̪o lahat̪e kami-ə kan-t̪ahen-a,uni-d̪o lahat̪e kami-ə kan-t̪ahen-a,3SG.NOM-TOP Before Work BE-COP:PST-FIN,eaf_sequence_match,santali_with_ipa.eaf,45,96800,98800
+629,I'm going home.,iɲ-d̪o oɽae senoʔ-kanoi,iɲ-d̪o oɽae senoʔ-kanoi,1SG.NOM-TOP Home Go-PROG.1SG,eaf_sequence_match,santali_with_ipa.eaf,46,99000,101000
+630,He is going home.,uni-d̪o oɽae senoʔ-kana-e,uni-d̪o oɽae senoʔ-kana-e,3SG.NOM-TOP Home Go-PROG.3SG:SUBJ,eaf_sequence_match,santali_with_ipa.eaf,47,101200,103200
+631,You were going while watching me.,am iɲ-se kojʔɔ-kat̪ʰe tʃal-a kan-t̪ʰen-a-m,am iɲ-se kojʔɔ-kat̪ʰe tʃal-a kan-t̪ʰen-a-m,2SG.NOM 1SG-ACC-AUX See-CVB Go:FIN BE-COP:PST-FIN-2SG:SUBJ,eaf_sequence_match,santali_with_ipa.eaf,48,103400,105400
+632,He was going while watching me.,un iɳ-se kojʔɔkat̪ʰe tʃal-a kan-t̪ʰen-a,un iɳ-se kojʔɔ-kat̪ʰe tʃal-a kan-t̪ʰen-a,3SG.NOM 1SG-ACC-AUX See-CVB Go:FIN BE-COP:PST-FIN,eaf_sequence_match,santali_with_ipa.eaf,49,105600,107600
+633,It's good.,una-d̪o mɔɟgej-a,una-d̪o mɔɟgej-a,DEM.PROX Good-INAN,eaf_sequence_match,santali_with_ipa.eaf,50,107800,109800
+634,It's not good.,una-d̪o ba-ŋ mɔɟ-a,una-d̪o ba-ŋ mɔɟ-a,DEM.PROX NEG-1SG Good-INAN,eaf_sequence_match,santali_with_ipa.eaf,51,110000,112000
+635,He sings well.,uni-koɽa-d̪o ədimutʃʰe siɽiɲ-a,uni-koɽa-d̪o ədimutʃʰe siɽiɲ-a,3SG.M.NOM-TOP Good Sing-FIN,eaf_sequence_match,santali_with_ipa.eaf,52,112200,114200
+636,She sings well.,uni-kuɽi-d̪o ədimutʃʰe siɽiɲ-a,uni-kuɽi-d̪o ədimutʃʰe siɽiɲ-a,3SG.F.NOM-TOP Good Sing-FIN,eaf_sequence_match,santali_with_ipa.eaf,53,114400,116400
+637,He's happy.,ɾesʔk kan-a,ɾesʔk kan-a,Happy COP-FIN,eaf_sequence_match,santali_with_ipa.eaf,54,116600,118600
+638,He isn't happy.,ba-e ɾesʔk kan-a,ba-e ɾesʔk kan-a,NEG-3SG Happy COP-FIN,eaf_sequence_match,santali_with_ipa.eaf,55,118800,120800
+639,I'm tired.,iɲ-d̪o-iɲ laŋgajna,iɲ-d̪o-iɲ laŋgaj-na,1SG-TOP-1SG:SUBJ Tired,eaf_sequence_match,santali_with_ipa.eaf,56,121000,123000
+640,I'm not tired.,iɲ-do-iɲ laŋga-len-a,iɲ-do-iɲ laŋga-len-a,1SG-TOP-1SG:SUBJ Tired-PLUP-FIN,eaf_sequence_match,santali_with_ipa.eaf,57,123200,125200
+641,I was tired.,iɲ-do-iɲ laŋga-len-a,iɲ-do-iɲ laŋga-len-a,1SG-TOP-1SG:SUBJ Tired-PLUP-FIN,eaf_sequence_match,santali_with_ipa.eaf,58,125400,127400
+642,You'll get tired.,laŋga-a-m,laŋga-a-m,Tired-FIN-2SG:SUBJ,eaf_sequence_match,santali_with_ipa.eaf,59,127600,129600
+643,He was tired.,laŋga-len-a-e,laŋga-len-a-e,Tired-PLUP-FIN-3SG:SUBJ,eaf_sequence_match,santali_with_ipa.eaf,60,129800,131800
+644,He will be tired.,laŋga-a-e,laŋga-a-e,Tired-FIN-3SG:SUBJ,eaf_sequence_match,santali_with_ipa.eaf,61,132000,134000
+645,He is my brother.,uni-d̪o iɲ bɔiha kan-a,uni-d̪o iɲ bɔiha kan-a,3SG.NOM-TOP 1SG.GEN Brother COP-FIN,eaf_sequence_match,santali_with_ipa.eaf,62,134200,136200
+646,He is not my brother.,iɲ bɔiha-d̪o ba-ŋ kan-a-e,iɲ bɔiha-d̪o ba-ŋ kan-a-e,1SG.GEN Brother-TOP NEG-1SG COP-FIN-3SG:SUBJ,eaf_sequence_match,santali_with_ipa.eaf,63,136400,138400
+647,I may go there.,iɲ ɔnde tʃala-o darija,iɲ ɔnde tʃala-o darija,1SG.NOM DEM.LOC GO.FUT MOD,eaf_sequence_match,santali_with_ipa.eaf,64,138600,140600
+648,I may not go there.,ɔnde bɔ-iŋ tʃal darija,ɔnde bɔ-iŋ tʃal darija,DEM.LOC NEG.1SG Go-PRS MOD,eaf_sequence_match,santali_with_ipa.eaf,65,140800,142800
+649,I have a book.,iɲ-aʔ mit't'e boi minaʔ,iɲ-aʔ mit't'e boi minaʔ,1SG-GEN One/a Book Have-PRS,eaf_sequence_match,santali_with_ipa.eaf,66,143000,145000
+650,He has a book.,uni-aʔ mit't'e boi minaʔ,uni-aʔ mit't'e boi minaʔ,2SG-GEN One/a Book Have-PRS,eaf_sequence_match,santali_with_ipa.eaf,67,145200,147200
+651,Her name is Goreti Hembrom.,uni-aʔ nut̪um goreti hembrom,uni-aʔ nut̪um goreti hembrom,2SG-GEN Name-NOM Goreti Hembrom,eaf_sequence_match,santali_with_ipa.eaf,68,147400,149400
+652,My dad works in the field.,iɲ-aʔ baba mathe kami-a,iɲ-aʔ baba mathe kami-a,1SG-GEN Father Field Work-PRS-3SG,eaf_sequence_match,santali_with_ipa.eaf,69,149600,151600
+653,He is a good friend.,uni mit't'en moɟ gati kɔɽa kan-a-e,uni mit't'en moɟ gati kɔɽa kan-a-e,3SG One Good Friend Boy COP-FIN-3SG:SUBJ,eaf_sequence_match,santali_with_ipa.eaf,70,151800,153800
+654,She is a good friend.,uni mit't'en moɟ gati kuɽi kan-a-e,uni mit't'en moɟ gati kuɽi kan-a-e,3SG One Good Friend Girl COP-FIN-3SG:SUBJ,eaf_sequence_match,santali_with_ipa.eaf,71,154000,156000
+655,This is my house.,ɲied-ʔ iɲaʔ oɽae kan-a,ɲied-ʔ iɲ-aʔ oɽae kan-a,this-NOM 1SG-POSS House COP-FIN,eaf_sequence_match,santali_with_ipa.eaf,72,156200,158200
+656,That is my house.,onad-ʔ iɲaʔ oɽae kan-a,onad-ʔ iɲ-aʔ oɽae kan-a,DEM.DIST 1SG-POSS House COP-FIN,eaf_sequence_match,santali_with_ipa.eaf,73,158400,160400
+657,We are not Bengali.,ɑlæ-d̪o baŋkali ba-ŋ kan-a-leʔ,ɑlæ-d̪o baŋkali ba-ŋ kan-a-leʔ,1PL-TOP Bengali NEG-1SG COP-FIN-1PL,eaf_sequence_match,santali_with_ipa.eaf,74,160600,162600
+658,I love myself.,iɲ iɲ-iŋ dularoa,iɲ iɲ-iŋ dularoa,1SG.NOM 1SG.POSS Love,eaf_sequence_match,santali_with_ipa.eaf,75,162800,164800
+659,He thinks he is beautiful.,uni-d̪o moneya aido adie napaya,uni-d̪o mone-ya aido adie napaya,3SG.F.NOM-TOP Think-PRS POSS Very Beautiful,eaf_sequence_match,santali_with_ipa.eaf,76,165000,167000
+660,He is our new friend.,nui-d̪o aleren nawa gati kuɽi kan-a-e,nui-d̪o ale-ren nawa gati kuɽi kan-a-e,3SG.PROX.ANIM-TOP 1PL New Friend Girl COP-FIN-3SG:SUBJ,eaf_sequence_match,santali_with_ipa.eaf,77,167200,169200
+661,She is my mother.,uni-d̪o iɲ goɡo kan-a-e,uni-d̪o iɲ goɡo kan-a-e,3SG.NOM-TOP 1SG.POSS Mother COP-FIN-3SG:SUBJ,eaf_sequence_match,santali_with_ipa.eaf,78,169400,171400
+662,This is my mother.,nui-d̪o iɲ goɡo kan-a-e,nui-d̪o iɲ goɡo kan-a-e,3SG.PROX.ANIM-TOP 1SG.POSS Mother COP-FIN-3SG:SUBJ,eaf_sequence_match,santali_with_ipa.eaf,79,171600,173600
+663,I am a human.,iɲ-d̪o mit't'en hɔr kan-a,iɲ-d̪o mit't'en hɔr kan-a,1SG.NOM-TOP One Man COP-FIN,eaf_sequence_match,santali_with_ipa.eaf,80,173800,175800
+664,I Study.,iɲ-d̪o parha kan-a,iɲ-d̪o parha kan-a,1SG-TOP Study COP-FIN,eaf_sequence_match,santali_with_ipa.eaf,81,176000,178000
+665,That man.,heni hɔɾ,heni hɔɾ,That Man,eaf_sequence_match,santali_with_ipa.eaf,82,178200,180200
+666,We are Santal.,ale hɔɾ kan-ale,ale hɔɾ kan-ale,1PL.EXCL Man COP-1PL.EXCL,eaf_sequence_match,santali_with_ipa.eaf,83,180400,182400
+667,Is this buffalo yours?,nokk in kada okoiɾen kan-aki,nokk in kada okoi-ɾen kan-aki,This Ox INTER:GEN COP-INTER,eaf_sequence_match,santali_with_ipa.eaf,84,182600,184600
+668,This buffalo is mine.,nokkin kada iɲɾen kan-aki,nokkin kada iɲ-ɾen kan-aki,This Ox 1PL.EXCL:GEN COP-INTER,eaf_sequence_match,santali_with_ipa.eaf,85,184800,186800
+669,This is my friend.,iɲ bond̪ʰu kan-a-e,iɲ bond̪ʰu kan-a-e,1SG:GEN Friend COP-FIN-3SG:SUBJ,eaf_sequence_match,santali_with_ipa.eaf,86,187000,189000
+670,Whose are these?,okoiɾen kan-aki,okoi-ɾen kan-aki,INTER:GEN COP-INTER,eaf_sequence_match,santali_with_ipa.eaf,87,189200,191200
+671,This is ours.,iɲɾen kan-aki,iɲ-ɾen kan-aki,1PL.EXCL:GEN COP-INTER,eaf_sequence_match,santali_with_ipa.eaf,88,191400,193400
+672,What is your name?,amaʔ not̪um tʃe,am-aʔ not̪um tʃe,2SG:GEN Name What,eaf_sequence_match,santali_with_ipa.eaf,89,193600,195600
+673,Where is your village?,tʃe at̪u okaɾen kan-a-m,tʃe at̪u oka-ɾen kan-a-m,What Village INTER:LOC COP-FIN-2SG:SUBJ,eaf_sequence_match,santali_with_ipa.eaf,90,195800,197800
+674,My village is Gopalpur.,ale at̪u d̪o gopalpuɾ,ale at̪u d̪o gopalpuɾ,1PL.EXCL Village TOP Gopalpur,eaf_sequence_match,santali_with_ipa.eaf,91,198000,200000
+675,How many buffalo do you have?,apeɾen d̪o tinoʔ kada,ape-ɾen d̪o tinoʔ kada,2PL:GEN TOP How Many Ox,eaf_sequence_match,santali_with_ipa.eaf,92,200200,202200
+676,We have two buffaloes.,aleɾen d̪o baɾia kada,ale-ɾen d̪o baɾia kada,1PL.EXCL:GEN TOP Two Ox,eaf_sequence_match,santali_with_ipa.eaf,93,202400,204400
+677,How to do it?,amtʃe likam kami-a,amtʃe likam kami-a,How Work Do-FIN,eaf_sequence_match,santali_with_ipa.eaf,94,204600,206600
+678,What is the house made of?,tʃe t̪epe oɾae kid̪a,tʃe t̪epe oɾae kid̪a,What With Make House PST,eaf_sequence_match,santali_with_ipa.eaf,95,206800,208800
+679,The house is made with clay.,hasa t̪ele oɾae kid̪a,hasa t̪ele oɾae kid̪a,Earth With Make House PST,eaf_sequence_match,santali_with_ipa.eaf,96,209000,211000
+680,What crop do you cultivate?,tʃepe rohoia ape-d̪o,tʃepe rohoia ape-d̪o,What Crop 2PL-TOP,eaf_sequence_match,santali_with_ipa.eaf,97,211200,213200
+681,We cultivate rice.,huɾule rohoia ale-d̪o,huɾule rohoia ale-d̪o,Rice Crop 1PL.EXCL-TOP,eaf_sequence_match,santali_with_ipa.eaf,98,213400,215400
+682,Who came?,oko i heʔ i-na,oko i heʔ i-na,Who come-PST,eaf_sequence_match,santali_with_ipa.eaf,99,215600,217600
+683,When will you return?,t̪in ɟukʰuem ɾuoɽ,t̪in ɟukʰu-em ɾuoɽ,When Return,eaf_sequence_match,santali_with_ipa.eaf,100,217800,219800
+684,When will you go?,t̪in ɟukʰuem tʃal-a,t̪in ɟukʰu-em tʃal-a,When Go:FIN,eaf_sequence_match,santali_with_ipa.eaf,101,220000,222000
+685,What is your son's name?,am-pen gid̪ɾo not̪um d̪o tʃe,am-pen gid̪ɾo not̪um d̪o tʃe,2SG-GEN Son Name TOP What,eaf_sequence_match,santali_with_ipa.eaf,102,222200,224200
+686,She is our new teacher.,uni d̪o okaɾen titʃaɾ kan-t̪a-bon-a-e,uni d̪o oka-ɾen titʃaɾ kan-t̪a-bon-a-e,3SG TOP 1PL.EXCL:GEN New Teacher COP-FIN-3SG:SUBJ,eaf_sequence_match,santali_with_ipa.eaf,103,224400,226400
+687,Why are you laughing?,iɲalt̪e tʃid̪a am land̪a ked̪a,iɲalt̪e tʃid̪a am land̪a ked̪a,You Why 2SG Laugh PAST,eaf_sequence_match,santali_with_ipa.eaf,104,226600,228600
+688,Did he have a brother?,amɾen aɾho buihaku t̪ehe-kan-a-e,am-ɾen aɾho buihaku t̪ehe-kan-a-e,3SG:GEN Any Brother Exist-PST-FIN-3SG:SUBJ,eaf_sequence_match,santali_with_ipa.eaf,105,228800,230800
+689,"No, he didn't have any brother.",baŋ baku t̪ehe-kan-a-e,baŋ baku t̪ehe-kan-a-e,NEG NEG.EXCL Exist-PST-FIN-3SG:SUBJ,eaf_sequence_match,santali_with_ipa.eaf,106,231000,233000
+690,"Yes, he has a brother.",he iɲ-ɾen buihaku t̪ehe-kan-a-e,he iɲ-ɾen buihaku t̪ehe-kan-a-e,Yes 3SG:GEN Brother Exist-PST-FIN-3SG:SUBJ,eaf_sequence_match,santali_with_ipa.eaf,107,233200,235200
+691,Would you like to eat rice?,am-d̪o d̪akam ɟɔm-a,am-d̪o d̪akam ɟɔm-a,2SG-TOP Rice Eat:FUT,eaf_sequence_match,santali_with_ipa.eaf,108,235400,237400
+692,"Yes, I will eat.",he ɟɔm-a,he ɟɔm-a,Yes Eat:FUT,eaf_sequence_match,santali_with_ipa.eaf,109,237600,239600
+693,"No, I will not eat.",iɲ-d̪o bɔ-iɲ ɟɔm-a,iɲ-d̪o bɔ-iɲ ɟɔm-a,NEG-TOP NEG-1SG Eat:FUT,eaf_sequence_match,santali_with_ipa.eaf,110,239800,241800
+694,Is he your brother?,uni-d̪o am d̪ad̪a kan-a,uni-d̪o am d̪ad̪a kan-a,3SG-TOP 2SG Brother COP-FIN,eaf_sequence_match,santali_with_ipa.eaf,111,242000,244000
+695,"Yes, he is my brother.",he iɲ d̪ad̪a kan-a,he iɲ d̪ad̪a kan-a,Yes 1SG:GEN Brother COP-FIN,eaf_sequence_match,santali_with_ipa.eaf,112,244200,246200
+696,Did your child go to school?,amɾen gid̪ɾo iskule tʃalao kan-a,am-ɾen gid̪ɾo iskule tʃalao kan-a,2SG:GEN Son School Go:PST COP-FIN,eaf_sequence_match,santali_with_ipa.eaf,113,246400,248400
+697,Whose house is this?,okoi oɾae kan-a,okoi oɾae kan-a,Whose House COP-FIN,eaf_sequence_match,santali_with_ipa.eaf,114,248600,250600
+698,This is our house.,ale oɽae kan-a,ale oɽae kan-a,1PL.EXCL House COP-FIN,eaf_sequence_match,santali_with_ipa.eaf,115,250800,252800
+699,Will you go to the market?,hatem tʃal-a,hatem tʃal-a,Market Go-FIN,eaf_sequence_match,santali_with_ipa.eaf,116,253000,255000
+700,I won't go to the hut today.,t̪ihin-d̪o bɔ-iɲ tʃal-a,t̪ihin-d̪o bɔ-iɲ tʃal-a,Today-TOP NEG-1SG Go-FIN,eaf_sequence_match,santali_with_ipa.eaf,117,255200,257200
+701,"Yes, I will.",he iɲ tʃal-a,he iɲ tʃal-a,Yes 1SG Go-FIN,eaf_sequence_match,santali_with_ipa.eaf,118,257400,259400
+702,Where are you going?,oka-t̪em tʃalaʔ kan-a,oka-t̪em tʃalaʔ kan-a,Where-LOC Go COP-FIN,eaf_sequence_match,santali_with_ipa.eaf,119,259600,261600
+703,I go to roam.,iɲ-d̪o d̪aɾan iŋ tʃalaʔ kan-a,iɲ-d̪o d̪aɾan iŋ tʃalaʔ kan-a,1SG-TOP Roam Go COP-FIN,eaf_sequence_match,santali_with_ipa.eaf,120,261800,263800
+704,Where will you go?,iɲ-d̪o-iɲ tʃalaʔ kan-a,iɲ-d̪o-iɲ tʃalaʔ kan-a,1SG-TOP-1SG Go COP-FIN,eaf_sequence_match,santali_with_ipa.eaf,121,264000,266000
+705,Are you a farmer?,am-d̪o tʃem kami-a,am-d̪o tʃem kami-a,2SG-TOP Farmer COP-FIN,eaf_sequence_match,santali_with_ipa.eaf,122,266200,268200
+706,I will drive the plough.,iɲ-d̪o naheli ʃiʔa,iɲ-d̪o naheli ʃiʔa,1SG-TOP Plough Drive,eaf_sequence_match,santali_with_ipa.eaf,123,268400,270400
+707,I am going to plant rice.,iɲ-d̪o huɾu ɾohu iŋ tʃalaʔ kan-a,iɲ-d̪o huɾu ɾohu iŋ tʃalaʔ kan-a,1SG-TOP Rice Plant Go COP-FIN,eaf_sequence_match,santali_with_ipa.eaf,124,270600,272600
+708,Do you have buffalo?,apeɾen-d̪o kada mina kina,ape-ɾen-d̪o kada mina kina,2PL:GEN-TOP Ox Exist Q,eaf_sequence_match,santali_with_ipa.eaf,125,272800,274800
+709,That person is very tall.,uni hɔrd̪ɔ ædi osul,uni hɔr-d̪ɔ ædi osul,3SG Man ø.COP Very Tall,eaf_sequence_match,santali_with_ipa.eaf,126,275000,277000
+710,Are they happy?,uŋko-ki ædimɔtʃ tahena,uŋko-ki ædimɔtʃ tahen-a,3PL Happy COP-PRS,eaf_sequence_match,santali_with_ipa.eaf,127,277200,279200
+711,Is anyone home?,orare-ki dʒahaɟ minaʔpɟa,orare-ki dʒahaɟ minaʔ-pɟa,Home Anyone COP-PRS,eaf_sequence_match,santali_with_ipa.eaf,128,279400,281400
+712,There are many people outside.,barereh aimɔ-hor minaʔqua,barereh aimɔ-hor minaʔ-qua,Outside Many-Man COP-PL.PRS,eaf_sequence_match,santali_with_ipa.eaf,129,281600,283600
+713,There was a home here before.,lahat̪e nænde mite ora tehekan-a,lahat̪e nænde mite ora tehe-kan-a,Before Here One House COP-FIN.PST,eaf_sequence_match,santali_with_ipa.eaf,130,283800,285800
+714,The book was on the table.,bɔi tæbil tʃit̪anɾe tahekan-a,bɔi tæbil tʃit̪an-ɾe tahen-kan-a,Book Table On COP-FIN.PST,eaf_sequence_match,santali_with_ipa.eaf,131,286000,288000
+715,My village is near the river.,aɭe at̪u gadaʔ ariræ,aɭe at̪u gadaʔ ariræ,My Village River Near ø.COP,eaf_sequence_match,santali_with_ipa.eaf,132,288200,290200
+716,I was tired yesterday.,holadɔ ædi laŋɡa-ɡin tehekan-a,holadɔ ædi laŋɡa-ɡin tehe-kan-a,Yesterday Very Tired-Aux COP-FIN.PST,eaf_sequence_match,santali_with_ipa.eaf,133,290400,292400
+717,This fruit is not sweet.,niɟo ɟdɔ ba-ŋ herem,niɟo ɟ-dɔ ba-ŋ herem,This Mango ø.COP Neg Sweet,eaf_sequence_match,santali_with_ipa.eaf,134,292600,294600
+718,Is it night now?,netɔ-ki lind̪ɔ giɟa kan-a,netɔ-ki lind̪ɔ giɟa kan-a,ø.COP Now Night COP-FIN,eaf_sequence_match,santali_with_ipa.eaf,135,294800,296800
+719,This is not my pen.,niɟa iŋʔ kɔlɔm ba-ŋ kan-a,niɟa iŋʔ kɔlɔm ba-ŋ kan-a,This Pen Neg-1SG COP-FIN,eaf_sequence_match,santali_with_ipa.eaf,136,297000,299000
+720,Another name for water is life.,d̪aʔ ɾe.jaʔ aɾ miʈɛc͡ʔ ɲut̪um d̪ɔ ɟi.jon,d̪aʔ ɾe-jaʔ aɾ miʈ-ɛc͡ʔ ɲut̪um d̪ɔ ɟi-jon,Water NAME-GEN And One-CLSSFR Name TOP Life-INESS,eaf_sequence_match,santali_new_glossed.eaf,1,0,2000
+721,My mother's cooking is very delicious.,iɲ gɔgɔ-aʔ isin basaŋ d̪ɔ ɘdi sibila,iɲ gɔgɔ-aʔ isin basaŋ d̪ɔ ɘdi sibil-a,1SG Mother-GEN Cook Food TOP Very Tasty-FIN,eaf_sequence_match,santali_new_glossed.eaf,2,2200,4200
+722,My cat meows a lot.,iɲ-ɾɛn pusi ɘɖi mia͡o mia͡o-ɛ ɾaːga,iɲ-ɾɛn pusi ɘɖi mia͡o mia͡o-ɛ ɾaː-ga,1SG-GEN Cat Very Meow Meow-3SG:SUBJ Sound-FIN,eaf_sequence_match,santali_new_glossed.eaf,3,4400,6400
+723,I like my new school very much.,iɲ d̪ɔ iɲ-aʔ nao̯a iskul ɘɖi aʈiɲ kusi-o̯aʔa,iɲ d̪ɔ iɲ-aʔ nao̯a iskul ɘɖi aʈiɲ kusi-o̯a-ʔ-a,1SG TOP 1SG-GEN New School Very Much Like-PRF-M-FIN,eaf_sequence_match,santali_new_glossed.eaf,4,6600,8600
+724,Every morning father and brother go to the field to see the crops.,d̪inɘm set̪aʔ-ɾɛ iɲ baba aɾ iɲ bo͡iha baɽgi-ɾɛ abat̪ ɲɛl-kin cala-a,d̪inɘm set̪aʔ-ɾɛ iɲ baba aɾ iɲ bo͡iha baɽgi-ɾɛ abat̪ ɲɛl-kin cala-a,Every Morning-LOC 1SG Father And 1SG Eldest.Brother Field-LOC Crops See-PROG Go-FIN,eaf_sequence_match,santali_new_glossed.eaf,5,8800,10800
+725,When we go to town we speak Bengali.,sɔhɔɾ-ɾɛ cala-o̯-lɛn-kʰan abo d̪ɔ baŋla-t̪ɛ-bon ɾɔːɽa,sɔhɔɾ-ɾɛ cala-o̯-lɛn-kʰan abo d̪ɔ baŋla-t̪ɛ-bon ɾɔː-ɽa,Town-LOC Go-PST-COND 1PL.EXCL TOP Bengali-INSTR-1PL.EXCL Speak-FIN,eaf_sequence_match,santali_new_glossed.eaf,6,11000,13000
+726,Eating rice at night makes me sleepy.,kid̪uʔ ɟɔm lekʰan-gi iɲ d̪ɔ d̪ud̪ɽum-iɲ-ɘ,kid̪uʔ ɟɔm lekʰan-gi iɲ d̪ɔ d̪ud̪-ɽum-iɲ-ɘ,Night Rice Eat When-EMPH 1SG TOP Sleep-SBJ-CAUS-FIN,eaf_sequence_match,santali_new_glossed.eaf,7,13200,15200
+727,Fishes of the river are very tasty.,gaɖa-ɾɛn hako d̪ɔ-ko sibila,gaɖa-ɾɛn hako d̪ɔ-ko sibil-a,River-GEN Fish TOP-3PL Tasty-FIN,eaf_sequence_match,santali_new_glossed.eaf,8,15400,17400
+728,Can he/she come today?,uni d̪ɔ t̪eheɲ-ɛ hɛc͡ʔ d̪aɽe-ja-a,uni d̪ɔ t̪eheɲ-ɛ hɛc͡ʔ d̪aɽe-ja-a,3SG TOP Today-3SG Come Ability-FIN-Q,eaf_sequence_match,santali_new_glossed.eaf,9,17600,19600
+729,Do you like to eat spicy food?,am d̪ɔ ɟʰal ɟɔm-ɛm kusi-jaʔa,am d̪ɔ ɟʰal ɟɔm-ɛm kusi-jaʔ-a,2SG TOP Spicy Eat-2SG:SUBJ Like-PRF-Q,eaf_sequence_match,santali_new_glossed.eaf,10,19800,21800
+730,Should I put sugar in the tea?,caː ɾɛ-ɲ cini-jaʔa,caː ɾɛ-ɲ cini-jaʔ-a,Tea LOC-1SG:SUBJ Sugar-put-Q,eaf_sequence_match,santali_new_glossed.eaf,11,22000,24000
+731,Did you add salt to the curry?,ut̪u-ɾɛ-m buluŋ-ka͡o-d̪a,ut̪u-ɾɛ-m buluŋ-ka͡o-d̪a,Curry-LOC-2SG:SUBJ Salt-put.PST-FIN,eaf_sequence_match,santali_new_glossed.eaf,12,24200,26200
+732,Have you read the book?,am d̪ɔ no̯a put̪ʰi-m paɽha-o̯-ka-d̪a,am d̪ɔ no̯a put̪ʰi-m paɽha-o̯-ka-d̪a,2SG TOP This Book-2SG:SUBJ Read-PST-PRF-FIN,eaf_sequence_match,santali_new_glossed.eaf,13,26400,28400
+733,Why didn't he/she go today?,uni d̪ɔ t̪eheɲ ced̪aʔ ba-i͡ cala-o̯-le-na,uni d̪ɔ t̪eheɲ ced̪aʔ ba-i͡ cala-o̯-le-na,3SG TOP Today Why NEG-3SG Go-PST-PST-FIN,eaf_sequence_match,santali_new_glossed.eaf,14,28600,30600
+734,When will you return home?,am t̪in-ɾɛ ɔɽaʔ-ɛm ɾu̯ɘɽa,am t̪in-ɾɛ ɔɽaʔ-ɛm ɾu̯ɘ-ɽa,2SG When-LOC Home-2SG:SUBJ Return-FIN,eaf_sequence_match,santali_new_glossed.eaf,15,30800,32800
+735,Which direction do I go?,iɲ d̪ɔ ɔka-sɛc͡ʔ-iɲ cala-a,iɲ d̪ɔ ɔka-sɛc͡ʔ-iɲ cala-a,1SG TOP Which-DIR-1SG:SUBJ Go-FIN,eaf_sequence_match,santali_new_glossed.eaf,16,33000,35000
+736,Which direction should I go?,iɲ d̪ɔ ɔka sɛc͡ʔ calaʔ ho-joʔt̪-iɲ-ɘ,iɲ d̪ɔ ɔka sɛc͡ʔ cala-ʔ ho-joʔt̪-iɲ-ɘ,1SG TOP Which DIR Go-M Must-OBL-1SG-FIN,eaf_sequence_match,santali_new_glossed.eaf,17,35200,37200
+737,When will you come home tomorrow?,am d̪ɔ gapa t̪in-ɾɛ ɔɽaʔ-ɛm hiɟu-a,am d̪ɔ gapa t̪in-ɾɛ ɔɽaʔ-ɛm hiɟu-a,2SG TOP Tomorrow When-LOC Home-2SG:SUBJ Come-FIN,eaf_sequence_match,santali_new_glossed.eaf,18,37400,39400
+738,Why are you laughing?,ced̪aʔ-ɛm land̪a-i͡-d̪a,ced̪aʔ-ɛm land̪a-i͡-d̪a,Why-2SG:SUBJ Laugh-PROG-FIN,eaf_sequence_match,santali_new_glossed.eaf,19,39600,41600
+739,Why were you (plural) laughing?,ced̪aʔ-pɛ land̪a-i͡-ɛʔ-kan t̪ahɛ̃-kana,ced̪aʔ-pɛ land̪a-i͡-ɛʔ-kan t̪ahɛ̃-kana,Why-2PL Laugh-PROG-PRF-CONT Stay-COP,eaf_sequence_match,santali_new_glossed.eaf,20,41800,43800
+740,Where are you going?,ɔka-t̪ɛm cala-ʔ-kana,ɔka-t̪ɛm cala-ʔ-kana,Where-LOC-2SG:SUBJ Go-M-COP,eaf_sequence_match,santali_new_glossed.eaf,21,44000,46000
+741,Where did you go?,ɔka-t̪ɛm cala-o̯-le-na,ɔka-t̪ɛm cala-o̯-le-na,Where-LOC-2SG:SUBJ Go-PST-PST-FIN,eaf_sequence_match,santali_new_glossed.eaf,22,46200,48200
+742,Where will you go?,ɔak-t̪ɛm cala-a,ɔak-t̪ɛm cala-a,Where-LOC-2SG:SUBJ Go-FIN,eaf_sequence_match,santali_new_glossed.eaf,23,48400,50400
+743,Where will you go to play?,am d̪ɔ ɔka-ɾɛ gat̪e-ʔ-ɛm cala-a,am d̪ɔ ɔka-ɾɛ gat̪e-ʔ-ɛm cala-a,2SG TOP Which-LOC Play-M-2SG:SUBJ Go-FIN,eaf_sequence_match,santali_new_glossed.eaf,24,50600,52600
+744,Is anyone at home?,ɔɽaʔ-ɾɛ ɟahã-i͡ mɛna-ʔ-pe-ja,ɔɽaʔ-ɾɛ ɟahã-i͡ mɛna-ʔ-pe-ja,Home-LOC Anyone-Q Exist-M-2PL-Q,eaf_sequence_match,santali_new_glossed.eaf,25,52800,54800
+745,Will anyone be at home?,ɔɽaʔ-ɾɛ ɟahã-i͡-pɛ t̪ahɛ̃-na,ɔɽaʔ-ɾɛ ɟahã-i͡-pɛ t̪ahɛ̃-na,Home-LOC Anyone-Q-2PL Stay-FIN,eaf_sequence_match,santali_new_glossed.eaf,26,55000,57000
+746,What time do you wake up in the morning?,am d̪ɔ set̪aʔ t̪in-ɾɛm beɾet̪-ʔa,am d̪ɔ set̪aʔ t̪in-ɾɛm beɾet̪-ʔa,2SG TOP Morning When-LOC-2SG:SUBJ Wake.up-M,eaf_sequence_match,santali_new_glossed.eaf,27,57200,59200
+747,How are you?,am cɛt̪-lɛka mena-ma,am cɛt̪-lɛka mena-ma,2SG How-MANNER Exist-Q,eaf_sequence_match,santali_new_glossed.eaf,28,59400,61400
+748,What are you doing?,am cɛʔ-ɛm ceka-i͡-d̪a,am cɛʔ-ɛm ceka-i͡-d̪a,2SG What-2SG:SUBJ Do-PROG-FIN,eaf_sequence_match,santali_new_glossed.eaf,29,61600,63600
+749,What will you do?,am cɛʔ-ɛm ceka-ja,am cɛʔ-ɛm ceka-ja,2SG What-2SG:SUBJ Do-FIN,eaf_sequence_match,santali_new_glossed.eaf,30,63800,65800
+750,What do you like to do the most?,cɛt̪ kɘmi am d̪ɔ ɟɘst̪im kusi-jaʔa,cɛt̪ kɘmi am d̪ɔ ɟɘst̪im kusi-jaʔ-a,What Thing 2SG TOP Most Like-PRF-Q,eaf_sequence_match,santali_new_glossed.eaf,31,66000,68000
+751,Why were you laughing when you heard that story?,ɔna ɟɘɽ aɲɟɔm kat̪ɛʔ pa-ɛ d̪ɔ ced̪aʔ-pɛ land̪a-jɛʔ-kan t̪ahɛ̃-kana,ɔna ɟɘɽ aɲɟɔm kat̪ɛʔ pa-ɛ d̪ɔ ced̪aʔ-pɛ land̪a-jɛʔ-kan t̪ahɛ̃-kana,That Story Hear After Hear-3SG TOP Why-2PL Laugh-PRF-CONT Stay-COP,eaf_sequence_match,santali_new_glossed.eaf,32,68200,70200
+752,Who is in your family?,am-aʔ gʰaɾɔ̃ɟ-ɾɛ okɔ-i͡-ko mena-ʔ-ko-a,am-aʔ gʰaɾɔ̃ɟ-ɾɛ okɔ-i͡-ko mena-ʔ-ko-a,2SG-GEN Family-LOC Who-Q-3PL Exist-M-3PL-FIN,eaf_sequence_match,santali_new_glossed.eaf,33,70400,72400
+753,How did they get to this place?,no̯a ʈɔʈʰa-ɾɛ oŋ-ko d̪ɔ cɛt̪-lɛka-t̪ɛ-ko hɛc͡ʔ-le-na,no̯a ʈɔʈʰa-ɾɛ oŋ-ko d̪ɔ cɛt̪-lɛka-t̪ɛ-ko hɛc͡ʔ-le-na,This Place-LOC 3PL TOP How-MANNER-INSTR-3PL Come-PST-FIN,eaf_sequence_match,santali_new_glossed.eaf,34,72600,74600
+754,Which direction would be better for us to go?,ɔka sɛc͡ʔ-bo cala-o̯-lɛn-kʰac͡ʔ bʰage ho-i͡-ko-a,ɔka sɛc͡ʔ-bo cala-o̯-lɛn-kʰac͡ʔ bʰage ho-i͡-ko-a,Which DIR-1PL.EXCL Go-PST-COND Good Become-PROG-3PL-FIN,eaf_sequence_match,santali_new_glossed.eaf,35,74800,76800
+755,Let me know if you have any questions.,ɟahan kupuli t̪ahɛ̃n-t̪am kʰac͡ʔ baɖa-i͡ oco-i͡-ɲ-mɛ,ɟahan kupuli t̪ahɛ̃n-t̪am kʰac͡ʔ baɖa-i͡ oco-i͡-ɲ-mɛ,Any Question Stay-2SG.HON If Inform-IMP Tell-IMP-1SG-IMP,eaf_sequence_match,santali_new_glossed.eaf,36,77000,79000
+756,Where do you live?,am d̪ɔ ɔka-ɾɛm t̪ahɛ̃-na,am d̪ɔ ɔka-ɾɛm t̪ahɛ̃-na,2SG TOP Where-LOC-2SG:SUBJ Stay-FIN,eaf_sequence_match,santali_new_glossed.eaf,37,79200,81200
+757,Where will you stay?,am d̪ɔ ɔka-ɾɛm t̪ahɛ̃-na,am d̪ɔ ɔka-ɾɛm t̪ahɛ̃-na,2SG TOP Where-LOC-2SG:SUBJ Stay-FIN,eaf_sequence_match,santali_new_glossed.eaf,38,81400,83400
+758,Will you come today?,am d̪ɔ cɛt̪ t̪eheɲ-ɛm hiɟu-a,am d̪ɔ cɛt̪ t̪eheɲ-ɛm hiɟu-a,2SG TOP What Today-2SG:SUBJ Come-FIN,eaf_sequence_match,santali_new_glossed.eaf,39,83600,85600
+759,Shall we call them?,abo d̪ɔ cɛt̪ oŋ-ko-bo hɔhɔ-o̯a-ko-a,abo d̪ɔ cɛt̪ oŋ-ko-bo hɔhɔ-o̯a-ko-a,1PL.EXCL TOP What 3PL-OBJ-1PL.EXCL Call-PST-3PL-FIN,eaf_sequence_match,santali_new_glossed.eaf,40,85800,87800
+760,Did we call them?,abo d̪ɔ cɛt̪ oŋ-ko-bo hɔhɔ-o̯a-ʔ-ko t̪ahɛ̃-na,abo d̪ɔ cɛt̪ oŋ-ko-bo hɔhɔ-o̯a-ʔ-ko t̪ahɛ̃-na,1PL.EXCL TOP What 3PL-OBJ-1PL.EXCL Call-PRF-M-3PL Stay-FIN,eaf_sequence_match,santali_new_glossed.eaf,41,88000,90000
+761,Shall we call them?,abo d̪ɔ cɛt̪ oŋ-ko-bo hɔhɔ-o̯a-ko-a,abo d̪ɔ cɛt̪ oŋ-ko-bo hɔhɔ-o̯a-ko-a,1PL.EXCL TOP What 3PL-OBJ-1PL.EXCL Call-PST-3PL-FIN,eaf_sequence_match,santali_new_glossed.eaf,42,90200,92200
+762,Can I ask a question?,am d̪ɔ cɛt̪-iɲ kuli d̪aɽe-o̯a-ma,am d̪ɔ cɛt̪-iɲ kuli d̪aɽe-o̯a-ma,2SG TOP What-1SG:SUBJ Question Ability-PST-Q,eaf_sequence_match,santali_new_glossed.eaf,43,92400,94400
+763,When will you come home today?,am d̪ɔ t̪eheɲ t̪in-ɾɛ ɔɽaʔ-ɛm hiɟu-a,am d̪ɔ t̪eheɲ t̪in-ɾɛ ɔɽaʔ-ɛm hiɟu-a,2SG TOP Today When-LOC Home-2SG:SUBJ Come-FIN,eaf_sequence_match,santali_new_glossed.eaf,44,94600,96600
+764,When did you come home yesterday?,am d̪ɔ hɔla t̪in-ɾɛ ɔɽaʔ-ɛm hɛc͡ʔ-le-na,am d̪ɔ hɔla t̪in-ɾɛ ɔɽaʔ-ɛm hɛc͡ʔ-le-na,2SG TOP Yesterday When-LOC Home-2SG:SUBJ Come-PST-FIN,eaf_sequence_match,santali_new_glossed.eaf,45,96800,98800
+765,How are you?,am do̪ cɛt̪-leka mena-ma,am do̪ cɛt̪-leka mena-ma,2SG TOP How-MANNER Exist-Q,eaf_sequence_match,santali_new_glossed.eaf,46,99000,101000
+766,What do you do? (formal habitual),am d̪ɔ cɛt̪-ɛm ceka baɽa-ja,am d̪ɔ cɛt̪-ɛm ceka baɽa-ja,2SG TOP What-2SG:SUBJ Do Habitually-FIN,eaf_sequence_match,santali_new_glossed.eaf,47,101200,103200
+767,What do you do? (informal habitual),am cɛt̪-ɛm ceka baɽa-ja,am cɛt̪-ɛm ceka baɽa-ja,2SG What-2SG:SUBJ Do Habitually-FIN,eaf_sequence_match,santali_new_glossed.eaf,48,103400,105400
+768,What are you doing? (formal progressive),am d̪ɔ cɛt̪-ɛm ceka-i͡-d̪a,am d̪ɔ cɛt̪-ɛm ceka-i͡-d̪a,2SG TOP What-2SG:SUBJ Do-PROG-FIN,eaf_sequence_match,santali_new_glossed.eaf,49,105600,107600
+769,What is your hobby? (formal),am d̪ɔ cɛt̪ ceka-jɛm kusi-o̯aʔa,am d̪ɔ cɛt̪ ceka-jɛm kusi-o̯a-ʔ-a,2SG TOP What Do-NMLZ-2SG:SUBJ Like-PRF-M-FIN,eaf_sequence_match,santali_new_glossed.eaf,50,107800,109800
+770,What is your hobby? (informal),am cɛt̪ ceka-jɛm kusi-o̯aʔa,am cɛt̪ ceka-jɛm kusi-o̯a-ʔ-a,2SG What Do-NMLZ-2SG:SUBJ Like-PRF-M-FIN,eaf_sequence_match,santali_new_glossed.eaf,51,110000,112000
+771,What do you like to do?,am d̪ɔ cɛt̪ ceka-jɛm kusi-o̯aʔa,am d̪ɔ cɛt̪ ceka-jɛm kusi-o̯a-ʔ-a,2SG TOP What Do-NMLZ-2SG:SUBJ Like-PRF-M-FIN,eaf_sequence_match,santali_new_glossed.eaf,52,112200,114200
+772,How do you collect drinkable water?,apɛ d̪ɔ ɲu-i͡ d̪aʔ cɛt̪-leka-kat̪ɛ-pɛ d̪ɔhɔ-ja,apɛ d̪ɔ ɲu-i͡ d̪aʔ cɛt̪-leka-kat̪ɛ-pɛ d̪ɔhɔ-ja,2PL TOP Drink-NMLZ Water How-MANNER-INSTR-2PL Collect-FIN,eaf_sequence_match,santali_new_glossed.eaf,53,114400,116400
+773,How did you cook this?,am d̪ɔ no̯a cɛt̪-lɛka-kat̪ɛm isin basaŋ-ɛ-d̪a,am d̪ɔ no̯a cɛt̪-lɛka-kat̪ɛm isin basaŋ-ɛ-d̪a,2SG TOP This How-MANNER-INSTR Cook Food-CAUS-FIN,eaf_sequence_match,santali_new_glossed.eaf,54,116600,118600
+774,How did you make this cake?,am d̪ɔ no̯a piʈʰɘ cɛt̪-lɛka-kat̪ɛʔm bena-o̯-ke-d̪a,am d̪ɔ no̯a piʈʰɘ cɛt̪-lɛka-kat̪ɛʔm bena-o̯-ke-d̪a,2SG TOP This Cake How-MANNER-INSTR-2SG:SUBJ Make-PST-TR-FIN,eaf_sequence_match,santali_new_glossed.eaf,55,118800,120800
+775,Where is your home?,am-aʔ ɔɽaʔ d̪ɔ ɔka-ɾe,am-aʔ ɔɽaʔ d̪ɔ ɔka-ɾe,2SG-GEN Home TOP Where-LOC,eaf_sequence_match,santali_new_glossed.eaf,56,121000,123000
+776,Where will we stay today?,abo d̪ɔ t̪eheɲ ɔka-ɾɛ-bo t̪ahɛ̃-na,abo d̪ɔ t̪eheɲ ɔka-ɾɛ-bo t̪ahɛ̃-na,1PL.EXCL TOP Today Where-LOC-1PL.EXCL Stay-FIN,eaf_sequence_match,santali_new_glossed.eaf,57,123200,125200
+777,Where do you live?,am ɔka-ɾɛm t̪ahɛ̃-na,am ɔka-ɾɛm t̪ahɛ̃-na,2SG Where-LOC-2SG:SUBJ Stay-FIN,eaf_sequence_match,santali_new_glossed.eaf,58,125400,127400
+778,This place smells bad.,no̯a ʈɔʈʰa-ɾɛ ɘɖi bɘɽic͡ʔ sɔ kana,no̯a ʈɔʈʰa-ɾɛ ɘɖi bɘɽic͡ʔ sɔ kana,This Place-LOC Very Bad Smell COP,eaf_sequence_match,santali_new_glossed.eaf,59,127600,129600
+779,This curry is very spicy.,ut̪u-ɾɛ ɟʰal ɟɘst̪i-jena,ut̪u-ɾɛ ɟʰal ɟɘst̪i-je-na,Curry-LOC Spicy Excess-become-FIN,eaf_sequence_match,santali_new_glossed.eaf,60,129800,131800
+780,This tea contains too much sugar.,caː-ɾɛ hɛɽɛm ɟɘst̪i-jɛna,caː-ɾɛ hɛɽɛm ɟɘst̪i-jɛ-na,Tea-LOC Sweet Excess-become-FIN,eaf_sequence_match,santali_new_glossed.eaf,61,132000,134000
+781,This food has gone stale.,ɟɔm-ʔ bɘɽic͡ʔ-e-na,ɟɔm-ʔ bɘɽic͡ʔ-e-na,Food-M Spoil-3SG-FIN,eaf_sequence_match,santali_new_glossed.eaf,62,134200,136200
+782,This fruit is very juicy.,no̯a ɟɔ d̪ɔ ɾɔbɔc͡ʔ ɾɔbɔc͡ʔ ɾasa-ge-ja,no̯a ɟɔ d̪ɔ ɾɔbɔc͡ʔ ɾɔbɔc͡ʔ ɾasa-ge-ja,This Fruit TOP Dripping Dripping Juicy-MANNER-FIN,eaf_sequence_match,santali_new_glossed.eaf,63,136400,138400
+783,These foods have too much spices.,ɟɔm-aʔ-ko-ɾɛ d̪ɔ ɖʰeɾ mɔsɔla-ko laga-o̯-ă-ka-d̪a,ɟɔm-aʔ-ko-ɾɛ d̪ɔ ɖʰeɾ mɔsɔla-ko laga-o̯-ă-ka-d̪a,Food-GEN-3PL-LOC TOP Many Spice-3PL Apply-PST-PERF-PRF-FIN,eaf_sequence_match,santali_new_glossed.eaf,64,138600,140600
+784,This shake feels very refreshing after drinking.,sɔɾbɔt̪ ɲu t̪a-jɔm ɘɖi ceɾʈʰaɲ ɘ-i͡-kɘ-o̯e-d̪a,sɔɾbɔt̪ ɲu t̪a-jɔm ɘɖi ceɾʈʰaɲ ɘ-i͡-kɘ-o̯e-d̪a,Shake Drink After-eat Very Refreshing Feel-PROG-CAUS-PERF-FIN,eaf_sequence_match,santali_new_glossed.eaf,65,140800,142800
+785,Bring that basket from under the bed.,paɾkɔm lat̪a-ɾ kʰɔn ɟʰuɽi ɘgu-i͡-mɛ,paɾkɔm lat̪a-ɾ kʰɔn ɟʰuɽi ɘgu-i͡-mɛ,Bed Under-GEN From Basket Bring-IMP-2SG,eaf_sequence_match,santali_new_glossed.eaf,66,143000,145000
+786,The school is on the opposite side of this road.,iskul d̪ɔ no̯a ɖahaɾ hana-sa-ɾɛ,iskul d̪ɔ no̯a ɖahaɾ hana-sa-ɾɛ,School TOP This Road Opposite-side-LOC,eaf_sequence_match,santali_new_glossed.eaf,67,145200,147200
+787,Trees are planted all around the house.,ɔɽaʔ bɛɽha-i͡-t̪ɛ d̪aɾe-ko ɾɔhɔ-i͡-aka-ʔ-a,ɔɽaʔ bɛɽha-i͡-t̪ɛ d̪aɾe-ko ɾɔhɔ-i͡-aka-ʔ-a,Home Surrounding-INSTR Tree-3PL Planted-PROG-PRF-M-FIN,eaf_sequence_match,santali_new_glossed.eaf,68,147400,149400
+788,That student is the best among all.,ɟɔt̪ɔ-ko mud̪-ɾɛ nu-i͡ paɽha-ʔ kɔɽa d̪ɔ-i͡ sɔɾɔs-ge-ja,ɟɔt̪ɔ-ko mud̪-ɾɛ nu-i͡ paɽha-ʔ kɔɽa d̪ɔ-i͡ sɔɾɔs-ge-ja,All-3PL Among-LOC This-Q Student TOP-Q Best-MANNER-FIN,eaf_sequence_match,santali_new_glossed.eaf,69,149600,151600
+789,They are both brilliant.,bana-hɔɽ-ge-kin bud̪ ɘkila-na-ʔ-a,bana-hɔɽ-ge-kin bud̪ ɘkila-na-ʔ-a,Both-MANNER-PROG-DU Intelligent Appear-FIN-M-FIN,eaf_sequence_match,santali_new_glossed.eaf,70,151800,153800
+790,There is a pond in front of the field.,maʈʰ samaŋ-ɾe-ge mit̪-ʔʈɛc͡ʔ pukʰɾi mɛna-a,maʈʰ samaŋ-ɾe-ge mit̪-ʔ-ʈɛc͡ʔ pukʰɾi mɛna-a,Field Front-LOC-EMPH One-M-CLSSFR Pond Exist-FIN,eaf_sequence_match,santali_new_glossed.eaf,71,154000,156000
+791,There is a field next to the shop.,d̪ɔkan aɽe-ɾe-ge mit̪-ʔʈɛc͡ʔ maʈʰ mena-a,d̪ɔkan aɽe-ɾe-ge mit̪-ʔ-ʈɛc͡ʔ maʈʰ mena-a,Shop Beside-LOC-EMPH One-M-CLSSFR Field Exist-FIN,eaf_sequence_match,santali_new_glossed.eaf,72,156200,158200
+792,Go inside the house.,ɔɽaʔ bʰit̪ɾi-sɛc͡ʔ cala-ʔ-mɛ,ɔɽaʔ bʰit̪ɾi-sɛc͡ʔ cala-ʔ-mɛ,Home Inside-DIR Go-M-2SG.IMP,eaf_sequence_match,santali_new_glossed.eaf,73,158400,160400
+793,You can go out now.,nit̪ bahaɾɛ-sɛc͡ʔ-ɛm cala-o̯ d̪aɽe-jaʔa,nit̪ bahaɾɛ-sɛc͡ʔ-ɛm cala-o̯ d̪aɽe-jaʔ-a,Now Outside-DIR-2SG:SUBJ Go-PST Ability-PRF-FIN,eaf_sequence_match,santali_new_glossed.eaf,74,160600,162600
+794,I feel very happy today.,t̪eheɲ d̪ɔ ɘɖi ɾɘskɘɲ ɘ-i͡-kɘ-o̯e-d̪a,t̪eheɲ d̪ɔ ɘɖi ɾɘskɘ-ɲ ɘ-i͡-kɘ-o̯e-d̪a,Today TOP Very Happy-1SG Feel-PROG-CAUS-PERF-FIN,eaf_sequence_match,santali_new_glossed.eaf,75,162800,164800
+795,I feel very sad today.,t̪eheɲ d̪ɔ ɘɖi d̪uki-ɲ ɘ-i͡-kɘ-o̯e-d̪a,t̪eheɲ d̪ɔ ɘɖi d̪uki-ɲ ɘ-i͡-kɘ-o̯e-d̪a,Today TOP Very Sad-1SG Feel-PROG-CAUS-PERF-FIN,eaf_sequence_match,santali_new_glossed.eaf,76,165000,167000
+796,I feel very good today.,t̪eheɲ d̪ɔ ɘɖi bes-iɲ ɘ-i͡-kɘ-o̯-d̪a,t̪eheɲ d̪ɔ ɘɖi bes-iɲ ɘ-i͡-kɘ-o̯-d̪a,Today TOP Very Good-1SG Feel-PROG-CAUS-FIN,eaf_sequence_match,santali_new_glossed.eaf,77,167200,169200
+797,I feel very bad today.,t̪eheɲ d̪ɔ ɘɖi bɘɽic͡ʔ-iɲ ɘ-i͡-kɘ-o̯-d̪a,t̪eheɲ d̪ɔ ɘɖi bɘɽic͡ʔ-iɲ ɘ-i͡-kɘ-o̯-d̪a,Today TOP Very Bad-1SG Feel-PROG-CAUS-FIN,eaf_sequence_match,santali_new_glossed.eaf,78,169400,171400
+798,There is a lot of noise outside.,bah-ɾɛ-ɾɛ ɘɖi ãʈ saɖe-kana,bah-ɾɛ-ɾɛ ɘɖi ãʈ saɖe-kana,Outside-LOC-REDUP Very Sound Make-COP,eaf_sequence_match,santali_new_glossed.eaf,79,171600,173600
+799,This flower has no smell.,no̯a baha ɾe-jaʔ sɔ d̪ɔ bɘnu-a,no̯a baha ɾe-jaʔ sɔ d̪ɔ bɘnu-a,This Flower NAME-GEN Smell TOP Absence-FIN,eaf_sequence_match,santali_new_glossed.eaf,80,173800,175800
+800,A pungent smell is everywhere.,ɟɔt̪ɔ-sɛc͡ʔ hiɾkʰɘ-ge sɔ kana,ɟɔt̪ɔ-sɛc͡ʔ hiɾkʰɘ-ge sɔ kana,All-DIR Pungent-MANNER Smell COP,eaf_sequence_match,santali_new_glossed.eaf,81,176000,178000
+801,Feeling nauseous.,bɛc͡ʔ bɛc͡ʔ-iɲ ɘ-i͡-kɘ-o̯e-d̪a,bɛc͡ʔ bɛc͡ʔ-iɲ ɘ-i͡-kɘ-o̯e-d̪a,Nauseous Nauseous-1SG Feel-PROG-CAUS-PERF-FIN,eaf_sequence_match,santali_new_glossed.eaf,82,178200,180200
+802,The dog is barking.,set̪a-i͡ bʰuʔ-e-d̪a,set̪a-i͡ bʰuʔ-e-d̪a,Dog-ANAPH Bark-3SG-FIN,eaf_sequence_match,santali_new_glossed.eaf,83,180400,182400
+803,He/She is tickling.,buk-ɽu-i͡ d̪iɲa-i͡,buk-ɽu-i͡ d̪iɲa-i͡,Tickle-NMLZ-ANAPH Doing-ANAPH,eaf_sequence_match,santali_new_glossed.eaf,84,182600,184600
+804,Take the next turn then go to the left.,moɽ-sɛc͡ʔ laha kat̪ɛʔ lɛŋga-sɛc͡ʔ ɘcuɾɔʔ-mɛ,moɽ-sɛc͡ʔ laha kat̪ɛʔ lɛŋga-sɛc͡ʔ ɘcuɾ-ɔʔ-mɛ,Turn-DIR After Then Left-DIR Turn-IMP-2SG,eaf_sequence_match,santali_new_glossed.eaf,85,184800,186800
+805,Take the next turn then go to the right.,moɽ-sɛc͡ʔ laha kat̪ɛʔ ɟɔɟɔm-sɛc͡ʔ ɘcuɾɔʔ-mɛ,moɽ-sɛc͡ʔ laha kat̪ɛʔ ɟɔɟɔm-sɛc͡ʔ ɘcuɾ-ɔʔ-mɛ,Turn-DIR After Then Right-DIR Turn-IMP-2SG,eaf_sequence_match,santali_new_glossed.eaf,86,187000,189000
+806,He/She is very happy.,uni d̪ɔ ɘɖi ɾɘskɘ-ɾɛ mena-ja,uni d̪ɔ ɘɖi ɾɘskɘ-ɾɛ mena-ja,3SG TOP Very Happy-LOC Exist-FIN,eaf_sequence_match,santali_new_glossed.eaf,87,189200,191200
+807,He/She is in a lot of pain.,uni d̪ɔ ɘɖi d̪uk-ɾɛ mena-ja,uni d̪ɔ ɘɖi d̪uk-ɾɛ mena-ja,3SG TOP Very Pain-LOC Exist-FIN,eaf_sequence_match,santali_new_glossed.eaf,88,191400,193400
+808,The taste of this fruit is bitter.,no̯a ɟɔ d̪ɔ haɽha-t̪-ge-ja,no̯a ɟɔ d̪ɔ haɽha-t̪-ge-ja,This Fruit TOP Bitter-NMLZ-MANNER-FIN,eaf_sequence_match,santali_new_glossed.eaf,89,193600,195600
+809,The taste of this fruit is sweet.,no̯a ɟɔ d̪ɔ hɛɽɛm-ge sebe-la,no̯a ɟɔ d̪ɔ hɛɽɛm-ge sebe-la,This Fruit TOP Sweet-MANNER Taste-FIN,eaf_sequence_match,santali_new_glossed.eaf,90,195800,197800
+810,The taste of this fruit is sour.,no̯a ɟɔ d̪ɔ ɟɔɟɔ-ge-ja,no̯a ɟɔ d̪ɔ ɟɔɟɔ-ge-ja,This Fruit TOP Sour-MANNER-FIN,eaf_sequence_match,santali_new_glossed.eaf,91,198000,200000
+811,These dishes are very tasty/delicious.,no̯a ɟɔm-aʔ-ko-d̪ɔ ɘɖi sebela-ʔ-kana,no̯a ɟɔm-aʔ-ko-d̪ɔ ɘɖi sebela-ʔ-kana,This Food-GEN-3PL-TOP Very Tasty-M-COP,eaf_sequence_match,santali_new_glossed.eaf,92,200200,202200
+812,This biscuit tastes salty while eating.,biskuʈ ɟɔm-t̪ɛ ɾaham ɾaha-ɾ ɘ-i͡-kɘ-ʔ-kana,biskuʈ ɟɔm-t̪ɛ ɾaham ɾaha-ɾ ɘ-i͡-kɘ-ʔ-kana,Biscuit Eat-INSTR Salty Salty-GEN Feel-PROG-CAUS-M-COP,eaf_sequence_match,santali_new_glossed.eaf,93,202400,204400
+813,That fan is placed on the table.,bini d̪ɔ ʈibil cet̪an-ɾɛ-ko d̪ɔhɔ-o̯a-ka-d̪a,bini d̪ɔ ʈibil cet̪an-ɾɛ-ko d̪ɔhɔ-o̯a-ka-d̪a,Fan TOP Table Top-LOC-3PL Place-PST-PRF-FIN,eaf_sequence_match,santali_new_glossed.eaf,94,204600,206600
+814,Look up for some moments.,mit̪-ʔ gʰɘɽi lɘgit̪ cet̪an sɛc͡ʔ kɔ-jɔʔ-kam,mit̪-ʔ gʰɘɽi lɘgit̪ cet̪an sɛc͡ʔ kɔ-jɔʔ-kam,One-M Moment For Top DIR Look-PRF-2SG.IMP,eaf_sequence_match,santali_new_glossed.eaf,95,206800,208800
+815,Everyone is standing in a circle.,ɟɔt̪ɔ-ko bɛɽha-i͡-t̪ɛ-ko t̪iŋgu-o̯a-kana,ɟɔt̪ɔ-ko bɛɽha-i͡-t̪ɛ-ko t̪iŋgu-o̯a-kana,All-3PL Around-INSTR-3PL Stand-PST-COP,eaf_sequence_match,santali_new_glossed.eaf,96,209000,211000
+816,There is a farm behind the house.,ɔɽaʔ t̪a-i͡-nɔm-ɾɛ mit̪-ʔʈɛc͡ʔ kʰamaɾ mɛna-a,ɔɽaʔ t̪a-i͡-nɔm-ɾɛ mit̪-ʔ-ʈɛc͡ʔ kʰamaɾ mɛna-a,Home Behind-NMLZ-LOC One-M-CLSSFR Farm Exist-FIN,eaf_sequence_match,santali_new_glossed.eaf,97,211200,213200
+817,That child is smiling/laughing.,uni gid̪ɾɘ-i͡ land̪a-i͡-d̪a,uni gid̪ɾɘ-i͡ land̪a-i͡-d̪a,3SG Child-ANAPH Laugh-PROG-FIN,eaf_sequence_match,santali_new_glossed.eaf,98,213400,215400
+818,That baby is crying.,uni gid̪ɾɘ-i͡ ɾaʔ-ɛ-d̪a,uni gid̪ɾɘ-i͡ ɾaʔ-ɛ-d̪a,3SG Child-ANAPH Cry-3SG-FIN,eaf_sequence_match,santali_new_glossed.eaf,99,215600,217600
+819,The smell of this flower is very nice.,no̯a baha-ɾe-jaʔ sɔː d̪ɔ ɘɖi mɔ̃ːɟa,no̯a baha-ɾe-jaʔ sɔː d̪ɔ ɘɖi mɔ̃ːɟ-a,This Flower-GEN-NAME Smell TOP Very Pleasant-FIN,eaf_sequence_match,santali_new_glossed.eaf,100,217800,219800
+820,One kind of aroma can be found around the garden.,bagan aɖɛ-pa-sɛ mit̪-ʔ leka-naʔ boge sɔ ɲam-o-a,bagan aɖɛ-pa-sɛ mit̪-ʔ leka-naʔ boge sɔ ɲam-o-a,Garden Around-NEAR One-M Like-NAME Kind Smell Find-FIN-FIN,eaf_sequence_match,santali_new_glossed.eaf,101,220000,222000
+821,It is a heinous act.,no̯a d̪ɔ ɘɖi-t̪ɛt̪ bɘɽic͡ʔ kɘmi kana,no̯a d̪ɔ ɘɖi-t̪ɛt̪ bɘɽic͡ʔ kɘmi kana,This TOP Very-EMPH Bad Work COP,eaf_sequence_match,santali_new_glossed.eaf,102,222200,224200
+822,The body is itching.,hɔɽmɔ baba-t̪-ʔ-kana,hɔɽmɔ baba-t̪-ʔ-kana,Body Itch-NMLZ-M-COP,eaf_sequence_match,santali_new_glossed.eaf,103,224400,226400
+823,My feet are tickling.,ɟaŋga-ɾɛ ga-i͡-gɔm ga-i͡-gɔm-iɲ ɘ-i͡-kɘ-o̯e-d̪a,ɟaŋga-ɾɛ ga-i͡-gɔm ga-i͡-gɔm-iɲ ɘ-i͡-kɘ-o̯e-d̪a,Foot-LOC Tickle-REDUP Tickle-REDUP-1SG Feel-PROG-CAUS-PERF-FIN,eaf_sequence_match,santali_new_glossed.eaf,104,226600,228600
+824,One,mit̪,mit̪,NUM:One,eaf_sequence_match,santali_new_glossed.eaf,105,228800,230800
+825,Two,baɾ,baɾ,NUM:Two,eaf_sequence_match,santali_new_glossed.eaf,106,231000,233000
+826,Three,pɛ,pɛ,NUM:Three,eaf_sequence_match,santali_new_glossed.eaf,107,233200,235200
+827,Four,pon,pon,NUM:Four,eaf_sequence_match,santali_new_glossed.eaf,108,235400,237400
+828,Five,mɔ̃ɽɛ,mɔ̃ɽɛ,NUM:Five,eaf_sequence_match,santali_new_glossed.eaf,109,237600,239600
+829,Six,t̪uɾu-i͡,t̪uɾu-i͡,NUM:Six-CLSSFR,eaf_sequence_match,santali_new_glossed.eaf,110,239800,241800
+830,Seven,ɛ-ja-i͡,ɛ-ja-i͡,NUM:Seven-CLSSFR-CLSSFR,eaf_sequence_match,santali_new_glossed.eaf,111,242000,244000
+831,to sit,d̪uɽup̚ʔ,d̪uɽup̚ʔ,V.sit,eaf_sequence_match,lexicon(1).eaf,1,0,2000
+832,to come,hiɟuʔ,hiɟuʔ,V.come,eaf_sequence_match,lexicon(1).eaf,2,2200,4200
+833,to go,calaʔ,calaʔ,V.go,eaf_sequence_match,lexicon(1).eaf,3,4400,6400
+834,to recognize,op̚ɾom,op̚ɾom,V.recognize,eaf_sequence_match,lexicon(1).eaf,4,6600,8600
+835,to listen,aɲɟɔm,aɲɟɔm,V.listen,eaf_sequence_match,lexicon(1).eaf,5,8800,10800
+836,to see,ɲɛl,ɲɛl,V.see,eaf_sequence_match,lexicon(1).eaf,6,11000,13000
+837,to know,baɖa͡i̯,baɖa͡i̯,V.know,eaf_sequence_match,lexicon(1).eaf,7,13200,15200
+838,to give,ɛmɔʔ,ɛmɔʔ,V.give,eaf_sequence_match,lexicon(1).eaf,8,15400,17400
+839,to take,hat̪a͡o̯,hat̪a͡o̯,V.take,eaf_sequence_match,lexicon(1).eaf,9,17600,19600
+840,to bring,ɘgu,ɘgu,V.bring,eaf_sequence_match,lexicon(1).eaf,10,19800,21800
+841,to bring,ɘgu,ɘgu,V.bring,eaf_sequence_match,lexicon(1).eaf,11,22000,24000
+842,to buy,kiɾiɲ,kiɾiɲ,V.buy,eaf_sequence_match,lexicon(1).eaf,12,24200,26200
+843,to walk/roam,d̪aɽan,d̪aɽan,V.walk,eaf_sequence_match,lexicon(1).eaf,13,26400,28400
+844,to find out,ʈɛo̯͡aŋ hat̪a͡o̯,ʈɛo̯͡aŋ hat̪a͡o̯,V.inquire V.take,eaf_sequence_match,lexicon(1).eaf,14,28600,30600
+845,to like,kusi,kusi,V.like,eaf_sequence_match,lexicon(1).eaf,15,30800,32800
+846,to lose,at̪̚ʔ,at̪̚ʔ,V.lose,eaf_sequence_match,lexicon(1).eaf,16,33000,35000
+847,to find,ɲam,ɲam,V.find,eaf_sequence_match,lexicon(1).eaf,17,35200,37200
+848,to cultivate,cas bas,cas bas,V.cultivate V.work,eaf_sequence_match,lexicon(1).eaf,18,37400,39400
+849,to tie up,bad̪ʰa,bad̪ʰa,V.tie,eaf_sequence_match,lexicon(1).eaf,19,39600,41600
+850,to deliver,sɛʈɛɾ kaʔ,sɛʈɛɾ kaʔ,V.arrive COMPL,eaf_sequence_match,lexicon(1).eaf,20,41800,43800
+851,to remember,d̪isɘ d̪ɔho͡i̯,d̪isɘ d̪ɔho͡i̯,N.memory V.keep,eaf_sequence_match,lexicon(1).eaf,21,44000,46000
+852,to search,sɛnd̪ɾa,sɛnd̪ɾa,V.search,eaf_sequence_match,lexicon(1).eaf,22,46200,48200
+853,to talk,kat̪ʰa ɾɔɽ,kat̪ʰa ɾɔɽ,N.speech V.say,eaf_sequence_match,lexicon(1).eaf,23,48400,50400
+854,to bleed,majam ɟɔɾɔʔ,majam ɟɔɾɔʔ,N.blood V.flow,eaf_sequence_match,lexicon(1).eaf,24,50600,52600
+855,to read,bʰind̪ɘɽɔʔ,bʰind̪ɘɽɔʔ,V.read,eaf_sequence_match,lexicon(1).eaf,25,52800,54800
+856,to drop off,ɲuɾhɘʔ,ɲuɾhɘʔ,V.drop.off,eaf_sequence_match,lexicon(1).eaf,26,55000,57000
+857,to sell,ɘkʰɾiɲ,ɘkʰɾiɲ,V.sell,eaf_sequence_match,lexicon(1).eaf,27,57200,59200
+858,to deposit,ɟɔma d̪ɔho͡i̯,ɟɔma d̪ɔho͡i̯,V.gather V.keep,eaf_sequence_match,lexicon(1).eaf,28,59400,61400
+859,to burn,ɟul,ɟul,V.burn,eaf_sequence_match,lexicon(1).eaf,29,61600,63600
+860,to cross,paɾɔm calaʔ,paɾɔm calaʔ,PREP.across V.go,eaf_sequence_match,lexicon(1).eaf,30,63800,65800
+861,to help/cooperate,gɔɽɔ gɔpɔɽɔʔ,gɔɽɔ gɔpɔɽɔʔ,V.help V.cooperate,eaf_sequence_match,lexicon(1).eaf,31,66000,68000
+862,to ride,d̪ɛɟɔʔ,d̪ɛɟɔʔ,V.ride,eaf_sequence_match,lexicon(1).eaf,32,68200,70200
+863,to dream,kuk̚mu ɲɛl,kuk̚mu ɲɛl,N.dream V.see,eaf_sequence_match,lexicon(1).eaf,33,70400,72400
+864,to eat,ɟɔm,ɟɔm,V.eat,eaf_sequence_match,lexicon(1).eaf,34,72600,74600
+865,to return,ɾu̯͡ɘɽ,ɾu̯͡ɘɽ,V.return,eaf_sequence_match,lexicon(1).eaf,35,74800,76800
+866,to forget,hiɽiɲ,hiɽiɲ,V.forget,eaf_sequence_match,lexicon(1).eaf,36,77000,79000
+867,to write,ɔlɔʔ,ɔlɔʔ,V.write,eaf_sequence_match,lexicon(1).eaf,37,79200,81200
+868,to try,kuɾumuʈu,kuɾumuʈu,V.try,eaf_sequence_match,lexicon(1).eaf,38,81400,83400
+869,to catch,sap̚ʔ,sap̚ʔ,V.catch,eaf_sequence_match,lexicon(1).eaf,39,83600,85600
+870,to start,ɛhɔp̚ʔ,ɛhɔp̚ʔ,V.start,eaf_sequence_match,lexicon(1).eaf,40,85800,87800
+871,to become happy,kusi,kusi,ADJ.happy,eaf_sequence_match,lexicon(1).eaf,41,88000,90000
+872,to take a bath,um ɖɘb̚ɾɘʔ,um ɖɘb̚ɾɘʔ,N.water V.immerse,eaf_sequence_match,lexicon(1).eaf,42,90200,92200
+873,to pick,bacʰa͡o̯,bacʰa͡o̯,V.pick,eaf_sequence_match,lexicon(1).eaf,43,92400,94400
+874,to understand,buɟʰhɘ͡o̯,buɟʰhɘ͡o̯,V.understand,eaf_sequence_match,lexicon(1).eaf,44,94600,96600
+875,to learn,cet̚ʔ,cet̚ʔ,V.learn,eaf_sequence_match,lexicon(1).eaf,45,96800,98800
+876,to calculate,lekʰa,lekʰa,V.calculate,eaf_sequence_match,lexicon(1).eaf,46,99000,101000
+877,to remove,ɔcɔʔ giɖi,ɔcɔʔ giɖi,V.remove COMPL,eaf_sequence_match,lexicon(1).eaf,47,101200,103200
+878,to be afraid,bɔt̪ɔɾ biɽki,bɔt̪ɔɾ biɽki,N.fear V.feel,eaf_sequence_match,lexicon(1).eaf,48,103400,105400
+879,to get wet,lɔhɔt̪̚ʔ,lɔhɔt̪̚ʔ,V.wet,eaf_sequence_match,lexicon(1).eaf,49,105600,107600
+880,to stay,t̪ahɛn,t̪ahɛn,V.stay,eaf_sequence_match,lexicon(1).eaf,50,107800,109800
+881,to scold,ɾuhet̪̚ʔ,ɾuhet̪̚ʔ,V.scold,eaf_sequence_match,lexicon(1).eaf,51,110000,112000
+882,to pray,bint̪i,bint̪i,V.pray,eaf_sequence_match,lexicon(1).eaf,52,112200,114200
+883,to pray,bint̪i,bint̪i,V.pray,eaf_sequence_match,lexicon(1).eaf,53,114400,116400
+884,to drink,ɲu,ɲu,V.drink,eaf_sequence_match,lexicon(1).eaf,54,116600,118600
+885,to dig,la,la,V.dig,eaf_sequence_match,lexicon(1).eaf,55,118800,120800
+886,to turn off,ɛsɛt̪̚ʔ kaʔ,ɛsɛt̪̚ʔ kaʔ,V.extinguish COMPL,eaf_sequence_match,lexicon(1).eaf,56,121000,123000
+887,to crack/burst,ɔɽɛʲc̚ʔ,ɔɽɛʲc̚ʔ,V.crack,eaf_sequence_match,lexicon(1).eaf,57,123200,125200
+888,to break,ɾɘput̪̚ʔ,ɾɘput̪̚ʔ,V.break,eaf_sequence_match,lexicon(1).eaf,58,125400,127400
+889,mango,ul,ul,N.mango,eaf_sequence_match,lexicon(1).eaf,59,127600,129600
+890,jackfruit,kanʈʰaɽ,kanʈʰaɽ,N.jackfruit,eaf_sequence_match,lexicon(1).eaf,60,129800,131800
+891,banana,ka͡i̯ɾa,ka͡i̯ɾa,N.banana,eaf_sequence_match,lexicon(1).eaf,61,132000,134000
+892,guava,sɘp̚ɽi,sɘp̚ɽi,N.guava,eaf_sequence_match,lexicon(1).eaf,62,134200,136200
+893,tamarind,ɟɔɟɔ,ɟɔɟɔ,N.tamarind,eaf_sequence_match,lexicon(1).eaf,63,136400,138400
+894,plum,ɟɘnum,ɟɘnum,N.plum,eaf_sequence_match,lexicon(1).eaf,64,138600,140600
+895,papaya,pɘpit̪a,pɘpit̪a,N.papaya,eaf_sequence_match,lexicon(1).eaf,65,140800,142800
+896,java plum,kud̪,kud̪,N.java.plum,eaf_sequence_match,lexicon(1).eaf,66,143000,145000
+897,palmyra palm,t̪ale,t̪ale,N.palmyra.palm,eaf_sequence_match,lexicon(1).eaf,67,145200,147200
+898,papaya,papit̪a,papit̪a,N.papaya,eaf_sequence_match,lexicon(1).eaf,68,147400,149400
+899,garlic,ɾɘsun,ɾɘsun,N.garlic,eaf_sequence_match,lexicon(1).eaf,69,149600,151600
+900,onion,pe.jãc̚,pe.jãc̚,N.onion,eaf_sequence_match,lexicon(1).eaf,70,151800,153800
+901,ginger,ad̪ʰhɛ,ad̪ʰhɛ,N.ginger,eaf_sequence_match,lexicon(1).eaf,71,154000,156000
+902,green chilies,bɛɾɛl mɘɾic̚,bɛɾɛl mɘɾic̚,ADJ.raw N.chili,eaf_sequence_match,lexicon(1).eaf,72,156200,158200
+903,dry chili,ɾɔhɔɽ mɘɾic̚,ɾɔhɔɽ mɘɾic̚,ADJ.dry N.chili,eaf_sequence_match,lexicon(1).eaf,73,158400,160400
+904,sesame,t̪ilmiɲ,t̪ilmiɲ,N.sesame,eaf_sequence_match,lexicon(1).eaf,74,160600,162600
+905,mustard,t̪uɽi,t̪uɽi,N.mustard,eaf_sequence_match,lexicon(1).eaf,75,162800,164800
+906,dry fish/meat,ɾɔhɔɽ,ɾɔhɔɽ,N.dried.fish,eaf_sequence_match,lexicon(1).eaf,76,165000,167000
+907,sweet pumpkin,konɖha,konɖha,N.pumpkin,eaf_sequence_match,lexicon(1).eaf,77,167200,169200
+908,gourd,hɔt̪ɔt̪̚ʔ,hɔt̪ɔt̪̚ʔ,N.gourd,eaf_sequence_match,lexicon(1).eaf,78,169400,171400
+909,sweet potato,sɛkɛɾ kɛnd̪a,sɛkɛɾ kɛnd̪a,ADJ.sweet N.root,eaf_sequence_match,lexicon(1).eaf,79,171600,173600
+910,potato sprouts,ed̪el saŋ,ed̪el saŋ,N.potato N.sprout,eaf_sequence_match,lexicon(1).eaf,80,173800,175800
+911,mushroom,ot̪̚ʔ,ot̪̚ʔ,N.mushroom,eaf_sequence_match,lexicon(1).eaf,81,176000,178000
+912,eggplant,beŋgaɽ,beŋgaɽ,N.eggplant,eaf_sequence_match,lexicon(1).eaf,82,178200,180200
+913,taro root,sɘɾu,sɘɾu,N.taro,eaf_sequence_match,lexicon(1).eaf,83,180400,182400
+914,bean,malhan,malhan,N.bean,eaf_sequence_match,lexicon(1).eaf,84,182600,184600
+915,corn,ɟɔnɖɾa,ɟɔnɖɾa,N.corn,eaf_sequence_match,lexicon(1).eaf,85,184800,186800
+916,leafy vegetables,aɽaʔ,aɽaʔ,N.leafy.vegetable,eaf_sequence_match,lexicon(1).eaf,86,187000,189000
+917,hand,t̪i,t̪i,N.hand,eaf_sequence_match,lexicon(1).eaf,87,189200,191200
+918,finger,t̪i kɘʈup̚ʔ,t̪i kɘʈup̚ʔ,N.hand N.tip,eaf_sequence_match,lexicon(1).eaf,88,191400,193400
+919,mouth,moca,moca,N.mouth,eaf_sequence_match,lexicon(1).eaf,89,193600,195600
+920,eye,mɛ̃t̪̚ʔ,mɛ̃t̪̚ʔ,N.eye,eaf_sequence_match,lexicon(1).eaf,90,195800,197800
+921,ear,lut̪uɾ,lut̪uɾ,N.ear,eaf_sequence_match,lexicon(1).eaf,91,198000,200000
+922,nose,mu,mu,N.nose,eaf_sequence_match,lexicon(1).eaf,92,200200,202200
+923,knee,gunʈʰi,gunʈʰi,N.knee,eaf_sequence_match,lexicon(1).eaf,93,202400,204400
+924,leg,ɟaŋga,ɟaŋga,N.leg,eaf_sequence_match,lexicon(1).eaf,94,204600,206600
+925,head,bɔhɔʔ,bɔhɔʔ,N.head,eaf_sequence_match,lexicon(1).eaf,95,206800,208800
+926,throat,hɔʈɔʔ,hɔʈɔʔ,N.throat,eaf_sequence_match,lexicon(1).eaf,96,209000,211000
+927,belly,laʲc̚ʔ,laʲc̚ʔ,N.belly,eaf_sequence_match,lexicon(1).eaf,97,211200,213200
+928,chest,kɔɽam,kɔɽam,N.chest,eaf_sequence_match,lexicon(1).eaf,98,213400,215400
+929,neck,d̪ɘbi,d̪ɘbi,N.neck,eaf_sequence_match,lexicon(1).eaf,99,215600,217600
+930,hair,up̚ʔ,up̚ʔ,N.hair,eaf_sequence_match,lexicon(1).eaf,100,217800,219800
+931,beard/mustache,gucu,gucu,N.beard,eaf_sequence_match,lexicon(1).eaf,101,220000,222000
+932,eyebrow,mɛ̃t̚ʔ kuʈi,mɛ̃t̚ʔ kuʈi,N.eye N.hair,eaf_sequence_match,lexicon(1).eaf,102,222200,224200
+933,cheeks,ɟoha,ɟoha,N.cheek,eaf_sequence_match,lexicon(1).eaf,103,224400,226400
+934,tongue,alaŋ,alaŋ,N.tongue,eaf_sequence_match,lexicon(1).eaf,104,226600,228600
+935,teeth,ɖaʈa,ɖaʈa,N.tooth,eaf_sequence_match,lexicon(1).eaf,105,228800,230800
+936,nail,ɾama,ɾama,N.nail,eaf_sequence_match,lexicon(1).eaf,106,231000,233000
+937,bone,ɟaŋ,ɟaŋ,N.bone,eaf_sequence_match,lexicon(1).eaf,107,233200,235200
+938,skin,haɾt̪a,haɾt̪a,N.skin,eaf_sequence_match,lexicon(1).eaf,108,235400,237400
+939,blood,ma.jam,ma.jam,N.blood,eaf_sequence_match,lexicon(1).eaf,109,237600,239600
+940,heart,kɔɽam,kɔɽam,N.heart,eaf_sequence_match,lexicon(1).eaf,110,239800,241800
+941,back,d̪i.ja,d̪i.ja,N.back,eaf_sequence_match,lexicon(1).eaf,111,242000,244000
+942,body,hɔɽmɔ,hɔɽmɔ,N.body,eaf_sequence_match,lexicon(1).eaf,112,244200,246200
+943,white,ponɖ,ponɖ,ADJ.white,eaf_sequence_match,lexicon(1).eaf,113,246400,248400
+944,black,hɛnd̪ɛ,hɛnd̪ɛ,ADJ.black,eaf_sequence_match,lexicon(1).eaf,114,248600,250600
+945,red,aɾaʔ,aɾaʔ,ADJ.red,eaf_sequence_match,lexicon(1).eaf,115,250800,252800
+946,green,hɘɾi̯͡ɘɽ,hɘɾi̯͡ɘɽ,ADJ.green,eaf_sequence_match,lexicon(1).eaf,116,253000,255000
+947,blue,nil,nil,ADJ.blue,eaf_sequence_match,lexicon(1).eaf,117,255200,257200
+948,sky blue,akasi,akasi,ADJ.sky.blue,eaf_sequence_match,lexicon(1).eaf,118,257400,259400
+949,purple,bɛŋgaɽ ɾɔŋ,bɛŋgaɽ ɾɔŋ,N.eggplant N.colour,eaf_sequence_match,lexicon(1).eaf,119,259600,261600
+950,yellow,sasaŋ,sasaŋ,ADJ.yellow,eaf_sequence_match,lexicon(1).eaf,120,261800,263800
+951,clothes/dress,kic̚ɾiʔ kʰɘnɖu̯͡ɘ,kic̚ɾiʔ kʰɘnɖu̯͡ɘ,N.cloth N.garment,eaf_sequence_match,lexicon(1).eaf,121,264000,266000
+952,shoes,panahi,panahi,N.shoe,eaf_sequence_match,lexicon(1).eaf,122,266200,268200
+953,bangles,curli,curli,N.bangle,eaf_sequence_match,lexicon(1).eaf,123,268400,270400
+954,earrings,pagɾa,pagɾa,N.earring,eaf_sequence_match,lexicon(1).eaf,124,270600,272600
+955,pendant,hɔʈɔʔ mala,hɔʈɔʔ mala,N.throat N.garland,eaf_sequence_match,lexicon(1).eaf,125,272800,274800
+956,hair clip/band,sut̪̚ʔ ɟʰɘli,sut̪̚ʔ ɟʰɘli,N.hair N.pin,eaf_sequence_match,lexicon(1).eaf,126,275000,277000
+957,turban,d̪ɘɽhi,d̪ɘɽhi,N.turban,eaf_sequence_match,lexicon(1).eaf,127,277200,279200
+958,hat,ʈup̚ɾi,ʈup̚ɾi,N.hat,eaf_sequence_match,lexicon(1).eaf,128,279400,281400
+959,bird,cɛɽɛ̃,cɛɽɛ̃,N.bird,eaf_sequence_match,lexicon(1).eaf,129,281600,283600
+960,cow,ɖaŋɾa,ɖaŋɾa,N.cow,eaf_sequence_match,lexicon(1).eaf,130,283800,285800
+961,duck,gɛɖɛ,gɛɖɛ,N.duck,eaf_sequence_match,lexicon(1).eaf,131,286000,288000
+962,chicken,sim,sim,N.chicken,eaf_sequence_match,lexicon(1).eaf,132,288200,290200
+963,goat,mɛɾɔm,mɛɾɔm,N.goat,eaf_sequence_match,lexicon(1).eaf,133,290400,292400
+964,buffalo,kaɖa,kaɖa,N.buffalo,eaf_sequence_match,lexicon(1).eaf,134,292600,294600
+965,pig,suk̚ɾi,suk̚ɾi,N.pig,eaf_sequence_match,lexicon(1).eaf,135,294800,296800
+966,elephant,hɘt̪i,hɘt̪i,N.elephant,eaf_sequence_match,lexicon(1).eaf,136,297000,299000
+967,tiger,t̪ɘɾup̚ʔ,t̪ɘɾup̚ʔ,N.tiger,eaf_sequence_match,lexicon(1).eaf,137,299200,301200
+968,bear,bana,bana,N.bear,eaf_sequence_match,lexicon(1).eaf,138,301400,303400
+969,deer,ɟel,ɟel,N.deer,eaf_sequence_match,lexicon(1).eaf,139,303600,305600
+970,monkey,gɘɽĩ,gɘɽĩ,N.monkey,eaf_sequence_match,lexicon(1).eaf,140,305800,307800
+971,rabbit,kulɘ͡i̯,kulɘ͡i̯,N.rabbit,eaf_sequence_match,lexicon(1).eaf,141,308000,310000
+972,fox,t̪u.ju,t̪u.ju,N.fox,eaf_sequence_match,lexicon(1).eaf,142,310200,312200
+973,snake,biɲ,biɲ,N.snake,eaf_sequence_match,lexicon(1).eaf,143,312400,314400
+974,turtle,biɲ,biɲ,N.turtle,eaf_sequence_match,lexicon(1).eaf,144,314600,316600
+975,frog,ɾɔʈɛ,ɾɔʈɛ,N.frog,eaf_sequence_match,lexicon(1).eaf,145,316800,318800
+976,dog,sɛt̪a,sɛt̪a,N.dog,eaf_sequence_match,lexicon(1).eaf,146,319000,321000
+977,cat,pusi,pusi,N.cat,eaf_sequence_match,lexicon(1).eaf,147,321200,323200
+978,horse,sad̪ɔm,sad̪ɔm,N.horse,eaf_sequence_match,lexicon(1).eaf,148,323400,325400
+979,fish,haku,haku,N.fish,eaf_sequence_match,lexicon(1).eaf,149,325600,327600
+980,insect,t̪iɟu,t̪iɟu,N.insect,eaf_sequence_match,lexicon(1).eaf,150,327800,329800
+981,bee,ɲɛlɛ,ɲɛlɛ,N.bee,eaf_sequence_match,lexicon(1).eaf,151,330000,332000
+982,fly,ɾɔ̃,ɾɔ̃,N.fly,eaf_sequence_match,lexicon(1).eaf,152,332200,334200
+983,spider,bind̪i,bind̪i,N.spider,eaf_sequence_match,lexicon(1).eaf,153,334400,336400
+984,ant,muʲc̚ʔ,muʲc̚ʔ,N.ant,eaf_sequence_match,lexicon(1).eaf,154,336600,338600
+985,mosquito,sĩkɽĩʲc̚ʔ,sĩkɽĩʲc̚ʔ,N.mosquito,eaf_sequence_match,lexicon(1).eaf,155,338800,340800
+986,mavis,ʈik̚ʈɔ̃ɽɔ̃ʔ,ʈik̚ʈɔ̃ɽɔ̃ʔ,N.bird.mavis,eaf_sequence_match,lexicon(1).eaf,156,341000,343000
+987,dove,pot̪am,pot̪am,N.dove,eaf_sequence_match,lexicon(1).eaf,157,343200,345200
+988,sparrow,gʰão̯͡ã,gʰão̯͡ã,N.sparrow,eaf_sequence_match,lexicon(1).eaf,158,345400,347400
+989,oriental magpie robin,hɘt̪iuɽiʔ,hɘt̪iuɽiʔ,N.bird.robin,eaf_sequence_match,lexicon(1).eaf,159,347600,349600
+990,heron,kɔ̃ʔ,kɔ̃ʔ,N.heron,eaf_sequence_match,lexicon(1).eaf,160,349800,351800
+991,crow,kɘhũ,kɘhũ,N.crow,eaf_sequence_match,lexicon(1).eaf,161,352000,354000
+992,eagle,paɟʰaɽ,paɟʰaɽ,N.eagle,eaf_sequence_match,lexicon(1).eaf,162,354200,356200
+993,milvus/kite,kũɽĩt̪̚ʔ,kũɽĩt̪̚ʔ,N.kite,eaf_sequence_match,lexicon(1).eaf,163,356400,358400
+994,vulture,gid̪i,gid̪i,N.vulture,eaf_sequence_match,lexicon(1).eaf,164,358600,360600
+995,village,at̪o,at̪o,N.village,eaf_sequence_match,lexicon(1).eaf,165,360800,362800
+996,water,d̪aʔ,d̪aʔ,N.water,eaf_sequence_match,lexicon(1).eaf,166,363000,365000
+997,river,gaɖa,gaɖa,N.river,eaf_sequence_match,lexicon(1).eaf,167,365200,367200
+998,mountain,buɾu,buɾu,N.mountain,eaf_sequence_match,lexicon(1).eaf,168,367400,369400
+999,moon,cand̪o,cand̪o,N.moon,eaf_sequence_match,lexicon(1).eaf,169,369600,371600
+1000,star,ipil,ipil,N.star,eaf_sequence_match,lexicon(1).eaf,170,371800,373800

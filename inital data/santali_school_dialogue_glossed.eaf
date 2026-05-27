@@ -1,0 +1,938 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" AUTHOR="" DATE="2026-05-10T00:00:00+00:00" FORMAT="3.0" VERSION="3.0" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:santali-school-dialogue</PROPERTY>
+        <PROPERTY NAME="CORPUS">Santali School Dialogue Glossed Data</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="0"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="2000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="2200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="4200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="4400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="6400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="6600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="8600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="8800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="10800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="11000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="13000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="13200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="15200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="15400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="17400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="17600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="19600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="19800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="21800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="22000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="24000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="24200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="26200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="26400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="28400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="28600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="30600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="30800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="32800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="33000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="35000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="35200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="37200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="37400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="39400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="39600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="41600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="41800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="43800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="44000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="46000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="46200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="48200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts45" TIME_VALUE="48400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts46" TIME_VALUE="50400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts47" TIME_VALUE="50600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts48" TIME_VALUE="52600"/>
+    </TIME_ORDER>
+
+    <!-- ============================================================ -->
+    <!-- TIER: ref — utterance (IPA transcription, time-aligned)      -->
+    <!-- ============================================================ -->
+    <TIER LINGUISTIC_TYPE_REF="utterance" TIER_ID="ref">
+
+        <!-- U1: Elder sister: Mother, younger brother will go to school for the first time today. -->
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1" TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
+                <ANNOTATION_VALUE>gɔː huɖiɲ bɔ͡i̯ha d̪ɔ t̪eheɲ pɘhil d̪ʰa͡o̯ iskulɛ calaʔa</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+
+        <!-- U2: Elder sister: He is being afraid to go to school. -->
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2" TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE>uni d̪ɔ iskul calaʔɛ bɔt̪ɔɾɔʔ kana</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+
+        <!-- U3: Elder sister: What will I do now, Mother? -->
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3" TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts6">
+                <ANNOTATION_VALUE>nit̪̚ cɛʔiɲ ceka ja gɔː</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+
+        <!-- U4: Mother: It will be okay if you go to school with him. -->
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4" TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE>uni sã͡ɔ̯t̪ɛ am d̪ɔ iskulɛ m cala͡o̯lɛnkʰange ho jo a</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+
+        <!-- U5: Mother: If you are with him, he will not be afraid. -->
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5" TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts10">
+                <ANNOTATION_VALUE>uni sã͡o̯ɾɛ m t̪ahɛ̃lɛnkʰan ba͡i̯ bɔt̪ɔɾɔ a</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+
+        <!-- U6: Elder sister: I will definitely go with him. -->
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6" TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE>iɲ d̪ɔ ɔbɔs ge uni sã͡o̯t̪ɛ ɲ cala a</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+
+        <!-- U7: Elder sister: He will be alone in the class, then he might get scared. -->
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7" TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts14">
+                <ANNOTATION_VALUE>uni d̪ɔ klasɾɛ eɛs kaɾge͡i̯ t̪ahɛ̃na unɾɛ͡i̯ bɔt̪ɔɾ d̪aɽe jaʔa</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+
+        <!-- U8: Mother: There is nothing to be afraid of. -->
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8" TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE>bɔt̪ɔɾɔʔ ɾenaʔ cɛt̪̚ʔ hɔ̃ bɘnu a</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+
+        <!-- U9: Mother: Now he will play more than studying. -->
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9" TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts18">
+                <ANNOTATION_VALUE>nit̪̚ d̪ɔ uni ɔlɔʔ paɽhaʔ bɔd̪ɔlt̪ɛ gate ʔge ɟɘst̪i͡i̯ kusi a</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+
+        <!-- U10: Mother: This is better than studying suddenly. -->
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10" TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE>ac̚ka ac̚ka paɽhaʔ bɔd̪ɔlt̪ɛ no̯͡a kɘmi ge boge ja</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+
+        <!-- U11: Elder sister: He can do many things though. -->
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11" TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts22">
+                <ANNOTATION_VALUE>mɛnɛʔ uni d̪ɔ a͡i̯ma ge͡i̯ d̪aɽe jaʔa</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+
+        <!-- U12: Elder sister: He knows letters/alphabets, can count, can name the months and days. -->
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12" TIME_SLOT_REF1="ts23" TIME_SLOT_REF2="ts24">
+                <ANNOTATION_VALUE>uni d̪ɔ haɾɔp̚ko bɔɾnɔmalako lɛkʰa cand̪o aɾ d̪in ɾe jaʔ ɲit̪umɛ ɾɔɽ d̪aɽe o̯͡aʔa</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+
+        <!-- U13: Mother: But can he state his home address? -->
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13" TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts26">
+                <ANNOTATION_VALUE>cɛt̪̚ʔ uni d̪ɔ a jaʔ ɔɽaʔ ɾenaʔ ʈʰikana͡i̯ lɘ͡͡i̯ d̪aɽe jaʔa</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+
+        <!-- U14: Elder sister: I think he still can't do this. -->
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14" TIME_SLOT_REF1="ts27" TIME_SLOT_REF2="ts28">
+                <ANNOTATION_VALUE>hud̪i sid̪ɘɲ uni d̪ɔ no̯͡a nit̪̚ hɔ̃ ba͡i̯ lɘ͡i̯ d̪aɽe jaʔa</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+
+        <!-- U15: Elder sister: Why should he know these? -->
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15" TIME_SLOT_REF1="ts29" TIME_SLOT_REF2="ts30">
+                <ANNOTATION_VALUE>no̯͡a d̪ɔ ced̪aʔ baɖa͡i̯ ɟɘɾuɽ ta ja</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+
+        <!-- U16: Mother: All children need to know these. -->
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a16" TIME_SLOT_REF1="ts31" TIME_SLOT_REF2="ts32">
+                <ANNOTATION_VALUE>ɟɔt̪ɔ gid̪ɾɘo̯͡aʔ ge no̯͡ako baɖa͡i̯ d̪ɔ ɟɘɾuɽ ge ja</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+
+        <!-- U17: Mother: So they can answer if someone asks. -->
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a17" TIME_SLOT_REF1="ts33" TIME_SLOT_REF2="ts34">
+                <ANNOTATION_VALUE>ɟãhã͡i̯ko kuli̯͡ɛɾɛ ɟɛmɔnɛ lɘ͡i̯ d̪aɽe jaʔ</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+
+        <!-- U18: Mother: Besides, if he knows these things, he will not get lost. -->
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a18" TIME_SLOT_REF1="ts35" TIME_SLOT_REF2="ts36">
+                <ANNOTATION_VALUE>ɔna cʰaɖa no̯͡a baɖa͡i̯ t̪ahɛn kʰan ba͡i̯ ad̪ɔʔa</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+
+        <!-- U19: Elder sister: You are right, mother. -->
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a19" TIME_SLOT_REF1="ts37" TIME_SLOT_REF2="ts38">
+                <ANNOTATION_VALUE>am d̪ɔ ʈʰik ge m mɛne d̪a gɔ</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+
+        <!-- U20: Elder sister: What things to buy for him? -->
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a20" TIME_SLOT_REF1="ts39" TIME_SLOT_REF2="ts40">
+                <ANNOTATION_VALUE>uni lɘgit̪̚ʔ cɛt̪̚ʔ cɛt̪̚ʔ ko kiɾiɲ ɟɘɾuɽa</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+
+        <!-- U21: Mother: Have to buy a school bag, paper, pencil, eraser, sharpener. -->
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a21" TIME_SLOT_REF1="ts41" TIME_SLOT_REF2="ts42">
+                <ANNOTATION_VALUE>iskul bɛg kagɔc̚ pensil iɾeɟaɾ saɾp̚naɾ no̯͡ako kiɾiɲ ɟɘɾuɽa</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+
+        <!-- U22: Elder sister: Alright, I am taking him to the shop. -->
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a22" TIME_SLOT_REF1="ts43" TIME_SLOT_REF2="ts44">
+                <ANNOTATION_VALUE>ac̚cʰa uni ni jɘ ge d̪okani ɲ calaʔ kana</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+
+        <!-- U23: Elder sister: It would be better if he buys the things he likes. -->
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a23" TIME_SLOT_REF1="ts45" TIME_SLOT_REF2="ts46">
+                <ANNOTATION_VALUE>uni d̪ɔ aʲcʔ kusiʔ lekan ɟinis ko kiɾiɲ lekʰan boge ho jo a</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+
+        <!-- U24: Mother: Yes, you will take him to school tomorrow. -->
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a24" TIME_SLOT_REF1="ts47" TIME_SLOT_REF2="ts48">
+                <ANNOTATION_VALUE>hɛ̃ gapa d̪ɔ uni ni͡ɘ̯ iskul ɛ m cala a</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+
+    </TIER>
+
+    <!-- ============================================================ -->
+    <!-- TIER: mb — morpheme break (IPA with morpheme boundaries)     -->
+    <!-- ============================================================ -->
+    <TIER LINGUISTIC_TYPE_REF="morpheme" PARENT_REF="ref" TIER_ID="mb">
+
+        <!-- U1: gɔː huɖ-iɲ bɔ͡i̯ha d̪ɔ t̪eheɲ pɘhil d̪ʰa͡o̯ iskul-ɛ cala-ʔ-a -->
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a25" ANNOTATION_REF="a1">
+                <ANNOTATION_VALUE>gɔː huɖ-iɲ bɔ͡i̯ha d̪ɔ t̪eheɲ pɘhil d̪ʰa͡o̯ iskul-ɛ cala-ʔ-a</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <!-- U2: uni d̪ɔ iskul cala-ʔ-ɛ bɔt̪ɔɾɔ-ʔ kan-a -->
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a26" ANNOTATION_REF="a2">
+                <ANNOTATION_VALUE>uni d̪ɔ iskul cala-ʔ-ɛ bɔt̪ɔɾɔ-ʔ kan-a</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <!-- U3: nit̪̚ cɛ-ʔ-iɲ cek-a ja gɔː -->
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a27" ANNOTATION_REF="a3">
+                <ANNOTATION_VALUE>nit̪̚ cɛ-ʔ-iɲ cek-a ja gɔː</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <!-- U4: uni sã͡ɔ̯t̪ɛ am d̪ɔ iskul-ɛ -m cala͡o̯-lɛn-kʰan-ge ho-jo-a -->
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a28" ANNOTATION_REF="a4">
+                <ANNOTATION_VALUE>uni sã͡ɔ̯t̪ɛ am d̪ɔ iskul-ɛ -m cala͡o̯-lɛn-kʰan-ge ho-jo-a</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <!-- U5: uni sã͡o̯ɾɛ -m t̪ahɛ̃-lɛn-kʰan ba-͡i̯ bɔt̪ɔɾɔ-a -->
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a29" ANNOTATION_REF="a5">
+                <ANNOTATION_VALUE>uni sã͡o̯ɾɛ -m t̪ahɛ̃-lɛn-kʰan ba-͡i̯ bɔt̪ɔɾɔ-a</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <!-- U6: iɲ d̪ɔ ɔbɔs ge uni sã͡o̯t̪ɛ -ɲ cala-a -->
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a30" ANNOTATION_REF="a6">
+                <ANNOTATION_VALUE>iɲ d̪ɔ ɔbɔs ge uni sã͡o̯t̪ɛ -ɲ cala-a</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <!-- U7: uni d̪ɔ klas-ɾɛ eɛs kaɾ-ge-͡i̯ t̪ahɛ̃-na uni-ɾɛ-͡i̯ bɔt̪ɔɾ d̪aɽe-ja-ʔ-a -->
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a31" ANNOTATION_REF="a7">
+                <ANNOTATION_VALUE>uni d̪ɔ klas-ɾɛ eɛs kaɾ-ge-͡i̯ t̪ahɛ̃-na uni-ɾɛ-͡i̯ bɔt̪ɔɾ d̪aɽe-ja-ʔ-a</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <!-- U8: bɔt̪ɔɾɔ-ʔ ɾenaʔ cɛt̪̚ʔ hɔ̃ bɘnu-a -->
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a32" ANNOTATION_REF="a8">
+                <ANNOTATION_VALUE>bɔt̪ɔɾɔ-ʔ ɾenaʔ cɛt̪̚ʔ hɔ̃ bɘnu-a</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <!-- U9: nit̪̚ d̪ɔ uni ɔlɔʔ paɽha-ʔ bɔd̪ɔl-t̪ɛ gate-ʔ-ge ɟɘst̪i-͡i̯ kusi-a -->
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a33" ANNOTATION_REF="a9">
+                <ANNOTATION_VALUE>nit̪̚ d̪ɔ uni ɔlɔʔ paɽha-ʔ bɔd̪ɔl-t̪ɛ gate-ʔ-ge ɟɘst̪i-͡i̯ kusi-a</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <!-- U10: ac̚ka ac̚ka paɽha-ʔ bɔd̪ɔl-t̪ɛ no̯͡a kɘmi-ge boge-ja -->
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a34" ANNOTATION_REF="a10">
+                <ANNOTATION_VALUE>ac̚ka ac̚ka paɽha-ʔ bɔd̪ɔl-t̪ɛ no̯͡a kɘmi-ge boge-ja</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <!-- U11: mɛnɛʔ uni d̪ɔ a͡i̯ma-ge-͡i̯ d̪aɽe-ja-ʔ-a -->
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a35" ANNOTATION_REF="a11">
+                <ANNOTATION_VALUE>mɛnɛʔ uni d̪ɔ a͡i̯ma-ge-͡i̯ d̪aɽe-ja-ʔ-a</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <!-- U12: uni d̪ɔ haɾɔp̚-ko bɔɾnɔmala-ko lɛkʰa cand̪o aɾ d̪in ɾenaʔ ɲit̪um-ɛ ɾɔɽ d̪aɽe-o̯͡a-ʔ-a -->
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a36" ANNOTATION_REF="a12">
+                <ANNOTATION_VALUE>uni d̪ɔ haɾɔp̚-ko bɔɾnɔmala-ko lɛkʰa cand̪o aɾ d̪in ɾenaʔ ɲit̪um-ɛ ɾɔɽ d̪aɽe-o̯͡a-ʔ-a</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <!-- U13: cɛt̪̚ʔ uni d̪ɔ a-jaʔ ɔɽaʔ ɾenaʔ ʈʰikana-͡i̯ lɘ-͡i̯ d̪aɽe-jaʔ-a -->
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a37" ANNOTATION_REF="a13">
+                <ANNOTATION_VALUE>cɛt̪̚ʔ uni d̪ɔ a-jaʔ ɔɽaʔ ɾenaʔ ʈʰikana-͡i̯ lɘ-͡i̯ d̪aɽe-jaʔ-a</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <!-- U14: hud̪i sid̪-ɘɲ uni d̪ɔ no̯͡a nit̪̚ hɔ̃ ba-͡i̯ lɘ-͡i̯ d̪aɽe-jaʔ-a -->
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a38" ANNOTATION_REF="a14">
+                <ANNOTATION_VALUE>hud̪i sid̪-ɘɲ uni d̪ɔ no̯͡a nit̪̚ hɔ̃ ba-͡i̯ lɘ-͡i̯ d̪aɽe-jaʔ-a</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <!-- U15: no̯͡a d̪ɔ ced̪aʔ baɖa-͡i̯ ɟɘɾuɽ-ta-ja -->
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a39" ANNOTATION_REF="a15">
+                <ANNOTATION_VALUE>no̯͡a d̪ɔ ced̪aʔ baɖa-͡i̯ ɟɘɾuɽ-ta-ja</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <!-- U16: ɟɔt̪ɔ gid̪ɾɘ-o̯͡aʔ-ge no̯͡a-ko baɖa-͡i̯ d̪ɔ ɟɘɾuɽ-ge-ja -->
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a40" ANNOTATION_REF="a16">
+                <ANNOTATION_VALUE>ɟɔt̪ɔ gid̪ɾɘ-o̯͡aʔ-ge no̯͡a-ko baɖa-͡i̯ d̪ɔ ɟɘɾuɽ-ge-ja</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <!-- U17: ɟãhã-͡i̯-ko kuli̯͡ɛ-ɾɛ ɟɛmɔnɛ lɘ-͡i̯ d̪aɽe-jaʔ -->
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a41" ANNOTATION_REF="a17">
+                <ANNOTATION_VALUE>ɟãhã-͡i̯-ko kuli̯͡ɛ-ɾɛ ɟɛmɔnɛ lɘ-͡i̯ d̪aɽe-jaʔ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <!-- U18: ɔna cʰaɖa no̯͡a baɖa-͡i̯ t̪ahɛn-kʰan ba-͡i̯ ad̪ɔ-ʔ-a -->
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a42" ANNOTATION_REF="a18">
+                <ANNOTATION_VALUE>ɔna cʰaɖa no̯͡a baɖa-͡i̯ t̪ahɛn-kʰan ba-͡i̯ ad̪ɔ-ʔ-a</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <!-- U19: am d̪ɔ ʈʰik-ge -m mɛne-d̪a gɔ -->
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a43" ANNOTATION_REF="a19">
+                <ANNOTATION_VALUE>am d̪ɔ ʈʰik-ge -m mɛne-d̪a gɔ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <!-- U20: uni lɘgit̪̚ʔ cɛt̪̚ʔ cɛt̪̚ʔ-ko kiɾ-iɲ ɟɘɾuɽ-a -->
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a44" ANNOTATION_REF="a20">
+                <ANNOTATION_VALUE>uni lɘgit̪̚ʔ cɛt̪̚ʔ cɛt̪̚ʔ-ko kiɾ-iɲ ɟɘɾuɽ-a</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <!-- U21: iskul bɛg kagɔc̚ pensil iɾeɟaɾ saɾp̚naɾ no̯͡a-ko kiɾ-iɲ ɟɘɾuɽ-a -->
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a45" ANNOTATION_REF="a21">
+                <ANNOTATION_VALUE>iskul bɛg kagɔc̚ pensil iɾeɟaɾ saɾp̚naɾ no̯͡a-ko kiɾ-iɲ ɟɘɾuɽ-a</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <!-- U22: ac̚cʰa uni ni-jɘ-ge d̪okan-iɲ cala-ʔ-kan-a -->
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a46" ANNOTATION_REF="a22">
+                <ANNOTATION_VALUE>ac̚cʰa uni ni-jɘ-ge d̪okan-iɲ cala-ʔ-kan-a</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <!-- U23: uni d̪ɔ aʲcʔ kusi-ʔ-lekan ɟinis-ko kiɾ-iɲ-lekan boge-ho-jo-a -->
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a47" ANNOTATION_REF="a23">
+                <ANNOTATION_VALUE>uni d̪ɔ aʲcʔ kusi-ʔ-lekan ɟinis-ko kiɾ-iɲ-lekan boge-ho-jo-a</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <!-- U24: hɛ̃ gapa d̪ɔ uni ni-͡ɘ̯ iskul-ɛ -m cala-a -->
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a48" ANNOTATION_REF="a24">
+                <ANNOTATION_VALUE>hɛ̃ gapa d̪ɔ uni ni-͡ɘ̯ iskul-ɛ -m cala-a</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+    </TIER>
+
+    <!-- ============================================================ -->
+    <!-- TIER: gl — interlinear gloss (Leipzig conventions)           -->
+    <!-- ============================================================ -->
+    <TIER LINGUISTIC_TYPE_REF="gloss" PARENT_REF="mb" TIER_ID="gl">
+
+        <!-- U1 gloss:
+             gɔː = VOC (vocative address: 'mother')
+             huɖ-iɲ = younger.sibling-1SG.POSS ('my younger sibling/brother')
+             bɔ͡i̯ha = today
+             d̪ɔ = TOP (topic marker)
+             t̪eheɲ = this.time / first.time
+             pɘhil = first (ordinal)
+             d̪ʰa͡o̯ = day
+             iskul-ɛ = school-LOC ('to school', allative use of locative)
+             cala-ʔ-a = go-NFIN-FIN ('will go', future by non-finite + finite copula pattern; Ghosh 2008: §4.2)
+        -->
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a49" ANNOTATION_REF="a25">
+                <ANNOTATION_VALUE>VOC younger.sibling-1SG.POSS today TOP this.time first day school-LOC go-NFIN-FIN</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <!-- U2 gloss:
+             uni = 3SG.AN (3rd singular animate pronoun; Ghosh 2008: §2.1)
+             d̪ɔ = TOP
+             iskul = school
+             cala-ʔ-ɛ = go-NFIN-INF ('to go'; non-finite form + infinitive marker)
+             bɔt̪ɔɾɔ-ʔ = afraid-NFIN (non-finite nominal/adjectival form)
+             kan-a = COP.PROG-FIN ('is [being afraid]'; progressive copula; Ghosh 2008: §4.5)
+        -->
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a50" ANNOTATION_REF="a26">
+                <ANNOTATION_VALUE>3SG.AN TOP school go-NFIN-INF afraid-NFIN COP.PROG-FIN</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <!-- U3 gloss:
+             nit̪̚ = now
+             cɛ-ʔ-iɲ = what-NFIN-1SG.SUBJ ('what shall I [do]'; 1SG subject suffix -iɲ; Ghosh 2008: §3.1)
+             cek-a = do-FIN
+             ja = Q (question particle)
+             gɔː = VOC
+        -->
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a51" ANNOTATION_REF="a27">
+                <ANNOTATION_VALUE>now what-NFIN-1SG.SUBJ do-FIN Q VOC</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <!-- U4 gloss:
+             uni = 3SG.AN
+             sã͡ɔ̯t̪ɛ = with (comitative postposition)
+             am = 2SG (2nd singular pronoun)
+             d̪ɔ = TOP
+             iskul-ɛ = school-LOC
+             -m = 2SG.SUBJ (subject agreement clitic; Ghosh 2008: §3.2)
+             cala͡o̯-lɛn-kʰan-ge = go-CAUS-COND-EMPH ('if you cause [him] to go'; causative -lɛn, conditional -kʰan; Ghosh 2008: §4.3, §5.1)
+             ho-jo-a = be.good-RESLT-FIN ('it will be fine')
+        -->
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a52" ANNOTATION_REF="a28">
+                <ANNOTATION_VALUE>3SG.AN with 2SG TOP school-LOC 2SG.SUBJ go-CAUS-COND-EMPH be.good-RESLT-FIN</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <!-- U5 gloss:
+             uni = 3SG.AN
+             sã͡o̯ɾɛ = with-LOC (comitative + locative)
+             -m = 2SG.SUBJ
+             t̪ahɛ̃-lɛn-kʰan = stay-CAUS-COND ('if you stay with him'; Ghosh 2008: §5.1)
+             ba-͡i̯ = NEG-3SG.SUBJ (negation prefix ba- + 3SG subject suffix; Ghosh 2008: §6)
+             bɔt̪ɔɾɔ-a = afraid-FIN ('will not be afraid')
+        -->
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a53" ANNOTATION_REF="a29">
+                <ANNOTATION_VALUE>3SG.AN with-LOC 2SG.SUBJ stay-CAUS-COND NEG-3SG.SUBJ afraid-FIN</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <!-- U6 gloss:
+             iɲ = 1SG (1st singular pronoun)
+             d̪ɔ = TOP
+             ɔbɔs = certainly (adverb)
+             ge = EMPH (emphatic particle)
+             uni = 3SG.AN
+             sã͡o̯t̪ɛ = with (comitative)
+             -ɲ = 1SG.SUBJ (1SG subject suffix; Ghosh 2008: §3.1)
+             cala-a = go-FIN ('will go')
+        -->
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a54" ANNOTATION_REF="a30">
+                <ANNOTATION_VALUE>1SG TOP certainly EMPH 3SG.AN with 1SG.SUBJ go-FIN</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <!-- U7 gloss:
+             uni = 3SG.AN
+             d̪ɔ = TOP
+             klas-ɾɛ = class-LOC
+             eɛs kaɾ-ge-͡i̯ = alone-EMPH-3SG.SUBJ ('alone, (he) [will be]'; Ghosh 2008: §3.3)
+             t̪ahɛ̃-na = stay-EVID.FIN (evidential/neutral finite; Ghosh 2008: §4.6)
+             uni-ɾɛ-͡i̯ = 3SG.AN-LOC-3SG.SUBJ ('then he'; resumptive locative pronoun)
+             bɔt̪ɔɾ = afraid (root)
+             d̪aɽe-ja-ʔ-a = can-MOD-NFIN-FIN ('might be able to'; modal auxiliary; Ghosh 2008: §4.4)
+        -->
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a55" ANNOTATION_REF="a31">
+                <ANNOTATION_VALUE>3SG.AN TOP class-LOC alone-EMPH-3SG.SUBJ stay-EVID.FIN 3SG.AN-LOC-3SG.SUBJ afraid can-MOD-NFIN-FIN</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <!-- U8 gloss:
+             bɔt̪ɔɾɔ-ʔ = afraid-NFIN (nominal non-finite)
+             ɾenaʔ = GEN (genitive postposition; Ghosh 2008: §2.3)
+             cɛt̪̚ʔ = what / nothing
+             hɔ̃ = even / also (additive particle)
+             bɘnu-a = NEG.EXIST-FIN ('there is nothing'; negative existential; Ghosh 2008: §6.2)
+        -->
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a56" ANNOTATION_REF="a32">
+                <ANNOTATION_VALUE>afraid-NFIN GEN nothing even NEG.EXIST-FIN</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <!-- U9 gloss:
+             nit̪̚ = now
+             d̪ɔ = TOP
+             uni = 3SG.AN
+             ɔlɔʔ = study (noun/verb root)
+             paɽha-ʔ = study-NFIN (borrowed Bangla/Hindi root + Santali NFIN suffix)
+             bɔd̪ɔl-t̪ɛ = instead.of-ABL ('rather than'; ablative postposition; Ghosh 2008: §2.3)
+             gate-ʔ-ge = play-NFIN-EMPH
+             ɟɘst̪i-͡i̯ = more-3SG.SUBJ (comparative intensifier + 3SG subject)
+             kusi-a = happy/play-FIN ('will play/be happy')
+        -->
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a57" ANNOTATION_REF="a33">
+                <ANNOTATION_VALUE>now TOP 3SG.AN study study-NFIN instead.of-ABL play-NFIN-EMPH more-3SG.SUBJ happy-FIN</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <!-- U10 gloss:
+             ac̚ka ac̚ka = suddenly suddenly (reduplication for sudden/abrupt action; Ghosh 2008: §7)
+             paɽha-ʔ = study-NFIN
+             bɔd̪ɔl-t̪ɛ = instead.of-ABL
+             no̯͡a = PROX.DEM (proximate demonstrative 'this')
+             kɘmi-ge = manner-EMPH ('in this manner/way')
+             boge-ja = good-MOD.FIN ('is better'; modal/evaluative; Ghosh 2008: §4.4)
+        -->
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a58" ANNOTATION_REF="a34">
+                <ANNOTATION_VALUE>suddenly suddenly study-NFIN instead.of-ABL PROX.DEM manner-EMPH good-MOD.FIN</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <!-- U11 gloss:
+             mɛnɛʔ = although / however (concessive connective)
+             uni = 3SG.AN
+             d̪ɔ = TOP
+             a͡i̯ma-ge-͡i̯ = many-EMPH-3SG.SUBJ ('many things, he [can]')
+             d̪aɽe-ja-ʔ-a = can-MOD-NFIN-FIN ('is able to'; Ghosh 2008: §4.4)
+        -->
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a59" ANNOTATION_REF="a35">
+                <ANNOTATION_VALUE>although 3SG.AN TOP many-EMPH-3SG.SUBJ can-MOD-NFIN-FIN</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <!-- U12 gloss:
+             uni = 3SG.AN
+             d̪ɔ = TOP
+             haɾɔp̚-ko = letter-PL (3rd person plural object marker -ko; Ghosh 2008: §3.4)
+             bɔɾnɔmala-ko = alphabet-PL
+             lɛkʰa = count / number (verb root)
+             cand̪o = month (noun)
+             aɾ = and (conjunction)
+             d̪in = day (noun)
+             ɾenaʔ = GEN
+             ɲit̪um-ɛ = name-ACC/OBJ
+             ɾɔɽ = say / name (verb)
+             d̪aɽe-o̯͡a-ʔ-a = can-3SG.OBJ-NFIN-FIN ('can [do it]'; 3SG object -o̯͡a; Ghosh 2008: §3.4)
+        -->
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a60" ANNOTATION_REF="a36">
+                <ANNOTATION_VALUE>3SG.AN TOP letter-PL alphabet-PL count month and day GEN name-OBJ say can-3SG.OBJ-NFIN-FIN</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <!-- U13 gloss:
+             cɛt̪̚ʔ = but / however (contrastive)
+             uni = 3SG.AN
+             d̪ɔ = TOP
+             a-jaʔ = 3SG.AN-GEN ('his')
+             ɔɽaʔ = house (noun)
+             ɾenaʔ = GEN
+             ʈʰikana-͡i̯ = address-3SG.SUBJ
+             lɘ-͡i̯ = say-3SG.SUBJ (verb 'say/tell', 3SG subject)
+             d̪aɽe-jaʔ-a = can-NFIN-FIN ('can he say?'; Ghosh 2008: §4.4)
+        -->
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a61" ANNOTATION_REF="a37">
+                <ANNOTATION_VALUE>but 3SG.AN TOP 3SG.AN-GEN house GEN address-3SG.SUBJ say-3SG.SUBJ can-NFIN-FIN</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <!-- U14 gloss:
+             hud̪i = think (verb root)
+             sid̪-ɘɲ = seem-1SG.SUBJ ('I think/it seems to me'; Ghosh 2008: §4.1)
+             uni = 3SG.AN
+             d̪ɔ = TOP
+             no̯͡a = PROX.DEM
+             nit̪̚ = now
+             hɔ̃ = even / still
+             ba-͡i̯ = NEG-3SG.SUBJ
+             lɘ-͡i̯ = say-3SG.SUBJ
+             d̪aɽe-jaʔ-a = can-NFIN-FIN
+        -->
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a62" ANNOTATION_REF="a38">
+                <ANNOTATION_VALUE>think seem-1SG.SUBJ 3SG.AN TOP PROX.DEM now still NEG-3SG.SUBJ say-3SG.SUBJ can-NFIN-FIN</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <!-- U15 gloss:
+             no̯͡a = PROX.DEM
+             d̪ɔ = TOP
+             ced̪aʔ = why
+             baɖa-͡i̯ = know-3SG.SUBJ (necessity/obligation verb; Ghosh 2008: §4.4)
+             ɟɘɾuɽ-ta-ja = need-NMLZ-MOD.FIN ('need to know?')
+        -->
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a63" ANNOTATION_REF="a39">
+                <ANNOTATION_VALUE>PROX.DEM TOP why know-3SG.SUBJ need-NMLZ-MOD.FIN</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <!-- U16 gloss:
+             ɟɔt̪ɔ = all (universal quantifier)
+             gid̪ɾɘ-o̯͡aʔ-ge = child-3PL-EMPH ('all children')
+             no̯͡a-ko = PROX.DEM-PL ('these things')
+             baɖa-͡i̯ = know-3SG.SUBJ
+             d̪ɔ = TOP
+             ɟɘɾuɽ-ge-ja = need-EMPH-MOD.FIN ('is indeed necessary')
+        -->
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a64" ANNOTATION_REF="a40">
+                <ANNOTATION_VALUE>all child-3PL-EMPH PROX.DEM-PL know-3SG.SUBJ TOP need-EMPH-MOD.FIN</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <!-- U17 gloss:
+             ɟãhã-͡i̯-ko = whoever-3SG-PL ('if anyone'; indefinite pronoun with plural; Ghosh 2008: §2.2)
+             kuli̯͡ɛ-ɾɛ = ask-LOC ('when asked'; locative gerundive; Ghosh 2008: §4.7)
+             ɟɛmɔnɛ = so.that (purposive conjunction)
+             lɘ-͡i̯ = say-3SG.SUBJ
+             d̪aɽe-jaʔ = can-NFIN ('can [answer]')
+        -->
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a65" ANNOTATION_REF="a41">
+                <ANNOTATION_VALUE>whoever-3SG-PL ask-LOC so.that say-3SG.SUBJ can-NFIN</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <!-- U18 gloss:
+             ɔna = DIST.DEM ('that', distal demonstrative)
+             cʰaɖa = apart.from / besides (postposition)
+             no̯͡a = PROX.DEM
+             baɖa-͡i̯ = know-3SG.SUBJ
+             t̪ahɛn-kʰan = stay/keep-COND ('if [he] knows/keeps')
+             ba-͡i̯ = NEG-3SG.SUBJ
+             ad̪ɔ-ʔ-a = get.lost-NFIN-FIN ('will not get lost')
+        -->
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a66" ANNOTATION_REF="a42">
+                <ANNOTATION_VALUE>DIST.DEM apart.from PROX.DEM know-3SG.SUBJ stay-COND NEG-3SG.SUBJ get.lost-NFIN-FIN</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <!-- U19 gloss:
+             am = 2SG
+             d̪ɔ = TOP
+             ʈʰik-ge = right-EMPH ('you are exactly right')
+             -m = 2SG.SUBJ
+             mɛne-d̪a = say-PST.FIN ('said/[I] say'; past tense -d̪a; Ghosh 2008: §4.2)
+             gɔ = VOC
+        -->
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a67" ANNOTATION_REF="a43">
+                <ANNOTATION_VALUE>2SG TOP right-EMPH 2SG.SUBJ say-PST.FIN VOC</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <!-- U20 gloss:
+             uni = 3SG.AN
+             lɘgit̪̚ʔ = for (benefactive postposition; Ghosh 2008: §2.3)
+             cɛt̪̚ʔ cɛt̚ʔ-ko = what what-PL ('what things'; reduplication for plurality; Ghosh 2008: §7)
+             kiɾ-iɲ = buy-1SG.SUBJ ('I [need to] buy')
+             ɟɘɾuɽ-a = need-FIN ('is necessary')
+        -->
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a68" ANNOTATION_REF="a44">
+                <ANNOTATION_VALUE>3SG.AN for what what-PL buy-1SG.SUBJ need-FIN</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <!-- U21 gloss:
+             iskul bɛg = school bag (compound noun, borrowing)
+             kagɔc̚ = paper (noun, borrowing)
+             pensil = pencil (noun, borrowing)
+             iɾeɟaɾ = eraser (noun, borrowing)
+             saɾp̚naɾ = sharpener (noun, borrowing)
+             no̯͡a-ko = PROX.DEM-PL ('these [things]')
+             kiɾ-iɲ = buy-1SG.SUBJ
+             ɟɘɾuɽ-a = need-FIN
+        -->
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a69" ANNOTATION_REF="a45">
+                <ANNOTATION_VALUE>school bag paper pencil eraser sharpener PROX.DEM-PL buy-1SG.SUBJ need-FIN</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <!-- U22 gloss:
+             ac̚cʰa = alright (interjection, borrowing)
+             uni = 3SG.AN
+             ni-jɘ-ge = take-TR-EMPH ('taking [him]'; transitiviser -jɘ; Ghosh 2008: §4.3)
+             d̪okan-iɲ = shop-1SG.OBJ ('to the shop'; 1SG object -iɲ with directional)
+             cala-ʔ-kan-a = go-NFIN-COP.PROG-FIN ('am going'; progressive; Ghosh 2008: §4.5)
+        -->
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a70" ANNOTATION_REF="a46">
+                <ANNOTATION_VALUE>alright 3SG.AN take-TR-EMPH shop-1SG.OBJ go-NFIN-COP.PROG-FIN</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <!-- U23 gloss:
+             uni = 3SG.AN
+             d̪ɔ = TOP
+             aʲcʔ = own / self (reflexive/possessive)
+             kusi-ʔ-lekan = like-NFIN-REL ('that [he] likes'; relative clause nominaliser -lekan; Ghosh 2008: §5.2)
+             ɟinis-ko = thing-PL
+             kiɾ-iɲ-lekan = buy-1SG-REL
+             boge-ho-jo-a = good-be-RESLT-FIN ('would be better')
+        -->
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a71" ANNOTATION_REF="a47">
+                <ANNOTATION_VALUE>3SG.AN TOP self like-NFIN-REL thing-PL buy-1SG.OBJ-REL good-be-RESLT-FIN</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <!-- U24 gloss:
+             hɛ̃ = yes (affirmative particle)
+             gapa = tomorrow (adverb)
+             d̪ɔ = TOP
+             uni = 3SG.AN
+             ni-͡ɘ̯ = take-TR ('taking [him]')
+             iskul-ɛ = school-LOC
+             -m = 2SG.SUBJ
+             cala-a = go-FIN ('you will go')
+        -->
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a72" ANNOTATION_REF="a48">
+                <ANNOTATION_VALUE>yes tomorrow TOP 3SG.AN take-TR school-LOC 2SG.SUBJ go-FIN</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+    </TIER>
+
+    <!-- ============================================================ -->
+    <!-- TIER: ft — free translation (English)                        -->
+    <!-- ============================================================ -->
+    <TIER LINGUISTIC_TYPE_REF="translation" PARENT_REF="ref" TIER_ID="ft">
+
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a73" ANNOTATION_REF="a1">
+                <ANNOTATION_VALUE>Mother, younger brother will go to school for the first time today.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a74" ANNOTATION_REF="a2">
+                <ANNOTATION_VALUE>He is afraid to go to school.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a75" ANNOTATION_REF="a3">
+                <ANNOTATION_VALUE>What shall I do now, Mother?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a76" ANNOTATION_REF="a4">
+                <ANNOTATION_VALUE>It will be fine if you go to school with him.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a77" ANNOTATION_REF="a5">
+                <ANNOTATION_VALUE>If you stay with him, he will not be afraid.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a78" ANNOTATION_REF="a6">
+                <ANNOTATION_VALUE>I will certainly go with him.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a79" ANNOTATION_REF="a7">
+                <ANNOTATION_VALUE>He will be alone in the class; then he might get scared.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a80" ANNOTATION_REF="a8">
+                <ANNOTATION_VALUE>There is nothing to be afraid of.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a81" ANNOTATION_REF="a9">
+                <ANNOTATION_VALUE>Now he will play more than study.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a82" ANNOTATION_REF="a10">
+                <ANNOTATION_VALUE>This is better than studying suddenly.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a83" ANNOTATION_REF="a11">
+                <ANNOTATION_VALUE>He can do many things though.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a84" ANNOTATION_REF="a12">
+                <ANNOTATION_VALUE>He knows the letters and alphabets, can count, and can name the months and days.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a85" ANNOTATION_REF="a13">
+                <ANNOTATION_VALUE>But can he state his home address?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a86" ANNOTATION_REF="a14">
+                <ANNOTATION_VALUE>I think he still cannot do this.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a87" ANNOTATION_REF="a15">
+                <ANNOTATION_VALUE>Why does he need to know these?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a88" ANNOTATION_REF="a16">
+                <ANNOTATION_VALUE>All children need to know these things.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a89" ANNOTATION_REF="a17">
+                <ANNOTATION_VALUE>So that they can answer if someone asks.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a90" ANNOTATION_REF="a18">
+                <ANNOTATION_VALUE>Besides, if he knows these, he will not get lost.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a91" ANNOTATION_REF="a19">
+                <ANNOTATION_VALUE>You are right, Mother.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a92" ANNOTATION_REF="a20">
+                <ANNOTATION_VALUE>What things need to be bought for him?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a93" ANNOTATION_REF="a21">
+                <ANNOTATION_VALUE>Need to buy a school bag, paper, pencil, eraser, and sharpener.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a94" ANNOTATION_REF="a22">
+                <ANNOTATION_VALUE>Alright, I am taking him to the shop now.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a95" ANNOTATION_REF="a23">
+                <ANNOTATION_VALUE>It would be better if he buys the things he likes himself.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a96" ANNOTATION_REF="a24">
+                <ANNOTATION_VALUE>Yes, tomorrow you will take him to school.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+    </TIER>
+
+    <!-- ============================================================ -->
+    <!-- LINGUISTIC TYPES                                              -->
+    <!-- ============================================================ -->
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="utterance" TIME_ALIGNABLE="true" CONSTRAINTS="TIME_ALIGNABLE"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="morpheme" TIME_ALIGNABLE="false" CONSTRAINTS="INCLUDED_IN"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="gloss" TIME_ALIGNABLE="false" CONSTRAINTS="SYMBOLIC_ASSOCIATION"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="translation" TIME_ALIGNABLE="false" CONSTRAINTS="INCLUDED_IN"/>
+    <CONSTRAINT DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations referring to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+
+</ANNOTATION_DOCUMENT>

@@ -1,0 +1,32 @@
+First person markers
+-iñ / -ɲ → first person singular (“I”)
+-liñ → first person dual exclusive (“we two, not you”)
+-le / -lɛ → first person plural exclusive (“we, not you”)
+-laŋ → first person dual inclusive (“you and I”)
+-bon → first person plural inclusive (“we including you”)
+Second person markers
+-m → second person singular (“you”)
+-ben → second person dual (“you two”)
+-pe / -pɛ → second person plural (“you all”)
+Third person markers
+-e → third person singular (“he/she”)
+-kin → third person dual (“they two”)
+-ko → third person plural (“they”)
+
+Case markers
+-re → locative (“in/at”)
+-ko / -ked → accusative/object marker
+-ren / -reak’ → genitive (“of”)
+-te → instrumental/comitative (“with/by”)
+-khan / -khanā → ablative (“from”)
+Number markers
+-kin → dual
+-ko → plural (especially animate nouns)
+Definitive / clitic markers
+-a / -e → definiteness or discourse-related marking
+Verbal tense-aspect markers
+-kana → progressive aspect
+-ked-a → past/perfective
+-me → imperative
+-ok’a / -jon’a → future-related forms
+

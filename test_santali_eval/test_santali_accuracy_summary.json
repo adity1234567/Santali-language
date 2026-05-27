@@ -1,0 +1,34 @@
+{
+  "test_file": "D:\\Santali data\\test.txt",
+  "generation_phase_inputs": {
+    "test_txt": "D:\\Santali data\\test.txt",
+    "eaf_directory": "D:\\Santali data\\inital data",
+    "generator_code_used": "D:\\Santali data\\synthetic_ground_truth_only\\generate_synthetic_ground_truth_only.py",
+    "generator_code_role": "Imported for the same text-repair and normalization helpers used by the synthetic generator; output_layoutA is not loaded until evaluation.",
+    "output_layoutA_used_during_generation": false
+  },
+  "prediction_output": "D:\\Santali data\\test_santali_eval\\test_santali_output.csv",
+  "evaluation_phase_input": "D:\\Santali data\\output_layoutA (1).csv",
+  "comparison_output": "D:\\Santali data\\test_santali_eval\\test_santali_accuracy_against_output_layoutA.csv",
+  "comparison_mode": "row_order_first_n",
+  "rows_in_test": 1000,
+  "rows_in_output_layoutA": 2605,
+  "ft_aligned_with_first_n_output_layoutA_rows": true,
+  "generation_coverage": {
+    "matched_rows": 1000,
+    "unmatched_rows": 0,
+    "method_counts": [
+      [
+        "eaf_sequence_match",
+        1000
+      ]
+    ]
+  },
+  "accuracy": {
+    "exact_matches": 1000,
+    "exact_match_rate": 1.0,
+    "mean_char_similarity": 1.0,
+    "mean_token_f1": 1.0
+  },
+  "first_10_mismatches": []
+}

@@ -1,0 +1,2137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" AUTHOR="" DATE="2026-05-09T00:00:00+00:00" FORMAT="3.0" VERSION="3.0" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:santali-glossed-2</PROPERTY>
+        <PROPERTY NAME="CORPUS">Santali Glossed Data</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="0"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="2000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="2200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="4200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="4400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="6400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="6600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="8600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="8800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="10800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="11000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="13000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="13200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="15200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="15400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="17400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="17600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="19600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="19800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="21800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="22000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="24000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="24200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="26200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="26400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="28400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="28600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="30600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="30800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="32800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="33000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="35000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="35200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="37200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="37400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="39400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="39600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="41600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="41800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="43800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="44000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="46000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="46200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="48200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts45" TIME_VALUE="48400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts46" TIME_VALUE="50400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts47" TIME_VALUE="50600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts48" TIME_VALUE="52600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts49" TIME_VALUE="52800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts50" TIME_VALUE="54800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts51" TIME_VALUE="55000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts52" TIME_VALUE="57000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts53" TIME_VALUE="57200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts54" TIME_VALUE="59200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts55" TIME_VALUE="59400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts56" TIME_VALUE="61400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts57" TIME_VALUE="61600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts58" TIME_VALUE="63600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts59" TIME_VALUE="63800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts60" TIME_VALUE="65800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts61" TIME_VALUE="66000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts62" TIME_VALUE="68000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts63" TIME_VALUE="68200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts64" TIME_VALUE="70200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts65" TIME_VALUE="70400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts66" TIME_VALUE="72400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts67" TIME_VALUE="72600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts68" TIME_VALUE="74600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts69" TIME_VALUE="74800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts70" TIME_VALUE="76800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts71" TIME_VALUE="77000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts72" TIME_VALUE="79000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts73" TIME_VALUE="79200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts74" TIME_VALUE="81200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts75" TIME_VALUE="81400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts76" TIME_VALUE="83400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts77" TIME_VALUE="83600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts78" TIME_VALUE="85600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts79" TIME_VALUE="85800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts80" TIME_VALUE="87800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts81" TIME_VALUE="88000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts82" TIME_VALUE="90000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts83" TIME_VALUE="90200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts84" TIME_VALUE="92200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts85" TIME_VALUE="92400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts86" TIME_VALUE="94400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts87" TIME_VALUE="94600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts88" TIME_VALUE="96600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts89" TIME_VALUE="96800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts90" TIME_VALUE="98800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts91" TIME_VALUE="99000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts92" TIME_VALUE="101000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts93" TIME_VALUE="101200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts94" TIME_VALUE="103200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts95" TIME_VALUE="103400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts96" TIME_VALUE="105400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts97" TIME_VALUE="105600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts98" TIME_VALUE="107600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts99" TIME_VALUE="107800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts100" TIME_VALUE="109800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts101" TIME_VALUE="110000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts102" TIME_VALUE="112000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts103" TIME_VALUE="112200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts104" TIME_VALUE="114200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts105" TIME_VALUE="114400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts106" TIME_VALUE="116400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts107" TIME_VALUE="116600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts108" TIME_VALUE="118600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts109" TIME_VALUE="118800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts110" TIME_VALUE="120800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts111" TIME_VALUE="121000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts112" TIME_VALUE="123000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts113" TIME_VALUE="123200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts114" TIME_VALUE="125200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts115" TIME_VALUE="125400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts116" TIME_VALUE="127400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts117" TIME_VALUE="127600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts118" TIME_VALUE="129600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts119" TIME_VALUE="129800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts120" TIME_VALUE="131800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts121" TIME_VALUE="132000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts122" TIME_VALUE="134000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts123" TIME_VALUE="134200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts124" TIME_VALUE="136200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts125" TIME_VALUE="136400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts126" TIME_VALUE="138400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts127" TIME_VALUE="138600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts128" TIME_VALUE="140600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts129" TIME_VALUE="140800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts130" TIME_VALUE="142800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts131" TIME_VALUE="143000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts132" TIME_VALUE="145000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts133" TIME_VALUE="145200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts134" TIME_VALUE="147200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts135" TIME_VALUE="147400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts136" TIME_VALUE="149400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts137" TIME_VALUE="149600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts138" TIME_VALUE="151600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts139" TIME_VALUE="151800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts140" TIME_VALUE="153800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts141" TIME_VALUE="154000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts142" TIME_VALUE="156000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts143" TIME_VALUE="156200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts144" TIME_VALUE="158200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts145" TIME_VALUE="158400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts146" TIME_VALUE="160400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts147" TIME_VALUE="160600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts148" TIME_VALUE="162600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts149" TIME_VALUE="162800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts150" TIME_VALUE="164800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts151" TIME_VALUE="165000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts152" TIME_VALUE="167000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts153" TIME_VALUE="167200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts154" TIME_VALUE="169200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts155" TIME_VALUE="169400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts156" TIME_VALUE="171400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts157" TIME_VALUE="171600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts158" TIME_VALUE="173600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts159" TIME_VALUE="173800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts160" TIME_VALUE="175800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts161" TIME_VALUE="176000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts162" TIME_VALUE="178000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts163" TIME_VALUE="178200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts164" TIME_VALUE="180200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts165" TIME_VALUE="180400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts166" TIME_VALUE="182400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts167" TIME_VALUE="182600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts168" TIME_VALUE="184600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts169" TIME_VALUE="184800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts170" TIME_VALUE="186800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts171" TIME_VALUE="187000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts172" TIME_VALUE="189000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts173" TIME_VALUE="189200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts174" TIME_VALUE="191200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts175" TIME_VALUE="191400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts176" TIME_VALUE="193400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts177" TIME_VALUE="193600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts178" TIME_VALUE="195600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts179" TIME_VALUE="195800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts180" TIME_VALUE="197800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts181" TIME_VALUE="198000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts182" TIME_VALUE="200000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts183" TIME_VALUE="200200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts184" TIME_VALUE="202200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts185" TIME_VALUE="202400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts186" TIME_VALUE="204400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts187" TIME_VALUE="204600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts188" TIME_VALUE="206600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts189" TIME_VALUE="206800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts190" TIME_VALUE="208800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts191" TIME_VALUE="209000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts192" TIME_VALUE="211000"/>
+    </TIME_ORDER>
+    <TIER LINGUISTIC_TYPE_REF="utterance" TIER_ID="ref">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1" TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
+                <ANNOTATION_VALUE>hɔɽmɔ-ɾɛ gid̪ɾɘ hɛʲc̚ʔ t̪a.jɔm t̪a.jɔm-ge gɔgɔ hɔɽ-aʔ ɖak̚t̪aɾ-ʈʰɛʲc̚ʔ cala-ʔ ɟɘɾuɽ-a</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2" TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE>nɔŋkan ɔkt̪ɛ-ɾɛ kɘʈiʲc̚ʔ lɘʈu ɟãhalɛkan ɾu̯͡ɘ-ge baŋ pɔsɽa͡o̯ ho.jo.a</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3" TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts6">
+                <ANNOTATION_VALUE>no̯͡a ɔkt̪ɛ-ɾɛ ganɔʔ baŋ ganɔʔ kɘmi-ko d̪ɔ ɖak̚t̪aɾ ʈʰɛn kʰɔn baɖa͡i̯-ɟɔŋ ho.jo.a</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4" TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE>ɔna ɔkt̪ɛ cɛt̪̚ʔ cɛt̪̚ʔ ɟɔm lɛkʰan gid̪ɾɘ aɾ gɔgɔ hɔɽ-aʔ bo-ge ho.jo.a ɔna-hɔ̃ ɲɛl ho.jo.a</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5" TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts10">
+                <ANNOTATION_VALUE>ɟahan hamal kɘmi kɘmi͡i̯ d̪ɔ pɛɾɛʲc̚ʔ hɔɽmɔ gɔgɔ hɔɽ-aʔ baŋ ganɔ.a</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6" TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE>hamal hɔɽmɔ gɔgɔ-hɔɽ d̪ɔ bʰa-ge bʰa-ge ɟɔm ɲu em-a-ko ho.jo.a</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7" TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts14">
+                <ANNOTATION_VALUE>no̯͡a ɔk̚t̪ɛ bɛgɔɾ ɟɔm-t̪ɛ baŋ t̪ãhɛn ho.jo.a</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8" TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE>gɔgɔ hɔɽ-aʔ hɔɽmɔ ɟɛnɔ ɘɖi ɟɘst̪i baŋ hamal-ɔʔ-t̪a͡i̯ ɔnt̪ɛ-hɔ̃ ɲɛl ho.j-a</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9" TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts18">
+                <ANNOTATION_VALUE>hɔɽmɔ ɘɖi ɟɘst̪i hamal lɛn-kʰan uni gɔgɔ hɔɽ-aʔ a͡i̯malɛkan ɾu̯͡ɘ haso ho͡i̯ d̪aɽe.j-aʔa</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10" TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE>ɟohaɾ ɖak̚t̪aɾ-ɛm mɛn-ɛd̪-a</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11" TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts22">
+                <ANNOTATION_VALUE>hɛɲ mɛn-ɛd̪-a</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12" TIME_SLOT_REF1="ts23" TIME_SLOT_REF2="ts24">
+                <ANNOTATION_VALUE>iɲ-ɾɛn kɔɽa gid̪ɾɘ-ɔ̯͡aʔ huʈgɘ-ɾi-t̪ɛ mand̪a aɾ ciɖiɾ ɛhɔb̚ʔ-akan-t̪a.j-a</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13" TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts26">
+                <ANNOTATION_VALUE>am-ɾɛn gid̪ɾɘ-ɔ̯͡aʔ t̪inɘʔ umɘɾ</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14" TIME_SLOT_REF1="ts27" TIME_SLOT_REF2="ts28">
+                <ANNOTATION_VALUE>uni.j-aʔ umɘɾ gɛl cand̪o</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15" TIME_SLOT_REF1="ts29" TIME_SLOT_REF2="ts30">
+                <ANNOTATION_VALUE>uni.j-aʔ hɔɽmɔ-ɾɛ cɛt̪̚ʔ ɾu̯͡ɘ mɛn-a-a</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a16" TIME_SLOT_REF1="ts31" TIME_SLOT_REF2="ts32">
+                <ANNOTATION_VALUE>hɔɽmɔ-ɾɛ ɾu̯͡ɘ bɘnu-a t̪ɔbɛ hɔɽmɔ t̪ʰɔɽa lɔlɔ-ge mɛn-a-a</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a17" TIME_SLOT_REF1="ts33" TIME_SLOT_REF2="ts34">
+                <ANNOTATION_VALUE>gid̪ɾɘ-ɔ̯͡aʔ ni̯͡ɘ halɔt̪̚ʔ t̪inɘʔ-din-kʰɔn</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a18" TIME_SLOT_REF1="ts35" TIME_SLOT_REF2="ts36">
+                <ANNOTATION_VALUE>hɔla ɲind̪ɘ-kʰɔn ni̯͡ɘ halɔt̪̚ʔ ɛhɔp̚ʔ-akan-t̪a.j-a</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a19" TIME_SLOT_REF1="ts37" TIME_SLOT_REF2="ts38">
+                <ANNOTATION_VALUE>sɛt̪aʔ-kʰɔn uni t̪inɘʔ-d̪ʰa͡o̯-ɛ ʈɘnɖi.j-akad̪-a</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a20" TIME_SLOT_REF1="ts39" TIME_SLOT_REF2="ts40">
+                <ANNOTATION_VALUE>sɛt̪aʔ-kʰɔn uniː mɔ̃ɽɛ-d̪ʰa͡o̯-ɛ ʈɘnɖi.j-akad̪-a</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a21" TIME_SLOT_REF1="ts41" TIME_SLOT_REF2="ts42">
+                <ANNOTATION_VALUE>ʈɘnɖi-t̪ɛt̪̚ʔ-d̪ɔ cɛt̪̚ʔ lɛhɛɾ-ge.j-a sɛ kɛʈɛʲc̚ʔ-ge.j-a</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a22" TIME_SLOT_REF1="ts43" TIME_SLOT_REF2="ts44">
+                <ANNOTATION_VALUE>ɘɖi ɟɘst̪i-d̪ɔː baŋ lɛhɛɾ-a</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a23" TIME_SLOT_REF1="ts45" TIME_SLOT_REF2="ts46">
+                <ANNOTATION_VALUE>sɛla.jin ɲu ŭcu.j-ɛm</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a24" TIME_SLOT_REF1="ts47" TIME_SLOT_REF2="ts48">
+                <ANNOTATION_VALUE>ɖab ɾe.j-aʔ d̪aʔ hɔ̃-m ɲu oco d̪aɽe-o̯͡a.j-a</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a25" TIME_SLOT_REF1="ts49" TIME_SLOT_REF2="ts50">
+                <ANNOTATION_VALUE>aɾ ɾu̯͡ɘ t̪ahɛn-kʰan ni.jɘ ɾaːn-ɛm ɟɔm-ŏco͡i̯-a</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a26" TIME_SLOT_REF1="ts51" TIME_SLOT_REF2="ts52">
+                <ANNOTATION_VALUE>ɾan aɾ kɔɽam ɾe.j-aʔ t̪o̯͡a baɾhɛ cɛt̪̚ʔ gid̪ɾɘ d̪ɔ ɟɘ͡o̯ d̪aka-ɲ ɟɔm oco d̪aɽe-ɔ̯͡a.j-a</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a27" TIME_SLOT_REF1="ts53" TIME_SLOT_REF2="ts54">
+                <ANNOTATION_VALUE>ɟɘɾuɽ bɘnu-a</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a28" TIME_SLOT_REF1="ts55" TIME_SLOT_REF2="ts56">
+                <ANNOTATION_VALUE>am-d̪ɔ ai̯͡ma saɾha͡o̯ ɟohaɾ</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a29" TIME_SLOT_REF1="ts57" TIME_SLOT_REF2="ts58">
+                <ANNOTATION_VALUE>alɛ ɔɽaʔ aɽe-ɾɛ mit̪̚ʔʈɛʲc̚ʔ lɘʈu-gi mãt̪̚ʔ t̪ʰɔp̚ʔ men-a-a</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a30" TIME_SLOT_REF1="ts59" TIME_SLOT_REF2="ts60">
+                <ANNOTATION_VALUE>ɔnɖɛ d̪ɔ baɖa͡i̯ baŋ baɖa͡i̯ nanahunɘɾ cɛ̃ɽɛ̃-ko ta̪hɛ̃-n-a</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a31" TIME_SLOT_REF1="ts61" TIME_SLOT_REF2="ts62">
+                <ANNOTATION_VALUE>d̪inɘm-hilɘʔ sɛt̪aʔ-ɾɛ cɛ̃ɽɛ̃-ko-ɔ̯͡aʔ cɛɾɔ-bɛɾɔ aɲɟɔm-t̪ɛ alɛ d̪ɔ-lɛ ɛbʰɛn-ɔʔ-a</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a32" TIME_SLOT_REF1="ts63" TIME_SLOT_REF2="ts64">
+                <ANNOTATION_VALUE>cɛ̃ɽɛ̃-ko-ɔ̯͡aʔ cɛɾɔ-bɛɾɔ aɲɟɔm-t̪ɛ ale.j-aʔ mɔn d̪ɔ ɾɘs-kɛ-t̪ɛ pɛɾɛɟ-ɔʔ-a</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a33" TIME_SLOT_REF1="ts65" TIME_SLOT_REF2="ts66">
+                <ANNOTATION_VALUE>oŋko mut̪̚ʔ-ɾɛ kɘʈiʲc̚ʔ ut̪ɘɾiʔ cɛ̃ɽɛ̃.j-aʔ ɲut̪um d̪ɔ pʰecaʔ</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a34" TIME_SLOT_REF1="ts67" TIME_SLOT_REF2="ts68">
+                <ANNOTATION_VALUE>noko d̪ɔ ba-ko d̪uɽup̚ʔ t̪ʰiɾ-u-a mit̪̚ʔ ɖɘɾ kʰɔn eʈaʔ ɖɘɾ-ko uɖɘ͡o̯ baɽa-j-a</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a35" TIME_SLOT_REF1="ts69" TIME_SLOT_REF2="ts70">
+                <ANNOTATION_VALUE>ɲɛl-kat̪ɛ-m mɛn-ke̯͡a ɛnɛɟ-ɔʔ-t̪i-gi men-aʔ-ko̯͡a</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a36" TIME_SLOT_REF1="ts71" TIME_SLOT_REF2="ts72">
+                <ANNOTATION_VALUE>onko kʰɔn lɘʈu macʰi cɛ̃ɽɛ̃.j-aʔ ɲut̪m d̪ɔ gʰa͡o̯ɽa</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a37" TIME_SLOT_REF1="ts73" TIME_SLOT_REF2="ts74">
+                <ANNOTATION_VALUE>uŋko-hɔ̃ pʰecaʔ cɛ̃ɽɛ̃-leka hana ɖɘɾ nʰao̯͡a ɖɘɾ-ku uɖɘ͡o̯ baɽa-j-a</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a38" TIME_SLOT_REF1="ts75" TIME_SLOT_REF2="ts76">
+                <ANNOTATION_VALUE>aɾ mit̪̚ʔ-lɛkan kɘʈiʲc̚ʔ cɛ̃ɽɛ̃-ɔ̯͡aʔ ɲut̪um d̪ɔ hojoʔkana hisi cɛ̃ɽɛ̃</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a39" TIME_SLOT_REF1="ts77" TIME_SLOT_REF2="ts78">
+                <ANNOTATION_VALUE>oŋko d̪ɔ d̪aɾɛ ɖɘɾ-ɾɛ ɘɖi mɔ̃ɟ mɔ̃ɟ t̪ukɘ-ku bɛna-ɔ̯͡a</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a40" TIME_SLOT_REF1="ts79" TIME_SLOT_REF2="ts80">
+                <ANNOTATION_VALUE>aɾ uŋko kʰɔn t̪ʰɔɽa lɘʈu cɛ̃ɽɛ̃.j-aʔ ɲut̪um d̪ɔ hojoʔ-kana ʈiʔʈɔɽɔ̃ʔ</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a41" TIME_SLOT_REF1="ts81" TIME_SLOT_REF2="ts82">
+                <ANNOTATION_VALUE>nɔŋkan cɛ̃ɽɛ̃ ɘɖi mɔ̃ɟ cɛɾɔ-bɛɾɔ-ko seɾeɲ-a</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a42" TIME_SLOT_REF1="ts83" TIME_SLOT_REF2="ts84">
+                <ANNOTATION_VALUE>ɔka d̪ɔ gid̪ɾɛ-ko cɛ̃ɽɛ̃ t̪ukɘ-ku ɾɘpud̪-a aɾ uŋko-ɾɛn hɔpɔn-ko t̪i.jɘʔ-ko̯͡a</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a43" TIME_SLOT_REF1="ts85" TIME_SLOT_REF2="ts86">
+                <ANNOTATION_VALUE>onat̪ɛ cɛ̃ɽɛ̃-ku d̪ɔ ɘɖi d̪uk̚-ku ɲaːm-a</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a44" TIME_SLOT_REF1="ts87" TIME_SLOT_REF2="ts88">
+                <ANNOTATION_VALUE>cɛ̃ɽɛ̃-ko-ɔ̯͡aʔ bɘɽiʲc̚ʔ hojoʔ noŋkan kɘmi kɘmi͡i̯ d̪ɔ baŋ leːka</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a45" TIME_SLOT_REF1="ts89" TIME_SLOT_REF2="ts90">
+                <ANNOTATION_VALUE>bɔ͡i̯ha iɲ mɔ̃ɽɛ kiɟi ca͡o̯le laga͡o̯-ɘ-ɲ-ɘ</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a46" TIME_SLOT_REF1="ts91" TIME_SLOT_REF2="ts92">
+                <ANNOTATION_VALUE>t̪iki ca͡o̯le sɛ ad̪o̯͡a ca͡o̯le-m hat̪a͡o̯-a</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a47" TIME_SLOT_REF1="ts93" TIME_SLOT_REF2="ts94">
+                <ANNOTATION_VALUE>ad̪o͡a̯ ca͡o̯le ɾe.j-aʔ d̪am t̪inɘʔ</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a48" TIME_SLOT_REF1="ts95" TIME_SLOT_REF2="ts96">
+                <ANNOTATION_VALUE>kiɟi-ɾɛ iɾɘl gɛl kɘ͡o̯ɖi</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a49" TIME_SLOT_REF1="ts97" TIME_SLOT_REF2="ts98">
+                <ANNOTATION_VALUE>unɘʔ d̪am ɖʰeɾ-ăkana</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a50" TIME_SLOT_REF1="ts99" TIME_SLOT_REF2="ts100">
+                <ANNOTATION_VALUE>baɟaɾ ɾɛ ɲit̪̚ʔ sanamaʔ ɾe.j-aʔ d̪am-ge ɖʰeɾ-ăkana</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a51" TIME_SLOT_REF1="ts101" TIME_SLOT_REF2="ts102">
+                <ANNOTATION_VALUE>ni͡ɘ-d̪ʰa͡o̯ hɔi̯͡d̪aʔ-t̪ɛ a͡i̯ma hoɽo kʰot̪i.j-akana</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a52" TIME_SLOT_REF1="ts103" TIME_SLOT_REF2="ts104">
+                <ANNOTATION_VALUE>ɔnat̪ɛ baɟaɾ-ɾɛ ca͡o̯le t̪ʰɔɽa-ge.j-a</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a53" TIME_SLOT_REF1="ts105" TIME_SLOT_REF2="ts106">
+                <ANNOTATION_VALUE>iɲ-d̪ɔ mɔ̃ɽɛ kiɟi bɔd̪ɔl-t̪ɛ pɛ kiɟi ad̪o̯͡a ca͡o̯le i-m-ɘ-ɲ-mɛ</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a54" TIME_SLOT_REF1="ts107" TIME_SLOT_REF2="ts108">
+                <ANNOTATION_VALUE>sã͡o̯t̪ɛ mit̪̚ʔ keɟi kʰɘɟɘɽi-hɔ̃ i-m-ɘ-ɲ-mɛ</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a55" TIME_SLOT_REF1="ts109" TIME_SLOT_REF2="ts110">
+                <ANNOTATION_VALUE>aɾ cɛt̪̚ʔ cɛt̪̚ʔ laga͡o̯-ma</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a56" TIME_SLOT_REF1="ts111" TIME_SLOT_REF2="ts112">
+                <ANNOTATION_VALUE>mit̪̚ʔ ɟɔɽa nɘɽkɔɽ miʔʈɛn ɖɘbɾɘ sɘbun aɾ miʔʈɛn kic̚ɾiʔ sɘbun laga͡o̯-ɲ-ɘ</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a57" TIME_SLOT_REF1="ts113" TIME_SLOT_REF2="ts114">
+                <ANNOTATION_VALUE>ad̪ʰhɛ ɾɘsun ɟahanaʔ laga͡o̯-ma</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a58" TIME_SLOT_REF1="ts115" TIME_SLOT_REF2="ts116">
+                <ANNOTATION_VALUE>hɛ̃ ad̪ʰa keɟi ad̪ʰhɛ-m i-m-ɘ-ɲ-ɘ</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a59" TIME_SLOT_REF1="ts117" TIME_SLOT_REF2="ts118">
+                <ANNOTATION_VALUE>iɲ-d̪ɔ sanamaʔ-ge mit̪̚ʔ-sã͡o̯-t̪ɛ-ɲ pɛkeʈ-am-kana</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a60" TIME_SLOT_REF1="ts119" TIME_SLOT_REF2="ts120">
+                <ANNOTATION_VALUE>miʔʈɛn mũʲc̚ʔ d̪aʔ ɲu lɘgit̪̚ʔ gaɖa aɽe-i̯ cala͡o̯-ena</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a61" TIME_SLOT_REF1="ts121" TIME_SLOT_REF2="ts122">
+                <ANNOTATION_VALUE>ɘɖi-kaɟakɛ hɔ.j-ɛt̪̚ʔ-kan t̪ahɛ̃na aɾ gaɖa-ɾɛ ɘɖi kaɟak̚ sɔ̃t̪̚ʔ t̪ɛhɛ-kana</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a62" TIME_SLOT_REF1="ts123" TIME_SLOT_REF2="ts124">
+                <ANNOTATION_VALUE>hɔ͡i̯-kakʰant̪ɛ muʲc̚ʔ d̪ɔ d̪aʔ-ɾɛ.j-ɛ ɲuɾ-hɘ͡i̯na</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a63" TIME_SLOT_REF1="ts125" TIME_SLOT_REF2="ts126">
+                <ANNOTATION_VALUE>mit̪̚ʔ-ʈɛn pɔt̪am cɛ̃ɽɛ̃ d̪ɔ d̪aɾɛ ɖɘɾ-ɾɛ d̪uɽup̚ʔ-kat̪ɛ nɔ̯͡a gʰɔʈɔna-i̯ ɲɛl-ɛt̪̚ʔ-kan t̪ahɛ̃na</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a64" TIME_SLOT_REF1="ts127" TIME_SLOT_REF2="ts128">
+                <ANNOTATION_VALUE>uni d̪ɔ muʲc̚ʔ-ɛː baɲca͡o̯-ɛ lɘgit̪̚ʔ mit̪̚ʔ-ʈɛn sakam d̪aʔ-ɾɛ.j-ɛ ɲuɾ-h-ɛked-a</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a65" TIME_SLOT_REF1="ts129" TIME_SLOT_REF2="ts130">
+                <ANNOTATION_VALUE>mũʲc̚ʔ d̪ɔ ɔna sakam-ɾɛ d̪ɛʲc̚ʔ-kat̪ɛ-t̪̚ʔ a.j-aʔ ɟiu̯͡i.j-ɛ baɲca͡o̯-kɛd̪-a</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a66" TIME_SLOT_REF1="ts131" TIME_SLOT_REF2="ts132">
+                <ANNOTATION_VALUE>inɘ t̪a.jɔm muʲc̚ʔ aɾ pot̪am d̪ɔ banahɔɽ gat̪e-kin ho͡i̯-ĕna</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a67" TIME_SLOT_REF1="ts133" TIME_SLOT_REF2="ts134">
+                <ANNOTATION_VALUE>a͡i̯ma-d̪in t̪a.jɔm mit̪̚ʔ sikɘɾi.j-ɘ gaɖa aɽɛ-ɾɛ.j-ɛ hɛʲc̚ʔ-ena</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a68" TIME_SLOT_REF1="ts135" TIME_SLOT_REF2="ts136">
+                <ANNOTATION_VALUE>d̪aɾe cɔʈ̚-ɾɛ pɔt̪am-ɛ ɲɛl-ked̪-e-kʰan sikɘɾi.j-ɘ d̪ɔ a.j-aʔ aʔ-ɛː soɟh-eked̪-a</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a69" TIME_SLOT_REF1="ts137" TIME_SLOT_REF2="ts138">
+                <ANNOTATION_VALUE>muʲc̚ʔ-d̪ɔ ɲɛl-ɲam-kat̪ɛ-t̪̚ʔ unɾe-ge.j-ɛ sikɘɾi.j-ɘ-ɔ̯͡aʔ kaʈa-ɾɛ.j-ɛ gɛɾ ked̪-e.j-a</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a70" TIME_SLOT_REF1="ts139" TIME_SLOT_REF2="ts140">
+                <ANNOTATION_VALUE>gɛɾ ɟɔm-kat̪ɛ sikɘɾi.j-ɘ-ɔ̯͡aʔ t̪i ɾe.j-aʔ saɾ d̪ɔ laɽa͡o̯-ena aɾ cɛ̃ɾɛ̃-d̪ɔ-i̯ baɲca͡ɔ̯-ɛ-na</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a71" TIME_SLOT_REF1="ts141" TIME_SLOT_REF2="ts142">
+                <ANNOTATION_VALUE>baɖa.j-am paseɾ ɔɽaʔ-ɾɛ mɛɾɔm-ko hɔpɔn-akana</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a72" TIME_SLOT_REF1="ts143" TIME_SLOT_REF2="ts144">
+                <ANNOTATION_VALUE>mɛɾɔm-d̪ɔː iɲ mɔ̃ɟ bɘ-ɲ ɘ͡i̯kɘ͡o̯-ko͡a</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a73" TIME_SLOT_REF1="ts145" TIME_SLOT_REF2="ts146">
+                <ANNOTATION_VALUE>iɲ-d̪ɔː ɖaŋgɾa mɔɟ-iɲ ɘ͡i̯kɘ͡o̯-ko̯͡a</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a74" TIME_SLOT_REF1="ts147" TIME_SLOT_REF2="ts148">
+                <ANNOTATION_VALUE>iɲ-d̪ɔː ɖaŋgɾa ɘsul-iɲ mɛn-d̪-a</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a75" TIME_SLOT_REF1="ts149" TIME_SLOT_REF2="ts150">
+                <ANNOTATION_VALUE>mɛn-kʰan ɖaŋgɾa lɘgit̪̚ʔ ɘɖi maɾaŋ ɟa͡i̯ga laga-a</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a76" TIME_SLOT_REF1="ts151" TIME_SLOT_REF2="ts152">
+                <ANNOTATION_VALUE>abo ɔɽaʔ-ɾɛ un-maɾaŋ ɟa͡i̯ga bɘnu-a</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a77" TIME_SLOT_REF1="ts153" TIME_SLOT_REF2="ts154">
+                <ANNOTATION_VALUE>ɖaŋɾa-i̯ t̪ahɛn-kʰan abo uni ʈʰɛn-kʰɔn t̪o̯͡a-bon ɲu d̪aɽe-ke.j-a</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a78" TIME_SLOT_REF1="ts155" TIME_SLOT_REF2="ts156">
+                <ANNOTATION_VALUE>t̪o̯͡a d̪ɔ mɛɾɔm-aʔ-hɔ̃ men-a-a am-d̪ɔ ɔna t̪o̯͡a-hɔ-m ɲu d̪aɽe.j-a-a</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a79" TIME_SLOT_REF1="ts157" TIME_SLOT_REF2="ts158">
+                <ANNOTATION_VALUE>mɛɾɔm-ɾɛn a͡i̯ma-ko hɔpɔn-ɔʔ-a</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a80" TIME_SLOT_REF1="ts159" TIME_SLOT_REF2="ts160">
+                <ANNOTATION_VALUE>hɔpɔn-ko t̪o̯͡a ɲu t̪a.jɔm mɛɾɔm-aʔ aɾ t̪o̯͡a baŋ ho.jo-a</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a81" TIME_SLOT_REF1="ts161" TIME_SLOT_REF2="ts162">
+                <ANNOTATION_VALUE>ɔnat̪ɛ ɟɘst̪i t̪ɔ̯͡a baŋ ɲam-ɔ-a</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a82" TIME_SLOT_REF1="ts163" TIME_SLOT_REF2="ts164">
+                <ANNOTATION_VALUE>am ʈʰik̚-ge-m mɛːn-akad̪-a</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a83" TIME_SLOT_REF1="ts165" TIME_SLOT_REF2="ts166">
+                <ANNOTATION_VALUE>mɛn-kʰan ɖaŋɾa kiɾiɲ-t̪ɛ a͡i̯ma kɘ͡u̯ɖi laga-a</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a84" TIME_SLOT_REF1="ts167" TIME_SLOT_REF2="ts168">
+                <ANNOTATION_VALUE>baba-ʈʰɛn ɖaŋɾa kiɾiɲ-leka kɘ͡u̯ɖi bɘnu-a</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a85" TIME_SLOT_REF1="ts169" TIME_SLOT_REF2="ts170">
+                <ANNOTATION_VALUE>ɖaŋɾa kiɾiɲ lɘgit̪̚ʔ iːɲ baba kɘ͡o̯ɖi-ɲ em-a-j-a</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a86" TIME_SLOT_REF1="ts171" TIME_SLOT_REF2="ts172">
+                <ANNOTATION_VALUE>am-d̪ɔ ɔka-kʰɔn kɘ͡u̯ɖi-m ɲam-a</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a87" TIME_SLOT_REF1="ts173" TIME_SLOT_REF2="ts174">
+                <ANNOTATION_VALUE>iɲ-d̪ɔ pɘhil-ɾɛ kalɔʈ̚ aɾ sɘnɖi sim-iɲ ɘsul-ko̯͡a</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a88" TIME_SLOT_REF1="ts175" TIME_SLOT_REF2="ts176">
+                <ANNOTATION_VALUE>miʔ-ʈɛn sɘnɖi aɾ miʔ-ʈɛn kalɔʈ̚ ni̯͡ɘ-t̪ɛ-ɲ ɛhɔb-a</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a89" TIME_SLOT_REF1="ts177" TIME_SLOT_REF2="ts178">
+                <ANNOTATION_VALUE>sim-kʰɔn mit̪̚ʔ-sã͡ɔ̯-t̪ɛ a͡i̯ma-ko hɔpɔn-ɔʔ-a</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a90" TIME_SLOT_REF1="ts179" TIME_SLOT_REF2="ts180">
+                <ANNOTATION_VALUE>inɘ-t̪a.jɔm onko-ko lɘʈu-lɛn-kʰan ɘkʰɾiɲ-kat̪ɛ-t̪̚ʔ a͡i̯ma kɘ͡u̯ɖi ɲam-ɔ-a</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a91" TIME_SLOT_REF1="ts181" TIME_SLOT_REF2="ts182">
+                <ANNOTATION_VALUE>ɔna kɘ͡u̯ɖi-t̪ɛ ɖaŋɾa-ɲ kiɾi.ɲi.j-a</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a92" TIME_SLOT_REF1="ts183" TIME_SLOT_REF2="ts184">
+                <ANNOTATION_VALUE>ɖaŋɾa unɘʔ-ɛ-m kusi.j-akokana</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a93" TIME_SLOT_REF1="ts185" TIME_SLOT_REF2="ts186">
+                <ANNOTATION_VALUE>iɲ-aʔ t̪ʰɔɽa ɟɔma kɘ͡u̯ɖi men-a-a</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a94" TIME_SLOT_REF1="ts187" TIME_SLOT_REF2="ts188">
+                <ANNOTATION_VALUE>ɔŋɖɛ-kʰɔn iɲ t̪ʰɔɽa kɘ͡u̯ɖi am-iɲ ɛm d̪aɽe-ɔ̯͡a-ma</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a95" TIME_SLOT_REF1="ts189" TIME_SLOT_REF2="ts190">
+                <ANNOTATION_VALUE>ʈhik-ge.j-a alaŋ banahɔɽ-t̪ɛ ɖaŋɾa-laŋ ɘsul-e.j-a</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a96" TIME_SLOT_REF1="ts191" TIME_SLOT_REF2="ts192">
+                <ANNOTATION_VALUE>iɲ-hɔ̃ ɖaŋɾa kiɾiɲ ɾe.j-aʔ kɘ͡u̯ɖi-ɲ ɛm-ɔ-a</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="morpheme" PARENT_REF="ref" TIER_ID="mb">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a97" ANNOTATION_REF="a1">
+                <ANNOTATION_VALUE>hɔɽmɔ-ɾɛ gid̪ɾɘ hɛʲc̚ʔ t̪a.jɔm t̪a.jɔm-ge gɔgɔ hɔɽ-aʔ ɖak̚t̪aɾ-ʈʰɛʲc̚ʔ cala-ʔ ɟɘɾuɽ-a</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a98" ANNOTATION_REF="a2">
+                <ANNOTATION_VALUE>nɔŋkan ɔkt̪ɛ-ɾɛ kɘʈiʲc̚ʔ lɘʈu ɟãhalɛkan ɾu̯͡ɘ-ge baŋ pɔsɽa͡o̯ ho.jo-a</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a99" ANNOTATION_REF="a3">
+                <ANNOTATION_VALUE>no̯͡a ɔkt̪ɛ-ɾɛ ganɔʔ baŋ ganɔʔ kɘmi-ko d̪ɔ ɖak̚t̪aɾ ʈʰɛn kʰɔn baɖa͡i̯-ɟɔŋ ho.jo-a</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a100" ANNOTATION_REF="a4">
+                <ANNOTATION_VALUE>ɔna ɔkt̪ɛ cɛt̪̚ʔ cɛt̪̚ʔ ɟɔm lɛkʰan gid̪ɾɘ aɾ gɔgɔ hɔɽ-aʔ bo-ge ho.jo-a ɔna-hɔ̃ ɲɛl ho.jo-a</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a101" ANNOTATION_REF="a5">
+                <ANNOTATION_VALUE>ɟahan hamal kɘmi kɘmi͡i̯ d̪ɔ pɛɾɛʲc̚ʔ hɔɽmɔ gɔgɔ hɔɽ-aʔ baŋ ganɔ-a</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a102" ANNOTATION_REF="a6">
+                <ANNOTATION_VALUE>hamal hɔɽmɔ gɔgɔ-hɔɽ d̪ɔ bʰa-ge bʰa-ge ɟɔm ɲu em-a-ko ho.jo-a</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a103" ANNOTATION_REF="a7">
+                <ANNOTATION_VALUE>no̯͡a ɔk̚t̪ɛ bɛgɔɾ ɟɔm-t̪ɛ baŋ t̪ãhɛn ho.jo-a</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a104" ANNOTATION_REF="a8">
+                <ANNOTATION_VALUE>gɔgɔ hɔɽ-aʔ hɔɽmɔ ɟɛnɔ ɘɖi ɟɘst̪i baŋ hamal-ɔʔ-t̪a͡i̯ ɔnt̪ɛ-hɔ̃ ɲɛl ho.j-a</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a105" ANNOTATION_REF="a9">
+                <ANNOTATION_VALUE>hɔɽmɔ ɘɖi ɟɘst̪i hamal lɛn-kʰan uni gɔgɔ hɔɽ-aʔ a͡i̯malɛkan ɾu̯͡ɘ haso ho͡i̯ d̪aɽe.j-aʔa</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a106" ANNOTATION_REF="a10">
+                <ANNOTATION_VALUE>ɟohaɾ ɖak̚t̪aɾ-ɛm mɛn-ɛd̪-a</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a107" ANNOTATION_REF="a11">
+                <ANNOTATION_VALUE>hɛɲ mɛn-ɛd̪-a</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a108" ANNOTATION_REF="a12">
+                <ANNOTATION_VALUE>iɲ-ɾɛn kɔɽa gid̪ɾɘ-ɔ̯͡aʔ huʈgɘ-ɾi-t̪ɛ mand̪a aɾ ciɖiɾ ɛhɔb̚ʔ-akan-t̪a.j-a</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a109" ANNOTATION_REF="a13">
+                <ANNOTATION_VALUE>am-ɾɛn gid̪ɾɘ-ɔ̯͡aʔ t̪inɘʔ umɘɾ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a110" ANNOTATION_REF="a14">
+                <ANNOTATION_VALUE>uni.j-aʔ umɘɾ gɛl cand̪o</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a111" ANNOTATION_REF="a15">
+                <ANNOTATION_VALUE>uni.j-aʔ hɔɽmɔ-ɾɛ cɛt̪̚ʔ ɾu̯͡ɘ mɛn-a-a</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a112" ANNOTATION_REF="a16">
+                <ANNOTATION_VALUE>hɔɽmɔ-ɾɛ ɾu̯͡ɘ bɘnu-a t̪ɔbɛ hɔɽmɔ t̪ʰɔɽa lɔlɔ-ge mɛn-a-a</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a113" ANNOTATION_REF="a17">
+                <ANNOTATION_VALUE>gid̪ɾɘ-ɔ̯͡aʔ ni̯͡ɘ halɔt̪̚ʔ t̪inɘʔ-din-kʰɔn</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a114" ANNOTATION_REF="a18">
+                <ANNOTATION_VALUE>hɔla ɲind̪ɘ-kʰɔn ni̯͡ɘ halɔt̪̚ʔ ɛhɔp̚ʔ-akan-t̪a.j-a</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a115" ANNOTATION_REF="a19">
+                <ANNOTATION_VALUE>sɛt̪aʔ-kʰɔn uni t̪inɘʔ-d̪ʰa͡o̯-ɛ ʈɘnɖi.j-akad̪-a</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a116" ANNOTATION_REF="a20">
+                <ANNOTATION_VALUE>sɛt̪aʔ-kʰɔn uniː mɔ̃ɽɛ-d̪ʰa͡o̯-ɛ ʈɘnɖi.j-akad̪-a</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a117" ANNOTATION_REF="a21">
+                <ANNOTATION_VALUE>ʈɘnɖi-t̪ɛt̪̚ʔ-d̪ɔ cɛt̪̚ʔ lɛhɛɾ-ge.j-a sɛ kɛʈɛʲc̚ʔ-ge.j-a</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a118" ANNOTATION_REF="a22">
+                <ANNOTATION_VALUE>ɘɖi ɟɘst̪i-d̪ɔː baŋ lɛhɛɾ-a</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a119" ANNOTATION_REF="a23">
+                <ANNOTATION_VALUE>sɛla.jin ɲu ŭcu.j-ɛm</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a120" ANNOTATION_REF="a24">
+                <ANNOTATION_VALUE>ɖab ɾe.j-aʔ d̪aʔ hɔ̃-m ɲu oco d̪aɽe-o̯͡a.j-a</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a121" ANNOTATION_REF="a25">
+                <ANNOTATION_VALUE>aɾ ɾu̯͡ɘ t̪ahɛn-kʰan ni.jɘ ɾaːn-ɛm ɟɔm-ŏco͡i̯-a</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a122" ANNOTATION_REF="a26">
+                <ANNOTATION_VALUE>ɾan aɾ kɔɽam ɾe.j-aʔ t̪o̯͡a baɾhɛ cɛt̪̚ʔ gid̪ɾɘ d̪ɔ ɟɘ͡o̯ d̪aka-ɲ ɟɔm oco d̪aɽe-ɔ̯͡a.j-a</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a123" ANNOTATION_REF="a27">
+                <ANNOTATION_VALUE>ɟɘɾuɽ bɘnu-a</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a124" ANNOTATION_REF="a28">
+                <ANNOTATION_VALUE>am-d̪ɔ ai̯͡ma saɾha͡o̯ ɟohaɾ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a125" ANNOTATION_REF="a29">
+                <ANNOTATION_VALUE>alɛ ɔɽaʔ aɽe-ɾɛ mit̪̚ʔ-ʈɛʲc̚ʔ lɘʈu-gi mãt̪̚ʔ t̪ʰɔp̚ʔ men-a-a</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a126" ANNOTATION_REF="a30">
+                <ANNOTATION_VALUE>ɔnɖɛ d̪ɔ baɖa͡i̯ baŋ baɖa͡i̯ nanahunɘɾ cɛ̃ɽɛ̃-ko ta̪hɛ̃-n-a</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a127" ANNOTATION_REF="a31">
+                <ANNOTATION_VALUE>d̪inɘm-hilɘʔ sɛt̪aʔ-ɾɛ cɛ̃ɽɛ̃-ko-ɔ̯͡aʔ cɛɾɔ-bɛɾɔ aɲɟɔm-t̪ɛ alɛ d̪ɔ-lɛ ɛbʰɛn-ɔʔ-a</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a128" ANNOTATION_REF="a32">
+                <ANNOTATION_VALUE>cɛ̃ɽɛ̃-ko-ɔ̯͡aʔ cɛɾɔ-bɛɾɔ aɲɟɔm-t̪ɛ ale.j-aʔ mɔn d̪ɔ ɾɘs-kɛ-t̪ɛ pɛɾɛɟ-ɔʔ-a</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a129" ANNOTATION_REF="a33">
+                <ANNOTATION_VALUE>oŋko mut̪̚ʔ-ɾɛ kɘʈiʲc̚ʔ ut̪ɘɾiʔ cɛ̃ɽɛ̃.j-aʔ ɲut̪um d̪ɔ pʰecaʔ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a130" ANNOTATION_REF="a34">
+                <ANNOTATION_VALUE>noko d̪ɔ ba-ko d̪uɽup̚ʔ t̪ʰiɾ-u-a mit̪̚ʔ ɖɘɾ kʰɔn eʈaʔ ɖɘɾ-ko uɖɘ͡o̯ baɽa-j-a</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a131" ANNOTATION_REF="a35">
+                <ANNOTATION_VALUE>ɲɛl-kat̪ɛ-m mɛn-ke̯͡a ɛnɛɟ-ɔʔ-t̪i-gi men-aʔ-ko̯͡a</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a132" ANNOTATION_REF="a36">
+                <ANNOTATION_VALUE>onko kʰɔn lɘʈu macʰi cɛ̃ɽɛ̃.j-aʔ ɲut̪um d̪ɔ gʰa͡o̯ɽa</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a133" ANNOTATION_REF="a37">
+                <ANNOTATION_VALUE>uŋko-hɔ̃ pʰecaʔ cɛ̃ɽɛ̃-leka hana ɖɘɾ nʰao̯͡a ɖɘɾ-ku uɖɘ͡o̯ baɽa-j-a</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a134" ANNOTATION_REF="a38">
+                <ANNOTATION_VALUE>aɾ mit̪̚ʔ-lɛkan kɘʈiʲc̚ʔ cɛ̃ɽɛ̃-ɔ̯͡aʔ ɲut̪um d̪ɔ hojoʔ-kana hisi cɛ̃ɽɛ̃</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a135" ANNOTATION_REF="a39">
+                <ANNOTATION_VALUE>oŋko d̪ɔ d̪aɾɛ ɖɘɾ-ɾɛ ɘɖi mɔ̃ɟ mɔ̃ɟ t̪ukɘ-ku bɛna-ɔ̯͡a</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a136" ANNOTATION_REF="a40">
+                <ANNOTATION_VALUE>aɾ uŋko kʰɔn t̪ʰɔɽa lɘʈu cɛ̃ɽɛ̃.j-aʔ ɲut̪um d̪ɔ hojoʔ-kana ʈiʔʈɔɽɔ̃ʔ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a137" ANNOTATION_REF="a41">
+                <ANNOTATION_VALUE>nɔŋkan cɛ̃ɽɛ̃ ɘɖi mɔ̃ɟ cɛɾɔ-bɛɾɔ-ko seɾeɲ-a</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a138" ANNOTATION_REF="a42">
+                <ANNOTATION_VALUE>ɔka d̪ɔ gid̪ɾɛ-ko cɛ̃ɽɛ̃ t̪ukɘ-ku ɾɘpud̪-a aɾ uŋko-ɾɛn hɔpɔn-ko t̪i.jɘʔ-ko̯͡a</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a139" ANNOTATION_REF="a43">
+                <ANNOTATION_VALUE>onat̪ɛ cɛ̃ɽɛ̃-ku d̪ɔ ɘɖi d̪uk̚-ku ɲaːm-a</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a140" ANNOTATION_REF="a44">
+                <ANNOTATION_VALUE>cɛ̃ɽɛ̃-ko-ɔ̯͡aʔ bɘɽiʲc̚ʔ hojoʔ noŋkan kɘmi kɘmi͡i̯ d̪ɔ baŋ leːka</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a141" ANNOTATION_REF="a45">
+                <ANNOTATION_VALUE>bɔ͡i̯ha iɲ mɔ̃ɽɛ kiɟi ca͡o̯le laga͡o̯-ɘ-ɲ-ɘ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a142" ANNOTATION_REF="a46">
+                <ANNOTATION_VALUE>t̪iki ca͡o̯le sɛ ad̪o̯͡a ca͡o̯le-m hat̪a͡o̯-a</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a143" ANNOTATION_REF="a47">
+                <ANNOTATION_VALUE>ad̪o͡a̯ ca͡o̯le ɾe.j-aʔ d̪am t̪inɘʔ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a144" ANNOTATION_REF="a48">
+                <ANNOTATION_VALUE>kiɟi-ɾɛ iɾɘl gɛl kɘ͡o̯ɖi</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a145" ANNOTATION_REF="a49">
+                <ANNOTATION_VALUE>unɘʔ d̪am ɖʰeɾ-ăkana</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a146" ANNOTATION_REF="a50">
+                <ANNOTATION_VALUE>baɟaɾ ɾɛ ɲit̪̚ʔ sanamaʔ ɾe.j-aʔ d̪am-ge ɖʰeɾ-ăkana</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a147" ANNOTATION_REF="a51">
+                <ANNOTATION_VALUE>ni͡ɘ-d̪ʰa͡o̯ hɔi̯͡d̪aʔ-t̪ɛ a͡i̯ma hoɽo kʰot̪i.j-akana</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a148" ANNOTATION_REF="a52">
+                <ANNOTATION_VALUE>ɔnat̪ɛ baɟaɾ-ɾɛ ca͡o̯le t̪ʰɔɽa-ge.j-a</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a149" ANNOTATION_REF="a53">
+                <ANNOTATION_VALUE>iɲ-d̪ɔ mɔ̃ɽɛ kiɟi bɔd̪ɔl-t̪ɛ pɛ kiɟi ad̪o̯͡a ca͡o̯le i-m-ɘ-ɲ-mɛ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a150" ANNOTATION_REF="a54">
+                <ANNOTATION_VALUE>sã͡o̯t̪ɛ mit̪̚ʔ keɟi kʰɘɟɘɽi-hɔ̃ i-m-ɘ-ɲ-mɛ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a151" ANNOTATION_REF="a55">
+                <ANNOTATION_VALUE>aɾ cɛt̪̚ʔ cɛt̪̚ʔ laga͡o̯-ma</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a152" ANNOTATION_REF="a56">
+                <ANNOTATION_VALUE>mit̪̚ʔ ɟɔɽa nɘɽkɔɽ miʔ-ʈɛn ɖɘbɾɘ sɘbun aɾ miʔ-ʈɛn kic̚ɾiʔ sɘbun laga͡o̯-ɲ-ɘ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a153" ANNOTATION_REF="a57">
+                <ANNOTATION_VALUE>ad̪ʰhɛ ɾɘsun ɟahanaʔ laga͡o̯-ma</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a154" ANNOTATION_REF="a58">
+                <ANNOTATION_VALUE>hɛ̃ ad̪ʰa keɟi ad̪ʰhɛ-m i-m-ɘ-ɲ-ɘ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a155" ANNOTATION_REF="a59">
+                <ANNOTATION_VALUE>iɲ-d̪ɔ sanamaʔ-ge mit̪̚ʔ-sã͡o̯-t̪ɛ-ɲ pɛkeʈ-am-kana</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a156" ANNOTATION_REF="a60">
+                <ANNOTATION_VALUE>miʔ-ʈɛn mũʲc̚ʔ d̪aʔ ɲu lɘgit̪̚ʔ gaɖa aɽe-i̯ cala͡o̯-ena</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a157" ANNOTATION_REF="a61">
+                <ANNOTATION_VALUE>ɘɖi-kaɟakɛ hɔ.j-ɛt̪̚ʔ-kan t̪ahɛ̃-na aɾ gaɖa-ɾɛ ɘɖi kaɟak̚ sɔ̃t̪̚ʔ t̪ɛhɛ-kana</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a158" ANNOTATION_REF="a62">
+                <ANNOTATION_VALUE>hɔ͡i̯-kakʰant̪ɛ muʲc̚ʔ d̪ɔ d̪aʔ-ɾɛ.j-ɛ ɲuɾ-hɘ͡i̯-na</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a159" ANNOTATION_REF="a63">
+                <ANNOTATION_VALUE>mit̪̚ʔ-ʈɛn pɔt̪am cɛ̃ɽɛ̃ d̪ɔ d̪aɾɛ ɖɘɾ-ɾɛ d̪uɽup̚ʔ-kat̪ɛ nɔ̯͡a gʰɔʈɔna-i̯ ɲɛl-ɛt̪̚ʔ-kan t̪ahɛ̃-na</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a160" ANNOTATION_REF="a64">
+                <ANNOTATION_VALUE>uni d̪ɔ muʲc̚ʔ-ɛː baɲca͡o̯-ɛ lɘgit̪̚ʔ mit̪̚ʔ-ʈɛn sakam d̪aʔ-ɾɛ.j-ɛ ɲuɾ-h-ɛked-a</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a161" ANNOTATION_REF="a65">
+                <ANNOTATION_VALUE>mũʲc̚ʔ d̪ɔ ɔna sakam-ɾɛ d̪ɛʲc̚ʔ-kat̪ɛ-t̪̚ʔ a.j-aʔ ɟiu̯͡i.j-ɛ baɲca͡o̯-kɛd̪-a</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a162" ANNOTATION_REF="a66">
+                <ANNOTATION_VALUE>inɘ t̪a.jɔm muʲc̚ʔ aɾ pot̪am d̪ɔ banahɔɽ gat̪e-kin ho͡i̯-ĕna</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a163" ANNOTATION_REF="a67">
+                <ANNOTATION_VALUE>a͡i̯ma-d̪in t̪a.jɔm mit̪̚ʔ sikɘɾi.j-ɘ gaɖa aɽɛ-ɾɛ.j-ɛ hɛʲc̚ʔ-ena</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a164" ANNOTATION_REF="a68">
+                <ANNOTATION_VALUE>d̪aɾe cɔʈ̚-ɾɛ pɔt̪am-ɛ ɲɛl-ked̪-e-kʰan sikɘɾi.j-ɘ d̪ɔ a.j-aʔ aʔ-ɛː soɟh-eked̪-a</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a165" ANNOTATION_REF="a69">
+                <ANNOTATION_VALUE>muʲc̚ʔ-d̪ɔ ɲɛl-ɲam-kat̪ɛ-t̪̚ʔ unɾe-ge.j-ɛ sikɘɾi.j-ɘ-ɔ̯͡aʔ kaʈa-ɾɛ.j-ɛ gɛɾ ked̪-e.j-a</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a166" ANNOTATION_REF="a70">
+                <ANNOTATION_VALUE>gɛɾ ɟɔm-kat̪ɛ sikɘɾi.j-ɘ-ɔ̯͡aʔ t̪i ɾe.j-aʔ saɾ d̪ɔ laɽa͡o̯-ena aɾ cɛ̃ɾɛ̃-d̪ɔ-i̯ baɲca͡ɔ̯-ɛ-na</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a167" ANNOTATION_REF="a71">
+                <ANNOTATION_VALUE>baɖa.j-am paseɾ ɔɽaʔ-ɾɛ mɛɾɔm-ko hɔpɔn-akana</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a168" ANNOTATION_REF="a72">
+                <ANNOTATION_VALUE>mɛɾɔm-d̪ɔː iɲ mɔ̃ɟ bɘ-ɲ ɘ͡i̯kɘ͡o̯-ko͡a</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a169" ANNOTATION_REF="a73">
+                <ANNOTATION_VALUE>iɲ-d̪ɔː ɖaŋgɾa mɔɟ-iɲ ɘ͡i̯kɘ͡o̯-ko̯͡a</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a170" ANNOTATION_REF="a74">
+                <ANNOTATION_VALUE>iɲ-d̪ɔː ɖaŋgɾa ɘsul-iɲ mɛn-d̪-a</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a171" ANNOTATION_REF="a75">
+                <ANNOTATION_VALUE>mɛn-kʰan ɖaŋgɾa lɘgit̪̚ʔ ɘɖi maɾaŋ ɟa͡i̯ga laga-a</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a172" ANNOTATION_REF="a76">
+                <ANNOTATION_VALUE>abo ɔɽaʔ-ɾɛ un-maɾaŋ ɟa͡i̯ga bɘnu-a</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a173" ANNOTATION_REF="a77">
+                <ANNOTATION_VALUE>ɖaŋɾa-i̯ t̪ahɛn-kʰan abo uni ʈʰɛn-kʰɔn t̪o̯͡a-bon ɲu d̪aɽe-ke.j-a</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a174" ANNOTATION_REF="a78">
+                <ANNOTATION_VALUE>t̪o̯͡a d̪ɔ mɛɾɔm-aʔ-hɔ̃ men-a-a am-d̪ɔ ɔna t̪o̯͡a-hɔ̃-m ɲu d̪aɽe.j-a-a</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a175" ANNOTATION_REF="a79">
+                <ANNOTATION_VALUE>mɛɾɔm-ɾɛn a͡i̯ma-ko hɔpɔn-ɔʔ-a</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a176" ANNOTATION_REF="a80">
+                <ANNOTATION_VALUE>hɔpɔn-ko t̪o̯͡a ɲu t̪a.jɔm mɛɾɔm-aʔ aɾ t̪o̯͡a baŋ ho.jo-a</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a177" ANNOTATION_REF="a81">
+                <ANNOTATION_VALUE>ɔnat̪ɛ ɟɘst̪i t̪ɔ̯͡a baŋ ɲam-ɔ-a</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a178" ANNOTATION_REF="a82">
+                <ANNOTATION_VALUE>am ʈʰik̚-ge-m mɛːn-akad̪-a</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a179" ANNOTATION_REF="a83">
+                <ANNOTATION_VALUE>mɛn-kʰan ɖaŋɾa kiɾiɲ-t̪ɛ a͡i̯ma kɘ͡u̯ɖi laga-a</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a180" ANNOTATION_REF="a84">
+                <ANNOTATION_VALUE>baba-ʈʰɛn ɖaŋɾa kiɾiɲ-leka kɘ͡u̯ɖi bɘnu-a</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a181" ANNOTATION_REF="a85">
+                <ANNOTATION_VALUE>ɖaŋɾa kiɾiɲ lɘgit̪̚ʔ iːɲ baba kɘ͡o̯ɖi-ɲ em-a-j-a</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a182" ANNOTATION_REF="a86">
+                <ANNOTATION_VALUE>am-d̪ɔ ɔka-kʰɔn kɘ͡u̯ɖi-m ɲam-a</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a183" ANNOTATION_REF="a87">
+                <ANNOTATION_VALUE>iɲ-d̪ɔ pɘhil-ɾɛ kalɔʈ̚ aɾ sɘnɖi sim-iɲ ɘsul-ko̯͡a</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a184" ANNOTATION_REF="a88">
+                <ANNOTATION_VALUE>miʔ-ʈɛn sɘnɖi aɾ miʔ-ʈɛn kalɔʈ̚ ni̯͡ɘ-t̪ɛ-ɲ ɛhɔb-a</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a185" ANNOTATION_REF="a89">
+                <ANNOTATION_VALUE>sim-kʰɔn mit̪̚ʔ-sã͡ɔ̯-t̪ɛ a͡i̯ma-ko hɔpɔn-ɔʔ-a</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a186" ANNOTATION_REF="a90">
+                <ANNOTATION_VALUE>inɘ-t̪a.jɔm onko-ko lɘʈu-lɛn-kʰan ɘkʰɾiɲ-kat̪ɛ-t̪̚ʔ a͡i̯ma kɘ͡u̯ɖi ɲam-ɔ-a</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a187" ANNOTATION_REF="a91">
+                <ANNOTATION_VALUE>ɔna kɘ͡u̯ɖi-t̪ɛ ɖaŋɾa-ɲ kiɾi.ɲi.j-a</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a188" ANNOTATION_REF="a92">
+                <ANNOTATION_VALUE>ɖaŋɾa unɘʔ-ɛ-m kusi.j-akokana</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a189" ANNOTATION_REF="a93">
+                <ANNOTATION_VALUE>iɲ-aʔ t̪ʰɔɽa ɟɔma kɘ͡u̯ɖi men-a-a</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a190" ANNOTATION_REF="a94">
+                <ANNOTATION_VALUE>ɔŋɖɛ-kʰɔn iɲ t̪ʰɔɽa kɘ͡u̯ɖi am-iɲ ɛm d̪aɽe-ɔ̯͡a-ma</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a191" ANNOTATION_REF="a95">
+                <ANNOTATION_VALUE>ʈhik-ge.j-a alaŋ banahɔɽ-t̪ɛ ɖaŋɾa-laŋ ɘsul-e.j-a</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a192" ANNOTATION_REF="a96">
+                <ANNOTATION_VALUE>iɲ-hɔ̃ ɖaŋɾa kiɾiɲ ɾe.j-aʔ kɘ͡u̯ɖi-ɲ ɛm-ɔ-a</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="gloss" PARENT_REF="mb" TIER_ID="gl">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a193" ANNOTATION_REF="a97">
+                <ANNOTATION_VALUE>body-LOC child come after after-EMPH mother person-GEN doctor-LOC go-IPFV need-FIN</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a194" ANNOTATION_REF="a98">
+                <ANNOTATION_VALUE>such time-LOC small minor any disease-EMPH NEG neglect become-FIN</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a195" ANNOTATION_REF="a99">
+                <ANNOTATION_VALUE>this time-LOC what NEG what work-3PL TOP doctor LOC ABL know-1SG become-FIN</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a196" ANNOTATION_REF="a100">
+                <ANNOTATION_VALUE>that time what what eat COND child and mother person-GEN good-EMPH become-FIN that-also see become-FIN</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a197" ANNOTATION_REF="a101">
+                <ANNOTATION_VALUE>any heavy work work-NMLZ TOP pregnant body mother person-GEN NEG do-FIN</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a198" ANNOTATION_REF="a102">
+                <ANNOTATION_VALUE>pregnant body mother-person TOP good-EMPH good-EMPH eat drink give-FIN-3PL become-FIN</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a199" ANNOTATION_REF="a103">
+                <ANNOTATION_VALUE>this time without eat-CVB NEG stay become-FIN</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a200" ANNOTATION_REF="a104">
+                <ANNOTATION_VALUE>mother person-GEN body so.that very much NEG heavy-IPFV-3SG that-also see become-FIN</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a201" ANNOTATION_REF="a105">
+                <ANNOTATION_VALUE>body very much heavy become-COND 3SG.DEF mother person-GEN various disease pain become can-FIN</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a202" ANNOTATION_REF="a106">
+                <ANNOTATION_VALUE>greetings doctor-2SG say-PROG-FIN</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a203" ANNOTATION_REF="a107">
+                <ANNOTATION_VALUE>yes say-PROG-FIN</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a204" ANNOTATION_REF="a108">
+                <ANNOTATION_VALUE>1SG-GEN boy child-GEN sudden-NMLZ-CVB cold and diarrhoea start-PRF-3SG-FIN</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a205" ANNOTATION_REF="a109">
+                <ANNOTATION_VALUE>2SG-GEN child-GEN how.much age</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a206" ANNOTATION_REF="a110">
+                <ANNOTATION_VALUE>3SG-GEN age ten month</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a207" ANNOTATION_REF="a111">
+                <ANNOTATION_VALUE>3SG-GEN body-LOC what fever exist-FIN-Q</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a208" ANNOTATION_REF="a112">
+                <ANNOTATION_VALUE>body-LOC fever NEG-FIN but body little warm-EMPH exist-FIN-FIN</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a209" ANNOTATION_REF="a113">
+                <ANNOTATION_VALUE>child-GEN this condition how.much-day-ABL</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a210" ANNOTATION_REF="a114">
+                <ANNOTATION_VALUE>yesterday night-ABL this condition start-PRF-3SG-FIN</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a211" ANNOTATION_REF="a115">
+                <ANNOTATION_VALUE>morning-ABL 3SG.DEF how.much-time-3SG defecate-PRF-FIN</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a212" ANNOTATION_REF="a116">
+                <ANNOTATION_VALUE>morning-ABL 3SG.DEF five-time-3SG defecate-PRF-FIN</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a213" ANNOTATION_REF="a117">
+                <ANNOTATION_VALUE>stool-NMLZ-TOP what thin-EMPH-FIN or thick-EMPH-FIN</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a214" ANNOTATION_REF="a118">
+                <ANNOTATION_VALUE>very much-TOP NEG thin-FIN</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a215" ANNOTATION_REF="a119">
+                <ANNOTATION_VALUE>saline drink CAUS-2SG.IMP</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a216" ANNOTATION_REF="a120">
+                <ANNOTATION_VALUE>coconut LOC-GEN water also-2SG drink CAUS can-FIN-FIN</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a217" ANNOTATION_REF="a121">
+                <ANNOTATION_VALUE>and fever stay-COND this medicine-2SG eat-CAUS.2SG.IMP-FIN</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a218" ANNOTATION_REF="a122">
+                <ANNOTATION_VALUE>medicine and breast LOC-GEN milk besides what child TOP porridge rice-1SG eat CAUS can-FIN-Q</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a219" ANNOTATION_REF="a123">
+                <ANNOTATION_VALUE>need NEG-FIN</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a220" ANNOTATION_REF="a124">
+                <ANNOTATION_VALUE>2SG-TOP much thanks greetings</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a221" ANNOTATION_REF="a125">
+                <ANNOTATION_VALUE>1PL.EX house side-LOC one-CLF big-EMPH bamboo cluster exist-FIN-FIN</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a222" ANNOTATION_REF="a126">
+                <ANNOTATION_VALUE>there TOP know NEG know various bird-3PL stay-3PL-FIN</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a223" ANNOTATION_REF="a127">
+                <ANNOTATION_VALUE>everyday morning-LOC bird-3PL-GEN chirp-RDP hear-CVB 1PL.EX TOP-1PL.EX wake-IPFV-FIN</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a224" ANNOTATION_REF="a128">
+                <ANNOTATION_VALUE>bird-3PL-GEN chirp-RDP hear-CVB 1PL.EX-GEN heart TOP joy-PST-CVB fill-IPFV-FIN</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a225" ANNOTATION_REF="a129">
+                <ANNOTATION_VALUE>3PL all-LOC small tiny bird-GEN name TOP warbler</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a226" ANNOTATION_REF="a130">
+                <ANNOTATION_VALUE>DEM.PROX TOP NEG-3PL sit stable-VBLZ-FIN one branch ABL other branch-3PL fly wander-FIN-FIN</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a227" ANNOTATION_REF="a131">
+                <ANNOTATION_VALUE>see-CVB-2SG say-3SG dance-IPFV-PROG-EMPH exist-FIN-3PL</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a228" ANNOTATION_REF="a132">
+                <ANNOTATION_VALUE>3PL ABL big slightly bird-GEN name TOP sparrow</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a229" ANNOTATION_REF="a133">
+                <ANNOTATION_VALUE>3PL-also warbler bird-like that branch this branch-3PL fly wander-FIN-FIN</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a230" ANNOTATION_REF="a134">
+                <ANNOTATION_VALUE>and one-kind small bird-GEN name TOP be-PROG weaver bird</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a231" ANNOTATION_REF="a135">
+                <ANNOTATION_VALUE>3PL TOP tree branch-LOC very beautiful beautiful nest-3PL make-FIN</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a232" ANNOTATION_REF="a136">
+                <ANNOTATION_VALUE>and 3PL ABL little big bird-GEN name TOP be-PROG nightingale</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a233" ANNOTATION_REF="a137">
+                <ANNOTATION_VALUE>such bird very good chirp-RDP-3PL sing-FIN</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a234" ANNOTATION_REF="a138">
+                <ANNOTATION_VALUE>where TOP child-3PL bird nest-3PL break-FIN and 3PL-GEN child-3PL steal-3PL</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a235" ANNOTATION_REF="a139">
+                <ANNOTATION_VALUE>therefore bird-3PL TOP very pain-3PL get-FIN</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a236" ANNOTATION_REF="a140">
+                <ANNOTATION_VALUE>bird-3PL-GEN harm be such work work-NMLZ TOP NEG good</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a237" ANNOTATION_REF="a141">
+                <ANNOTATION_VALUE>brother 1SG five kg rice need-FIN-1SG-FIN</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a238" ANNOTATION_REF="a142">
+                <ANNOTATION_VALUE>parboiled rice or sunned rice-2SG take-FIN</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a239" ANNOTATION_REF="a143">
+                <ANNOTATION_VALUE>sunned rice LOC-GEN price how.much</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a240" ANNOTATION_REF="a144">
+                <ANNOTATION_VALUE>kg-LOC eight ten taka</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a241" ANNOTATION_REF="a145">
+                <ANNOTATION_VALUE>such price grow-PRF</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a242" ANNOTATION_REF="a146">
+                <ANNOTATION_VALUE>market LOC now everything LOC-GEN price-EMPH grow-PRF</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a243" ANNOTATION_REF="a147">
+                <ANNOTATION_VALUE>this-time storm-CVB much paddy damage-PRF</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a244" ANNOTATION_REF="a148">
+                <ANNOTATION_VALUE>therefore market-LOC rice little-EMPH-FIN</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a245" ANNOTATION_REF="a149">
+                <ANNOTATION_VALUE>1SG-TOP five kg replace-CVB three kg sunned rice give-2SG-FIN-1SG-IMP</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a246" ANNOTATION_REF="a150">
+                <ANNOTATION_VALUE>with one kg puffed.rice-also give-2SG-FIN-1SG-IMP</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a247" ANNOTATION_REF="a151">
+                <ANNOTATION_VALUE>and what what need-2SG.Q</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a248" ANNOTATION_REF="a152">
+                <ANNOTATION_VALUE>one pair coconut one-CLF bath soap and one-CLF clothes soap need-1SG-FIN</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a249" ANNOTATION_REF="a153">
+                <ANNOTATION_VALUE>ginger garlic anything need-2SG.Q</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a250" ANNOTATION_REF="a154">
+                <ANNOTATION_VALUE>yes half kg ginger-2SG give-2SG-FIN-1SG-FIN</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a251" ANNOTATION_REF="a155">
+                <ANNOTATION_VALUE>1SG-TOP everything-EMPH one-together-CVB-1SG packet-2SG.OBJ-PROG</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a252" ANNOTATION_REF="a156">
+                <ANNOTATION_VALUE>one-CLF ant water drink PURP river side-3SG go-PST</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a253" ANNOTATION_REF="a157">
+                <ANNOTATION_VALUE>very-strong wind-PROG-PROG stay-PST and river-LOC very strong current be-PROG</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a254" ANNOTATION_REF="a158">
+                <ANNOTATION_VALUE>wind-because ant TOP water-LOC-3SG fall-go-PST</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a255" ANNOTATION_REF="a159">
+                <ANNOTATION_VALUE>one-CLF dove bird TOP tree branch-LOC sit-CVB this happening-3SG see-PROG-PROG stay-PST</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a256" ANNOTATION_REF="a160">
+                <ANNOTATION_VALUE>3SG.DEF TOP ant-3SG.OBJ save-3SG PURP one-CLF leaf water-LOC-3SG drop-CAUS-PST-FIN</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a257" ANNOTATION_REF="a161">
+                <ANNOTATION_VALUE>ant TOP that leaf-LOC climb-CVB-CVB 3SG-GEN life-3SG save-PST-FIN</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a258" ANNOTATION_REF="a162">
+                <ANNOTATION_VALUE>this after ant and dove TOP both friend-3DU become-PST</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a259" ANNOTATION_REF="a163">
+                <ANNOTATION_VALUE>many-day after one hunter-FIN river side-LOC-3SG come-PST</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a260" ANNOTATION_REF="a164">
+                <ANNOTATION_VALUE>tree top-LOC dove-3SG see-PST-3SG-COND hunter-FIN TOP 3SG-GEN arrow-3SG.OBJ aim-PST-FIN</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a261" ANNOTATION_REF="a165">
+                <ANNOTATION_VALUE>ant-TOP see-find-CVB-CVB then-EMPH-3SG hunter-FIN-GEN leg-LOC-3SG bite PST-3SG-FIN</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a262" ANNOTATION_REF="a166">
+                <ANNOTATION_VALUE>bite eat-CVB hunter-FIN-GEN hand LOC-GEN arrow TOP move-PST and bird-TOP-3SG save-PST-PST</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a263" ANNOTATION_REF="a167">
+                <ANNOTATION_VALUE>know-2SG neighbouring house-LOC goat-3PL bear.child-PRF</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a264" ANNOTATION_REF="a168">
+                <ANNOTATION_VALUE>goat-TOP 1SG good NEG-1SG like-3PL</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a265" ANNOTATION_REF="a169">
+                <ANNOTATION_VALUE>1SG-TOP cow good-1SG like-3PL</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a266" ANNOTATION_REF="a170">
+                <ANNOTATION_VALUE>1SG-TOP cow rear-1SG say-PROG-FIN</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a267" ANNOTATION_REF="a171">
+                <ANNOTATION_VALUE>say-COND cow PURP very big space need-FIN</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a268" ANNOTATION_REF="a172">
+                <ANNOTATION_VALUE>1PL.IN house-LOC such-big space NEG-FIN</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a269" ANNOTATION_REF="a173">
+                <ANNOTATION_VALUE>cow-3SG stay-COND 1PL.IN 3SG.DEF LOC-ABL milk-1PL.IN drink can-PST-FIN</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a270" ANNOTATION_REF="a174">
+                <ANNOTATION_VALUE>milk TOP goat-GEN-also exist-FIN-FIN 2SG-TOP that milk-also-2SG drink can-FIN-FIN</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a271" ANNOTATION_REF="a175">
+                <ANNOTATION_VALUE>goat-GEN much-3PL bear.child-IPFV-FIN</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a272" ANNOTATION_REF="a176">
+                <ANNOTATION_VALUE>child-3PL milk drink after goat-GEN more milk NEG become-FIN</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a273" ANNOTATION_REF="a177">
+                <ANNOTATION_VALUE>therefore much milk NEG get-IPFV-FIN</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a274" ANNOTATION_REF="a178">
+                <ANNOTATION_VALUE>2SG correct-EMPH-2SG say-PRF-FIN</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a275" ANNOTATION_REF="a179">
+                <ANNOTATION_VALUE>say-COND cow buy-CVB much money need-FIN</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a276" ANNOTATION_REF="a180">
+                <ANNOTATION_VALUE>father-LOC cow buy-like money NEG-FIN</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a277" ANNOTATION_REF="a181">
+                <ANNOTATION_VALUE>cow buy PURP 1SG father money-1SG give-FIN-3SG-FIN</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a278" ANNOTATION_REF="a182">
+                <ANNOTATION_VALUE>2SG-TOP where-ABL money-2SG get-FIN</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a279" ANNOTATION_REF="a183">
+                <ANNOTATION_VALUE>1SG-TOP first-LOC rooster and chicken bird-1SG rear-3PL</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a280" ANNOTATION_REF="a184">
+                <ANNOTATION_VALUE>one-CLF chicken and one-CLF rooster this-CVB-1SG start-FIN</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a281" ANNOTATION_REF="a185">
+                <ANNOTATION_VALUE>chicken-ABL one-together-CVB much-3PL bear.child-IPFV-FIN</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a282" ANNOTATION_REF="a186">
+                <ANNOTATION_VALUE>this-after 3PL-3PL big-become-COND sell-CVB-CVB much money get-IPFV-FIN</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a283" ANNOTATION_REF="a187">
+                <ANNOTATION_VALUE>that money-CVB cow-1SG buy-FIN</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a284" ANNOTATION_REF="a188">
+                <ANNOTATION_VALUE>cow such-3SG-2SG happy-PRF</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a285" ANNOTATION_REF="a189">
+                <ANNOTATION_VALUE>1SG-GEN little saved money exist-FIN-FIN</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a286" ANNOTATION_REF="a190">
+                <ANNOTATION_VALUE>there-ABL 1SG little money 2SG-1SG give can-FIN-2SG</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a287" ANNOTATION_REF="a191">
+                <ANNOTATION_VALUE>alright-EMPH-FIN 1DU.IN both-CVB cow-1DU.IN rear-FIN-FIN</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a288" ANNOTATION_REF="a192">
+                <ANNOTATION_VALUE>1SG-also cow buy LOC-GEN money-1SG give-IPFV-FIN</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="translation" PARENT_REF="ref" TIER_ID="ft">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a289" ANNOTATION_REF="a1">
+                <ANNOTATION_VALUE>A pregnant woman (mother) should visit a doctor immediately right after conception.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a290" ANNOTATION_REF="a2">
+                <ANNOTATION_VALUE>Any minor ailment should not be neglected during this time.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a291" ANNOTATION_REF="a3">
+                <ANNOTATION_VALUE>It is better to know from the doctor what needs to be done at this time.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a292" ANNOTATION_REF="a4">
+                <ANNOTATION_VALUE>In this time, attention should be paid to what kind of food one gives the mother to eat so that both the baby and the mother will be well.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a293" ANNOTATION_REF="a5">
+                <ANNOTATION_VALUE>A pregnant mother should not do any heavy work.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a294" ANNOTATION_REF="a6">
+                <ANNOTATION_VALUE>A pregnant mother should always be given nutritious/good food.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a295" ANNOTATION_REF="a7">
+                <ANNOTATION_VALUE>During this time fasting is not permitted.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a296" ANNOTATION_REF="a8">
+                <ANNOTATION_VALUE>We have to be careful so that the mother's body does not become too heavy.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a297" ANNOTATION_REF="a9">
+                <ANNOTATION_VALUE>If the pregnant woman's body becomes too heavy, various diseases can attack.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a298" ANNOTATION_REF="a10">
+                <ANNOTATION_VALUE>Nipa: Hello, (Greetings)! Is the Doctor speaking?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a299" ANNOTATION_REF="a11">
+                <ANNOTATION_VALUE>Doctor: Yes, I am speaking.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a300" ANNOTATION_REF="a12">
+                <ANNOTATION_VALUE>Nipa: My son got attacked by a sudden cold and diarrhoea.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a301" ANNOTATION_REF="a13">
+                <ANNOTATION_VALUE>Doctor: How old is your child?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a302" ANNOTATION_REF="a14">
+                <ANNOTATION_VALUE>Nipa: He is 10 months old.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a303" ANNOTATION_REF="a15">
+                <ANNOTATION_VALUE>Doctor: Does he have a fever?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a304" ANNOTATION_REF="a16">
+                <ANNOTATION_VALUE>Nipa: Not a fever, but his body is slightly warm.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a305" ANNOTATION_REF="a17">
+                <ANNOTATION_VALUE>Doctor: How long has this condition been for the child?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a306" ANNOTATION_REF="a18">
+                <ANNOTATION_VALUE>Nipa: This situation started from last night.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a307" ANNOTATION_REF="a19">
+                <ANNOTATION_VALUE>Doctor: How many times has he defecated since morning?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a308" ANNOTATION_REF="a20">
+                <ANNOTATION_VALUE>Nipa: He has defecated 5 times since morning.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a309" ANNOTATION_REF="a21">
+                <ANNOTATION_VALUE>Doctor: Is the stool thin or thick?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a310" ANNOTATION_REF="a22">
+                <ANNOTATION_VALUE>Nipa: Not too thin.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a311" ANNOTATION_REF="a23">
+                <ANNOTATION_VALUE>Doctor: Give him saline to drink.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a312" ANNOTATION_REF="a24">
+                <ANNOTATION_VALUE>Doctor: You can also give him coconut water to drink.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a313" ANNOTATION_REF="a25">
+                <ANNOTATION_VALUE>Doctor: And, if he has a fever, give him [this] medicine.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a314" ANNOTATION_REF="a26">
+                <ANNOTATION_VALUE>Nipa: Should I feed the baby rice porridge in addition to the medicine and breast milk?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a315" ANNOTATION_REF="a27">
+                <ANNOTATION_VALUE>Doctor: No need to do that.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a316" ANNOTATION_REF="a28">
+                <ANNOTATION_VALUE>Nipa: Thank you, (Greetings).</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a317" ANNOTATION_REF="a29">
+                <ANNOTATION_VALUE>There is a big bamboo forest next to our house.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a318" ANNOTATION_REF="a30">
+                <ANNOTATION_VALUE>Many types of known and unknown birds live there.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a319" ANNOTATION_REF="a31">
+                <ANNOTATION_VALUE>Every morning we wake up to the chirping of those birds.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a320" ANNOTATION_REF="a32">
+                <ANNOTATION_VALUE>Hearing the birds' chirping makes you feel better.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a321" ANNOTATION_REF="a33">
+                <ANNOTATION_VALUE>The Warbler is the tiniest bird among all the birds.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a322" ANNOTATION_REF="a34">
+                <ANNOTATION_VALUE>They do not sit in one place, but fly from one branch to another branch of trees.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a323" ANNOTATION_REF="a35">
+                <ANNOTATION_VALUE>They seem to be always dancing.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a324" ANNOTATION_REF="a36">
+                <ANNOTATION_VALUE>A little bigger bird than them is called the Sparrow.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a325" ANNOTATION_REF="a37">
+                <ANNOTATION_VALUE>They also fly from branches to branches like the Warbler.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a326" ANNOTATION_REF="a38">
+                <ANNOTATION_VALUE>Another type of small bird is called the Weaver.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a327" ANNOTATION_REF="a39">
+                <ANNOTATION_VALUE>They can make very beautiful nests in the tree branches.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a328" ANNOTATION_REF="a40">
+                <ANNOTATION_VALUE>A little bigger bird than them is the Nightingale.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a329" ANNOTATION_REF="a41">
+                <ANNOTATION_VALUE>This bird can sing very well.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a330" ANNOTATION_REF="a42">
+                <ANNOTATION_VALUE>Many times children break the nests of the birds and steal their babies.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a331" ANNOTATION_REF="a43">
+                <ANNOTATION_VALUE>The birds suffer a lot because of this.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a332" ANNOTATION_REF="a44">
+                <ANNOTATION_VALUE>Birds should not be harmed/ not good to harm the birds.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a333" ANNOTATION_REF="a45">
+                <ANNOTATION_VALUE>Buyer: Brother, I need 5 KGs of rice.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a334" ANNOTATION_REF="a46">
+                <ANNOTATION_VALUE>Vendor: Will you take parboiled rice or sunned rice?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a335" ANNOTATION_REF="a47">
+                <ANNOTATION_VALUE>Buyer: How much is the price of sunned rice?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a336" ANNOTATION_REF="a48">
+                <ANNOTATION_VALUE>Vendor: BDT 80 per KG.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a337" ANNOTATION_REF="a49">
+                <ANNOTATION_VALUE>Buyer: The price has increased so much!</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a338" ANNOTATION_REF="a50">
+                <ANNOTATION_VALUE>Vendor: Everything in the market has gone up in price now.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a339" ANNOTATION_REF="a51">
+                <ANNOTATION_VALUE>Vendor: A lot of paddy has been damaged in the storm this year.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a340" ANNOTATION_REF="a52">
+                <ANNOTATION_VALUE>Vendor: So there is a rice crisis in the market.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a341" ANNOTATION_REF="a53">
+                <ANNOTATION_VALUE>Buyer: Give me 3 KGs of sunned rice instead of 5 KGs.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a342" ANNOTATION_REF="a54">
+                <ANNOTATION_VALUE>Buyer: Also give 1 KG of puffed rice.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a343" ANNOTATION_REF="a55">
+                <ANNOTATION_VALUE>Vendor: What else do you need?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a344" ANNOTATION_REF="a56">
+                <ANNOTATION_VALUE>Buyer: Also need a couple of coconuts, a bath soap and a laundry soap.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a345" ANNOTATION_REF="a57">
+                <ANNOTATION_VALUE>Vendor: Need some ginger-garlic?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a346" ANNOTATION_REF="a58">
+                <ANNOTATION_VALUE>Buyer: Yes, give half a KG of ginger.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a347" ANNOTATION_REF="a59">
+                <ANNOTATION_VALUE>Vendor: I am packing everything together.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a348" ANNOTATION_REF="a60">
+                <ANNOTATION_VALUE>An ant went to the river bank to drink water.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a349" ANNOTATION_REF="a61">
+                <ANNOTATION_VALUE>The wind was blowing very strongly and the river had a strong current.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a350" ANNOTATION_REF="a62">
+                <ANNOTATION_VALUE>The ant fell into the water due to the wind.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a351" ANNOTATION_REF="a63">
+                <ANNOTATION_VALUE>A dove was sitting on a tree branch watching this happening.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a352" ANNOTATION_REF="a64">
+                <ANNOTATION_VALUE>He threw a leaf into the water to save that ant.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a353" ANNOTATION_REF="a65">
+                <ANNOTATION_VALUE>The ant climbed onto that leaf and saved its life.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a354" ANNOTATION_REF="a66">
+                <ANNOTATION_VALUE>Then the ant and the dove became friends.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a355" ANNOTATION_REF="a67">
+                <ANNOTATION_VALUE>After many days a hunter came to that bank of the river.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a356" ANNOTATION_REF="a68">
+                <ANNOTATION_VALUE>Seeing the dove on the tree, the hunter aimed his arrow at it.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a357" ANNOTATION_REF="a69">
+                <ANNOTATION_VALUE>After seeing this the ant immediately bit the hunter's leg.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a358" ANNOTATION_REF="a70">
+                <ANNOTATION_VALUE>The arrow fell from the hunter's hand after being bitten and the bird survived.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a359" ANNOTATION_REF="a71">
+                <ANNOTATION_VALUE>Sister: Do you know, the goat next door had a baby!</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a360" ANNOTATION_REF="a72">
+                <ANNOTATION_VALUE>Brother: I don't like goats.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a361" ANNOTATION_REF="a73">
+                <ANNOTATION_VALUE>Brother: I like cows.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a362" ANNOTATION_REF="a74">
+                <ANNOTATION_VALUE>Brother: I want to keep cows.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a363" ANNOTATION_REF="a75">
+                <ANNOTATION_VALUE>Sister: But cows need a lot of space.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a364" ANNOTATION_REF="a76">
+                <ANNOTATION_VALUE>Sister: We don't have that much space in our house.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a365" ANNOTATION_REF="a77">
+                <ANNOTATION_VALUE>Brother: If there was a cow, we could have milk to drink from it.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a366" ANNOTATION_REF="a78">
+                <ANNOTATION_VALUE>Sister: Milk can come from the goat too, you can drink that milk too.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a367" ANNOTATION_REF="a79">
+                <ANNOTATION_VALUE>Brother: Goats have many baby goats.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a368" ANNOTATION_REF="a80">
+                <ANNOTATION_VALUE>Brother: After the baby goats drink milk, there is no more milk left in the goat's breast.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a369" ANNOTATION_REF="a81">
+                <ANNOTATION_VALUE>Brother: So not much milk is available.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a370" ANNOTATION_REF="a82">
+                <ANNOTATION_VALUE>Sister: You have told the right thing.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a371" ANNOTATION_REF="a83">
+                <ANNOTATION_VALUE>Sister: But it costs a lot of money to buy a cow.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a372" ANNOTATION_REF="a84">
+                <ANNOTATION_VALUE>Sister: Father doesn't have enough money to buy a cow.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a373" ANNOTATION_REF="a85">
+                <ANNOTATION_VALUE>Brother: I will give money to father to buy a cow.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a374" ANNOTATION_REF="a86">
+                <ANNOTATION_VALUE>Sister: Where will you get the money from?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a375" ANNOTATION_REF="a87">
+                <ANNOTATION_VALUE>Brother: I will raise roosters and chickens first.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a376" ANNOTATION_REF="a88">
+                <ANNOTATION_VALUE>Brother: I will start with a rooster and a hen.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a377" ANNOTATION_REF="a89">
+                <ANNOTATION_VALUE>Brother: Chickens will have many chicks all at once.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a378" ANNOTATION_REF="a90">
+                <ANNOTATION_VALUE>Brother: After that, when they are big enough, we can get a lot of money by selling them.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a379" ANNOTATION_REF="a91">
+                <ANNOTATION_VALUE>Brother: I will buy a cow with that money.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a380" ANNOTATION_REF="a92">
+                <ANNOTATION_VALUE>Sister: Do you like cows that much?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a381" ANNOTATION_REF="a93">
+                <ANNOTATION_VALUE>Sister: I have some money saved.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a382" ANNOTATION_REF="a94">
+                <ANNOTATION_VALUE>Sister: I can give you some money from that saving.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a383" ANNOTATION_REF="a95">
+                <ANNOTATION_VALUE>Sister: Alright, we will take care of that cow together.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a384" ANNOTATION_REF="a96">
+                <ANNOTATION_VALUE>Sister: I will also give money to buy the cow.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="utterance" TIME_ALIGNABLE="true" CONSTRAINTS="TIME_ALIGNABLE"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="morpheme" TIME_ALIGNABLE="false" CONSTRAINTS="INCLUDED_IN"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="gloss" TIME_ALIGNABLE="false" CONSTRAINTS="SYMBOLIC_ASSOCIATION"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="translation" TIME_ALIGNABLE="false" CONSTRAINTS="INCLUDED_IN"/>
+    <CONSTRAINT DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations referring to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+</ANNOTATION_DOCUMENT>

@@ -1,0 +1,12 @@
+﻿file,rows,strict_json_errors,unique_ids,unique_santali,blank_santali,blank_english,blank_bangla,one_token_santali,two_or_fewer_token_santali,english_like_santali,mojibake_rows,exact_santali_matches,exact_english_matches,exact_bangla_matches,weak_auto_matches_score_ge_0_55,strict_reviewable_score_ge_0_75_content_ge_2,mean_score,median_score,p90_score,max_score
+santali_synthetic_40k_sentences.csv,40000,0,40000,40000,0,0,0,0,1736,37113,0,0,0,2,8219,65,0.4224,0.3894,0.6776,1.0000
+generated_santali.jsonl,50,47,50,50,0,47,50,17,24,19,0,0,3,0,3,3,0.1742,0.1415,0.3444,1.0000
+generated_santali_large.jsonl,3000,2877,3000,3000,0,2877,3000,1009,1416,1074,0,1,123,0,123,123,0.1573,0.1443,0.3162,1.0000
+generated_santali_5k.jsonl,5000,4732,5000,5000,0,4732,5000,1916,2627,1662,0,2,268,0,268,268,0.1555,0.1250,0.3162,1.0000
+generated_santali_5k_all_data.jsonl,5000,217,5000,5000,0,4990,5000,1330,1662,3226,0,2,1726,0,10,10,0.0755,0.0833,0.1443,1.0000
+generated_santali_large.csv,3000,0,3000,3000,0,2877,3000,1009,1416,1074,0,1,123,0,123,123,0.1573,0.1443,0.3162,1.0000
+generated_santali_5k.csv,5000,0,5000,5000,0,4732,5000,1916,2627,1662,0,2,268,0,268,268,0.1555,0.1250,0.3162,1.0000
+generated_santali_5k_all_data.csv,5000,0,5000,5000,0,4990,5000,1330,1662,3226,0,2,1726,0,10,10,0.0755,0.0833,0.1443,1.0000
+generated_high_confidence_against_eaf.csv,11202,0,11202,11202,0,0,0,0,330,10524,0,0,0,0,7358,65,0.5838,0.6118,0.7584,1.0000
+generated_high_confidence_sentence_eaf.csv,7403,0,7403,7403,0,0,0,0,198,6939,0,0,0,0,6373,54,0.6346,0.6659,0.7738,1.0000
+generated_low_confidence_sample_against_eaf.csv,500,0,500,500,0,0,0,0,43,444,0,0,0,0,4,0,0.3262,0.3182,0.4500,0.7071

@@ -1,0 +1,1434 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" AUTHOR="" DATE="2026-05-09T00:00:00+00:00" FORMAT="3.0" VERSION="3.0" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:santali-dialogues-glossed</PROPERTY>
+        <PROPERTY NAME="CORPUS">Santali Dialogue Corpus - Glossed</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <!-- Dialogue 1: Police Station (utterances 1-17) -->
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="0"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="2000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="2200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="4200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="4400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="6400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="6600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="8600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="8800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="10800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="11000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="13000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="13200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="15200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="15400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="17400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="17600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="19600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="19800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="21800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="22000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="24000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="24200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="26200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="26400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="28400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="28600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="30600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="30800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="32800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="33000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="35000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="35200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="37200"/>
+        <!-- Dialogue 2: Bus Counter (utterances 18-33) -->
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="40000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="42000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="42200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="44200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="44400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="46400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="46600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="48600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="48800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="50800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts45" TIME_VALUE="51000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts46" TIME_VALUE="53000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts47" TIME_VALUE="53200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts48" TIME_VALUE="55200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts49" TIME_VALUE="55400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts50" TIME_VALUE="57400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts51" TIME_VALUE="57600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts52" TIME_VALUE="59600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts53" TIME_VALUE="59800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts54" TIME_VALUE="61800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts55" TIME_VALUE="62000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts56" TIME_VALUE="64000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts57" TIME_VALUE="64200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts58" TIME_VALUE="66200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts59" TIME_VALUE="66400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts60" TIME_VALUE="68400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts61" TIME_VALUE="68600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts62" TIME_VALUE="70600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts63" TIME_VALUE="70800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts64" TIME_VALUE="72800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts65" TIME_VALUE="73000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts66" TIME_VALUE="75000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts67" TIME_VALUE="75200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts68" TIME_VALUE="77200"/>
+        <!-- Dialogue 3: Classroom (utterances 34-59) -->
+        <TIME_SLOT TIME_SLOT_ID="ts69" TIME_VALUE="80000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts70" TIME_VALUE="82000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts71" TIME_VALUE="82200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts72" TIME_VALUE="84200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts73" TIME_VALUE="84400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts74" TIME_VALUE="86400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts75" TIME_VALUE="86600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts76" TIME_VALUE="88600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts77" TIME_VALUE="88800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts78" TIME_VALUE="90800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts79" TIME_VALUE="91000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts80" TIME_VALUE="93000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts81" TIME_VALUE="93200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts82" TIME_VALUE="95200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts83" TIME_VALUE="95400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts84" TIME_VALUE="97400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts85" TIME_VALUE="97600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts86" TIME_VALUE="99600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts87" TIME_VALUE="99800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts88" TIME_VALUE="101800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts89" TIME_VALUE="102000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts90" TIME_VALUE="104000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts91" TIME_VALUE="104200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts92" TIME_VALUE="106200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts93" TIME_VALUE="106400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts94" TIME_VALUE="108400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts95" TIME_VALUE="108600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts96" TIME_VALUE="110600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts97" TIME_VALUE="110800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts98" TIME_VALUE="112800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts99" TIME_VALUE="113000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts100" TIME_VALUE="115000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts101" TIME_VALUE="115200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts102" TIME_VALUE="117200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts103" TIME_VALUE="117400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts104" TIME_VALUE="119400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts105" TIME_VALUE="119600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts106" TIME_VALUE="121600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts107" TIME_VALUE="121800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts108" TIME_VALUE="123800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts109" TIME_VALUE="124000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts110" TIME_VALUE="126000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts111" TIME_VALUE="126200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts112" TIME_VALUE="128200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts113" TIME_VALUE="128400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts114" TIME_VALUE="130400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts115" TIME_VALUE="130600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts116" TIME_VALUE="132600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts117" TIME_VALUE="132800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts118" TIME_VALUE="134800"/>
+    </TIME_ORDER>
+
+    <!-- TIER 1: ref - utterance tier (time-aligned, IPA transcription) -->
+    <TIER LINGUISTIC_TYPE_REF="utterance" TIER_ID="ref">
+
+        <!-- === DIALOGUE 1: POLICE STATION === -->
+        <!-- D1-U1: Officer to SR -->
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1" TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
+                <ANNOTATION_VALUE>cɛʔlɛkat̪ɛɲ gɔɽɔ d̪aɽeo̯͡ama</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <!-- D1-U2: SR to Officer -->
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2" TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE>iɲaʔ mɔbaĭl pʰoniɲ at̪̚ʔakad̪a</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <!-- D1-U3: SR to Officer -->
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3" TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts6">
+                <ANNOTATION_VALUE>ɔna pʰɔn d̪ɔ ɘɖi ɟɘɾuɽt̪iɲ ced̪aʔ ɟe ɔna pʰonɾɛ ɘɖi ɟɘɾuɽ ɟɘɾuɽ pʰɔʈɔ mena.a</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <!-- D1-U4: Officer to SR -->
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4" TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE>cekat̪ɛm at̪̚ʔked̪a</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <!-- D1-U5: SR to Officer -->
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5" TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts10">
+                <ANNOTATION_VALUE>basɾɛ d̪ɛɟoʔ ɟɔkʰɛʲc̚ʔ iɲaʔ gubliɾɛɲ d̪ɔhɔleda</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <!-- D1-U6: SR to Officer -->
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6" TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE>bas kʰɔn pʰɛɖ̚kat̪ɛ ɔna d̪ɔ aɾ bɘɲ send̪ɾa ɲam led̪a</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <!-- D1-U7: SR to Officer -->
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7" TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts14">
+                <ANNOTATION_VALUE>ho͡i̯ d̪aɽe.jaʔa gubli kʰɔn ɲuɾena aɾ baŋkʰan gubli kʰɔn kumɾu.jɛnt̪ama</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <!-- D1-U8: Officer to SR -->
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8" TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE>amd̪ɔ miʔʈɛʲc̚ʔ ɟiɖi͡i̯ ho.joʔt̪ama</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <!-- D1-U9: Officer to SR -->
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9" TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts18">
+                <ANNOTATION_VALUE>ɟiɖi͡i̯ lɘgit̪̚ʔ amaʔ ɟat̪i̯͡o oɾom kagɔc̚ aɾ mɔbaĭl pʰon ɾe.jaʔ a͡i̯.em.i.a͡i̯ nɔmbɔɾ laga.a</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <!-- D1-U10: SR to Officer -->
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10" TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE>iɲaʔ ɟati̯͡ɔ̯ oɾom kagɔɟ d̪ɔ mena.a mɛnkʰan iɲaʔ mɔbaĭl pʰon ɾejaʔ a͡i̯.em.i.a͡i̯ nɔmbɔɾ d̪ɔ ɔkaɾɛɲ ɲama</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <!-- D1-U11: Officer to SR -->
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11" TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts22">
+                <ANNOTATION_VALUE>amaʔ mɔbaĭl pʰon ɾejaʔ pekeʈ̚ ɾigi ona nɔmbɔɾ d̪ɔ ɔl mena.a</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <!-- D1-U12: SR to Officer -->
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12" TIME_SLOT_REF1="ts23" TIME_SLOT_REF2="ts24">
+                <ANNOTATION_VALUE>t̪ahɔlɛ iɲd̪ɔ aːɾhɔ̃ ɔɽaʔ calaʔ ho.joʔt̪iɲɘ</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <!-- D1-U13: SR to Officer -->
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13" TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts26">
+                <ANNOTATION_VALUE>mɛnkʰan iɲma bɘɲ ɔːl d̪aɽeʔ</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <!-- D1-U14: Officer to SR -->
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14" TIME_SLOT_REF1="ts27" TIME_SLOT_REF2="ts28">
+                <ANNOTATION_VALUE>baŋ ceka.a</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <!-- D1-U15: Officer to SR -->
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15" TIME_SLOT_REF1="ts29" TIME_SLOT_REF2="ts30">
+                <ANNOTATION_VALUE>nɔnɖɛ ɔkɔ͡i̯ opʰisaɾɛ t̪ahɛ̃n unigi ɟiɖid̪ɔ͡i̯ ɔl gɔɽɔɔ̯͡ama</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <!-- D1-U16: Officer to SR -->
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a16" TIME_SLOT_REF1="ts31" TIME_SLOT_REF2="ts32">
+                <ANNOTATION_VALUE>d̪isɘ kat̪ɛt̪̚ʔ ɟiɖi ɾi.jaʔ miʔʈɛʲc̚ʔ pʰɔʈɔkɔpi sɔŋgɛt̪ɛm id̪i t̪aɾa.ja</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <!-- D1-U17: SR to Officer -->
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a17" TIME_SLOT_REF1="ts33" TIME_SLOT_REF2="ts34">
+                <ANNOTATION_VALUE>maː t̪ɔbɛ a͡i̯ma saɾha͡o̯</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+
+        <!-- === DIALOGUE 2: BUS COUNTER === -->
+        <!-- D2-U1: Passenger to Counter -->
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a18" TIME_SLOT_REF1="ts35" TIME_SLOT_REF2="ts36">
+                <ANNOTATION_VALUE>iɲ d̪ɔ ɖʰakaɲ cala.a</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <!-- D2-U2: Passenger to Counter -->
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a19" TIME_SLOT_REF1="ts37" TIME_SLOT_REF2="ts38">
+                <ANNOTATION_VALUE>ɖʰaka calaʔ lɘgit̪̚ʔ apɛ.jaʔ ɟahan gɘɖi mena.a</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <!-- D2-U3: Counter to Passenger -->
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a20" TIME_SLOT_REF1="ts39" TIME_SLOT_REF2="ts40">
+                <ANNOTATION_VALUE>hɛ̃ mɛnaʔge̯͡a</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <!-- D2-U4: Counter to Passenger -->
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a21" TIME_SLOT_REF1="ts41" TIME_SLOT_REF2="ts42">
+                <ANNOTATION_VALUE>am d̪ɔ t̪inɾɛ calaʔɛm mɛned̪a</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <!-- D2-U5: Passenger to Counter -->
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a22" TIME_SLOT_REF1="ts43" TIME_SLOT_REF2="ts44">
+                <ANNOTATION_VALUE>t̪ikin ɾe.jaʔ gɘɖi ɲamlɛnkʰan bʰage ho͡i̯ko.a</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <!-- D2-U6: Counter to Passenger -->
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a23" TIME_SLOT_REF1="ts45" TIME_SLOT_REF2="ts46">
+                <ANNOTATION_VALUE>ikɘkɘɲmɛ</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <!-- D2-U7: Counter to Passenger -->
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a24" TIME_SLOT_REF1="ts47" TIME_SLOT_REF2="ts48">
+                <ANNOTATION_VALUE>alɛ d̪ɔ t̪ikin ɾe.jaʔ ɟahan gɘɖi bɘnuʔ t̪alɛ̯͡a</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <!-- D2-U8: Counter to Passenger -->
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a25" TIME_SLOT_REF1="ts49" TIME_SLOT_REF2="ts50">
+                <ANNOTATION_VALUE>set̪aʔ aɾ ɲind̪ɘd̪ɔm cala͡o̯ d̪aɽe.jaʔa</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <!-- D2-U9: Passenger to Counter -->
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a26" TIME_SLOT_REF1="ts51" TIME_SLOT_REF2="ts52">
+                <ANNOTATION_VALUE>ɲind̪ɘ d̪ɔ gɘɖi t̪inɾɛpɛ aɽaga</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <!-- D2-U10: Counter to Passenger -->
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a27" TIME_SLOT_REF1="ts53" TIME_SLOT_REF2="ts54">
+                <ANNOTATION_VALUE>ɲind̪ɘ saɽɛ d̪ɔsʈasɛʲc̚ʔ bas ʈaɾminalkʰɔn gɘɖiko aɽaga</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <!-- D2-U11: Counter to Passenger -->
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a28" TIME_SLOT_REF1="ts55" TIME_SLOT_REF2="ts56">
+                <ANNOTATION_VALUE>amd̪ɔ ponɛ d̪ɔsʈasɛʲc̚ʔ ka͡u̯nʈaɾɾɛm t̪ahɛ̃na</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <!-- D2-U12: Passenger to Counter -->
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a29" TIME_SLOT_REF1="ts57" TIME_SLOT_REF2="ts58">
+                <ANNOTATION_VALUE>ʈikiʈ̚ t̪inɘʔ kat̪ɛ</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <!-- D2-U13: Counter to Passenger -->
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a30" TIME_SLOT_REF1="ts59" TIME_SLOT_REF2="ts60">
+                <ANNOTATION_VALUE>mɔ̃ɾɛ sã͡i̯ mɔ̃ɽɛgɛl ʈaka</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <!-- D2-U14: Passenger to Counter -->
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a31" TIME_SLOT_REF1="ts61" TIME_SLOT_REF2="ts62">
+                <ANNOTATION_VALUE>d̪a.jakat̪ɛ iɲ d̪ɔ mit̪̚ʔʈɛʔ ʈikiʈ̚ imɘɲpɛ</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <!-- D2-U15: Counter to Passenger -->
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a32" TIME_SLOT_REF1="ts63" TIME_SLOT_REF2="ts64">
+                <ANNOTATION_VALUE>nɔʔɔ͡i̯t̪am amaʔ ʈikiʈ̚ d̪ɔ</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <!-- D2-U16: Counter to Passenger -->
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a33" TIME_SLOT_REF1="ts65" TIME_SLOT_REF2="ts66">
+                <ANNOTATION_VALUE>ma t̪ɔbɛ mɔ̃ɟt̪ɛ calaʔmɛ</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+
+        <!-- === DIALOGUE 3: CLASSROOM === -->
+        <!-- D3-U1: Teacher to Students -->
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a34" TIME_SLOT_REF1="ts69" TIME_SLOT_REF2="ts70">
+                <ANNOTATION_VALUE>gid̪ɾɘku sikʰnɘt̪̚ʔɾe.jaʔ ɟɘɾuɽ cɛt̪̚ʔkana baɖa.japɛ</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <!-- D3-U2: Students to Teacher -->
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a35" TIME_SLOT_REF1="ts71" TIME_SLOT_REF2="ts72">
+                <ANNOTATION_VALUE>balɛ baɖa.ja mahasɔ͡i̯</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <!-- D3-U3: Teacher to Students (no IPA in source, reconstructed from context) -->
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a36" TIME_SLOT_REF1="ts73" TIME_SLOT_REF2="ts74">
+                <ANNOTATION_VALUE>sikʰnɘt̪̚ʔ lɘgit̪̚ʔ d̪ɔ cɔlɔn pɔɾiboɾt̪ɔn lɘgit̪̚ʔ kana</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <!-- D3-U4: Teacher to Students -->
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a37" TIME_SLOT_REF1="ts75" TIME_SLOT_REF2="ts76">
+                <ANNOTATION_VALUE>ɔna ijɘt̪ɛ t̪eheɲ d̪ɔ abu klasɾɛ cal cɔlɔn ni̯͡ebu galmaɾao̯͡a</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <!-- D3-U5: Students to Teacher -->
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a38" TIME_SLOT_REF1="ts77" TIME_SLOT_REF2="ts78">
+                <ANNOTATION_VALUE>mãhasɔ͡i̯ alɛ d̪ɔ cɛt̪̚ʔko cet̪̚ʔ hojoʔ tale.ja</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <!-- D3-U6: Teacher to Students -->
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a39" TIME_SLOT_REF1="ts79" TIME_SLOT_REF2="ts80">
+                <ANNOTATION_VALUE>klasɾɛ mãhasɔ.jɛ bɔlɔlɛnkʰan ɟɔt̪ɔko t̪eŋgokat̪ɛ ɟohaɾa͡i̯pɛ</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <!-- D3-U7: Students to Teacher -->
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a40" TIME_SLOT_REF1="ts81" TIME_SLOT_REF2="ts82">
+                <ANNOTATION_VALUE>mãhasɔ͡i̯ alɛmalɛ noŋka͡i̯ge</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <!-- D3-U8: Students to Teacher -->
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a41" TIME_SLOT_REF1="ts83" TIME_SLOT_REF2="ts84">
+                <ANNOTATION_VALUE>mãhasɔ̯͡i̯ alɛ d̪ɔ aɾ cɛt̪̚ʔ cɛt̪̚ʔ ceka͡i̯ hojoʔt̪alɛ.ja</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <!-- D3-U9: Teacher to Students -->
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a42" TIME_SLOT_REF1="ts85" TIME_SLOT_REF2="ts86">
+                <ANNOTATION_VALUE>apɛ apɛ gɔpɔɽɔʔpɛ</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <!-- D3-U10: Teacher to Students -->
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a43" TIME_SLOT_REF1="ts87" TIME_SLOT_REF2="ts88">
+                <ANNOTATION_VALUE>mɔ̃ɟt̪ɛ ɛʈaʔko̯͡aʔ kat̪ʰapɛ aɲɟɔma</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <!-- D3-U11: Teacher to Students -->
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a44" TIME_SLOT_REF1="ts89" TIME_SLOT_REF2="ts90">
+                <ANNOTATION_VALUE>ɔko͡i̯ sã͡ɔ̯t̪ɛhɔ̃ alopɛ ɾɛʈʰa ɾɛʈʰi.a</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <!-- D3-U12: Teacher to Students -->
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a45" TIME_SLOT_REF1="ts91" TIME_SLOT_REF2="ts92">
+                <ANNOTATION_VALUE>apɛ lɘʈuko kɘʈiʲc̚ʔkopɛ d̪ulɘɽko̯͡a</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <!-- D3-U13: Teacher to Students -->
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a46" TIME_SLOT_REF1="ts93" TIME_SLOT_REF2="ts94">
+                <ANNOTATION_VALUE>apɛ kɘʈiʲc̚ʔkohɔ̃ lɘʈukopɛ manɔt̪̚ʔko̯͡a</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <!-- D3-U14: Students to Teacher -->
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a47" TIME_SLOT_REF1="ts95" TIME_SLOT_REF2="ts96">
+                <ANNOTATION_VALUE>mãhasɔ͡i̯ kɘʈiʲc̚ʔko alɛ.jaʔ kat̪ʰa bako aɲɟɔm lɘgid̪ɔʔkʰan</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <!-- D3-U15: Teacher to Students -->
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a48" TIME_SLOT_REF1="ts97" TIME_SLOT_REF2="ts98">
+                <ANNOTATION_VALUE>laha d̪ɔ buɟʰhɘ͡o̯ăkopɛ</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <!-- D3-U16: Teacher to Students -->
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a49" TIME_SLOT_REF1="ts99" TIME_SLOT_REF2="ts100">
+                <ANNOTATION_VALUE>inɘ t̪a͡inɔm kat̪ʰa bako aɲɟɔmlɛkʰan sasɔnkopɛ</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <!-- D3-U17: Students to Teacher -->
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a50" TIME_SLOT_REF1="ts101" TIME_SLOT_REF2="ts102">
+                <ANNOTATION_VALUE>buɟhɘ͡o̯ked̪alɛ mãhasɔ͡i̯</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <!-- D3-U18: Teacher to Students -->
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a51" TIME_SLOT_REF1="ts103" TIME_SLOT_REF2="ts104">
+                <ANNOTATION_VALUE>hanɖɛ nanɖɛ kat̪o̯͡aɾko alɔpɛ giɖi.ja</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <!-- D3-U19: Teacher to Students -->
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a52" TIME_SLOT_REF1="ts105" TIME_SLOT_REF2="ts106">
+                <ANNOTATION_VALUE>ɖahaɾ paɾɔmɔʔ ɟɔkʰɛ banaɾsa ɲɛlkat̪ɛpɛ paɾɔmɔʔa</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <!-- D3-U20: Teacher to Students -->
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a53" TIME_SLOT_REF1="ts107" TIME_SLOT_REF2="ts108">
+                <ANNOTATION_VALUE>baŋkʰan gɘɖit̪ɛpɛ t̪ɘkiɟɔʔa</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <!-- D3-U21: Students to Teacher -->
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a54" TIME_SLOT_REF1="ts109" TIME_SLOT_REF2="ts110">
+                <ANNOTATION_VALUE>hɛ̃ː mãhasɔ͡i̯</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <!-- D3-U22: Teacher to Students -->
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a55" TIME_SLOT_REF1="ts111" TIME_SLOT_REF2="ts112">
+                <ANNOTATION_VALUE>ɔkɔ͡i̯hɔ̃ alopɛ ɛgɛɾko̯͡a</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <!-- D3-U23: Teacher to Students -->
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a56" TIME_SLOT_REF1="ts113" TIME_SLOT_REF2="ts114">
+                <ANNOTATION_VALUE>mit̪̚ʔhɔɽ sã͡o̯t̪ɛ aɾ miʔ hɔɽ d̪ɔ alopɛ ɟuɾikinɘ</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <!-- D3-U24: Teacher to Students -->
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a57" TIME_SLOT_REF1="ts115" TIME_SLOT_REF2="ts116">
+                <ANNOTATION_VALUE>ɔko͡i̯hɔ̃ alopɛ nisɽɘ͡o̯ko̯͡a</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <!-- D3-U25: Students to Teacher -->
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a58" TIME_SLOT_REF1="ts117" TIME_SLOT_REF2="ts118">
+                <ANNOTATION_VALUE>a͡i̯ma saɾha͡o̯ mãhasɔ͡i̯</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <!-- D3-U26: Teacher to Students (closing) -->
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a59" TIME_SLOT_REF1="ts67" TIME_SLOT_REF2="ts68">
+                <ANNOTATION_VALUE>mɔ̃ɟt̪ɛ iɲaʔ kat̪ʰa aɲɟɔm lɘgit̪̚ʔ apɛhɔ̃ a͡i̯ma saɾha͡o̯</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+
+    </TIER>
+
+    <!-- TIER 2: mb - morpheme break tier (symbolic association with ref) -->
+    <TIER LINGUISTIC_TYPE_REF="morpheme" PARENT_REF="ref" TIER_ID="mb">
+
+        <!-- D1 morpheme breaks -->
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="b1" ANNOTATION_REF="a1">
+                <ANNOTATION_VALUE>cɛʔ-lɛ-kat̪ɛ-ɲ gɔɽɔ d̪aɽe-o͡a-am-a</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="b2" ANNOTATION_REF="a2">
+                <ANNOTATION_VALUE>iɲ-aʔ mɔbaĭl pʰon-iɲ at̪̚ʔ-a-kad̪-a</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="b3" ANNOTATION_REF="a3">
+                <ANNOTATION_VALUE>ɔna pʰɔn d̪ɔ ɘɖi ɟɘɾuɽ-t̪iɲ ced̪-aʔ ɟe ɔna pʰon-ɾɛ ɘɖi ɟɘɾuɽ ɟɘɾuɽ pʰɔʈɔ mena-a</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="b4" ANNOTATION_REF="a4">
+                <ANNOTATION_VALUE>ce-kat̪ɛ-m at̪̚ʔ-ked̪-a</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="b5" ANNOTATION_REF="a5">
+                <ANNOTATION_VALUE>bas-ɾɛ d̪ɛɟ-oʔ ɟɔkʰ-ɛ iɲ-aʔ gubli-ɾɛ-ɲ d̪ɔhɔl-e-d̪a</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="b6" ANNOTATION_REF="a6">
+                <ANNOTATION_VALUE>bas kʰɔn pʰɛɖ̚-kat̪ɛ ɔna d̪ɔ aɾ bɘɲ send̪ɾa ɲam-le-d̪a</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="b7" ANNOTATION_REF="a7">
+                <ANNOTATION_VALUE>ho͡i̯ d̪aɽe-jaʔ-a gubli kʰɔn ɲuɾ-e-na aɾ baŋ-kʰan gubli kʰɔn kumɾu-jɛn-t̪am-a</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="b8" ANNOTATION_REF="a8">
+                <ANNOTATION_VALUE>am-d̪ɔ miʔʈ-ɛ ɟiɖi ho-joʔ-t̪am-a</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="b9" ANNOTATION_REF="a9">
+                <ANNOTATION_VALUE>ɟiɖi lɘgit̪̚ʔ am-aʔ ɟat̪i̯o oɾom kagɔɟ aɾ mɔbaĭl pʰon ɾe-jaʔ a͡i̯.em.i.a͡i̯ nɔmbɔɾ lag-a-a</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="b10" ANNOTATION_REF="a10">
+                <ANNOTATION_VALUE>iɲ-aʔ ɟati̯o oɾom kagɔɟ d̪ɔ mena-a mɛn-kʰan iɲ-aʔ mɔbaĭl pʰon ɾe-jaʔ a͡i̯.em.i.a͡i̯ nɔmbɔɾ d̪ɔ ɔkɑ-ɾɛ-ɲ ɲam-a</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="b11" ANNOTATION_REF="a11">
+                <ANNOTATION_VALUE>am-aʔ mɔbaĭl pʰon ɾe-jaʔ pekeʈ̚ ɾi-gi ona nɔmbɔɾ d̪ɔ ɔl mena-a</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="b12" ANNOTATION_REF="a12">
+                <ANNOTATION_VALUE>t̪ahɔlɛ iɲ-d̪ɔ aːɾ-hɔ̃ ɔɽaʔ cal-aʔ ho-joʔ-t̪iɲ-ɘ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="b13" ANNOTATION_REF="a13">
+                <ANNOTATION_VALUE>mɛn-kʰan iɲ-ma bɘɲ ɔːl d̪aɽ-eʔ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="b14" ANNOTATION_REF="a14">
+                <ANNOTATION_VALUE>baŋ ceka-a</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="b15" ANNOTATION_REF="a15">
+                <ANNOTATION_VALUE>nɔnɖɛ ɔkɔi opʰisaɾ-ɛ t̪ahɛ̃n uni-gi ɟiɖi-d̪ɔ ɔl gɔɽɔ-o͡a-am-a</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="b16" ANNOTATION_REF="a16">
+                <ANNOTATION_VALUE>d̪isɘ kat̪ɛ ɟiɖi ɾi-jaʔ miʔʈ-ɛ pʰɔʈɔkɔpi sɔŋgɛ-t̪ɛ-m id̪i t̪aɾa-ja</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="b17" ANNOTATION_REF="a17">
+                <ANNOTATION_VALUE>maː t̪ɔbɛ a͡i̯ma saɾha͡o̯</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <!-- D2 morpheme breaks -->
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="b18" ANNOTATION_REF="a18">
+                <ANNOTATION_VALUE>iɲ d̪ɔ ɖʰaka-ɲ cal-a-a</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="b19" ANNOTATION_REF="a19">
+                <ANNOTATION_VALUE>ɖʰaka cal-aʔ lɘgit̪̚ʔ apɛ-jaʔ ɟahan gɘɖi mena-a</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="b20" ANNOTATION_REF="a20">
+                <ANNOTATION_VALUE>hɛ̃ mɛnaʔ-ge-a</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="b21" ANNOTATION_REF="a21">
+                <ANNOTATION_VALUE>am d̪ɔ t̪in-ɾɛ cal-aʔ-ɛm mɛne-d̪a</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="b22" ANNOTATION_REF="a22">
+                <ANNOTATION_VALUE>t̪ikin ɾe-jaʔ gɘɖi ɲam-lɛn-kʰan bʰage ho͡i̯-ko-a</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="b23" ANNOTATION_REF="a23">
+                <ANNOTATION_VALUE>ikɘkɘɲ-mɛ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="b24" ANNOTATION_REF="a24">
+                <ANNOTATION_VALUE>alɛ d̪ɔ t̪ikin ɾe-jaʔ ɟahan gɘɖi bɘnu-ʔ t̪alɛ-a</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="b25" ANNOTATION_REF="a25">
+                <ANNOTATION_VALUE>set̪aʔ aɾ ɲind̪ɘ-d̪ɔm cal-a͡o̯ d̪aɽe-jaʔ-a</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="b26" ANNOTATION_REF="a26">
+                <ANNOTATION_VALUE>ɲind̪ɘ d̪ɔ gɘɖi t̪in-ɾɛ-pɛ aɽag-a</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="b27" ANNOTATION_REF="a27">
+                <ANNOTATION_VALUE>ɲind̪ɘ saɽɛ d̪ɔsʈa bas ʈaɾminal-kʰɔn gɘɖi-ko aɽag-a</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="b28" ANNOTATION_REF="a28">
+                <ANNOTATION_VALUE>am-d̪ɔ ponɛ d̪ɔsʈa ka͡u̯nʈaɾ-ɾɛ-m t̪ahɛ̃n-a</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="b29" ANNOTATION_REF="a29">
+                <ANNOTATION_VALUE>ʈikiʈ̚ t̪inɘʔ kat̪ɛ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="b30" ANNOTATION_REF="a30">
+                <ANNOTATION_VALUE>mɔ̃ɾɛ sã͡i̯ mɔ̃ɽɛgɛl ʈaka</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="b31" ANNOTATION_REF="a31">
+                <ANNOTATION_VALUE>d̪a.ja-kat̪ɛ iɲ d̪ɔ miʔʈ-ɛ ʈikiʈ̚ im-ɘɲ-pɛ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="b32" ANNOTATION_REF="a32">
+                <ANNOTATION_VALUE>nɔʔ-oi-t̪am am-aʔ ʈikiʈ̚ d̪ɔ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="b33" ANNOTATION_REF="a33">
+                <ANNOTATION_VALUE>ma t̪ɔbɛ mɔ̃ɟ-t̪ɛ cal-aʔ-mɛ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <!-- D3 morpheme breaks -->
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="b34" ANNOTATION_REF="a34">
+                <ANNOTATION_VALUE>gid̪ɾɘ-ku sikʰnɘ-t̪̚ʔ-ɾe-jaʔ ɟɘɾuɽ cɛt̪̚ʔ-kana baɖ-a-ja-pɛ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="b35" ANNOTATION_REF="a35">
+                <ANNOTATION_VALUE>ba-lɛ baɖ-a-ja mahasɔi</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="b36" ANNOTATION_REF="a36">
+                <ANNOTATION_VALUE>sikʰnɘ-t̪̚ʔ lɘgit̪̚ʔ d̪ɔ cɔlɔn pɔɾiboɾt̪ɔn lɘgit̪̚ʔ kana</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="b37" ANNOTATION_REF="a37">
+                <ANNOTATION_VALUE>ɔna ij-ɘt̪ɛ t̪eheɲ d̪ɔ abu klas-ɾɛ cal cɔlɔn ni̯-ebu galmaɾa-o͡a-a</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="b38" ANNOTATION_REF="a38">
+                <ANNOTATION_VALUE>mahasɔi alɛ d̪ɔ cɛt̪̚ʔ-ko cet̪̚ʔ ho-joʔ t̪ale-ja</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="b39" ANNOTATION_REF="a39">
+                <ANNOTATION_VALUE>klas-ɾɛ mahasɔ-jɛ bɔl-ol-ɛn-kʰan ɟɔt̪ɔ-ko t̪eŋgo-kat̪ɛ ɟohaɾa-i-pɛ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="b40" ANNOTATION_REF="a40">
+                <ANNOTATION_VALUE>mahasɔi alɛ-malɛ noŋka-i-ge</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="b41" ANNOTATION_REF="a41">
+                <ANNOTATION_VALUE>mahasɔi alɛ d̪ɔ aɾ cɛt̪̚ʔ cɛt̪̚ʔ ceka-i ho-joʔ-t̪alɛ-ja</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="b42" ANNOTATION_REF="a42">
+                <ANNOTATION_VALUE>apɛ apɛ gɔpɔɽ-oʔ-pɛ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="b43" ANNOTATION_REF="a43">
+                <ANNOTATION_VALUE>mɔ̃ɟ-t̪ɛ ɛʈ-aʔ-ko-aʔ kat̪ʰa-pɛ aɲɟɔm-a</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="b44" ANNOTATION_REF="a44">
+                <ANNOTATION_VALUE>ɔko͡i̯ sã͡ɔ-t̪ɛ-hɔ̃ alo-pɛ ɾɛʈʰa-ɾɛʈʰi-a</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="b45" ANNOTATION_REF="a45">
+                <ANNOTATION_VALUE>apɛ lɘʈu-ko kɘʈi-ko-pɛ d̪ulɘɽ-ko-a</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="b46" ANNOTATION_REF="a46">
+                <ANNOTATION_VALUE>apɛ kɘʈi-ko-hɔ̃ lɘʈu-ko-pɛ manɔt̪̚ʔ-ko-a</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="b47" ANNOTATION_REF="a47">
+                <ANNOTATION_VALUE>mahasɔi kɘʈi-ko alɛ-jaʔ kat̪ʰa ba-ko aɲɟɔm lɘgi-d̪ɔʔ-kʰan</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="b48" ANNOTATION_REF="a48">
+                <ANNOTATION_VALUE>laha d̪ɔ buɟʰh-ɘ-ă-ko-pɛ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="b49" ANNOTATION_REF="a49">
+                <ANNOTATION_VALUE>inɘ t̪ainɔm kat̪ʰa ba-ko aɲɟɔm-lɛ-kʰan sasɔn-ko-pɛ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="b50" ANNOTATION_REF="a50">
+                <ANNOTATION_VALUE>buɟhɘ-o̯-ked̪-alɛ mahasɔi</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="b51" ANNOTATION_REF="a51">
+                <ANNOTATION_VALUE>hanɖɛ nanɖɛ kat̪o-aɾ-ko alo-pɛ giɖi-ja</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="b52" ANNOTATION_REF="a52">
+                <ANNOTATION_VALUE>ɖahaɾ paɾɔmɔʔ ɟɔkʰ-ɛ banaɾ-sa ɲɛl-kat̪ɛ-pɛ paɾɔmɔʔ-a</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="b53" ANNOTATION_REF="a53">
+                <ANNOTATION_VALUE>baŋ-kʰan gɘɖi-t̪ɛ-pɛ t̪ɘkiɟ-oʔ-a</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="b54" ANNOTATION_REF="a54">
+                <ANNOTATION_VALUE>hɛ̃ː mahasɔi</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="b55" ANNOTATION_REF="a55">
+                <ANNOTATION_VALUE>ɔkɔi-hɔ̃ alo-pɛ ɛgɛɾ-ko-a</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="b56" ANNOTATION_REF="a56">
+                <ANNOTATION_VALUE>miʔ-hɔɽ sã͡o-t̪ɛ aɾ miʔ hɔɽ d̪ɔ alo-pɛ ɟuɾi-kin-ɘ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="b57" ANNOTATION_REF="a57">
+                <ANNOTATION_VALUE>ɔkɔi-hɔ̃ alo-pɛ nisɽɘ-o̯-ko-a</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="b58" ANNOTATION_REF="a58">
+                <ANNOTATION_VALUE>a͡i̯ma saɾha-o̯ mahasɔi</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="b59" ANNOTATION_REF="a59">
+                <ANNOTATION_VALUE>mɔ̃ɟ-t̪ɛ iɲ-aʔ kat̪ʰa aɲɟɔm lɘgit̪̚ʔ apɛ-hɔ̃ a͡i̯ma saɾha-o̯</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+    </TIER>
+
+    <!-- TIER 3: gl - gloss tier (symbolic association with mb) -->
+    <!-- Glossing follows Ghosh (2008) Santali morphosyntax conventions:
+         TOP=topic, GEN=genitive, LOC=locative, ABL=ablative, INST=instrumental,
+         NEG=negation, COP=copula, FIN=finite, PST=past, PLUP=pluperfect,
+         PROG=progressive, IMP=imperative, PROHIB=prohibitive, Q=interrogative,
+         1SG/2SG/3SG/1PL=person-number, SUBJ=subject agreement, OBJ=object,
+         TR=transitive, CVB=converb, COND=conditional, EMPH=emphatic,
+         ANIM=animate, INAN=inanimate, M=masculine, F=feminine,
+         INCL=inclusive, EXCL=exclusive, PL=plural, CLSSFR=classifier -->
+    <TIER LINGUISTIC_TYPE_REF="gloss" PARENT_REF="mb" TIER_ID="gl">
+
+        <!-- D1 glosses -->
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="c1" ANNOTATION_REF="b1">
+                <ANNOTATION_VALUE>what-CVB-manner-1SG help do-FUT-2SG-FIN</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="c2" ANNOTATION_REF="b2">
+                <ANNOTATION_VALUE>1SG-GEN mobile phone-1SG.OBJ lost-FIN-PST-FIN</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="c3" ANNOTATION_REF="b3">
+                <ANNOTATION_VALUE>DEM.DIST phone TOP very important-1SG because COMP DEM.DIST phone-LOC very important important photo exist-FIN</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="c4" ANNOTATION_REF="b4">
+                <ANNOTATION_VALUE>how-manner-2SG lost-PST-FIN</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="c5" ANNOTATION_REF="b5">
+                <ANNOTATION_VALUE>bus-LOC board-CVB get_on-CVB 1SG-GEN pocket-LOC-1SG put-PST-FIN</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="c6" ANNOTATION_REF="b6">
+                <ANNOTATION_VALUE>bus ABL descend-CVB DEM.DIST TOP more NEG search find-PLUP-FIN</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="c7" ANNOTATION_REF="b7">
+                <ANNOTATION_VALUE>may be-FUT-FIN pocket ABL fall-PST-FIN or NEG-COND pocket ABL steal-PST-3SG-FIN</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="c8" ANNOTATION_REF="b8">
+                <ANNOTATION_VALUE>2SG-TOP one-CLSSFR GD do-must-FUT-FIN</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="c9" ANNOTATION_REF="b9">
+                <ANNOTATION_VALUE>GD for 2SG-GEN national identity document and mobile phone LOC-GEN IMEI number need-FIN-FIN</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="c10" ANNOTATION_REF="b10">
+                <ANNOTATION_VALUE>1SG-GEN national identity document TOP exist-FIN but 1SG-GEN mobile phone LOC-GEN IMEI number TOP where-LOC-1SG get-FIN</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="c11" ANNOTATION_REF="b11">
+                <ANNOTATION_VALUE>2SG-GEN mobile phone LOC-GEN packet LOC-EMPH DEM.DIST number TOP write exist-FIN</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="c12" ANNOTATION_REF="b12">
+                <ANNOTATION_VALUE>then 1SG-TOP again-EMPH home go-CVB must-FUT-1SG-FIN</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="c13" ANNOTATION_REF="b13">
+                <ANNOTATION_VALUE>but 1SG-EMPH NEG write be_able-FIN</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="c14" ANNOTATION_REF="b14">
+                <ANNOTATION_VALUE>NEG problem-FIN</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="c15" ANNOTATION_REF="b15">
+                <ANNOTATION_VALUE>here who officer-LOC stay.3SG 3SG-EMPH GD-TOP write do-FUT-2SG-FIN</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="c16" ANNOTATION_REF="b16">
+                <ANNOTATION_VALUE>remember CVB GD LOC-GEN one-CLSSFR photocopy together-2SG take go-FUT</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="c17" ANNOTATION_REF="b17">
+                <ANNOTATION_VALUE>well then very thank_you</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <!-- D2 glosses -->
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="c18" ANNOTATION_REF="b18">
+                <ANNOTATION_VALUE>1SG TOP Dhaka-DIR go-FIN-FIN</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="c19" ANNOTATION_REF="b19">
+                <ANNOTATION_VALUE>Dhaka go-CVB for 2PL-GEN any vehicle exist-FIN</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="c20" ANNOTATION_REF="b20">
+                <ANNOTATION_VALUE>yes exist-EMPH-FIN</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="c21" ANNOTATION_REF="b21">
+                <ANNOTATION_VALUE>2SG TOP when-LOC go-CVB-2SG think-FIN</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="c22" ANNOTATION_REF="b22">
+                <ANNOTATION_VALUE>afternoon LOC-GEN vehicle get-PLUP-COND good be-3PL-FIN</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="c23" ANNOTATION_REF="b23">
+                <ANNOTATION_VALUE>excuse-2SG.IMP</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="c24" ANNOTATION_REF="b24">
+                <ANNOTATION_VALUE>1PL.EXCL TOP afternoon LOC-GEN any vehicle NEG-INAN exist-FIN</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="c25" ANNOTATION_REF="b25">
+                <ANNOTATION_VALUE>morning and night-TOP-2SG go-CVB be_able-GEN-FIN</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="c26" ANNOTATION_REF="b26">
+                <ANNOTATION_VALUE>night TOP vehicle when-LOC-2PL.IMP depart-FIN</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="c27" ANNOTATION_REF="b27">
+                <ANNOTATION_VALUE>night half ten bus terminal-ABL vehicle-3PL depart-FIN</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="c28" ANNOTATION_REF="b28">
+                <ANNOTATION_VALUE>2SG-TOP quarter_to ten counter-LOC-2SG stay-FIN</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="c29" ANNOTATION_REF="b29">
+                <ANNOTATION_VALUE>ticket how_much how</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="c30" ANNOTATION_REF="b30">
+                <ANNOTATION_VALUE>five hundred fifty taka</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="c31" ANNOTATION_REF="b31">
+                <ANNOTATION_VALUE>please-CVB 1SG TOP one-CLSSFR ticket give-1SG.OBJ-2PL.IMP</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="c32" ANNOTATION_REF="b32">
+                <ANNOTATION_VALUE>take-here-2SG 2SG-GEN ticket TOP</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="c33" ANNOTATION_REF="b33">
+                <ANNOTATION_VALUE>well then safe-CVB go-CVB-2SG.IMP</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <!-- D3 glosses -->
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="c34" ANNOTATION_REF="b34">
+                <ANNOTATION_VALUE>child-3PL education-CVB-LOC-GEN purpose what-COP know-FIN-FUT-2PL.IMP</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="c35" ANNOTATION_REF="b35">
+                <ANNOTATION_VALUE>NEG-1PL.EXCL know-FIN-FIN teacher.HON</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="c36" ANNOTATION_REF="b36">
+                <ANNOTATION_VALUE>education-CVB for TOP behavior change for COP</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="c37" ANNOTATION_REF="b37">
+                <ANNOTATION_VALUE>DEM.DIST reason-CVB today 1PL.INCL class-LOC conduct behavior CAUS-1PL.INCL talk-FUT-FIN</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="c38" ANNOTATION_REF="b38">
+                <ANNOTATION_VALUE>teacher.HON 1PL.EXCL TOP what-3PL what must-be FUT-FIN</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="c39" ANNOTATION_REF="b39">
+                <ANNOTATION_VALUE>class-LOC teacher-3SG enter-CVB-COND all-3PL stand-CVB salute-FIN-2PL.IMP</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="c40" ANNOTATION_REF="b40">
+                <ANNOTATION_VALUE>teacher.HON 1PL.EXCL-EMPH that-EMPH-EMPH</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="c41" ANNOTATION_REF="b41">
+                <ANNOTATION_VALUE>teacher.HON 1PL.EXCL TOP more what what do-FIN must-be-FUT-FIN</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="c42" ANNOTATION_REF="b42">
+                <ANNOTATION_VALUE>2PL 2PL help-CVB-2PL.IMP</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="c43" ANNOTATION_REF="b43">
+                <ANNOTATION_VALUE>careful-CVB other-GEN-3PL-GEN speech-2PL listen-FIN</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="c44" ANNOTATION_REF="b44">
+                <ANNOTATION_VALUE>anyone with-CVB-EMPH PROHIB-2PL quarrel-RED-FIN</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="c45" ANNOTATION_REF="b45">
+                <ANNOTATION_VALUE>2PL elder-3PL younger-3PL-2PL.IMP love-3PL-FIN</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="c46" ANNOTATION_REF="b46">
+                <ANNOTATION_VALUE>2PL younger-3PL-EMPH elder-3PL-2PL.IMP respect-3PL-FIN</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="c47" ANNOTATION_REF="b47">
+                <ANNOTATION_VALUE>teacher.HON younger-3PL 1PL.EXCL-GEN speech NEG-3PL listen for-COND-COND</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="c48" ANNOTATION_REF="b48">
+                <ANNOTATION_VALUE>first TOP explain-CVB-CVB-3PL-2PL.IMP</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="c49" ANNOTATION_REF="b49">
+                <ANNOTATION_VALUE>after.that speech NEG-3PL listen-PLUP-COND discipline-3PL-2PL.IMP</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="c50" ANNOTATION_REF="b50">
+                <ANNOTATION_VALUE>understand-CVB-PST-1PL.EXCL teacher.HON</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="c51" ANNOTATION_REF="b51">
+                <ANNOTATION_VALUE>here there waste-material-3PL PROHIB-2PL throw-FUT</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="c52" ANNOTATION_REF="b52">
+                <ANNOTATION_VALUE>road cross-CVB when both-side look-CVB-2PL cross-FIN</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="c53" ANNOTATION_REF="b53">
+                <ANNOTATION_VALUE>NEG-COND vehicle-CVB-2PL hit-CVB-FIN</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="c54" ANNOTATION_REF="b54">
+                <ANNOTATION_VALUE>yes teacher.HON</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="c55" ANNOTATION_REF="b55">
+                <ANNOTATION_VALUE>anyone-EMPH PROHIB-2PL scold-3PL-FIN</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="c56" ANNOTATION_REF="b56">
+                <ANNOTATION_VALUE>one-person with more one person TOP PROHIB-2PL compare-PROG-FIN</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="c57" ANNOTATION_REF="b57">
+                <ANNOTATION_VALUE>anyone-EMPH PROHIB-2PL condemn-CVB-3PL-FIN</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="c58" ANNOTATION_REF="b58">
+                <ANNOTATION_VALUE>very thank_you-CVB teacher.HON</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="c59" ANNOTATION_REF="b59">
+                <ANNOTATION_VALUE>careful-CVB 1SG-GEN speech listen for 2PL-EMPH very thank_you-CVB</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+    </TIER>
+
+    <!-- TIER 4: ft - free translation tier (INCLUDED_IN ref) -->
+    <TIER LINGUISTIC_TYPE_REF="translation" PARENT_REF="ref" TIER_ID="ft">
+
+        <!-- D1 translations -->
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="d1" ANNOTATION_REF="a1">
+                <ANNOTATION_VALUE>How may I help you?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="d2" ANNOTATION_REF="a2">
+                <ANNOTATION_VALUE>My mobile phone is lost.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="d3" ANNOTATION_REF="a3">
+                <ANNOTATION_VALUE>That phone is very much needed, because I have many important pictures in there.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="d4" ANNOTATION_REF="a4">
+                <ANNOTATION_VALUE>How did you lose it?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="d5" ANNOTATION_REF="a5">
+                <ANNOTATION_VALUE>I put it in my pocket while boarding the bus.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="d6" ANNOTATION_REF="a6">
+                <ANNOTATION_VALUE>I couldn't find it anymore after getting off the bus.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="d7" ANNOTATION_REF="a7">
+                <ANNOTATION_VALUE>It may have fallen out of the pocket, or someone has stolen it from the pocket.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="d8" ANNOTATION_REF="a8">
+                <ANNOTATION_VALUE>You have to file a GD.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="d9" ANNOTATION_REF="a9">
+                <ANNOTATION_VALUE>To file a GD you will need your national identity card and the IMEI number of the mobile phone.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="d10" ANNOTATION_REF="a10">
+                <ANNOTATION_VALUE>I have a national identity card, but where do I get the IMEI number?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="d11" ANNOTATION_REF="a11">
+                <ANNOTATION_VALUE>That number is written on your mobile phone's packet.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="d12" ANNOTATION_REF="a12">
+                <ANNOTATION_VALUE>Then I have to go home again.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="d13" ANNOTATION_REF="a13">
+                <ANNOTATION_VALUE>But I cannot write!</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="d14" ANNOTATION_REF="a14">
+                <ANNOTATION_VALUE>No problem.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="d15" ANNOTATION_REF="a15">
+                <ANNOTATION_VALUE>The officer who will be here will help you write the GD.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="d16" ANNOTATION_REF="a16">
+                <ANNOTATION_VALUE>Remember to take a photocopy of the GD with you.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="d17" ANNOTATION_REF="a17">
+                <ANNOTATION_VALUE>Thank you very much.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <!-- D2 translations -->
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="d18" ANNOTATION_REF="a18">
+                <ANNOTATION_VALUE>I will go to Dhaka.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="d19" ANNOTATION_REF="a19">
+                <ANNOTATION_VALUE>Do you have any vehicle going toward Dhaka?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="d20" ANNOTATION_REF="a20">
+                <ANNOTATION_VALUE>Yes, there is.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="d21" ANNOTATION_REF="a21">
+                <ANNOTATION_VALUE>When do you want to leave?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="d22" ANNOTATION_REF="a22">
+                <ANNOTATION_VALUE>It would be better for me to get the afternoon vehicle.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="d23" ANNOTATION_REF="a23">
+                <ANNOTATION_VALUE>Excuse us.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="d24" ANNOTATION_REF="a24">
+                <ANNOTATION_VALUE>We don't have any vehicles this afternoon.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="d25" ANNOTATION_REF="a25">
+                <ANNOTATION_VALUE>You can go in the morning and at night.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="d26" ANNOTATION_REF="a26">
+                <ANNOTATION_VALUE>What time does the night vehicle leave?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="d27" ANNOTATION_REF="a27">
+                <ANNOTATION_VALUE>The vehicle will leave the bus terminal at 10:30 PM.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="d28" ANNOTATION_REF="a28">
+                <ANNOTATION_VALUE>You will be at the counter by 09:45 PM.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="d29" ANNOTATION_REF="a29">
+                <ANNOTATION_VALUE>How much is the ticket?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="d30" ANNOTATION_REF="a30">
+                <ANNOTATION_VALUE>BDT 550.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="d31" ANNOTATION_REF="a31">
+                <ANNOTATION_VALUE>Please give me a ticket.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="d32" ANNOTATION_REF="a32">
+                <ANNOTATION_VALUE>Here is your ticket.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="d33" ANNOTATION_REF="a33">
+                <ANNOTATION_VALUE>May you go safely.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <!-- D3 translations -->
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="d34" ANNOTATION_REF="a34">
+                <ANNOTATION_VALUE>Students, do you know the purpose of education?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="d35" ANNOTATION_REF="a35">
+                <ANNOTATION_VALUE>We don't know, sir.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="d36" ANNOTATION_REF="a36">
+                <ANNOTATION_VALUE>The purpose of education is to change behavior.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="d37" ANNOTATION_REF="a37">
+                <ANNOTATION_VALUE>That's why today we will talk about manners and etiquette in class.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="d38" ANNOTATION_REF="a38">
+                <ANNOTATION_VALUE>What do we have to learn, sir?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="d39" ANNOTATION_REF="a39">
+                <ANNOTATION_VALUE>When the teacher enters the class, everyone will stand and salute him/her.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="d40" ANNOTATION_REF="a40">
+                <ANNOTATION_VALUE>We do that, sir.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="d41" ANNOTATION_REF="a41">
+                <ANNOTATION_VALUE>What else do we need to do, sir?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="d42" ANNOTATION_REF="a42">
+                <ANNOTATION_VALUE>You will help each other.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="d43" ANNOTATION_REF="a43">
+                <ANNOTATION_VALUE>Listen carefully to others.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="d44" ANNOTATION_REF="a44">
+                <ANNOTATION_VALUE>You will not quarrel with anyone.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="d45" ANNOTATION_REF="a45">
+                <ANNOTATION_VALUE>Elders will show affection to the younger ones.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="d46" ANNOTATION_REF="a46">
+                <ANNOTATION_VALUE>The younger ones shall respect the elders.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="d47" ANNOTATION_REF="a47">
+                <ANNOTATION_VALUE>Sir, what if the younger ones do not listen to us?</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="d48" ANNOTATION_REF="a48">
+                <ANNOTATION_VALUE>At first, explain it to them.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="d49" ANNOTATION_REF="a49">
+                <ANNOTATION_VALUE>Even then, if they don't listen, you will discipline them.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="d50" ANNOTATION_REF="a50">
+                <ANNOTATION_VALUE>Got it, sir.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="d51" ANNOTATION_REF="a51">
+                <ANNOTATION_VALUE>Don't litter anywhere.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="d52" ANNOTATION_REF="a52">
+                <ANNOTATION_VALUE>When crossing the road, look carefully on both sides before crossing.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="d53" ANNOTATION_REF="a53">
+                <ANNOTATION_VALUE>Otherwise, you might get hit by a vehicle.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="d54" ANNOTATION_REF="a54">
+                <ANNOTATION_VALUE>Yes, sir.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="d55" ANNOTATION_REF="a55">
+                <ANNOTATION_VALUE>Don't scold anyone.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="d56" ANNOTATION_REF="a56">
+                <ANNOTATION_VALUE>Do not compare one person with another.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="d57" ANNOTATION_REF="a57">
+                <ANNOTATION_VALUE>Do not condemn anyone.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="d58" ANNOTATION_REF="a58">
+                <ANNOTATION_VALUE>Thank you very much, sir.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="d59" ANNOTATION_REF="a59">
+                <ANNOTATION_VALUE>Thank you for listening carefully to me.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+    </TIER>
+
+    <!-- Linguistic type definitions (matching template) -->
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="utterance" TIME_ALIGNABLE="true" CONSTRAINTS="TIME_ALIGNABLE"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="morpheme" TIME_ALIGNABLE="false" CONSTRAINTS="INCLUDED_IN"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="gloss" TIME_ALIGNABLE="false" CONSTRAINTS="SYMBOLIC_ASSOCIATION"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="translation" TIME_ALIGNABLE="false" CONSTRAINTS="INCLUDED_IN"/>
+
+    <!-- Constraint definitions (matching template) -->
+    <CONSTRAINT DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations referring to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+
+</ANNOTATION_DOCUMENT>

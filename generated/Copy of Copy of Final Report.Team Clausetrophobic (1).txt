@@ -1,0 +1,2991 @@
+﻿Course: Indigenous Language Studies
+Course No:5102
+Santali Syntax Through an Empirical Lens: A Field-Oriented Linguistic Study
+
+
+Submitted to,                                                       
+Dr Sikder Monoare Murshed
+Professor
+Department of Linguistics
+University of Dhaka
+Dr Mashrur Imtiaz
+Assistant Professor
+Department of Linguistics
+University of Dhaka                                                                                                    Submitted by,
+Team: Clause-Trophobic
+Jannatul Ferdous Mim
+Roll: 1531
+Taslima Akther
+Roll: 1285
+Humaira Tasneem 
+Roll: 1335
+Jahirul Islam 
+Roll: 1273
+Ferdoushi Jahan 
+Roll: 1501
+Jafrin Sultana 
+Roll: 1502
+                                                                                                                                     Soma Akter 
+Roll: 1394
+Sagor Mia
+Roll: 1683
+MA 1st Semester
+Department of Linguistics
+University of Dhaka  
+Table of Contents
+
+
+Acknowledgement        8
+Abstract        9
+Introduction        10
+Literature Review        13
+1. The Core Puzzle: When a Noun Becomes a Verb        13
+1.1. Syntactic Re-Categorisation        13
+1.2. Why It Isn't Just a Hidden Word        13
+2. Fieldwork Insights: Predication and Simplicity        13
+2.1. The Efficient Copula        14
+2.2. Simplicity in Agreement        14
+3. What we did in our field work to fill these gaps        17
+Research Methodology        19
+1. Research Design        19
+2. Participants        19
+2.1 Selection Criteria        19
+2.2 Participants Profile        19
+3. Data Collection Method        22
+3.1 Semi-structured interview        22
+3.2 Observation        22
+4. Data Collection Process        22
+4.1 Session Plan and Execution        22
+4.2 Audio Recording        23
+4.3 Primary Data        24
+4.4 Secondary Data        24
+5. Data Analysis        24
+5.1 Data Glossing        24
+5.1.1  Affirmative Statements (Present)        24
+5.1.2    Affirmative Statements (Past)        25
+5.1.3   Affirmative Statements (Future)        26
+5.1.4    Negative Statements (Present)        26
+5.1.5   Negative Statements (Past)        27
+5.1.6    Negative Statements (Future)        28
+5.1.7  Interrogative Sentences        28
+5.1.8 Imperative Sentences        29
+5.1.9 Modals        30
+5.1.10 Complex/Coordinated        31
+5.1.11 Basic Verbal Negation (Present Tense)        32
+5.1.12 Basic Verbal Negation (Past Tense)        33
+5.1.13 Progressive/Continuous Negation        34
+5.1.14 Copular/Adjectival Negation        35
+5.1.15 Nominal Predication Negation        37
+5.1.16 Modal Negation        38
+5.1.17 Possessive        39
+5.1.18  Copula Verbs         41
+5.1.19    Interrogatives        41
+5.1.20 Copular Verb        46
+5.2 Transcription Process        47
+5.3 Analysis Procedure        47
+6. Analytical Framework        48
+7. Ethical Considerations        49
+8. Reliability and Validity        49
+8.1 Measures to Ensure Reliability        49
+8.2 Measures to Ensure Validity        49
+9. Synopsis of Research Procedure        49
+Findings and Interpretive Analysis        51
+1. Interpersonal Pronoun Systems        51
+1.1 Pronominal Structure: Consistent Genitive Case Collapse        51
+1.2 Morphological Persistence: Pronoun Dual Number        51
+1.3 Honorific/Kinship-based Pronoun Variations        52
+1.4 Pronoun Paradigm Chart: Standard vs. Gopalpur Dialect        52
+2. Interrogatives        53
+2.1 Types of Interrogatives        53
+2.2 Expanded Interrogatives of Time and Space        55
+2.3 Qualitative and Manner Interrogatives        55
+2.4 Quantitative Inquiries        55
+2.5 Interrogatives Based on Demonstrations        56
+2.6 Dialectal Forms and Phonological Variation:        56
+2.7 Positional Variation In Interrogatives        56
+2.7.1 Initial Interrogatives in Sentences        56
+2.7.2 Medial Interrogatives in Sentences        57
+2.7.3 Final Interrogatives in Sentences        58
+2.8 Intricate Morphological Framework        58
+2.9 Possessive and Plural Marking        58
+3. Negation        59
+3.1 The Preverbal Negation        59
+3.2 The Agglutinative Negation System: Person-Specific Markers        59
+3.3 Morphological Fusion in Negation Particle        59
+3.4 Unique Negation Particle Based on Gender and Age        60
+3.5 Emphatic Reduplication in Negative Responses with Repeated Particles        61
+3.6 Suppletive Negation in Interrogatives        61
+4. Gender Distinction        62
+5. Converb Construction for Simultaneous Actions        62
+6. Situational PRO-DROP Tendency        63
+7. Copula        63
+7.1 Interrogative Copula Dropping        63
+7.2 Multiple Copular Strategies        64
+7.3 The Zero Copula Pattern        64
+7.4 The Hierarchy of Copula Dropping        64
+7.5 Person and number sensitivity        65
+7.6 Features that Differ from Existing Literature        65
+7.6.1 Zero copula is a dominant feature        65
+7.6.2 Variation based on Context        65
+7.6.3 The alternation between “tahena”, “tahekana” and “tehekana”        65
+7.6.4 Combining auxiliary construction        66
+7.6.5 Patterns of question formation        66
+7.6.6 Real speech patterns        66
+8 . Information Structure: The Role of the -d̪o Marker        66
+8.1 Syntactic Elucidation: Topic vs. Focus        66
+8.2 Support from Literature        66
+8.3 Placement in the Clause        67
+8.4 Cognitive Function: The "Anchor"        67
+Case-Study: Santali Syntax        68
+Ethnography        71
+Sociocultural and Sociolinguistic Description of the Santal Community in Gopalpur, Rajshahi        74
+1. Introduction: The Village and its People        74
+2. Historical Context: Displacement and Resilience        78
+3. Sociolinguistic Profile: A Community in Transition        78
+3.1 Multilingualism:        78
+3.2 Language Shift:        78
+3.3 Literacy and Script:        79
+4. Religious Life and Community Cohesion        83
+5. Economic and Leisure Activities        86
+Limitations        91
+Directions for Subsequent Studies        92
+Conclusion        93
+References        94
+Appendix        95
+
+
+
+
+List of Abbreviations
+Person, Number, and Gender
+* 1SG: First Person Singular (I/My)
+* 2SG: Second Person Singular (You/Your)
+* 3SG: Third Person Singular (He/She/It)
+* 1PL: First Person Plural (We)
+* 2PL: Second Person Plural (You all)
+* 3PL: Third Person Plural (They)
+* DU: Dual (Two people/items)
+* INCL: Inclusive (We including you)
+* EXCL: Exclusive (We excluding you)
+* M: Masculine (e.g., 3SG.M)
+* F: Feminine (e.g., 3SG.F)
+* ANIM: Animate
+* INAN: Inanimate
+Case and Grammatical Roles
+* NOM: Nominative Case
+* ACC: Accusative Case
+* GEN: Genitive Case
+* POSS: Possessive
+* SUBJ: Subject
+* OBJ: Object
+* DO: Direct Object
+* LOC: Locative (Location)
+* TOP: Topic Marker (specifically the -d̪o marker)
+Tense, Aspect, and Mood
+* PST: Past Tense
+* FUT: Future Tense
+* PRS: Present Tense
+* PLUP: Pluperfect
+* PROG: Progressive / Continuous
+* PRF: Perfect
+* FIN: Finite
+* IMP: Imperative
+* PROHIB: Prohibitive (Negative Command)
+* MOD: Modal
+* MID: Middle Voice (noted in Literature Review)
+* CVB: Converb (Simultaneous action)
+* TR ː Transitive Verb
+Parts of Speech and Markers
+* COP: Copula (Verb "to be")
+* Ø.COP: Zero Copula (Null copula)
+* AUX: Auxiliary Verb
+* NEG: Negation / Negative Marker
+* DEM: Demonstrative
+* PROX: Proximal (Near, e.g., This)
+* DIST: Distal (Far, e.g., That)
+* CLSSFR: Classifier
+* EMPH: Emphatic Marker
+* Q: Question Particle
+* INTER: Interrogative
+Syntactic Tree Diagrams (Labels)
+* TP: Tense Phrase
+* NP: Noun Phrase
+* VP: Verb Phrase
+* NegP: Negation Phrase
+* AdjP: Adjective Phrase
+* CoordP: Coordination Phrase
+* CP: Complementiser Phrase
+* PP: Postpositional Phrase
+* T: Tense Head
+* T': T-bar (Intermediate Tense projection)
+* V: Verb Head
+* N: Noun Head
+* C: Complementiser Head
+* Adv: Adverb
+* Conj: Conjunction
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contributions ː
+Rollː1531 (Contact Person)- Alignment, Proof Reading, Cover Page, Index, Abbreviations, Introduction, Data Glossing (Interlinear), Ethnography, Abstract, Limitations, Direction for Further Studies, Conclusion, Findings ( Negation, Honorific Terms, Information Structure- d̪o marker, Gender Distinction, Converb Construction for Simultaneous Actions, Situational PRO-DROP Tendency, Tree Structures, Pronoun Paradigm Chart), Synopsis of Research Framework.
+Rollː1285 - Acknowledgement, Data Analysis (Negation- Partial, Copula), Data Glossing.  
+Rollː1335 - Case Study, Data Glossing, Literature Review.
+Rollː 1273 - Appendix, Data Glossing, Literature Review.
+Rollː1501 - Literature review, Data Glossing, Findings- Copula.
+Roll ː 1502 - Methodology, Data Glossing, Sociocultural Perspective, Findings- Interrogative.
+Roll ː 1394 -Literature review, Data Glossing, Findings- Interpersonal Relationship Between Pronouns, Plagiarism Checking.
+Roll ː1683 - Introduction , Data Glossing , Alignment , Data Management , Conclusion- Partial.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Acknowledgement
+
+
+ We are sincerely thankful to the Almighty that he gave us the blessings and the strength to do this research successfully. Without his blessings, we would not be able to complete the fieldwork. We would like to express our deepest gratitude to our respected course teachers, Professor Dr Sikder Monoare Murshed and Dr Mashrur Imtiaz, for their continuous guidance, encouragement, and valuable insights throughout every stage of this field work. Their expertise and support have been instrumental in helping us understand and carry out this study on the syntax of the Santali language in the Rajshahi region. We are sincerely thankful to our student advisors,  Mohammad Inzamam and  Sabiha Al Humaiara Momy, for their kind advice, constructive feedback, and continuous motivation during our fieldwork. Their valuable suggestions helped us identify our limitations and guided us to improve our research approach. We would also like to extend our heartfelt appreciation to Dr Khandaker Khairunnahar and Dr Jennifer Jahan for observing our fieldwork in the Santali community and providing valuable comments and encouragement. Our special thanks go to our Santali consultants  Samar Da, Milon Da, Mishty, and Tuli Hasda for their generous cooperation and assistance. They not only helped us access and connect with the Santali community but also shared their knowledge, time, and cultural experiences, which greatly enriched our understanding of the Santali language and its people. We also express our heartfelt gratitude to all the Santali participants in Rajshahi who warmly welcomed us and contributed to this research. Without their support and participation, this study would not have been possible. Moreover, we cordially thank our well-wishers who helped us throughout the project. We acknowledge the collective effort and resilience of our team in overcoming logistical challenges to complete this field study.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Abstract
+
+
+This field-oriented study investigates the syntactic structure of the Santali language as spoken by the Santal community in Gopalpur, Rajshahi. While historically classified as a North Munda language within the Austroasiatic family, the Santali spoken in this region exhibits exclusive contact-induced and dialectal variations. Utilising a qualitative approach in which the primary data were collected from native speakers (N=12), this research evaluates the key syntactic operations, including word order, agreement, negation strategies, WH formation and other aspects of the Santali syntax. Major findings unveil a Subject-Object-Verb (SOV) head-final structure that remains resilient despite lexical borrowing from Bengali. Crucially, the study recognises an exclusive dialectal phonological fusion in the first-person negative marker [bo-iɲ], a feature not extensively documented in standard literature. Furthermore, the analysis initiates a syntactic hierarchy for the Zero Copula, which is permissible in attributive clauses but blocked in existential contexts. The study also archives the Genitive Case Collapse in third-person pronouns, where honorific distinctions are neutralised. These findings help to achieve a broader interpretation of Munda syntax and document the specific sociolinguistic reality of the Rajshahi Santal community.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Introduction
+
+
+Bangladesh hosts around 45 distinct ethnic minority groups, making our homeland diverse in terms of ethnicity and cultural assimilation. Among these groups, the Santal (Santhal) community is one of the most eminent. Linguistically, they are members of the North Munda branch of the Austroasiatic Language Family. Most Santals in Bangladesh are bilingual. However, in some regions, they are multilingual, speaking Santali, Bengali (Bangla), and Sadri languages simultaneously.
+  
+
+Figure 01 ː Austroasiatic Language Tree
+  
+
+Figure 02: Santal Inhibited Areas in Bangladesh
+
+
+According to the 2011 census, more than 147,000 people belonging to the Santal community reside in Bangladesh (Sikder, 2020). The Santal community in Bangladesh primarily resides in the Rajshahi Division. Furthermore, several Santals have resided in the Rangpur Division and in the tea estates of Sylhet for a long period due to socio-economic and employment freedom. India is the heartland of the Santal community. Approximately 7.5 million Santal people live in India, especially in the states of Jharkhand, West Bengal, Odisha and Bihar. Moreover, approximately 53,000 Santals live in the southeastern Terai lowlands in Nepal.
+
+
+  
+
+
+
+Syntax is concerned with the arrangement of words and phrases to create well-formed utterances and sentences. It explores how linguistic elements such as words and morphemes are ordered and structured to convey meaning. During our fieldwork, we attempted to identify the following syntactic operations-
+
+
+* The Interpersonal Relationship between Free Pronouns in Santali
+* Interrogatives and Their Formation Pattern
+* Negation Particles and Their Positions
+* Copula in Sentences
+
+
+The data was collected from Gopalpur village of Rajshahi, which is about 62 kilometres away from Rajshahi Sadar. Our data is solely derived from the given location; moreover, we tried to identify unique patterns of the topics we had opted for as team Clause-trophobic. Additionally, we endeavoured to comprehend the cultural, social and economic perspective of the people living in Gopalpur, Rajshahi.
+
+
+
+
+Literature Review
+
+
+Before conducting this study, we had gone through quite a few books and dissertations that acted as the backbone of our research work. Primarily, the book titled “Bangladesher Adibashi Bhasha” authored by Shourav Sikder (2020) provides a broad description of the phonology, morphology, and syntax of the Santali language. Another book that we used as our reference point is “The Munda Languages”, edited by Gregory D.S. Anderson (2008). The Chapter on Santali in Anderson (2008) is penned by Arun Ghosh. This chapter tries to capture the linguistic tendencies of the language meticulously. Two of the books written on the grammar of Santali that we consulted for our research are “Santali Primer” by F.T. Cole (1896) and “A Grammar of the Santhal Language” by L.O. Skrefsrud (1873). These two books are some of the earliest texts that strive to depict the grammar of the Santali language. Santali, one of the most widely spoken Austro-Asiatic (AA) languages from the North Munda branch, is an interesting case study that forces linguists to reconsider vital grammar rules. Unlike English or Hindi, where a word is generally born a Noun (N) or a Verb (V) and stays that way, Santali roots are flexible, meaning a single word can play different roles depending on the surrounding sentence structure. This flexibility is what we call fluid lexical categorisation.
+
+
+1. The Core Puzzle: When a Noun Becomes a Verb
+The central finding in Santali syntax is that the N−V distinction isn't set in stone in the dictionary; it's decided in the sentence structure itself. The process that makes this happen is called Verbalisation.
+
+
+1.1. Syntactic Re-Categorisation
+Research strongly suggests that a word (whether an N or an Adjective (A)) must first exist as its category before it can be 'verbalised'. This isn't a random, unpredictable process; it's a compositional syntactic mechanism that adds verbal features to a non-verbal core.
+Denominal Verbalisation in Action: The most common example involves taking a noun, like raajaa ('king'), and turning it into a verb that means 'to become a king'.
+The structure works by attaching the verbal complex directly to the noun: uni raajaa−en−a−e (He king−PST.MID−FIN−3SG) is perfectly grammatical Santali for 'He became a king.'
+
+
+1.2. Why It Isn't Just a Hidden Word
+A critical part of the academic argument involves proving that these non-verbal items are truly becoming verbs, not just sitting next to a silent word like 'become' (a Null Copula). Diagnostics like NP Scrambling are used to show that the Santali sentence behaves differently from languages that use a hidden copula, thereby confirming the direct verbalisation of the N or A root in the syntax.
+
+
+2. Fieldwork Insights: Predication and Simplicity
+Our fieldwork task perfectly illustrates the practical reality of this flexible system, especially in basic sentence types and word classes.
+
+
+2.1. The Efficient Copula
+In simple identity or class membership sentences, Santali shows remarkable efficiency. The copula verb kan ('to be') is frequently noted as 'optional'. This pliability enables simple nominal predication, in which a sentence like 'I am a man' can be rendered as simply in hɔr ('I man'), relying on context and the lack of a verbal marker to indicate the noun's predicative role.
+
+
+2.2. Simplicity in Agreement
+Possessive structures (e.g. using ina? 'my' or unia? 'his/her') show no distinction based on the age or gender of the possessor. This lack of gender-based agreement is a distinct simplification compared to Indo-Aryan languages, which often co-exist with Santali. Santali’s fluid lexical system and its syntax-driven verbalisation process make it a standout language for modern linguistic research. By systematically altering non-verbal roots into predicates, Santali illustrates a grammatical scheme that prioritises the sentence structure over the lexicon in assigning basic word function.
+
+
+The article “Santals and Their Language: An Anthropological Study” (2021) by Dr Nizamuddin Ahmed and the introduction to "Advances in Munda Linguistics”, edited by Shailendra Mohan, are two significant works on Santali language studies that we are reviewing here. The goal is to comprehend how these work to advance our understanding of the Santali language, especially about Santali syntax as a field of study. Also, we will point out the gaps.
+
+
+ An analysis of "Santals and their Language: An Anthropological Study" by Dr Nizamuddin Ahmed (2021) primary attention in contrast to a purely linguistic approach, DDrAhmed's article takes an anthropological and socio-cultural approach to studying the Santali language. The study mainly concentrates on two : 
+* The history and evolution of the Ol Chiki script. 
+* The contemporary educational and social issues facing the Santali language are the study's two primary focuses. 
+
+
+The article gives important background information about the Santal community and their linguistic identity, but it doesn't go into the details about the language's syntax or grammatical structure. Dr Nizamuddin Ahmed tries to focus on the social and cultural aspects of the Santali language –
+
+
+1. Language and community identity: According to the 2001 Census, there are over 6.5 million Santal speakers, making them the third largest tribal group in India after the Bhil and Gond tribes. Santali is now the 14th most spoken language of the 22 languages listed in the Indian Constitution. The Santals refer to themselves as "Hor," which means "Man," and their language as "Hor-Ror," where "Ror" means speech or language. This shows that the Santal people’s ethnic and linguistic identity is intertwined. 
+
+
+2. Classification of language families: According to Schmidt's 1906 classification, this article verifies that Santali is a member of the Munda group of languages, which is categorised under the Austro-Asiatic language family. This data is important because it places Santali in a larger linguistic framework and helps in understanding how it relates to other languages.
+
+
+3. The history of how writing systems have changed over time: Ahmed (2021) emphasises that Santali was written before Ol Chiki was created. Santali was only spoken until the 19th century. Before the 1860s, Christian missionaries started writing Santali using Bengali and Roman scripts. Other writers used the Devanagari and Oriya scripts. This caused problems because different areas used different scripts, making it hard to keep the written language the same.
+ 
+4. The invention of the Ol Chiki script: Pandit Raghunath Murmu invented the Ol Chiki script in 1925 and described its linguistic construction. The Ol Chiki script consists of six vowels (Raha Arang) and twenty-four consonants (Kecheth Arang). It also has letters that change the tone, nasalisation, length, and deglottalization of words. The article also talks about the myths and stories that led to the script's creation. It shows how many of the characters came from nature, the physical world, and the way people normally stand 
+
+
+5. The educational and social setting: The 92nd Constitutional Amendment made Santali a scheduled language in 2003. Ol Chiki became the official script for Santali in West Bengal in 1979, and Santali-medium schools have been set up in different districts since 2008–2009.
+
+
+6 . Problems with the Santali language: The article talks about a few important problems. Such as the lack of well-trained teachers, the poor infrastructure for teaching Santali, the few job opportunities for Santali learners, and also the students have to switch to other languages in secondary school because Santali is not taught as a medium of instruction after primary school.
+
+
+Limitations of this article are : 
+
+
+No grammatical discussion 
+This article solely focuses on the anthropological and social aspects of the Santal language. How the Santal language became a constitutional language, its social respect and status are only discussed. 
+
+
+Focus on the script 
+Although a script is important for any language and its preservation, it does not show how the language is constructed.
+
+
+No example of the then Santali language 
+The written form of any language changes over time, so if there were any examples, then we could have easily compared the new written form and the then written form and could evaluate how much it has changed.
+
+
+“Advances in Munda Linguistics” (2021) by Shailendra Mohan and Masato Kobayashi discusses the recent studies on Munda languages, including Santali, in its introduction. This introduction is written by an Austroasiatic linguistics expert, Shailendra Mohan, who provides important background information for understanding Santali's place in the Munda language family and the characteristics that connect these languages. 
+
+
+The introduction part of this book identifies some important points :
+
+
+1. Munda languages in the South Asian setting
+Munda languages play a significant but least studied role in South Asian linguistics. These languages are different from the predominant Indo-Aryan and Dravidian language families in India because they are members of the Austroasiatic family. Munda languages are still among the least documented in the Indian subcontinent, despite being spoken by almost ten million people.
+
+
+2. Comparative and historical views 
+The book discusses the historical evolution of various Munda languages, such as Santali, and the reconstruction of proto-Munda. The proto-Munda speakers most likely came from Indo-China to the border of Odisha between 4000 and 3500 years ago. It is important to have an idea about this historical context to understand how Santali evolved into its present syntactic characteristics. 
+
+
+3. Typological features
+Typological characteristics of Munda languages are covered in the introduction.   Santali and Sora are thought to be less restructured than other Munda languages, which is important for syntax research. This indicates that they have had less contact induced by the Indo-Aryan and the Dravidian languages and have gained more of the original Munda linguistic characteristics. 
+
+
+4. Contact-Induced change and word order
+The fact that Santali switched from SVO (Subject-Verb-Object) to SOV (Subject-Object-Verb) word order due to contact with Indo-Aryan languages is one of the most important contributions to syntax research. Also, the introduction points out that Santali automatically uses a topic-prominent clause structure. This knowledge is important to comprehending Santali syntax and its historical development. 
+
+
+5. Conservatism in phonology Santali has a larger vowel system than related languages and is phonologically conservative within the Munda branch. Although this is phonological information, it indicates that Santali might also maintain other conservative elements that might be important for Santali syntax.
+
+
+6. Comparative structure 
+The introduction offers a framework for understanding what distinguishes Santali syntax from that of its sister languages by placing it within the larger Munda family. Because it makes it easier to identify which traits are inherited from proto-Munda and which evolved independently, this comparative viewpoint is useful for syntax research.
+
+
+Instead of offering a thorough analysis, it provides an introduction to an edited volume. There is insufficient elaboration on certain syntactic constructions, rules, and patterns. Wide-ranging attention to various languages, Santali-specific syntactic details are naturally limited due to the volume's coverage of several Munda languages. As it focuses on all the Munda languages, there are no specific details about any one language. The introduction focuses a lot on comparative factors and historical reconstruction. These are important, but they don't give enough space to discuss synchronic syntactic description, or how contemporary Santali syntax actually functions.
+ 
+The analysis of these two works reveals several important research gaps regarding Santali syntax: 
+
+
+1. Fundamental Clause Structure The fundamental Santali clause structure is not fully described in either work. Santali has SOV word order and is topic-prominent, as we know from the Munda linguistic introduction, but there are still a lot of unanswered questions.
+
+
+2. Sentence Structure Complexity
+The formation of complex sentences in Santali is not covered in either work.
+It does not involve where relative clauses appear in relation to the noun they modify, and how they are formed. It also does not include what kinds of complement clauses there are, the structure of adverbial clauses and the complex predicate type clause.
+
+
+3. Structure of noun phrases
+The structure of Santali noun phrases is not explained in either work. The noun phrase's elemental order (noun, adjective, demonstrative, numeral, possessor), how possessive relationships are labelled, the case-marking system, and what kinds of determiners there are, are not discussed. 
+
+
+4. Forming and negation 
+ There is no discussion of these fundamental syntactic processes. How do the Santals formulate a yes-no question? Which question words are present in the clause, and how do they use the negation marker?
+
+
+5. Syntactic change induced by contact 
+Santali changed from SVO to SOV due to Indo-Aryan contact, according to the Munda linguistics introduction, but this deserves further research. 
+
+
+3. What we did in our field work to fill these gaps
+* We worked with the basic sentence structure of the Santali language. Santali follows the SOV structure. 
+* We worked with the negation markers and explored variations among negation particles.
+* We worked with how the copula form works in the sentence structure. There are many zero copulas like the Bangla language structure. 
+* How is it a contact-induced language and is influenced by other languages like Bangla, Sadri, and Hindi
+* We identified the interpersonal relationship between free pronouns and how honorifics work in Santali.
+* We recognised the Wh-markers and their positions within sentences
+* Our data included unique findings regarding honorifics, person-induced negations and dialectal variations, dual vs plural forms in natural speech and everyday contexts, zero copula in some aspects and so on.
+Finally, our research objective and findings focused on the data collected from the site and the findings were based on the less documented yet intriguing syntactic aspects.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Research Methodology 
+
+
+1. Research Design
+
+
+The Santali language's syntax was investigated in this study through a qualitative research design. We ratified the qualitative method since it concentrates on comprehending language in depth rather than gathering data or statistics. The qualitative research design made it effortless for us to distinguish patterns that might not be revealed in a more constructed or numerical study and to examine how people actually used the language in everyday contexts. We also examined how sentences were constructed, how words were arranged, and how syntax conveyed meaning by employing a qualitative approach. Some statistical analyses were also employed to maintain the data efficiently and to understand the data ratio. Uninterrupted communication with native Santali speakers was another aspect of this design that allowed for the collection of comprehensive linguistic data. Intending to capture significant linguistic details that might otherwise be overlooked in a quantitative study, it is obligatory to observe and analyse real speech. Through the natural and adaptable combination of observation, interaction, and linguistic analysis, our qualitative research design enabled us to acquire a thorough understanding of Santali syntax. Moreover, the statistical analysis gave us clear insights into the participants and their backgrounds. 
+
+
+
+
+2. Participants
+
+
+2.1 Selection Criteria 
+
+
+The following standards were employed to choose our participants from Gopalpur village: 
+* Santali speakers by birth. 
+* Proficient in the language with regular use. 
+* Preparedness to attend multiple study sessions.
+* Capacity to give informed consent. 
+For data integrity, participants should not be too young or too old. To ensure the data is representative and balanced, participants should be of various ages and genders. We gathered our participants through our local guide.
+
+
+2.2 Participants Profile
+Total participants: We collected data from a total of 12 participants.
+
+
+Age range: We tried to collect data from people of different age groups to understand all aspects of their current language use. The age range would be approximately (19-60) years.
+Gender distribution: We collected data from male and female participants. Though the male ratio may be a little lower than the female ratio, because the male villagers had gone out for work. Among 12 participants, we had 9 female participants and 3 male participants.
+  
+
+Participants' Educational and Social Background: Among the 12 participants from whom we collected the data, 4 were current students ( 3 female and 1 male),  6 were housewives, and 2 males were farmers. These 6 housewives and 2 farmers are not that educated; they are mostly illiterate, simple village folk. But one of the 6 housewives was highly educated both in Bengali and Santali and could read and write Santali script fluently.
+  
+
+Geographical Location: The village from where we collected the data was Gopalpur Santal Village, Rajshahi Division. 
+
+
+  
+
+
+
+Figure 03 ː Map of Rajshahi
+
+
+Language background: Santali is the first language of all the participants, but they are all bilingual, and some are multilingual. They have to learn Bangla for daily communication and educational purposes. For higher studies, they also have to learn English, so language shift is very prominent. 
+3. Data Collection Method
+
+
+3.1 Semi-structured interview
+
+
+Semi-structured interviews were our main strategy for accumulating data. This method enables us to: 
+* Be flexible when investigating new linguistic elements. 
+* Investigating intriguing syntactic structures. 
+* Keeping attention on pre-determined research questions.
+
+
+Interview topics included:
+* Word order patterns.
+* Sentence structure.
+* Interpersonal relations in free pronouns. 
+* Position of negation.
+* Complex sentence formation.
+* Use of grammatical markers.
+* Copula clauses in the Santali language. 
+* Interrogatives.
+
+
+3.2 Observation
+
+
+Additionally, we recorded natural language use in conversational contexts using the direct observation method to: 
+* Note the nonverbal cues that accompany spoken words. 
+* Record patterns of code-switching. 
+* Note how context affects syntax decisions.
+
+
+4. Data Collection Process
+
+
+4.1 Session Plan and Execution
+
+
+Total number of sessions: We conducted a total of 10 sessions, including filler sessions for cross-checking data and filling gaps from previous sessions. 
+Duration of each session: Among these 10 sessions, we had 6 sessions of approximately 45-60 minutes each and 4 sessions of approximately 2-2.5 hours each. 
+Frequency: Our total data collection period was 2 days. The first day, we conducted 6 small sessions. On the second day, we conducted 2 longer, in-depth parallel sessions along with our 2 filler sessions. 
+  
+
+
+
+
+
+4.2 Audio Recording 
+
+
+Recording equipment: We recorded the data on our smartphone with the recording app “Easy Voice”.
+
+
+Audio format:  We recorded the data in WAV format.
+
+
+Audio duration limit: Total recording time 346 minutes.
+
+
+Total audio data collected: We collected approximately 5.8 hours of audio data across all sessions.
+
+
+Storage and backup: Audio files were stored on personal smartphones and a specific Google Drive with regular backups to ensure data security.
+
+
+4.3 Primary Data
+
+
+Audio recordings: From conversations and interviews, we gathered natural speech data. 
+
+
+Transcriptions: All Santali audio recordings have been IPA transcribed. 
+
+
+Field notes: Observational notes made during sessions. 
+
+
+Researcher’s journal: Researchers' thoughts on linguistic trends, difficulties, and revelations during fieldwork.
+
+
+4.4 Secondary Data
+
+
+Linguistic examples: Sentences that were selected for syntactic analysis. 
+
+
+Explanations from participants: commentary on grammar rules from a meta-linguistic perspective. 
+
+
+Contextual details: Information about the topics and settings of conversations.
+
+
+5. Data Analysis
+
+
+5.1 Data Glossing
+5.1.1  Affirmative Statements (Present)
+ 
+উনি আমার কুটুম হয়  
+	uni    d̪ɔ      iɲren         peɽɑ      kɑn-ɑ-e
+3SG TOP 1SG-GEN Relative COP-FIN-3SG:SUBJ
+She is my guest. 
+	বাড়িতে লোক আছে
+	hɔɽ        minɑ-e        ɡiɑ
+People Exist-3SG EMPH-FIN
+There are people in the house.
+	আমার গরু আছে 
+	iɲ                     t̪ʰen           gae minaʔ-a 
+1SG-GEN One-CLSSFR Cow Exist-M-FIN
+I have a cow. 
+	এটা আমার জিনিস 
+	nɔɑ dɔ            iɲɑkʔ ɟinis       kɑn-ɑ
+This TOP 1SG-GEN Thing COP-FIN
+This is mine.
+	আমি তো এটা জানি, আপনি কি জানেন? 
+	im      dɔ bɑɟɑiɡi   ɑmɑi bɑɟɑʲɡiɑ imhi bɑɟɑʲ kɑn-ɑ
+1SG TOP Know-1SG-EMPH 2SG-Q Know-2SG-EMPH-FIN 1SG-Too Know-2SG-COP-FIN
+I know this, do you know this?
+	  
+
+Tree Structure: He is my relative
+5.1.2    Affirmative Statements (Past)
+
+
+আমি এটা জানতাম
+	iɲ       -d̪o nɔa bada-e           led-a
+1SG-TOP  This  Know-TR    PST-FIN
+I knew this
+
+
+	  
+
+                                                     Tree Structure: I knew this
+ 5.1.3   Affirmative Statements (Future)
+
+
+দুপুর হলো ভাত খেতে যাবো  
+	d̪ɑʔkɑʲen cɔlɑʲen         kɔdɔ      d̪ikin nɑ
+Rice Eat   Go-PROG Do-TOP 3SG FIN
+It’s noon, I’ll have lunch.
+	ওই কাজ করবে না আমি কাজ করবো 
+	uni      d̪ɔ      bɑ-e                   kɔmiɑ        iɲ     d̪ɔɲ                    kami-ɑ
+3SG TOP NEG-3SG:SUBJ Work-FIN 1SG TOP-1SG:SUBJ Work-FIN
+ He won’t do the work, I will
+	
+
+  
+
+Tree Structure: I will work
+5.1.4    Negative Statements (Present)
+
+
+ওতো কাজ করে না 
+	uni      d̪ɔ bɑ-e                      kami kɑn-ɑ 
+3SG TOP NEG-3SG:SUBJ Work COP-FIN
+He does not work
+	আগে কাজ করতো, এখন কাজ করে না 
+
+
+	uni d̪oke kami kan tɑhen-kɑn-ɑ menkʰan nitok dɔ bɑ-e kami kɑn-ɑ
+3SG TOP-PST Work Do PST-COP-FIN But Now TOP NEG-3SG:SUBJ Work COP-FIN
+He used to work earlier, now he does not
+	ওই আমার আত্মীয় না 
+	uni      d̪ɔ     iɲren      peɽɑ       dɔe                     bɑ-ŋ            kɑn-ɑ
+3SG TOP 1SG-GEN Relative TOP-3SG:SUBJ NEG-1SG COP-FIN
+He is not my relative
+
+
+	কোথাও যাচ্ছি না 
+	iɲ       d̪ɔ   ɔkɑ      hɔ̃     bɑ-ɲ                    cɑlɑokʔ kɑn-ɑ
+1SG TOP Where Also NEG-1SG:SUBJ Go-M COP-FIN
+I am not going anywhere
+
+
+	এটা আমার জিনিস না 
+	noɑ d̪ɔ        iɲɑkʔ       ɟinis dɔ bɑ-ŋ      kɑn-ɑ
+This TOP 1SG-GEN Thing TOP NEG COP-FIN
+This is not my thing
+	   
+Tree Structureː He is not working (Negation sits in NegP, modifying the VP)
+5.1.5   Negative Statements (Past)
+
+
+আমি এটি কখনোই দেখিনি
+	iɲ     d̪ɔ      noɑ dɔ     tis     hɔ̃      bɑ-ɲ                   ɲelɑkɑdɑ
+1SG TOP This TOP When Also NEG-1SG:SUBJ See PRF:A-FIN
+I never saw this
+	তুমি কি এটা করো নাই ?
+	ɑm    d̪ɔ     noɑdɔ     gɔɳ gɔrɑɔk        d̪ɔ
+2SG TOP This-TOP How Do-PST:A TOP
+Did you not do it?
+	  Tree Structureː: I had never seen this
+5.1.6    Negative Statements (Future)
+
+
+দুপুর হলো তাও আমি ভাত খাব না 
+	dikin nɑ   dɑʔkɑjɔn boʲen                 ɟɔm
+3SG FIN Rice-OBJ NEG-1SG:SUBJ Eat
+Even if it is noon, I will not eat
+	ওই কাজ করবে না আমি কাজ করবো
+	uni      d̪ɔ bɑ-e                        kɔmi-ɑ    iɲ       dɔɲ                    kami-ɑ
+3SG TOP NEG-3SG:SUBJ Work-FIN 1SG TOP-1SG:SUBJ Work-FIN
+She will not work, I will.
+
+
+	একজন মানুষ আমি যাব না 
+	mitʔʈen            hɔɽ        iɲ     dɔ    bɑ-ŋ tʃɑlɑo-ɑ
+One-CLSSFR Person 1SG TOP NEG Go-FIN
+There was only one person, I won’t go. 
+	  
+
+Tree Structure: I will not eat rice
+5.1.7  Interrogative Sentences 
+
+
+আপনি যাবেন না?  
+	ɑm    d̪ɔ       ɑlɔm                       tʃɑl-ɑ
+2SG TOP PROHIB-2SG:SUBJ Go-FIN
+Won’t you go?
+	আপনি কি জানেন ও কোথায় থাকে ?
+	ɑm     d̪ɔ-m                   bɑɖɑyɑ uni d̪ɔ       ɔkɑredeye            tɑhen kɑn-ɑ
+2SG TOP-2SG:SUBJ     Know 3SG TOP Where-LOC-TOP-3SG:SUBJ Stay COP-FIN
+Do you know where he resides?
+	এটাতো ভালো তাই না ?  
+	bɑnhojɔ    kɑnbɑ
+Good Be COP-Q
+This is good, isn’t it?
+	  Tree Structure: Will you not go?
+5.1.8 Imperative Sentences
+
+
+খাইতেই হবে
+	ɟɔŋgi           lɑgɑ ɑcɔmne
+Eat-EMPH Must Now-IMP
+You must eat.
+	কালকে আবার আসো 
+	ɡɑpɑ           dɔ ruɑɽ       hiɟukʔ me
+Tomorrow TOP Again Come-M-2SG:IMP
+Come again tomorrow.
+	বাবা,  তুমি খেওনা 
+	bɑbɑ,    nɔwɑ dɔ    ɑlɔ-m                        ɟɔm-a
+Father This TOP  NEG-2SG:SUBJ Eat-FIN
+Father, don’t eat. 
+	  Tree Structureː: Come tomorrow (Imperatives often have a null Tense or distinct Mood)
+5.1.9 Modals
+
+
+কিছুটা খেতে হবে
+	iɲ         ɟahãnɑk ɟɔm  lɔktiɲɑ
+1SG Something Eat Must-1SG:SUBJ-FIN
+You have to eat something.
+	আমাকে এটি করতে হবে
+	nɑtɔ           tɔ kɔmiki   lɑgɑhuʲe
+this-TOP TOP Work Must-Become-3SG:SUBJ
+I have to do it.
+	তুমি এটা করতে পারো না 
+	bɑ-m          dɑre ɑnde    kɑmi-jɑ-dɔ      kɑunde       ɑm          tʃɑl-ɑ
+NEGː2SG Ability That  Work-Do-TOP    Can     2SG:SUBJ Go-FIN
+You are not able to do it. 
+	  Tree Structure: I must eat something
+5.1.10 Complex/Coordinated
+বাড়িতে কিছুই নাই
+	ɔɽɑkʔ re cɛtʔ hɔ̃bɑnukʔɑ
+House-LOC What Also NEG-M-FIN
+There’s nothing home. 
+	আমরা দুজন জানি, আর কেউ জানে না
+	ɑbɔ           bɑnɑr ɡebɔn    bɑdɑyɑ ɑr ɛtɑk dɔ bɑkɔ bɑdɑyɑ
+1PL.INCL both EMPH-1PL:SUBJ Know and Other TOP NEG-3PL:SUBJ Know
+Only the two of us know.
+	অনেক মানুষ আজকে আমরা যাব না 
+	ɑemɑ hɔɽ kɔ minɑ, tehen dɔ bɑbɔn cɑlɑoɑ
+Many People Exist Today TOP NEG-1PL:SUBJ go-FIN
+We won’t go as there are many people. 
+
+
+	  Tree Structureː We both know and others do not know
+5.1.11 Basic Verbal Negation (Present Tense)
+সকালবেলা আমরা চা মুড়ি খাই
+
+
+	sitaʔ bela   aled̪o              tʃa   khaɟaɽile        ɟɔm-a
+Morning      1PL.NOM     Tea Puffed rice     Eat-FIN
+We eat puffed-rice and tea in the morning. 
+	আজকে আমার চা মুড়ি খেতে ইচ্ছা করছেনা
+
+
+	t̪ihind̪o  tᶘa        khaɟaɽido     bɑ-ŋ            ɟɔm             sana-kan-a
+Today   Tea        Puffed rice  NEG.1SG    Eat          Wish-COP-FIN
+I don’t feel like eating puffed rice and tea today.
+	সে গান গায় না
+
+
+	uni-d̪o                       ba-e          siɽiɲ-a-e
+3SG.NOM-TOP    NEG.3SG     Sing-FIN-3SGːSUBJ
+He doesn’t sing.
+	আমি ভাত খাই
+
+
+	iɲ-d͏͏̪o                       d̪aka-i          ɟom-a
+1SG.NOM -TOP   Rice-AUX   Eat-FIN
+I eat rice.
+  
+	আমি ভাত খাই না
+
+
+	iɲ-d͏͏̪o                        d̪aka-t̪o         bɔ-iɲ            ɟom-a
+1SG.NOM -TOP     rice-AUX    NEG.1SG      Eat-FIN
+I don’t eat rice.
+	  Tree Structure: I do not eat rice
+5.1.12 Basic Verbal Negation (Past Tense)
+
+
+সে আগে কাজ করতো
+
+
+	uni-d̪o                     lahat̪e    kami-ə    kan-t̪ahen-a
+
+
+3SG.NOM -TOP     Before   Work      BE-COPːPST-FIN
+She used to work.
+	সে আগে কাজ করতো না
+
+
+	uni-d̪o                     lahat̪e   ba-e           kami-ə  kan-t̪ʰen-a
+ 
+3SG.NOM -TOP    Before  NEG.3SG   Work    BE-COPːPST-FIN
+
+
+He didn’t use to work before.
+	সে বাড়ি গিয়েছিল
+
+
+
+
+	
+
+uni               oɽae      sen-len-a
+
+
+3SG.NOM  Home     Go-PLUP-FIN
+
+
+He went home. 
+	সে বাড়ি যায় নি
+
+
+	uni              oɽae            ba-e                  sen-kan-a-e
+3SG.NOM  Home     NEG.3SG    Go-COP-FIN-3SGːSUBJ
+He didn’t go home.
+	তুমি তো আমাকে দেখোনি
+	am-ma                  iɲ                 ba-m             ɲɛl-lid̪əɲ 
+
+
+2SG.NOM-AUX   1SG        NEG.2SG            See-PST
+
+
+You didn’t see me.
+	তুমি তো আমাকে দেখতে পাওনি?
+	am-ki                    iɲ            ba-m          ɲɛl-ɲam                   kad̪ina?
+
+
+2SG.NOM-AUX  1SG  NEG.2SG  See Find -2SG-PST       Get
+
+
+You weren’t able to see me. 
+	  Tree Structure: He did not go home
+5.1.13 Progressive/Continuous Negation
+
+
+তারা ঘুমাচ্ছে
+	un-ko                          ɟapi-t̪a
+3SG.PL.NOM-AUX Sleep-PST-PROG
+They are sleeping. 
+	তারা ঘুমাচ্ছে না
+	un-ko                            ba-ku                ɟapi-t̪a
+ 
+3SG.PL.NOM-AUX   EXCL.NEG   Sleep-PST-PROG
+
+
+They are not sleeping.
+	এখন সবাই কাজ করছে
+	næt̪aɾd̪o  ɟɔt̪t̪ohoɽgiku       kami-d̪a
+
+
+Now          All                   Work-PROG
+
+
+Everyone is working now. 
+	সে আগে কাজ করতো
+	uni-d̪o                      lahat̪e    kami-ə    kan-t̪ahen-a
+
+
+3SG.NOM -TOP     Before   Work    BE-COPːPST-FIN
+
+
+He used to work before. 
+	আমি বাড়ি যাচ্ছি
+	iɲ-d̪o                     oɽae      senoʔ-kanoi
+
+
+1SG.NOM-TOP   Home     Go-PROG.1SG
+
+
+I’m going home. 
+	সে বাড়ি যাচ্ছে
+	uni-d̪o                     oɽae     senoʔ-kana-e
+
+
+3SG.NOM -TOP  Home     Go-PROG.3SGːSUBJ
+
+
+He is going home. 
+	তুমি আমাকে দেখতে দেখতে যাচ্ছিলে
+	am                 iɲ-se                      kojʔɔ-kat̪ʰe  tʃal-a kan-t̪ʰen-a-m
+
+
+2SG.NOM 1SG-ACC-AUX        See-CVB      GoːFIN BE-COPːPST-FIN-2SGːSUBJ
+
+
+You were going while watching me. 
+	সে আমাকে দেখতে দেখতে যাচ্ছিল
+	un              iɳ-se             kojʔɔkat̪ʰe           tʃal-a      kan-t̪ʰen-a 
+
+
+3SG.NOM 1SG-ACC-AUX     See-CVB     GoːFIN  BE-COPːPST-FIN
+
+
+He was going while watching me. 
+	  Tree Structure: They are not sleeping
+5.1.14 Copular/Adjectival Negation
+
+
+এটা ভালো
+	una-d̪o           mɔɟgej-a
+
+
+DEM.PROX    Good-INAN
+
+
+It’s good. 
+	এটা ভালো না
+	una-d̪o             ba-ŋ            mɔɟ-a
+
+
+DEM.PROX   NEG-1SG     Good-INAN
+
+
+It’s not good. 
+	সে ভালো গান গায় (পুং)
+	uni-koɽa-d̪o               ədimutʃʰe       siɽiɲ-a
+ 
+3SG.M.NOM-TOP    Good       Sing-FIN
+
+
+He sings well.
+	সে ভালো গান গায় (স্ত্রী)
+	uni-kuɽi-d̪o               ədimutʃʰe     siɽiɲ-a
+
+
+3SG.F.NOM -TOP   Good         Sing-FIN
+
+
+She sings well.
+
+
+	সে খুশি
+	ɾesʔk   kan-a
+
+
+Happy  COP-FIN
+
+
+He’s happy. 
+
+
+	সে খুশি না
+	ba-e             ɾesʔk   kan-a
+
+
+NEG-3SG  Happy   COP-FIN
+
+
+He isn’t happy. 
+	আমি ক্লান্ত
+	iɲ-d̪o-iɲ                         laŋgajna
+
+
+1SG-TOP-1SGːSUBJ    Tired
+
+
+I’m tired. 
+	আমি ক্লান্ত নই
+	iɲ-do-iɲ                          laŋga-len-a
+
+
+1SG-TOP-1SGːSUBJ   Tired-PLUP-FIN
+
+
+I’m not tired. 
+	আমি ক্লান্ত হয়েছিলাম
+	iɲ-do-iɲ                           laŋga-len-a
+1SG-TOP-1SGːSUBJ    Tired-PLUP-FIN
+
+
+I was tired. 
+	ক্লান্ত হয়ে যাবে
+	laŋga -a-m
+
+
+Tired-FIN-2SGːSUBJ
+
+
+You’ll get tired. 
+	সে ক্লান্ত হয়েছিলো
+	laŋga-len-a-e
+
+
+Tired-PLUP-FIN-3SGːSUBJ
+
+
+He was tired. 
+	 সে ক্লান্ত হয়ে যাবে
+	laŋga-a-e
+
+
+Tired-FIN-3SGːSUBJ
+
+
+He will be tired.
+
+
+	  Tree Structure: He is not happy
+5.1.15 Nominal Predication Negation
+
+
+সে আমার ভাই
+	uni-d̪o                         iɲ                     bɔiha        kan-a
+
+
+3SG.NOM -TOP     1SG.GEN           Brother       COP-FIN
+
+
+He is my brother.
+
+
+	সে আমার ভাই নয়
+	 iɲ             bɔiha-d̪o      .  ba-ŋ               kan-a-e
+
+
+1SG.GEN  Brother-TOP  NEG-1SG COP-FIN-3SGːSUBJ
+
+
+He is not my brother. 
+	    
+Tree Structure: He is not my brother
+5.1.16 Modal Negation
+
+
+আমি ওখানে যেতে পারি
+	iɲ                 ɔnde            tʃala-o darija
+
+
+1SG.NOM    DEM.LOC GO.FUT MOD
+
+
+I may go there.
+	আমি ওখানে না যেতে পারি
+	 ɔnde          bɔ-iŋ            tʃal             darija
+
+
+DEM.LOC   NEG.1SG  Go-PRS           MOD
+
+
+I may not go there.
+	  
+
+Tree Structure: I cannot go there
+5.1.17 Possessive
+আমার একটি বই আছে
+	iɲ-aʔ             mit’t’e    boi    minaʔ
+1SG-GEN   One/a      Book   Have-PRS
+I have a book
+	তার ১টি বই আছে
+
+
+	uni-aʔ        mit’t’e   boi    minaʔ
+2SG-GEN   One/a   Book   Have-PRS
+He has a book.
+	ওর ১টি বই আছে 
+
+
+	uni-aʔ        mit’t’e    boi        minaʔ
+3SG-GEN   One/a     Book   Have-PRS
+He has a book.
+	ওনার ১টি বই আছে
+Note: There is no age or gender difference.
+Book =( boi/puthi)
+	uni-aʔ       mit’t’e    boi    minaʔ
+3PL-GEN  One/a     Book  Have-PRS
+
+
+He has a book.
+	তার নাম গরেটি হেব্রম
+	uni-aʔ             nut̪um            goreti   hembrom
+2SG-GEN     Name-NOM  Goreti   Hembrom
+
+
+Her name is Goreti Hembrom
+
+
+	আমার বাবা মাঠে কাজ করে
+	iɲ-aʔ           baba   mathe      kami-a
+1SG-GEN Father   Field    Work-PRS-3SG
+My dad works in the field.
+
+
+	সে একজন ভালো বন্ধু (ছেলে )
+	uni      mit’t’en moɟ   gati   kɔɽa     kan-a-e
+3SG       One   Good Friend Boy    COP-FIN-3SG:SUBJ
+He is a good friend. 
+	সে একজন ভালো বন্ধু ( মেয়ে  )
+	uni    mit’t’en  moɟ  gati      kuɽi     kan-a-e
+3SG   One       Good Friend Girl   COP-FIN-3SG:SUBJ
+She is a good friend. 
+	এটা আমার বাড়ি
+
+
+	ɲied-ʔ              iɲaʔ                       oɽae        kan-a
+this-NOM     1SG-POSS               House       COP-FIN
+(the)
+This is my house.
+	ওটা আমার বাড়ি
+
+
+	onad-ʔ            iɲaʔ             oɽae          kan-a
+DEM.DIST  1SG-POSS    House      COP-FIN
+That is my house.
+
+
+	আমরা বাঙ্গালি না(plural and dual)
+
+
+	ɑlæ-d̪o            baŋkali              ba-ŋ          kan-a-leʔ
+1PL-TOP        Bengali        NEG-1SG      COP-FIN-1PL
+əliɲ-d̪o            baŋkali     ba-ŋ                kan-a-leʔ
+1-DU-TOP    Bengali   NEG-1SG          COP-FIN-1PL
+
+
+I’m not Bengali. 
+	আমি নিজেকে ভালোবাসি
+	iɲ                 iɲ-iŋ            dularoa
+1SG.NOM   1SG.POSS   Love
+
+
+I love myself. 
+
+
+	ও নিজেকে অনেক সুন্দর মনে করে
+
+
+	uni-d̪o                           moneya         aido    adie         napaya
+3SG.F.NOM -TOP  Think-PRS   POSS    Very       Beautiful
+
+
+He thinks he is beautiful.
+
+
+	   
+Tree Structure: I have a book
+5.1.18  Copula Verbs 
+
+
+ইনি আমাদের নতুন বন্ধু 
+
+
+	nui-d̪o                        aleren  nawa   gati   kuɽi         kan-a-e 
+3SG.PROX.ANIM-TOP    1PL   New    Friend Girl    COP-FIN-3SG:SUBJ
+He is our new friend.
+	ইনি আমার মা
+	uni-d̪o                          iɲ                  goɡo        kan-a-e
+3SG.NOM -TOP   1SG.POSS     Mother  COP-FIN-3SG:SUBJ
+She is my mother.
+	এটা আমার মা
+	nui-d̪o                                   iɲ                 goɡo   kan-a-e
+3SG.PROX.ANIM-TOP  1SG.POSS   Mother  COP-FIN-3SG:SUBJ
+This is my mother.
+	আমি একজন মানুষ
+	iɲ-d̪o                       mit’t’en   hɔr       kan-a
+1SG.NOM-TOP    One        Man   COP-FIN
+I am a human. 
+	আমি পড়াশোনা করি
+	iɲ-d̪o                parha kan-a
+1SG-TOP        Study COP-FIN  
+I Study.
+	  Tree Structure: She is our new friend
+5.1.19    Interrogatives
+
+
+ওই লোকটা।
+	heni  hɔɾ
+That    Man 
+	আমরা সাঁওতাল।
+	     ale          hɔɾ      kan-ale
+1PL.EXCL  Man   COP-1PL.EXCL
+We are Santal. 
+	এই মহিষটি কি আপনার?
+	nokk in kada    okoiɾen       kan-aki
+   This     Ox   INTER:GEN COP-INTER
+Is this buffalo yours?
+
+
+	এই মহিষটি আমার।
+	nokkin kada          iɲɾen             kan-aki
+   This     Ox   1PL.EXCL:GEN  COP-INTER
+This buffalo is mine.
+
+
+	এটা আমার বন্ধু।
+	       iɲ        bond̪ʰu      kan-a-e
+1SG:GEN  Friend    COP-FIN-3SG:SUBJ
+This is my friend.
+
+
+	এটা কাদের?
+	   okoiɾen          kan-aki
+INTER:GEN   COP-INTER
+Whose are these?
+	এটা আমাদের।
+	         iɲɾen              kan-aki
+1PL.EXCL:GEN   COP-INTER
+This is ours.
+	আপনার নাম কি?
+	    amaʔ     not̪um   tʃe
+2SG: GEN  Name  What 
+What is your name?
+
+
+	আপনার গ্রাম কোথায়?
+	  tʃe     at̪u       okaɾen          kan-a-m
+What  Village INTER: LOC COP-FIN-2SG: SUBJ
+Where is your village?
+
+
+	আমার গ্রাম গোপালপুর।
+	     ale           at̪u     d̪o   gopalpuɾ
+1PL.EXCL Village  TOP Gopalpur
+My village is Gopalpur. 
+	আপনার কতটি মহিষ আছে?
+	  apeɾen      d̪o     tinoʔ      kada
+2PL: GEN TOP How  Many    Ox
+How many buffalo do you have?
+
+
+	আমাদের দুইটা মহিষ।
+	       aleɾen           d̪o    baɾia kada
+1PL.EXCL:GEN TOP   Two    Ox
+We have two buffaloes.
+	এটা কিভাবে করতে হয়?
+	amtʃe likam       kami-a
+How     Work     Do-FIN
+How to do it?
+
+
+	এই বাড়িটি কি দিয়ে তৈরি?
+	   tʃe         t̪epe     oɾae     kid̪a
+What   With Make   House   PST
+What is the house made of?
+	এই বাড়িটি মাটি দিয়ে তৈরি।
+	hasa        t̪ele            oɾae   kid̪a
+Earth   With  Make   House  PST
+The house is made with clay.
+	আপনি কোন ফসল চাষ করেন?
+	tʃepe    rohoia   ape-d̪o
+What     Crop   2PL-TOP
+What crop do you cultivate?
+
+
+	আমরা ধান চাষ করি।
+	huɾule  rohoia        ale-d̪o
+Rice       Crop   1PL.EXCL-TOP
+We cultivate rice.
+
+
+	কে এসেছে?
+	oko i   heʔ i-na
+Who  come-PST
+Who came?
+	আপনি কখন ফিরবেন?
+	t̪in ɟukʰuem  ɾuoɽ
+    When       Return
+When will you return?
+	
+
+কখন যাবেন?
+	t̪in ɟukʰuem  tʃal-a
+    When        Go:FIN
+When will you go?
+	আপনার ছেলের নাম কি?
+	  am-pen   gid̪ɾo not̪um   d̪o    tʃe
+2SG-GEN  Son    Name TOP What
+What is your son’s name?
+	ইনি আমাদের নতুন শিক্ষক।
+	 un i    d̪o         okaɾen            titʃaɾ
+3SG TOP 1PL.EXCL:GEN New Teacher kan-t̪a-bon-a-e
+COP-FIN-3SG:SUBJ
+She is our new teacher. 
+	আপনি কেন হাসছেন?
+	 iɲalt̪e  tʃid̪a  am    land̪a ked̪a
+ You   Why  2SG  Laugh PAST
+Why are you laughing?
+
+
+	তার কি কোন ভাই ছিল?
+	  amɾen      aɾho buihaku  t̪ehe-kan-a-e
+ 
+3SG: GEN  Any Brother Exist-PST-FIN-3SGːSUBJ
+
+
+Did he have a brother?
+	না, তার কোনো ভাই ছিল না।
+	baŋ       baku          t̪ehe-kan-a-e
+NEG NEG.EXCL  Exist-PST-FIN-3SG:SUBJ
+No, he didn’t have any brother.
+	হ্যাঁ, তার ভাই আছে।
+	 he      iɲ-ɾen      buihaku t̪ehe-kan-a-e
+   
+Yes   3SG:GEN  Brother  Exist-PST-FIN-3SG:SUBJ
+     Yes, he has a brother. 
+	আপনি কি ভাত খাবেন?
+	   am-d̪o    d̪akam   ɟɔm-a
+2SG-TOP    Rice     Eat :FUT
+Would you like to eat rice?
+	হ্যাঁ, খাবো।
+	 he   ɟɔm-a
+Yes  Eat: FUT
+Yes, I will eat.
+	না, খাবো না।
+	     iɲ-d̪o        bɔ- iɲ        ɟɔm-a
+NEG-TOP NEG-1SG  Eat:F UT
+No, I will not eat. 
+
+
+	তিনি কি আপনার ভাই?
+	   uni-d̪o      am   d̪ad̪a     kan-a
+ 3SG-TOP 2SG Brother  COP-FIN
+
+
+Is he your brother?
+	হ্যাঁ, আমার বড়ো ভাই।
+	 he        iɲ         d̪ad̪a     kan-a
+Yes 1SG:GEN Brother  COP-FIN
+Yes, he is my brother.
+
+
+	আপনার সন্তান কি স্কুলে গিয়েছে?
+	   amɾen   gid̪ɾo  iskule   tʃalao    kan-a
+2SG:GEN  Son  School  Go:PST COP-FIN
+Did your child go to school?
+	এটা কার বাড়ি?
+	  okoi     oɾae     kan-a
+Whose  House  COP-FIN
+Whose house is this?
+	এটা আমাদের বাড়ি।
+	      ale         oɽae      kan-a
+1PL.EXCL House  COP-FIN
+This is our house.
+	বাজারে যাবেন?
+	hatem    tʃal-a
+Market   Go-FIN
+Will you go to the market?
+	আজকে হাটে যাবো না।
+	 t̪ih in-d̪o         bɔ- iɲ       tʃal-a
+Today-TOP NEG-1SG   Go-FIN
+I won’t go to the hut today.
+	হ্যাঁ, আমি যাই।
+	he      iɲ     tʃal-a
+Yes 1SG  Go-FIN
+Yes, I will.
+	তুমি কোথায় যাচ্ছো?
+	    oka-t̪em  tʃalaʔ  kan-a
+Where-LOC  Go   COP-FIN
+Where are you going?
+	আমি ঘুরতে যাই।
+	     iɲ-d̪o    d̪aɾan iŋ tʃalaʔ  kan-a
+1SG-TOP   Roam     Go   COP-FIN
+I go to roam.
+	
+
+কোথায় যাবে?
+	     iɲ-d̪o- iɲ          tʃalaʔ   kan-a
+1SG-TOP-1SG    Go   COP-FIN
+Where will you go?
+	আপনি কি কৃষক?
+	  am-d̪o      tʃem    kami-a 
+2SG-TOP Farmer  COP-FIN
+Are you a farmer?
+
+
+	আমি হাল চালাবো।
+	     iɲ-d̪o    naheli   ʃiʔa
+1SG-TOP Plough Drive
+I will drive the plough.
+	আমি ধান লাগাতে যাই।
+	  iɲ-d̪o   huɾu ɾohu iŋ tʃalaʔ   kan-a
+1SG-TOP Rice  Plant     Go   COP-FIN
+I am going to plant rice.
+	আপনার কি মহিষ আছে?
+	 apeɾen-d̪o    kada mina kina
+2PL: GEN-TOP  Ox    Exist   Q
+Do you have buffalo?
+	  Tree Structure:  Where are you going? ((WH-movement to CP Specifier position)
+5.1.20 Copular Verb
+
+
+ঐ লোকটি অনেক লম্বা 
+	uni      hɔrd̪ɔ                  ædi    osul
+3SG   Man   (ø.COP)  Very     Tall
+That person is very tall.
+	তারা কি সুখী? 
+	uŋko-ki  ædimɔtʃ  tahena 
+3PL       Happy      COP-PRS
+Are they happy?
+	বাড়িতে কি কেউ আছে? (Singular)
+	orare-ki    dʒahaɟ   minaʔpɟa
+Home      Anyone   COP-PRS
+Is anyone home?
+	বাইরে অনেক লোক আছে (plural)
+	barereh    aimɔ-hor    minaʔqua 
+Outside   Many-Man   COP-PL.PRS
+There are many people outside.
+	আগে এখানে একটা ঘর ছিলো 
+	lahat̪e  nænde  mite  ora       tehekan-a
+Before  Here     One  House  COP-FIN.PST
+There was a home here before.
+	বইটি টেবিলের উপর ছিলো 
+	bɔi     tæbil  tʃit̪anɾe  tahekan-a
+Book  Table  On        COP-FIN.PST
+The book was on the table.
+	আমার গ্রাম নদীর কাছে 
+	aɭe  at̪u       gadaʔ  ariræ
+My  Village  River  Near (ø.COP)
+My village is near the river.
+	গতকাল ক্লান্ত ছিলাম 
+	holadɔ        ædi      laŋɡa-ɡin      tehekan-a
+Yesterday   Very     Tired-Aux    COP-FIN.PST
+I was tired yesterday.
+	এই ফলটি মিষ্টি নয় 
+	niɟo  ɟdɔ                     ba-ŋ   herem 
+This  Mango (ø.COP)  Neg   Sweet
+This fruit is not sweet.
+	এখনকি রাত? 
+	   netɔ-ki   lind̪ɔ   giɟa      kan-a 
+(ø.COP) Now      Night    COP-FIN
+Is it night now?
+	এটা আমার কলম না 
+	niɟa  iŋʔ  kɔlɔm  ba-ŋ           kan-a
+This        Pen    Neg-1SG  COP-FIN
+This is not my pen.
+	
+
+  
+
+Tree Structure: This mango is not sweet. (Zero Copula in T')
+
+
+5.2 Transcription Process
+
+
+All audio recordings were transcribed using:
+* The International Phonetic Alphabet (IPA): IPA was used to transcribe all audio recordings to maintain their true pronunciation and characteristics.
+* Transcription conventions: These included suprasegmental elements like tone, pitch, stress, pauses, hesitations, and overlaps.
+*  Timing: After data collection, transcription was finished in two weeks.
+
+
+5.3 Analysis Procedure
+
+
+We analysed the data following these steps:
+* Familiarisation: Reading transcripts and listening to audio recordings repeatedly. 
+* Coding: Recognising and labelling patterns and syntactic structures. 
+* Categorisation: Sorting similar syntactic phenomena.
+* Pattern Identification: Recurring grammatical structures are analysed to identify patterns. 
+* Comparison: Verifying results from various sessions and speakers. 
+* Interpretation: Making inferences about Santali syntax from patterns found.
+6. Analytical Framework
+The analytical framework was guided by descriptive linguistics. Some major theories that we followed during the analysis are-
+
+
+1. The Boasian Trilogy: The three crucial elements of a comprehensive language description and documentation project, as promoted by Franz Boas and his students, are referred to as the "Boasian trilogy" in descriptive linguistics and anthropology. The three elements are: 
+
+
+* A collection of texts: This entails compiling lengthy instances of the language in use, such as stories, customs, or casual conversations, frequently with free and interlinear translations. These texts serve as a record of the verbal art and communication patterns of the culture and supply the primary data (raw data) for analysis. 
+
+
+* A grammar: This part describes the rules and organisation of the language, including its phonological system, morphological word structure, and syntactic sentence construction. 
+
+
+* A dictionary: This offers a lexicon of the language, describing word meanings, forms, and usage.
+
+
+Instead of viewing this trilogy through the prism of a single, universal evolutionary path, Boas saw it as an anthropological endeavour as well as a linguistic one, crucial for comprehending a culture on its own terms (cultural relativism) and as an integrated whole (holism). The practice known as "salvage ethnography" aimed to provide a thorough record of a people's mental and cultural life, especially for endangered indigenous languages in America.
+
+
+2. Dell Hymes ‘Ethnography of speaking’: Moving beyond abstract grammar to study communication as a social practice, Dell Hymes' "ethnography of speaking" (later "ethnography of communication") is a framework for comprehending how language is used in its cultural and social context. By examining the setting, participants, ends (goals), act sequence, key (tone), instrumentalities, norms, and genre, it employs the SPEAKING model to analyse communication. The method highlights that knowledge of these cultural and social aspects is just as important for effective communication as language proficiency.
+
+
+The SPEAKING model-
+
+
+An organised method for examining communication events is offered by the acronym SPEAKING: 
+
+
+S-Setting and Scene: The communication's psychological and physical context. 
+P-Participants: The people who attend and their roles. 
+E-Ends: The communication's shared and individual objectives. 
+A-Act Sequence: The speech acts' order and the types of utterances they contain. 
+K-Key: The communication's tone or atmosphere, such as formal, lighthearted, or serious. 
+I-Instrumentalities: The means of communication, such as a written letter or a phone call. 
+N-Norms: The guidelines that control language usage in a speech community. 
+G-Genre: The kind of communication, like a news report, a joke, or a sermon.
+
+
+7. Ethical Considerations
+
+
+Informed consent: Participants gave their informed consent after being fully informed about their rights and the purpose of the study. 
+Confidentiality: Pseudonyms were used to protect participant identities. Under no circumstances will their personal information be revealed or published. 
+Voluntary Participation: Participation was entirely voluntary, and participants were free to leave at any moment. 
+Cultural sensitivity: The Santali language and culture were respected during the research process. 
+Data protection: All transcripts and recordings are safely kept with limited access.
+
+
+8. Reliability and Validity 
+
+
+8.1 Measures to Ensure Reliability 
+
+
+To ensure consistency, we held several sessions with the same individuals. We cross-checked data from several speakers. For validation, we presented our results to additional participants.
+
+
+8.2 Measures to Ensure Validity
+
+
+Triangulation: We collected data using a variety of techniques, including observation, elicitation, and interviews.
+Extended engagement: Ten sessions were held, allowing for comprehensive data collection. 
+Comprehensive documentation: To ensure accurate data analysis, we recorded audio and took thorough field notes. 
+Peer review: For genuine data collection and analysis, we also conferred with linguists and Santali language counsellors. Moreover, the interlinear glosses were properly examined and cross-checked by at least four of our team members and our Santal guide.
+
+
+9. Synopsis of Research Procedure
+
+
+To view how these diverse methodological components, from ethical considerations to morphosyntactic analysis, are thus integrated into our final study, the complete research workflow is summarised below:
+  
+
+This is the coherent overview of the research framework, detailing the continuity from field preparation in Gopalpur to the final syntactic exploration. As shown in this diagram, our workflow spans seven phases from literature review to final reporting.
+Findings and Interpretive Analysis
+
+
+1. Interpersonal Pronoun Systems
+1.1 Pronominal Structure: Consistent Genitive Case Collapse
+Our data represents a clear, uniform demonstration of how the pronominal genitive case collapses distinctions maintained in neighbouring Indo-Aryan languages (like Bangla).
+unia-ʔ used for Bangla translations corresponding to: 
+tar (2SG/3SG informal possessive) 
+or (3SG familiar/intimate possessive) 
+onar (3PL/3SG honorific possessive) 
+Unique Feature:
+Extreme Generality of the Third-Person Genitive. The single form uniaʔ (3SG/PL-GEN) is a fixed point in the pronominal system, unifying multiple person/status distinctions that are robustly maintained in the source language (Bangla).
+Our fieldwork clearly documents the single form uniaʔ neutralising the honorific/familiar distinction (tar vs. Onar), a crucial point of divergence from Indo-Aryan contact languages that may not be available in general academic corpora, despite the literature’s general observation of a “lack of gender/age agreement.”
+1.2 Morphological Persistence: Pronoun Dual Number
+əliɲ (1st Person Inclusive Dual Pronoun, 'We two') 
+ɑlæ (1st Person Inclusive Plural  Pronoun, 'We')
+Unique Feature:
+Explicit representation of the Dual and Plural distinction on 1st person Inclusive Pronouns in an immediate and analysed sentence structure. The Munda family is known to have three numbers (singular, dual, and plural), as evidenced by nouns like (seta-kin), which means “(two dogs).” However, our data shows that this morphological complexity persists in the usage of the personal pronouns (əliɲ ‘we-DUAL’ vs. ɑlæ ‘we-PLURAL’) in active sentences. Despite the simplifying effects of language contact, this phenomenon exemplifies Santali's morphological retention from its Austrasiatic legacy. ( Data from recording -Mayabi Murmu, Gorethi Hembrom(25-10)12:40-13:20)
+1.3 Honorific/Kinship-based Pronoun Variations
+Various terms for respected levels:
+heɟuben gʰuhu
+	Mother-in-law (honour form)
+	heɟuba, heɟumego
+	Own father, mother
+	heɟuben
+	Respected elder (when familiar)
+	heɟume
+	Someone ordinary
+	Ghosh (2008) identified that Santali obtains "possessive suffixes...only with kinship terms: 1st person -ɲ, 2nd person -m, 3rd person -t"
+Our findings display pragmatic-semantic variations in pronoun choice predicated on interpersonal correspondences.
+1.4 Pronoun Paradigm Chart: Standard vs. Gopalpur Dialect
+The following table compares the standard pronominal forms narrated in existing literature (e.g., Ghosh, 2008; Neukom, 2001) with the forms elicited from speakers in Gopalpur during this fieldwork-
+
+
+Person / Number
+	Standard Santali Form
+	Gopalpur Variety
+	Observation: Neutralisation or Innovation
+	1SG (I)
+	iɲ
+	iɲ / bo-iɲ (Neg)
+	Innovation: While iɲ stands as  the standard subject, the negative form fuses phonologically into [bo-iɲ] (Regressive Assimilation)
+	2SG (You)
+	am
+	am
+	Stable: No major variation observed
+	3SG (He/She)
+	uni (Anim) / ona (Inan)
+	uni / nui (Prox)
+	Stable: The animate distal uni remains the default third-person subject
+	1DU.INCL (We two, with you)
+	alaŋ
+	– –
+	Data gap: This specific form was not elicited in the collected data
+	1DU.EXCL (We two, without you)
+	aliɲ
+	əliɲ
+	Retention: The dual number is preserved. Note that participants used əliɲ productively even in bilingual contexts. There is a slight change in pronunciation in the collected data.
+	1DU.EXCL (We two, without you)
+	abo / abon
+	abo
+	Stable: Used in collective contexts (e.g., abo banar "We both")
+	1PL.EXCL (We all, without you)
+	ale
+	ale / alæ
+	Stable: Phonetic variation was demonstrated in the data (alæ), but the exclusive function remains intact.
+	3PL (They)
+	onko / ako
+	unko / ko
+	Stable: Standard plural marking on pronouns, where a little change in the initial vowel was observed.
+	3rd Genitive (His/Her/Their)
+	uni-ak / ako-ak / uni-ren
+	uni-a? (Generalised)
+	Major Neutralisation: The single form uni-a? It is used for 3SG and 3PL possessors, collapsing the status/honorific distinctions found in contact languages like Bangla and Sadri.
+	
+
+ 2. Interrogatives 
+From the collected data of Gopalpur village in Rajshahi, our research team tried to find the interrogative forms present in the Santali Language and their variation across different sentences. This study differentiates data from existing Santali linguistic documentation with our team's bona fide field research to investigate interrogative forms found in Santali. The analysis adds new information to our understanding of Santali syntax by highlighting a number of unique characteristics of Santali interrogatives that have not been thoroughly explored in earlier research.
+2.1 Types of Interrogatives
+A wide range of interrogatives used in natural Santali speech was identified by our field data collection. Our results are shown in the table below with IPA transcription and Bangla script:
+Bangla Form
+	IPA Transcription
+	কখন
+	t̪inɟokʰoi / t̪inɟukʰuem
+	কোথায়
+	ukaɾe / okaɾen / okat̪em
+	কেন
+	tʃid̪a
+	কিভাবে
+	tʃikat̪e
+	কিরকম
+	tʃet̪lika
+	কি
+	tʃeʔ
+	কোনটা
+	ukataʔ
+	কতগুলো
+	t̪inagan
+	কে
+	okoj kanaj /okoi
+	কাদের
+	okoiɾen
+	কতটি
+	t̪inoʔ
+	কোন
+	tʃepe
+	কার
+	okoi
+	2.2 Expanded Interrogatives of Time and Space
+ Specific forms for temporal and spatial questions that are either missing or not as well-detailed in the literature currently in publication are documented by our field research:
+● Temporal: For "when," we discovered [t̪inɟokʰoi / t̪inɟukʰuem], which exhibits phonological variation not represented in the simple [tis] form used in existing literature. This implies that temporal questioning varies depending on the dialect or context.
+●  Spatial: Although a "where" interrogative is not specifically mentioned in the literature we reviewed, our field data reveals that there are several forms, including [ukare], [okaren], and [okat̪em]. These variances indicate that, based on the locative suffix employed, spatial interrogatives may have distinct pragmatic or grammatical contrasts. 
+2.3 Qualitative and Manner Interrogatives
+   Several manner and quality interrogatives that go beyond the existing literature were found by our research:
+●    The form [tʃikat̪e] (how/in what manner) differs from [ceka]/[cikə] as described in our literature review. Our reviewed literature did not include the qualitative interrogative [tʃet̪ilka] (what kind/what type). According to these results, Santali has a more comprehensive system for evaluating manners and quality than has been previously shown.
+2.4 Quantitative Inquiries
+      While [tinak'] (how much) is mentioned in the literature, our field data shows:
+●  For counting discrete objects, [t̪inagan] (how many) appears to have a more general function than [t̪inoʔ] (how much/how many). A more complex quantification system in common Santali use is indicated by the differentiation between count and mass interrogatives. 
+2.5 Interrogatives Based on Demonstrations 
+ The frequency of forms starting with [oko-] or [oka-], such as [okoj]/[okoi] (who) and [okoiren] (whose/whom in plural), is a noteworthy discovery from our field research. [okoi](whose) [ukataʔ] (which one) these forms, which display morphological patterns where interrogative pronouns may derive from or share roots with demonstrative pronouns, assume a potential demonstrative origin for some interrogatives. Although this relationship between demonstratives and interrogatives is familiar across languages, it has not been thoroughly examined in the Santali literature that is currently obtainable.
+2.6 Dialectal Forms and Phonological Variation:
+●      Significant phonological variation is revealed by our field data: "When": [t̪inɟokʰoi] versus [t̪inɟukʰuem] "Where": [okat̪em] vs. [ukare] vs. [okaren]"Who": [Okoi] vs. [okoj kanaj]. Differences in dialect, register, or contextual usage patterns that are not encompassed in standardised grammatical descriptions could be the cause of this variation. The fact that there are several acceptable constructions for the same interrogative function indicates that Santali speakers are flexible in their question word selection, which may be influenced by regional variation, formality, or emphasis.
+2.7 Positional Variation In Interrogatives
+There is positional flexibility in the Santali language interrogations. According to our collected data, Santali interrogatives are not restricted to a single syntactic position. Rather, their arrangement is ambiguous and seems to be determined by the particular interrogative word and the object of the question. In our data, we have found sentence-initial, sentence-medial, and sentence-final positions of interrogatives in Santali. A system of fixed positions for individual lexemes rather than a single fixed position for all interrogatives is suggested by the data, which indicates that different interrogative words have a strong tendency to appear in specific positions. 
+2.7.1 Initial Interrogatives in Sentences
+ Interrogatives are frequently found at the start of sentences. This is typical for general "what" questions and questions concerning the subject, reason, and time.
+ [okoi] (Who/Whose): Functions as the subject or a possessive modifier.
+ Example: "[okoi heʔ i-na] " (Who came?)
+ Example: "[okoi oɾa kan-a] " (Whose house is this?)
+ [okaɾen] (Where): Questions location.
+ Example: "[tʃe at̪u okaɾen kan-a-m] " (Where is your village?)
+ [oka-t̪em] (Where - motion): Questions direction.
+ Example: "[oka-t̪em tʃalaʔ kan-a] " (Where are you going?)
+[amtʃe] (How): Question manner.
+ Example: "[amtʃe likam kami-a] " (How is this to be done?)
+ [t̪in ɟukʰuem] (When): Questions time.
+ Example: "[t̪in ɟukʰuem tʃala] " (When will you return/go?)ʼ
+ [ tʃe] (What): Often appears sentence-initially when questioning the object or nature of something.
+ Example: "[tʃe t̪epe oɽae kid̪a] " (What is this house made of?)
+ Example: "[tʃepe rohoi e-a ape-d̪o]" (What crops do you cultivate?)
+2.7.2 Medial Interrogatives in Sentences 
+The middle of the sentence is where other interrogatives are always found. This frequently happens when the interrogative is effectively incorporated into the sentence's main argument structure by questioning a possessor, a quantity, or a pronoun. Copula verbs often follow interrogatives in this position.
+ [oko iɾen] (Whose): Appears before the copula verb.
+ Example: " [nokkin kada okoiɾen kan-aki]" (Is this ox yours? - interpreting "yours" as "whose")
+Example: "[okoiɾen kan-aki] " (Whose is this?) Note: This is listed as "sentence beginning," indicating a potential variant or alternative analysis; however, the medial pattern is more consistent.
+[tinoʔ] (How many): Questions quantity and is placed before the verb or after the subject.
+Example: " [apeɾen d̪o tinoʔ kada] " 'How many oxen do you have?'
+[tʃid̪a] (Why): Notably appears after the subject pronoun.
+             Example: " [ iɲalt̪e tʃid̪a em land̪a ked̪a] " (Why are you laughing?)
+ 2.7.3 Final Interrogatives in Sentences
+The sentence ends with a few interrogatives. This is especially evident in certain constructions, such as [tʃe] and for the question particle [kina]
+[kina] (Question Particle): Functions as a yes/no question marker and is strictly sentence-final.
+ Example : " [apeɾen-d̪o kada mina kina]?" (Do you have oxen?)
+[tʃe] (What): Can also appear in sentence-final position, typically in questions about a name or identity.
+Example: " [amaʔ not̪um tʃe]" (What is your name?)
+ Example: " [am-pen gid̪ɾo not̪um d̪o tʃe]?" (What is your son's name?)
+Throughout the syntactic structure, Santali interrogatives exhibit positional flexibility. The placement is lexically specified; that is, the position of the particular interrogative word—whether its grammatical role determines initial, medial, or final—. One important characteristic of Santali syntax that sets it apart from purely wh-fronting languages is its flexibility. Interrogatives can and do move across sentences, as the data demonstrates convincingly.
+2.8 Intricate Morphological Framework
+ A number of our recorded forms exhibit intricate morphological patterns:
+●      A potential interrogative prefix or root is suggested by the appearance of what looks to be the elements [t̪i-] /[tʃi] in several interrogatives [t̪inɟokʰoi] [tʃikat̪e], [tʃet̪ilka], [t̪inaɡan], and [t̪inoʔ]. Different morphological strategies are used for different types of questions, as evidenced by the variation in suffixes [-kat̪e, -nagan, and -noʔ]. To comprehend the productive patterns in Santali interrogative formation, more research should be done on this morphological complexity.
+ 2.9 Possessive and Plural Marking 
+  Although the precise suffix varies, our field data records [okoiren] as an oblique/plural form of "who," which is consistent with the literature's reference to plural formation with [-ko]. Although the precise morphology may differ from the known [-kin/-ko] pattern, this demonstrates that Santali interrogatives do inflect for number.
+                                                          (Data from recording- Interrogative, Pilamina murmu,markus kisku(husband)24.m̩4a, 0ː00-47ː53)
+3. Negation
+In the collected data, we have tried to distinguish the position of negations in Santali and how they vary across sentences.
+3.1 The Preverbal Negation
+
+
+In Santali, we have identified Preverbal Negation, a phenomenon in which negation precedes the verb in all contexts. The negation marker does not change its position, and the structure is rigid in Santali. For instance :
+* He doesn't sing : uni-d̪o               ba-e          siɽiɳ-a-e
+                            3SG-TOP    NEG.3SG    Sing-FIN-3SGːSUBJ
+
+
+*  I am not studying : iɲ            bɔ-iŋ            paɽʰa-kan-a
+                                          1SG          NEG         Read-COP-FIN
+    
+*  You did not see me : am-ma       iɲ      ba-m                ɲɛl-lid̪əɲ
+                                  2SG-AUX  1SG  NEG.2SG        See-PST
+
+
+3.2 The Agglutinative Negation System: Person-Specific Markers
+
+
+A particularly notable aspect of Santali is its agglutinative negation system, where the negative marker changes based on the grammatical person:
+* 1st person: ba-ŋ(The negative marker for the first-person singular)
+* 2nd person: ba-m(The negative marker for the second-person singular)
+* 3rd person:ba-e (The negative marker for the third-person singular)
+* Inclusiveː ba-le (The negative marker for the first-person plural inclusive pronoun)
+* Exclusiveː ba-ku(The negative marker for the first-person plural exclusive pronoun)
+* Prohibitiveː alo
+                                                               (Data from recording- Tuli Hasda(25_10),12:01-13:00)
+3.3 Morphological Fusion in Negation Particle 
+Based on our collected data, we have identified a unique negation particle, bɔ-iɲ, which is used in many contexts. Such as,
+* bɔ-iŋ he dari od̪a batiŋ lahare - "Two days ago we didn't come"
+* bɔ-iŋ tʃala net̪o d̪o - "I won't go now"
+* bɔ-iŋ kʔemi-a - "Won't work at all"
+Ghosh (2008) introduced three negation particles in Santali, and these were,
+-baŋ/ba
+- ɔhɔ
+-alo
+Our collected data identified a new regional innovation or dialectal variant not documented in the existing literature. It could be a dialectal variation of Santali prevalent in  Rajshahi. As per our data, bɔ-iŋ occurs with the 1st person singular and the 1st person plural.
+We propound that this is a result of regressive vowel assimilation. The back rounded vowel /o/ is being influenced by the bilabial nasal /m/ or the closure of the lips required for the negation marker ba-. In rapid speech, the sequence ba-in fuses, rounding the low vowel /a/ to /o/, resulting in bo-in. This recommends that the Rajshahi dialect of Santali manifests a strong tendency toward vowel harmony in high-frequency function words.
+  3.4 Unique Negation Particle Based on Gender and Age
+Based on our data, we have distinguished negation particles based on gender and age. In Santali, there are two ways to use negation when people are referring to their peers. For example,
+Masculine:  baŋ-ja
+Feminine: baŋ-na
+These forms are only used when people refuse their peers/friends or same-age fellows. This particular linguistic variation is not mentioned in the previous literature.
+3.5 Emphatic Reduplication in Negative Responses with Repeated Particles
+From the collected data, we have found an emphatic reduplication in negative responses immediately before a person-specific negative future form. This pattern creates a rhythmic, discourse-level reinforcement in which negation is treated as a single preverbal marker, without the optional particle reduplication for emphasis. It is used in rejection or refusal contexts. For example-
+
+
+* না না যাবো না - baŋ baŋ     bɔ-iŋ           tʃal-a
+                                     No   No     NEG         Go-FIN
+                                        
+                                                                  (Data from recording- Tuli Hasda(25_10),13.35-13.47)
+
+
+3.6 Suppletive Negation in Interrogatives
+
+
+ Our data divulge that Santali uses Suppletive Negation for commands.
+
+
+Standard Negation: ba
+
+
+ e.g., ba-n ɟom-a
+         "I do not eat"
+Prohibitive (Negative Command): alo 
+ 
+e.g., alo-m ɟom-a 
+        "Do not eat!"
+
+
+This morphological switch indicates that "Mood" (Imperative vs. Indicative) overrides standard negation rules in Santali syntax.
+  
+
+  alo' replacing standard 'ba' in the Neg head under Imperative Mood
+
+
+4. Gender Distinction
+Gender is marked not on the noun itself, but through roots:
+
+
+সে ভালো গান গায় (পুং)
+	uni-koɽa-d̪o    ədimutʃʰe       siɽiɲ-a-e
+
+
+	সে ভালো গান গায় (স্ত্রী) 
+	uni-kuɽi-d̪o     ədimutʃʰe     siɽiɲ-a-e
+
+
+	
+
+* Masculine: uni-koɽa-d̪o (3SG.M-TOP)
+* Feminine: uni-kuɽi-d̪o (3SG.F-TOP)
+The person marker uni (3SG) remains the same; only the root changes (koɽa vs kuɽi).
+                                                                (Data from recording- Tuli Hasda(25_10),4:00-4:16)
+
+
+ও আমার ভালো বন্ধু (ছেলে)
+	nɔi iɲreŋ mɔɟ gat̪i-koɽa
+
+
+	ও আমার ভালো বন্ধু(মেয়ে)
+	nɔi iɲreŋ mɔɟ gat̪i-kuɽi
+
+
+	*  Masculine:  gat̪i-koɽa (Friend-M)
+* Feminine: gat̪i-kuɽi   (Friend-F)     
+The gender indicating roots are also seen at the sentence-final position to clarify the gender in the discourse. It exemplifies the flexible structure of gender markers and their use in natural speech. 
+                                                                  (Data from recording- male,25 Year. Mixed, 5ː43-5ː54)
+5. Converb Construction for Simultaneous Actions       
+A Converb construction is a variety of non-finite verb forms that is used to express adverbial subordination. In the given data, we identified that Santali uses converb forms (CVB) with -kat̪ʰe to express simultaneous actions:
+* kojʔɔ-kat̪ʰe tʃala-kan-t̪ʰen-a = "seeing-while going-COP-PST-FIN" (was going while seeing)  
+This structure provides an extensive opportunity to investigate the converb construction in Santali for further research.                       
+                                                           (Data from recording- Tuli Hasda(25_10),22:40-23:07)
+6. Situational PRO-DROP Tendency
+
+
+PRO-DROP languages refer to those languages in which the subject pronoun and sometimes the object pronouns can be omitted because the context makes the subject/object clear. The derived data states that pronouns can be omitted in Santali in some situations to maintain the discourse flow. Such as-
+
+
+ক্লান্ত হয়ে যাবে
+	laŋga -a-m
+Tired-FIN-2SGːSUBJ
+	সে ক্লান্ত হয়েছিলো
+	laŋga-lin-a-e
+Tired-PST-FIN-2SGːSUBJ
+
+
+	সে ক্লান্ত হয়ে যাবে
+	laŋga-a-e
+Tired--FIN-2SGːSUBJ
+
+
+
+
+	আমি ক্লান্ত নই
+	bɔ-iɳ         laŋga-kan-a
+NEG       Tired-COP-FIN
+	
+
+7. Copula
+
+
+A copula refers to a grammatical component that connects the subject of a sentence to a predicate expressing identity, classification or a state. It can carry tense, aspect, mood, or agreement features in many languages. Copulas are central to comprehending non-verbal predicates.
+
+
+7.1 Interrogative Copula Dropping
+
+
+In Santali, the copula/ auxiliary can be dropped in certain pragmatic circumstances, including irritation and emphasis. Antecedent literatures mention tone, except for the systematic copula dropping patterns we documented. These are-
+
+
+* ragat̪o hɔjena - "Did you do it?" (irritated tone)
+* baŋ kɔ milid̪a nɔjakɔ binit̪a - "I told you to do this work, did you?"
+
+
+
+
+7.2 Multiple Copular Strategies 
+
+
+Our data shows that Santali uses many different ways to express “being”. We have overt copular forms like “mina”(present) and tahena / tehekana (past), also zero copula (ø.COP)
+Where nothing appears overtly. 
+
+
+7.3 The Zero Copula Pattern 
+
+
+Many sentences show no visible copula at all.
+
+
+That man is very tall
+	uni      hɔr-d̪ɔ                  ædi    osul
+3SG   Man-TOP   (ø.COP)  Very     Tall
+	This mango is not sweet
+	niɟo  ɟdɔ                     ba-ŋ   herem 
+This  Mango (ø.COP)  Neg   Sweet
+
+
+	
+
+
+
+7.4 The Hierarchy of Copula Dropping
+
+
+ While Santali has an overt copula (kan), our data recommends that it is not a prerequisite phenomenon in all contexts. We remarked a syntactic split based on the type of predication:
+
+
+Existential/Locative Clauses
+The copula or existential marker (mina) is mandatory.
+	"uni orak-re mina-e-a"
+ (He is in the house).
+
+
+	Attributive/Adjectival Clauses
+ The copula is optional and frequently dropped (Zero Copula).
+	"uni hor [Ø] osul"
+ (That man [is] tall)
+	
+
+This proves that Santali treats "existence" (being somewhere) in a different way than "attribution" (being something). In the data we assembled from the site, the Zero Copula strategies were almost exclusively found in attributive sentences, aligning with typological and structural patterns seen in other Austroasiatic languages.  The existential copula in our data does not align under the Zero Copula strategy, which is not documented in the previous literature, like Ghosh (2008).
+  
+
+The null symbol Ø in the V position for Adjectival predicates
+
+
+7.5 Person and number sensitivity 
+
+
+Copula changes based on who or what we are talking about. There is “minaʔpɟa” for singular and “minaʔqua” for plural, which suggests that the copula agrees with the subject.
+
+
+7.6 Features that Differ from Existing Literature
+7.6.1 Zero copula is a dominant feature
+Overt copula verbs are often emphasised in standard descriptions of Santali, but our data indicates that zero copula appears frequently, mainly with locative predicates (ale at̪u gadaʔ ariræ), quality predicates(uni hɔrd̪ɔ ædi osul).
+7.6.2 Variation based on Context 
+Certain pragmatic or discourse factors that aren’t always covered in grammatical description may influence the decision between overt copula and zero copula. For example, a zero copula appears to be more preferred in temporal or locative contexts rather than existential ones.
+7.6.3 The alternation between “tahena”, “tahekana” and “tehekana”
+There are two past copular forms that we found. The majority of literature refers to tahe(n) as the standard past copula. In our collected data, “tahena” is used as the present form, whereas the “tehekana” and  “tahekana” variants are used as the past form. This indicates either a dialectal or a grammatical distinction which needs to be studied further. 
+7.6.4 Combining auxiliary construction
+The copula that follows an auxiliary verb (laŋga-gin) in “holadɔ ædi laŋga-gin tehekana” (yesterday I was very tired), illustrates how copulas interact with complex predicates, something that isnʼt always covered in description.
+7.6.5 Patterns of question formation 
+The number-marked question strategy of (minaʔpɟa vs minaʔqua) appears to be more systematic than is usually described.
+7.6.6 Real speech patterns
+We collected actual usage patterns rather than idealised grammatical examples. This actually demonstrates how copulas are actually used in speech 
+
+
+8 . Information Structure: The Role of the -d̪o Marker
+
+
+Our fieldwork data reveal that the suffix -d̪o is among the most frequent morphemes in Santali discourse.
+
+
+8.1 Syntactic Elucidation: Topic vs. Focus
+In linguistics, a sentence is often separated into two parts:
+
+
+Topic (Theme): The "old" information; what the sentence is about.
+
+
+Focus (Rheme): The "new" information; what is being said about the topic.
+
+
+The marker -do attaches to the Topic of the sentence to indicate that this constituent is the "given" information.
+
+
+Example from Data: uni-d̪ɔ         ba-e                      kami      kan-a 
+                                 3SG-TOP   NEGː3SGːSUBJ  Work      COP-FIN
+Here, uni (He) is the entity already known to the listener. The marker -d̪o flags him as the "Topic."The rest of the sentence (ba-e kami...) anticipates the new information (Focus).
+
+
+8.2 Support from Literature
+
+
+This finding aligns with Anderson's classification of Munda languages as having a "topic-prominent clause structure". Unlike English, where the Subject is defined by its position (start of the sentence), Santali uses morphology (-d̪o) to explicitly mark the topic, regardless of where it occurs in the sentence structure (though it is predominantly identified in the initial position).
+
+
+8.3 Placement in the Clause
+
+
+The data we collected implies that -do attach mostly to:
+
+
+Pronominal Subjects: uni-d̪o (He-TOP), iɲ-d̪o (I-TOP), am-d̪o (You-TOP).
+Demonstratives: nɔwa-d̪ɔ (This-TOP).
+Noun Phrases: uni koɽa-d̪o (That boy-TOP).
+
+
+8.4 Cognitive Function: The "Anchor"
+
+
+Cognitively, -d̪o functions as an "anchor" for the listener. It tells the listener, "We are having a conversation about this particular person or object; now here is the news about them." If the -d̪o marker were withdrawn, the sentence might still be grammatical in some contexts, but it would overlook its discursive coherence, conceivably turning the subject into the "Focus" (new information) rather than the "Topic."
+
+
+
+
+  
+
+
+
+Syntactic representation of in-d̪o (I-TOP), showing the -d̪o clitic attaching to the Noun Phrase to head a Topic Phrase, distinguishing the subject as the discursive theme.
+Case-Study: Santali Syntax
+
+
+The Santals are one of Bangladesh's largest indigenous communities. According to the Bangladesh Bureau of Statistics (BBS) 2022 Census, the Santal population in the country is 129,049 people. Most of them live in the northern parts of the country, in the districts Rajshahi, Naogaon, Chapai Nawabganj, Dinajpur and Rangpur, etc.
+
+
+Santali is the native language of the Santals. It belongs to the North Munda group of the Austro-Asiatic language family. In 1959, linguist Pinnow proposed a classification of the Austroasiatic language family. He divided the Austroasiatic language family into two central branches ( the Western group, the Eastern group). The Western  group was further divided into two( West  Northwest, Northwest(Munda))
+
+
+Later, Pinnow classified Munda into four subgroups (Eastern, Western, Central and Southern). He included the Santali language(the largest Munda language) in the eastern subgroup.
+  
+
+ Figure 04: Classification of the Munda language according to Pinnow(1959).
+
+
+In 1969, Zide classified Munda languages, which are different from Pinnow's(1959) classification. Zide combined Pinnow's Eastern and Western subgroups of Munda languages as North Munda, and he combined Central and Southern subgroups as South Munda. Zide’s classification is widely accepted and considered as “Traditional Classification of the Munda Languages”.
+  
+
+  Figure 05: Classification of the Munda language according to Zide(1969).
+
+
+In 1975, Sudhuibhushan Bhattacharya proposed that Munda languages are ten in number and they are classified into four subbranches (Northwestern Munda, Northeastern Munda, Central Munda and Southern Munda). He included the Santali language in the Northeastern Munda group. 
+  
+
+
+
+   Figure 06: Classification of Munda languages by Shudhibhushan Bhattacharya (1975).
+
+
+Anderson proposed the Munda classification in which North Munda is divided into two daughter groups, namely “Korku” and “Kherwarian”. The Santali language belongs to the Kherwarian branch.
+  
+
+   Figure 07: The Munda Languages by Anderson (2001).
+
+
+Syntax is the study of the interrelationships between components of sentence structure and of the rules governing the arrangements of sentences in sequences. The typical arrangement of words in a phrase, clause, or sentence is referred to as word order. The natural word order of the Santali language is SOV (Subject-Object-Verb), like Bangla. The shared word order minimises overt conflict in sentence configuration, which allows for more subtle, internal structural convergence, particularly in complex phrase structures. The Santali-speaking communities of the northern part of Bangladesh (including Rajshahi, Naogaon, and Rangpur) are at a stage of intense linguistic pressure because the Santal community and the majority Bangla community are highly interconnected.
+
+
+In these areas, Santals are usually bilingual, sometimes trilingual. There, Bangla serves as the dominant language of administration, education, and mainstream public interaction. The Santals use the Roman script for their religious scriptures. The validity of the Santal language is facing generational decline. Rather than Santali, the younger generations use Bangla for speaking, reading, writing, and everyday communication. They consider the Santali structures as an "obstacle" regarding marginalisation and social exclusion for using a non-dominant language.
+The Santali language spoken in the Bangladeshi plain areas is undergoing a critical process of reducing the range of styles, genres, and complex grammatical features among the younger generation because of the limited input. Though globally the language is not classified as endangered, code-switching (the altering use of two languages within the same interaction) is common in Santali speakers. Besides, there is extensive borrowing of forms from one language into the matrix language (Santali).
+
+
+
+
+Ethnography
+The Santali Language, spoken by the Santal community, is one of the largest and oldest tribal languages in Bangladesh, with its own unique culture and artefacts. The ethnographic fieldwork was administered to identify Santali syntax, particularly the interpersonal relationship between free pronouns, the position of negation, copular forms, tag questions, and WH-formation. Moreover, we aimed to identify the word order in Santali to understand the patterns of sentences in naturally occurring Santali speech. The fieldwork was conducted in the Gopalpur area of Rajshahi, where 30 Santal families were residing.
+Comprehending the Santali syntax is not only valuable for linguistic documentation but also crucial for preserving the endangered language and supporting pedagogy for indigenous communities. As Team Clause-trophobic, we addressed the linguistic diversity and the cultural diversity in the Santali community, acknowledging the existence of a language that is indispensable for identity and community life.
+Methodology
+Field Site: Our research was conducted in Gopalpur, a small area in Rajshahi, where 30 Santal families dwelled, maintaining their native language and ancestral cultures among themselves despite being surrounded by Bengali-dominated areas. The people were primarily engaged in agriculture, brick kiln work and some other forms of manual labour.
+Duration: Our fieldwork was conducted in two days in October, mainly from 24th October to 25th October, 2025. We took our sessions from morning till noon. 
+Methods Employed: 
+* Participant observation: We observed natural conversations in homes and community spaces
+* Semi-structured interviews: Conducted in a mix of Santali and Bengali with bilingual community members
+* Audio recordings: With informed consent, we recorded videos of  conversational speech for later transcription and analysis
+* Field notes: Maintained detailed sessions documenting linguistic observations, contextual information and environmental settings.
+Access and Rapport: Our initial contact was made by a Pahariya teenager who had relatives in the Santal community. She guided us to the families and asked permission to continue the interview.
+Day 1:
+We started our journey around 9:30 AM on 24th October. Our Pahariya guide was taking us to an unknown location, which at first we thought was a village where Santals were residing. But we soon got to know that the place was not our location, as only the Pahariya community were the residents at that village. After that, we took another vehicle to reach Gopalpur, where a Pahariya girl was guiding us to find a Santal family. We were anxious about finding a Santali speaker, as we had no insight into where they resided. After walking for a while, we found some houses and asked if there were any Santali speakers around the area. Fortunately, we came across a family that gave consent to provide data for our fieldwork.  We entered that house and saw that everything was made of clay. We saw a buffalo which was tied in another room. The family consisted of five members. After some discussions, we got to know that the woman who agreed to provide data was from the Oraon community, but she knew some of the Santali phrases to continue everyday conversation. To gain clearer insights into Santali syntax, we also welcomed her mother-in-law to join the conversation, who was a native Santali speaker. We explained our motive and ensured their information was confidential. They smiled and gave consent to continue the session. We interviewed them for about one hour and asked many questions that were mentioned in our session planner. Even though they were hesitant at first, they willingly participated in the interview. The conversation went smoothly, and our teammates were taking notes. We asked for their permission to capture a video consent and assured them that their data and identity would not be revealed, respecting their privacy. After the interview, we gave them some souvenirs, and they accepted them wholeheartedly. We took three sessions in that house and left to find another Santali speaker who would be interested in participating in the interview. 
+
+
+Leaving that house, we started walking again to find Santali speakers. We saw the houses were beautifully designed with colours, and many flower plants were blooming around the road. Walking for a while, we encountered some people and asked if they were fluent in Santali. They replied that we were in a Santal village. We requested their permission to access data after explaining our intention. They were hesitant at first, as it was almost noon. But we requested that they, if we could get a little time. Meanwhile, two men came and asked for our identities. We politely expressed our purpose of arrival, and one of them replied that he was the head of the village (Menjhi). He was interested in attending the interview, and if we could interview him, too. We expressed our gratitude to him with delight, and our teams split into two parts to conduct the interview smoothly. One group interviewed two women who were around 50 years old, and another group interviewed Menjhi and his relative. Both interviews lasted approximately 45 minutes. We also got the opportunity to interview another woman who was curiously standing beside us. A Santal girl assisted us in taking notes without any interruptions. During these sessions, we identified WH questions, negations, and some copular forms in Santali. We conducted six sessions consecutively from 11 AM to 1:45 PM. We did an ice-breaking session to make them comfortable and to create a natural setting to get the authentic output. They were so ecstatic that they gave their numbers to contact them for further information. We also asked their permission if we could come the next day to conduct the filler sessions. They invited our team to conduct our interview the next day and assured us that they would gather more Santali speakers so that we could collect our data without any interruptions. Throughout this time, they were very considerate and gave their valuable time and welcomed us warmly. They didn’t even exasperate during the entire interview, which amazed us.
+
+
+
+
+Day 2:
+To conduct our filler sessions, we went to Gopalpur again. This time, we interviewed six participants in that village. Our team was divided into two parts and started our filler sessions. This time, we interviewed four women, one of whom was elderly, and one man. All our participants were educated this time. We rechecked our previous data during the filler session and delved into the in-depth conversation to recognise the intricate patterns of the Santali syntax. We continued this session as an open-ended discussion and recorded data to elicit later. Whenever the participants were distracted during the session, we took a pause and carried out the conversation regarding their daily lives and cultural practices. This time, they were more fluent and used natural speech. We blended ourselves as active researchers rather than silent observers. Even though young speakers were continuously mixing their code, the elderly speaker was more fluent in Santali. She preferred to use Santali in her daily work. She told us about the village's history, where she narrated her days during the liberation war in 1971. She was about six to seven years old when her family dwelt in that area. Back then, only a few families lived there. They faced immense torture during the liberation war. The Bengalis opposing the freedom of the country, also known as Rajakars, used to abduct Santals and burn their homes. Moreover, their lands were alienated by the settlers. They faced obstacles following their religions. They were unable to receive proper education and lacked opportunities. A foreigner, sir, came to provide them with education and preached Christianity. The foreigner donated, established a church, and through similar works, he became like a family. He used to invite the best dancers from the village, and boys playing Madols and girls wearing the best dresses used to dance in front of him. The foreigner used to write books in the Santali language using Roman letters and taught them so that they could get employment. The elderly woman is the most literate person in the village, who can write both in Santali and Bengali fluently. 
+
+
+The woman described her family members. She had two sons. Her elder son worked in a church, while her younger son had just completed his graduation in Psychology. Whenever her elder son came home, the atmosphere became joyful for the family. She also mentioned that her elder son could play Madol and her younger son could play Dhol. In her free time, she likes watching movies on BTV and dramas. She usually does household chores and cultivates her lands. She had flocks of sheep and bullocks. Her eldest son married a few years ago, and they live in a separate room in the house. She also expressed her unconditional desire to meet her elder soon at Christmas. The younger son was a participant in the interview as well and helped us to correct the misinformation. Even though he was not that fluent in Santali, he tried his best to provide us with the authentic information. During our visit, we saw some children playing in the field. The village was surrounded by acres of land where rice was harvested. They also cultivate seasonal vegetables and sell them at weekly markets. The village men are mostly workers at brick kilns and churches around the administrative division. Though they were not solvent, their approaches overwhelmed us and made the whole process easier. Their cooperation was truly commendable throughout. 
+
+
+Sociocultural and Sociolinguistic Description of the Santal Community in Gopalpur, Rajshahi
+
+
+1. Introduction: The Village and its People
+The Santal community in Gopalpur is a small group made up of around thirty households, located in the Rajshahi district. The village's surroundings have a serene and peaceful atmosphere, characterised by abundant greenery, towering trees, and vast rice fields that stretch across the horizon. The wind is so fresh that it can cleanse one’s body and soul. The architecture of the homes reflects both traditional materials and modern influences, traditional with constructions of mud walls, wood structure, tin roof, etc. and modern with some brick houses. The community's primary occupation is agriculture; we could see vast rice fields from the village. The residents also raise cows, buffalo, goats, sheep, chickens, ducks and other domestic animals. They have pet animals such as dogs and guinea pigs, which suggests a tightly knit household environment. They were very friendly and welcoming towards their guests.
+Figure 08: Houses of The Santal Community, Gopalpur, Rajshahi  
+  
+
+Figure 09: A Santal Girl with the Flock
+  
+
+Figure 10: Sheep of a Santal Household
+
+
+  
+
+Figure 11:Guinea Pigs in a Field
+2. Historical Context: Displacement and Resilience
+The historical foundations of the community in Gopalpur are really deep, with older residents confirming that their presence in this region predates any living memory. While talking to an elderly woman from the community, we found out that she has been living in this region since birth, and so have their ancestors, which proves a long connection to this place. However, their past is characterised by various challenges along with dislocation. They had to endure long-standing marginalisation. They were the first community to establish habitation in this particular area. Later, many other communities also started to come and live nearby, but they were hostile to the Santal community. The forcible seizure of crops by neighbouring muslim communities is one example of such hostility. The Santals, being a very small community in this region, were helpless against the dominant group. A significant event in their recent history was their escape to India during the 1971 Liberation War to secure their safety. During the Liberation War, many people of minority communities were tortured and killed. So, in fear for their life, the Santal community of Gopalpur village fled to India. But once Bangladesh became an independent country, they all returned to reclaim their village and have been living here since.
+
+
+3. Sociolinguistic Profile: A Community in Transition
+The sociolinguistic dynamics in Gopalpur have been undergoing swift changes in recent times, which present a considerable threat to the Santali language.
+
+
+3.1 Multilingualism: 
+Although Santali is the cultural mother tongue, the use of multiple languages is essential in the Santal community. Every member of the community has to rely on Bangla for everyday external communication and education, while English is used in both academic and religious settings. They lack the opportunity to get an education in their mother tongue, not even a primary education. So they must learn Bangla, and they can only use Santali in their own household. So naturally, they are focusing more on Bangla than Santali, and their fluency in Santali is decreasing with each generation.
+
+
+3.2 Language Shift:
+ A conspicuous alteration in language across generations is visible. While the older generation is still proficient in Santali, the younger generation shows a significant increase in inclination towards Bangla and a decrease in proficiency in their traditional language. We think the reason behind this phenomenon is the recent increase in literacy. The older generation is mostly illiterate. They didn’t have to go through formal education, and as a result, they only had to learn Bangla for external communication. So they have a better grasp of their own language. But the situation changes for the younger generation. With time, people became more aware of the importance of education and started sending their children to school more. So the younger generation had to learn Bangla and English both formally and again in any educational institution. They cannot use their mother tongue, so they lose grasp of their own language and prefer Bangla for their daily communication. This situation is exacerbated by the lack of formal mother-tongue education.
+
+
+3.3 Literacy and Script: 
+The state of Santali literacy is very critical. The community possesses published books in Santali, but these books use the Roman script as the native “Ol Chiki” script is not taught. We encountered only one individual in the entire village who could write fluently in Santali, but she also used Roman script instead of Santali “Ol Chiki” script. This highlights that there is a severe gap in Santali written language transmission in this region. They also showed us a dictionary of the Santali language, which is written in Roman and Bangla script, and there are also poetry books of the Santali language. They read out some poems for us to learn Santali. Those poems were written   for children so that they could learn Santali efficiently.
+Figure 12: Textbook Written in Santali
+  
+Figure 13: Santali Textbook  Figure 14 ː Joyful Santali Children
+
+
+  
+Figure 15 ː Santali Dictionary  
+Figure 16 ː Santali Alphabet System and Pronunciation in Santali Dictionary
+4. Religious Life and Community Cohesion
+
+
+The community's primary religious identity is Christian, while some smaller groups may practice Hinduism and other religions.  In the Santali dictionary, we found some information about the ancient religion of Santals. One of the ancient Santal deities is named “abge bonga”. There are different names of the deities for each Santali tribe, and they are considered as protectors of that tribe. Only the head of the family knows this deity's name. This deity is worshipped in the month of “Ashadh” during the sowing season and in the month of “Agrahayana” during the harvesting season. Only men are allowed to be present during the worship ceremony. Women are not allowed to be present, and they are not given the name or identity of this deity. The head of the family secretly tells his eldest son the name of this deity before his death (abge bonga). Chicken and pigs were sacrificed by Santals to satisfy this deity. This religion is not seen as much in the community in modern times.
+
+
+Christianity acts as a significant influence on social structure and learning in the Santal community of Gopalpur village. Children from the Santal community who are Christian mostly attend missionary schools run by churches, where they are taught prayers in English, Bangla, and sometimes Latin, which indicates a very structured and formal religious education.
+ In these schools, they follow very strict rules, and children are punished if they forget their prayers or cannot perform well in exams. From one of these students, we found an example of such punishments, which is that children are punished for making sounds like a donkey, which is very different from punishments in our traditional schools. 
+The community is connected to a wider religious structure known as "Dharmapradesh". A "Dharmapradesh" consists of all the churches and missionaries of that specific region. For example, "Rajshahi Dharmapradesh" consists of all churches and missionaries of Rajshahi. Students from the missionary schools are sent to different such establishments for further religious and spiritual learning. Religious celebrations, particularly Christmas, play a very crucial role in strengthening the bonds within the Santal community. On Christmas, no one in the village cooks in their own home. Instead, they cook a large meal together for every member of the community and then sit together to eat like one big family. This practice symbolises the unity of their community and shared identity, which goes beyond individual family units. On this happy occasion, they play music, and everyone dances together and enjoys the festivities. While we were talking to them, they invited us to join them next Christmas, which was very kind of them and proves how warm and welcoming they are as a community.   Figure 17 ː Traditional Santali Dance with Dhol, and They are Dancing on an Occasion     
+Figure 18 & 19 ː Traditional Santali Dance of Santal Women
+
+
+5. Economic and Leisure Activities
+
+
+The economy of the Santal community is primarily based on agriculture, like crop cultivation and raising livestock. In their leisure time, the people of the village sit together in informal gatherings where people converse with each other and engage in their traditional Santal handicrafts. A significant activity is the weaving of mats from date leaves, known as "ranga pati," which is a variation of our traditional “Shitol Pati”. They call this “ranga pati” because the date leaves are stained with different colours before weaving them into a mat to make colourful 
+patterns. This art form demonstrates a significant cultural tradition and serves as a medium for showcasing the aesthetic expression of the Santal community. These activities give them time to unwind from their hectic everyday life. Even if they don't weave mats, they can just all sit together, people from all generations and converse with each other, which strengthens the community further. They also celebrate their occasions together as a big family.
+  
+
+Figure 20: A Santal Woman is Weaving Ranga Pati
+  
+Figure 21 ː A Group of Santali Women Weaving Ranga Pati  
+Figure 22 ː A Santali Woman with Her Handmade Ranga Pati
+
+
+
+
+  
+
+Figure 23 Santali Poem
+
+
+                                                                                       
+                                                      A Pure Morning
+   ​ The sun has risen with a soft, gentle glow,
+The birds are singing and chirping away.
+Beautiful flowers have bloomed from the buds,
+ The red leaves are swaying gently.
+ This morning is so very pure,
+ Come, let us all wake up.
+ This holy morning time is truly good,
+ We shall not stay sleeping anymore.
+ Let us bathe and cleanse ourselves,
+ This perfect morning, right at dawn.
+Bangla Translation
+
+
+পবিত্র সকাল 
+
+
+সূর্য উঠেছে স্নিগ্ধ ঝলকে ঝলকে
+পাখিরা গাইছে কিচিরমিচির করে
+কলি হতে ফুল ফুটেছে সুন্দরভাবে 
+ লাল পাতাগুলো দুলছে মৃদুভাবে 
+ খুবই পবিত্র এই সকাল 
+ এসো আমরা জেগে উঠি 
+এই পবিত্র সকাল সময়টা খুব ভাল 
+আর আমরা শুয়ে-ঘুমিয়ে থাকব না 
+ স্নান করে পরিষ্কার পরিচ্ছন্ন হ‌ই
+এই সঠিক সকালে,একদম ভোরের সময় 
+
+
+
+
+In conclusion, the Santal community is a buoyant group in Bangladesh with an immeasurable historical background and vigorous cultural traditions, and distinctive crafts and storytelling. They strengthen their community through common customs and religious rituals. However, they have to face many challenges in preserving their heritage, as the younger generation is prone to using their native language less frequently over time. The community is making significant efforts to sustain its unique identity while also integrating into the larger society surrounding it.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Limitations 
+
+
+Though we can declare that our data collection and analysis process for Santali syntax proceeded relatively smooth, we still had to face some limitations. Only 12 speakers from the small village of Gopalpur were included in our sample. The potential observer effect suggests the researchers' presence may have affected natural speech. When elucidating grammatical concepts, we encountered significant translation difficulties. Our expertise in assembling different levels of syntactic data was restricted by time constraints. Language was a major obstacle, but we also had to deal with the issue of recruiting participants and striking a balance between male and female participants and participants of different ages, since the majority of the village's males had left to work and the younger generation had attended school or college.
+
+
+Moreover, the time limitation was also responsible for the lack of sufficient data. It was difficult for us to collect data on such short notice. This made it difficult to collect data on such short notice and led to data scarcity for some of the topics we had set for our report. Further research can be conducted on these topics, as these are under-documented and indispensable to being cognizant of Santali syntax.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Directions for Subsequent Studies
+
+
+While this study propounds an initial account of Santali interrogatives, copular construction, negation placements and interpersonal relationships encoded through free pronouns, multiple domains remain unfolded for advanced exploration. Subsequent research may unfold many cross-dialectal variations to determine whether the patterns are available in other regions of Santali-speaking areas across Bangladesh, India and Nepal. Interrogative constructions may proliferate to incorporate embedded, indirect and echo questions accompanying prosodic cues that outline information structure. The sociolinguistic dimensions of the usage of pronouns across age, gender, geographical boundaries, status, formality and Bangla contact should be included in the subsequent research to unravel the intriguing patterns of Santali free morphemes.
+
+
+Future research may apply models like Role and Reference Grammar (RRG), minimalism,  and Lexical Functional Grammar (LFG) to examine theoretical assumptions. Researchers may align Santali within extensive typological databases ( e.g., WALS) to differentiate features like Word Order, Interrogative Strategies and negation types with Munda and non-Munda languages.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Conclusion
+
+
+This study provides a comprehensive understanding of Santali syntax, where our research team explored many variations across Santali syntax. Our findings were also compared with existing literature to identify the variations and unique syntactic patterns we found at the site. The syntactic analysis of the Gopalpur dialect disclosed a conservative core structure (SOV, Postpositional) that is simultaneously undergoing particular morphological innovations. Key findings incorporate the discovery of the fused negation particle [bo-iɲ], a feature unique to this region, and a robust Zero Copula hierarchy in attributive clauses and so forth. While the lexicon signifies evidence of heavy borrowing from Bangla (Code-Mixing), the functional grammar, including Case, Tense, and Topic marking, remains strictly Santali, demonstrating that the language's syntactic frame is resilient to contact-induced structural change. A structured map of negative markers in Santali was covered in our research. We also discovered the strict use of honorific markers in the Santali language. Ultimately, this study substantiates that while the surface lexicon of Rajshahi Santali is permeable to Bengali influence, the underlying syntactic skeleton—governed by SOV head-finality and agglutinative morphology -- remains remarkably resilient. The aim is to accentuate significant linguistic features of Santali, therefore, contributing to the collective conceptual foundations for potential areas warranting further examination.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+References
+
+
+1. Ahmed, N. (2021). Santals and their language: An anthropological study.
+2. Campbell, A. (1899-1902). A Santali-English Dictionary. The Santal Mission Press.
+3. Cole, F. T. (1896). Santali Primer.
+4. Ghosh, A. (2008). Santali. In G. D. S. Anderson (Ed.), The Munda languages (pp. 11–98). Routledge.
+5. Greeson, D., Haldar, S., Mishra, A., & Sharma, A. (Eds.). (2025). Proceedings of Formal Approaches to South Asian Linguistics 14 Held in 2024 at Stony Brook University.
+6. Hossain, M., & Tollefson, J. W. (2007). Language and minority rights: The case of indigenous peoples in Bangladesh (pp. 241-243).
+7. Neukom, L. (2001). Santali. LINCOM.
+8. Osada, T. (1992). A Reference Grammar of Mundari. Tokyo University of Foreign Studies.
+9. Sidwell, P. (2015). Austroasiatic Classification. In M. Jenny & P. Sidwell (Eds.), The handbook of Austroasiatic languages (pp. 144-220). Brill.
+10. Sikder, S. (2020). Bangladesher Adibashi Bhasha.Maola Brothers.
+11. Skrefsrud, L. O. (1873). A Grammar of the Santhal Language.
+12. Crowley, T. (2007). Field linguistics: A beginner's guide. Oxford University Press.
+13. Thieberger, N. (2018). The handbook of language documentation and sociolinguistics. Wiley-Blackwell.
+14. Vaux, B., & Cooper, J. (1999). Introduction to linguistic field methods. Lincom Europa.
+15. Himmelmann, N. P. (2006). Language documentation: What is it and what can it become? In P. A. Austin (Ed.), Language documentation and description (Vol. 3, pp. 1-36). SOAS.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Appendix
+
+
+Session Plan-1
+
+
+ (Interpersonal pronoun)
+
+
+First Person 
+1. আমি ভাত খাই ।
+2. আমি বাজারে যাই ।
+3. আমি কাজ করি ।
+4. আমি ঘুমাই ।
+5. আমরা খেলি ।
+Second person 
+1. তুমি কোথায় যাচ্ছ? (সমবয়সী) ।
+2. তুমি স্কুলে যাও (আপনার চেয়ে ছোটভাইকে বলুন) ।
+3. আপনি কোথায় যাচ্ছেন (সম্মান করে) ?
+4. আপনি বসুন (গ্রামের মাঝি) ।
+Third person
+1. একটি ছেলে খেলছে  ।
+2. একটি মেয়ে পড়ছে ।
+3. একজন সম্মানিত ব্যক্তি আছেন ।
+4. দুইজন ছেলে খেলছে ।
+Dual (inclusive and exclusive distinction)
+1. আমি এবং তুমি মিলে নদীতে যাব (inclusive) ।
+2. আমি এবং আমার বাবা মাঠে যাব (exclusive) ।
+3. আমরা আজ গণিত পড়ব (inclusive) ।
+4. আমরা শিক্ষকরা একটা মিটিং করব (exclusive) ।
+Dual vs plural 
+1. তোমরা দুইজন কোথায় যাচ্ছ ?
+2. তোমরা সবাই কোথায় যাচ্ছ ?
+3. তারা দুইজন ক্রিকেট খেলছে ।
+4. তারা সবাই ফুটবল খেলছে ।
+Reflexive and Reciprocal pronoun
+1. আমি নিজে করেছি ।
+2. তারা পরস্পরকে সাহায্য করেছে ।
+3. নিজে,নিজেকে,নিজের-এইগুলোর কী সর্বনাম হিসেবে আলাদা শব্দ আছে?
+Possessive pronoun
+আমার, তোমার, তার, আমাদের, তোমাদের এবং তাদের
+
+
+Others 
+1. আপনি একজন বয়স্ক ব্যক্তিকে কীভাবে ডাকবেন ? (তুমি/আপনি)
+2. একজন ছোট বাচ্চাকে কী সর্বনাম ডাকবেন ?
+3. একজন কিশোরকে কীভাবে সম্বোধন করবেন ?
+4. আপনার সমবয়সীকে কীভাবে ডাকবেন?
+5. গ্রামের মাঝিকে ( প্রধান) কীভাবে ডাকবেন?
+6. মাকে কীভাবে ডাকেন?
+7. শ্বশুর/শাশুড়িকে কীভাবে ডাকবেন ? 
+8. একজন পুরুষ যখন অন্যপুরুষের সাথে কথা বলে, আর একজন পুরুষ যখন একজন নারীর সাথে কথা বলেন- সর্বনাম ব্যবহারে কী কোন পার্থক্য আছে ? 
+9. নারীরা কী পুরুষের চেয়ে বেশি সম্মানসূচক সর্বনাম ব্যবহার করেন ?
+10. একজন নারী অন্যনারীর সাথে কথা বলার সময় কোন সর্বনাম ব্যবহার করেন ?
+11. রাগ করে কথা বলার সময় সর্বনাম কী বদলে যায় ?
+12. রাগের মুহূর্তে কী সম্মানসূচক সর্বনাম ব্যবহার কমে যায় ?
+13. দূরত্ব কতটা হলে সর্বনাম বদলায় ?
+
+
+
+
+Session plan-2
+
+
+1. “আপনি এবং আপনার দইু বন্ধু বাজারে যাচ্ছেন। কিন্তু হয়তো আরও কেউ আসতে পারে। আপনি অন্য কাউকে বলছেন: ‘আমরা বাজারে যাচ্ছি’ - প্রশ্ন: “এখানে ‘আমরা’ বলতে Dual নাকি Plural সর্বনাম ব্যবহার করবেন?” - ফলোআপ: “যদি নিশ্চিত না থাকেন আরও কেউ আসবে কিনা, তাহলে?”
+2. “তিনজন মানষু একসাথে কাজ করছে। তাদের সম্পর্কে বলনু: ‘তারা কাজ করছে।’” - প্রশ্ন: “তিনজন - এটা কি Dual নাকি Plural সর্বনাম চায়?” - ফলো-আপ: “দুইয়ের বেশি মানে কি সবসময় Plural?”
+3. “একজোড়া স্বামী-স্ত্রী। তাদের সম্পর্কে বলনু: ‘তারা বাড়ি যাচ্ছে।’” - প্রশ্ন: “এখানে Dual নাকি Plural?” - বিশেষ প্রশ্ন: “স্বামী-স্ত্রীকে কি সবসময় একক জোড়া (pair) হিসেবে দেখা হয়?”
+4. “মা-বাবা দুইজন তাদের সম্পর্কে: ‘তারা আসছেন।’” - তুলনামূলক: “এটা কি আগের উদাহরণের মতো?”
+5. “আপনি জানেন না কতজন আসবে, কিন্তু বলছেন: ‘আমরা সবাই মিলে একটা সিদ্ধান্ত নেব।’” - প্রশ্ন: “এখানে সংখ্যা পরি ষ্কার না থাকলে কোন সর্বনাম ব্যবহার হয়?”
+6. “একটা গান গাওয়ার সময়: ‘আমরা গাইব।’ (গায়কের সংখ্যা অনির্দিষ্ট)” - প্রশ্ন: “এখানে কোন ‘আমরা’?”
+7. “পাঁচজন মিলে একটা বড় পাথর তুলছে (একসাথে, সমষ্টিগতভাবে)।” - প্রশ্ন: “সাঁওতালি তে কীভাবে বলবেন?”
+8. “পাঁচজন প্রত্যেকে আলাদা আলাদা পাথর তুলছে (বিতরণমূলকভাবে)।” - তুলনামূলক: “এই দুই পরি স্থিতিতে সর্বনাম কি একই?”
+9. “আপনি একটি দলে আছেন (১০ জন)। আপনি একজন বাইরের মানষুকে বলছেন: ‘আমরা একটা প্রজেক্ট করছি। তুমিও যোগ দিতে পারো।’” - প্রশ্ন: “প্রথম ‘আমরা’ (এখনে তুমি নেই) কোনটা? Exclusive?”
+10. “পারিবারিক সভায় একজন দূর-সম্পর্কের আত্মীয় এসেছে। আপনি বলছেন: ‘আমরা একটা সিদ্ধান্ত নিচ্ছি।’” - প্রশ্ন: “আত্মীয় অন্তর্ভুক্ত কিনা অস্পষ্ট। এমন পরিস্থিতিতে কোন সর্বনাম?”
+11. “আপনার বন্ধুর সাথে ঘরে কথা বলার সময়: (অনানুষ্ঠানিক)” - “সেই বন্ধুর সাথে অফিসে সবার সামনে কথা বলার সময়: (আনুষ্ঠানিক)” - প্রশ্ন: “একই মানুষের সাথে প্রসঙ্গ পরিবর্তনে সর্বনাম বদলায়?”
+12. “আপনার ছোট ভাইকে বাড়িতে যা বলেন, বাইরে অন্যদের সামনে কি একই সর্বনাম?” - প্রশ্ন: “কেন বদলায়/বদলায় না?
+
+
+Session Plan-3
+
+
+Affirmative and Negative
+১ “আপনি ভাত খান?”
+	=বর্তমান অভ্যাস ও নিত্যদিনের ক্রিয়া (অতিরিক্ত প্রসঙ্গ:সকালে/দপুুরে/প্রতিদিন)
+	২ “তিনি আপনার ভাই?”
+	=পরিবার ও সম্পর্ক নির্দেশক সর্বনাম(Person & Kinship)
+	৩ “আপনি সুখী?”
+	=আবেগ ও অনভুতি বিষয়ক প্রশ্ন
+	৪ “সে স্কুলে গেছে?”
+	=অতীত সময়ের ক্রিয়া ও কর্ম (Past Tense Action)
+	৫ “এটি আপনার বাড়ি?”
+	=স্থান ও মালিকানা সম্পর্কিত প্রশ্ন(Location & Possession)
+	৬ “আজ বাজারে যাবেন?”
+	=ভবিষ্যৎ কাজের পরিকল্পনা (Future Action)
+	৭ “আপনার কাছে পশু আছে?”
+	=সম্পদ বা মালিকানা সম্পর্কিত প্রশ্ন
+	৮ “গত রাতে ঘুম ভালো হয়েছে?”
+	=দৈনন্দিন জীবনের অভিজ্ঞতা
+	৯ “এখানে আপনার আত্মীয় আছেন?”
+	=সামাজিক সম্পর্ক ও অবস্থান
+	
+
+1.”আপনার নাম কী?”
+	ব্যক্তি পরিচয় (WH-Word: কী/What)
+	২ “এখানে কে এসেছে?”
+	= ব্যক্তি সম্পর্কিত প্রশ্ন (WH-Word: কে/Who)
+	৩ “আপনার গ্রাম কোথায়?”
+	= স্থান সম্পর্কিত প্রশ্ন (WH-Word: কোথায়/Where)
+	৪ “আপনি বাড়ি কখন ফিরবেন?”
+	=সময় সম্পর্কিত প্রশ্ন (WH-Word: কখন/When)
+	৫ “আপনি কেন হাসছেন?”
+	= কারণ সম্পর্কিত প্রশ্ন (WH-Word: কেন/Why)
+	৬ “এই মুহূর্তে আপনার অনুভূতি কীরকম?”
+	= অবস্থা ও অনুভূতি সম্পর্কিত প্রশ্ন (WH-Word: কীরকম/How)
+	৭ “আপনার কাছে কতটি গরু আছে?”
+	= পরিমাণ সম্পর্কিত প্রশ্ন (WH-Word: কতটি/How many)
+	৮ “এই কাজটি কীভাবে করতে হয়?”
+	= পদ্ধতি সম্পর্কিত প্রশ্ন (WH-Word: কীভাবে/How)
+	৯ “আপনি কোন ফসল চাষ করেন?”
+	= বৈশিষ্ট্য বা প্রকার সম্পর্কিত প্রশ্ন (WH-Word: কোন/Which/What)
+	
+
+Session Plan -4
+
+
+Tag questions
+1. “আপনি রাজশাহী থাকেন, তাই না?” (You are from Rajshahi, aren’t you?)
+2. “তি নি আপনার বন্ধু, তাই না?” (She is your friend, isn’t she?)
+3. “আপনি কৃষক, তাই না?” (You are a farmer, aren’t you?)
+4. “আপনি গতকাল বাজারে গিয়েছিলেন, তাই না?” (You went to the market yesterday, didn’t you?)
+5. “এটি সুস্বাদু, তাই না?” (This is delicious, isn’t it?
+6. “আপনার কাছে পশু আছে , তাই না?” (You have animals, don’t you?)
+Negative questions
+1. “আপনি এখানে থাকবেন না?” (You won’t stay here?)
+2. “তুমি এটি করতে পারবে না?” (You can’t do this?)
+3. “আপনার কাছে কোনো পশু নেই?” (You don’t have any animals?)
+4. “এটি ভালো নয়, তাই না?” (This is not good, is it?)
+5. “আপনি কখনো এখানে আসেননি ?” (You have never come here?)
+6. “আপনি স্কুলে যাননি ?” (You didn’t go to school?)
+
+
+Session Plan-5
+
+
+Basic verbal negation (present tense) 
+১. আমি ভাত খাই।
+         =আমি ভাত খাই না।
+I eat rice. / I do not eat rice.
+২. সে গান গায়
+=সে গান গায় না।
+She sings. / She does not sing.
+৩. তারা কাজ করে।
+                   =তারা কাজ করে না।
+ They work. / They do not work.
+৪. আমি বাজারে যাই।
+                =আমি বাজারে যাই না।
+I go to the market. / I do not go to the market.
+৫. সে পানি পান করে।
+= সে পানি পান করে না।
+He drinks water. / He does not drink water.
+
+
+Basic verbal negation (past tense) 
+৬. আমি এসেছিলাম।
+=আমি আসিনি।
+ I came. / I did not come.
+৭. সে বাড়ি গিয়েছিল।
+=সে বাড়ি যায়নি।
+She went home. / She did not go home.
+৮. তিনি আমাকে দেখেছিলেন।
+                 =তিনি আমাকে দেখেননি।
+ He saw me. / He did not see me.
+৯. আমরা একটা পাখি দেখেছিলাম।
+                  =আমরা কোনো পাখি দেখিনি।
+We saw a bird. / We did not see a bird
+
+
+Progressive continuous aspects 
+১০. তারা ঘুমাচ্ছে।
+=তারা ঘুমাচ্ছে না।
+They are sleeping. / They are not sleeping.
+১১. আমি পড়ছি।
+=আমি পড়ছি না।
+ I am reading. / I am not reading.
+
+
+Copular/Negation 
+১২. সে খুশি।
+=সে খুশি নয়।
+He is happy. / He is not happy.
+১৩. এটা ভালো।
+=এটা ভালো নয়।
+This is good. / This is not good.
+১৪. আমি ক্লান্ত। 
+                 =আমি ক্লান্ত নই।
+I am tired. / I am not tired.
+
+
+Nominal Prediction 
+১৫. এটা আমার বই।
+=এটা আমার বই নয়।
+This is my book. / This is not my book.
+১৬. সে আমার ভাই।
+=সে আমার ভাই নয়।
+He is my brother. / He is not my brother.
+১৭. এটা একটা গাছ।
+                =এটা গাছ নয়।
+This is a tree. / This is not a tree.
+
+
+Session Plan-6
+
+
+Complex Negation pattern
+* Modal Negation 
+১. আমি যেতে পারি।
+=আমি যেতে পারি না।
+I can go. / I cannot go.
+২. তুমি এটা করতে পারো।
+ =তুমি এটা করতে পারো না।
+You can do this. / You cannot do this.
+৩. তোমাকে খেতে হবে।
+=তোমাকে খেতে হবে না।
+You must eat. / You must not eat.
+৪. আমার যাওয়া উচিত।
+                =আমার যাওয়া উচিত নয়।
+I should go. / I should not go.
+
+
+* Future Tense Negation 
+৫. আমি যাব।
+ =আমি যাব না।
+I will go. / I will not go.
+৬. সে আসবে।
+=সে আসবে না।
+He will come. / He will not come.
+৭. আমরা কাল দেখা করব।
+ =আমরা কাল দেখা করব না।
+We will meet tomorrow. / We will not meet tomorrow.
+
+
+* Existential Negation
+ ৮. পানি আছে।
+                    =পানি নেই।
+There is water. / There is no water.
+৯. বাজারে লোক আছে।
+                     =বাজারে লোক নেই।
+There are people in the market. / There are no people in the market.
+১০. ঘরে কেউ আছে।
+                     =ঘরে কেউ নেই।
+Someone is in the house. / No one is home.
+
+
+* Possessive Negation 
+১১. আমার একটা ভাই আছে।
+                      =আমার কোনো ভাই নেই।
+I have a brother. / I don’t have a brother.
+১২.তার টাকা আছে।
+                  =তার টাকা নেই।
+He has money. / He doesn’t have money.
+১৩. আমাদের সময় আছে।
+               =আমাদের সময় নেই।
+We have time. / We don’t have time.
+
+
+* Empathic Negation 
+১৪. একদমই না।
+                   =মোটেও না।
+Not at all. / Absolutely not.
+১৫. আমি কখনো যাই না।
+I never go.
+১৬. কেউ আসেনি।
+Nobody came.
+১৭. কিছুই নেই।
+There is nothing.
+
+
+Negation with Interrogative word
+১৮. কেউ জানে না।
+Nobody knows.
+১৯. কোথাও যাচ্ছি না।
+I’m not going anywhere.
+২০. কিছুই বঝিু না।
+I don’t understand anything.
+
+
+Session Plan-7
+
+
+১. “আপনার নাম কী?” (বক্তার দিকে ইশারা করে)
+২. “এই ব্যক্তি কে?” (অন্য অংশগ্রহণকারী/ছবির দিকে ইশারা করে)
+৩. “এটা কী?” (সাধারণ বস্তু দেখিয়ে: বই, কলম, ফোন)
+৪. “গ্রামের মাথাব্বর কে?”
+৫. “ওই প্রাণীটা কী?” (কুকুর/গরু/পাখির দিকে ইশারা করে)
+৬. “উনি কি শিক্ষক?” (কারো দিকে ইশারা করে)
+৭. “উনি কৃষক, তাই না?” (নিশ্চিতকরণ সংগ্রহ করা)
+৮. “আপনার বাবা—তিনি কী করেন?” → ফলো-আপ: “তাহলে তিনি কি কৃষক/দোকানদার?”
+৯. “উনি কি আপনার বোন?”
+১০. “ওই মানুষ—উনি কি আপনার বন্ধু নাকি ভাই?”
+১১. “এখানে ছাত্র/ছাত্রী কে?”
+১২. “এই মহিলা, উনি কি ডাক্তার?”
+১৩. “এই মানুষ কেমন?” উনি কি লম্বা নাকি খাটো?”
+১৪. “এই শিশুটি—সে কি ভালো/দুষ্টু?”
+১৫. “পানি কি ঠান্ডা নাকি গরম?”
+১৬. “এই বাড়িটা—কি বড়?”
+১৭. “আজ কি আপনি ক্লান্ত?”
+১৮. “আমটা কি মিষ্টি?”
+১৯. “আপনার মা—তিনি কি সুস্থ/ভালো আছেন?”
+২০. “এই রাস্তাটা—কি ভালো নাকি খারাপ?”
+২১. “আপনার বাড়ি কোথায়?
+২২. “বইটা কি টেবিলের উপরে আছে?” (দৃশ্যমান বস্তু সহ)
+২৩. “আপনার বাবা এখন কোথায় আছেন?”
+২৪. “গরুটা—ভিতরে নাকি বাইরে আছে?”
+২৫. “সন্ধ্যায় আপনি কি বাড়িতে থাকেন?”
+২৬. “এখান থেকে বাজার কোথায়?”
+২৭. “স্কুলটা কি কাছে নাকি দরেূ?” “কূপে কি পানি আছে?”
+২৯. “আজ গ্রামে কি অনেক মানষু আছে?”
+৩০. “এই গ্রামে কি কোনো ডাক্তার আছে?”
+৩১. “আপনার বাড়ির কাছে কি গাছ আছে?”
+৩২. “বাড়িতে কি খাবার আছে?”
+৩৩.”কোনো সমস্যা আছে কি?”/”কিছু ভুল আছে?”
+
+
+Session Plan-8
+
+
+Identification 
+1. আপনার নাম কী?
+2. উনি কে?
+3. ইনি আমাদের নতুন শিক্ষক  
+
+
+Predicate Nominal 
+1. আমি একজন কৃষক
+2. সেই একজন ভালো বন্ধু 
+3. এটা আমার বাড়ি
+
+
+predicate Adjective 
+1. লোকটি লম্বা 
+2. ফুলটি সুন্দর 
+3. তারা কী সুখী?
+4. এই রাস্তাটা কী ভালো? 
+5. আজ খুব গরম
+ 
+Cross Check 
+1. কুকুরটা কী অসুস্থ? 
+2. আমরা কী এখন গ্রামে আছি?
+3. সে কী ধনী?
+
+
+Location, Tense, Possession and Variation  
+
+
+* Existential
+1. বাড়িতে কি কেউ আছে?
+2. বাইরে অনেক লোক আছে?
+3. আগে এখানে একটা মন্দির ছিলো ।
+*  Lucrative 
+1. বইটি টেবিলের উপর ছিলো ।
+2. আমার গ্রাম নদীর কাছে ।
+3. তিনি এখন কি শহরে নেই
+* Possessive 
+1. আমার একটা গরু আছে ।
+2. তার কি কোন ভাই ছিলো?
+* Past Tense
+1. আমি গতকাল ক্লান্ত ছিলাম ।
+2. সেই কি তখন খুব খুশী ছিলো?
+* Negation 
+1. এই ফলটা মিষ্টি নই
+2. আমি কী তোমার বন্ধু নই?
+* Cross Check 
+1. এখন কী রাত?
+2. এটা আমার গাড়ি নই ।
+3. সে কি আমাদের গ্রামের লোক?
+
+
+
+
+
+
+
+
+
+
+________________
+
+
+Glimpse of Our Field Experience
+
+
+  
+  
+
+
+
+
+
+Audio Data Archive: https://drive.google.com/drive/folders/1lI5TuheA3IQ2LzKFCE3wKQV2PVpQur0N

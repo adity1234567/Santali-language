@@ -1,0 +1,703 @@
+{
+  "requested_target": 10000,
+  "ground_truth_only": true,
+  "ignored_directory": "generated",
+  "files_read_from_ground_truth": [
+    "First person markers.txt",
+    "MTZ_Santali_Dictionary.xlsx",
+    "Santali_Pronoun.pdf",
+    "Santali_dataset_parsed.csv",
+    "Santali_dataset_parsed_bom.csv",
+    "neukom2000argument.txt",
+    "output_layoutB (1).csv",
+    "preview-9781317828860_A24519766.pdf"
+  ],
+  "csv_profiles": {
+    "output_layoutA (1).csv": {
+      "rows": 2605,
+      "columns": [
+        "file",
+        "utterance_id",
+        "start_ms",
+        "end_ms",
+        "ref",
+        "mb",
+        "gl",
+        "ft"
+      ]
+    },
+    "output_layoutB (1).csv": {
+      "rows": 104,
+      "columns": [
+        "file",
+        "utterance_id",
+        "start_ms",
+        "end_ms",
+        "bangla",
+        "english",
+        "ipa_original",
+        "ipa_normalized",
+        "segments",
+        "glosses",
+        "notes"
+      ]
+    },
+    "Santali_dataset_parsed_bom.csv": {
+      "rows": 1961,
+      "columns": [
+        "bangla",
+        "english",
+        "santali"
+      ]
+    },
+    "Santali_dataset_parsed.csv": {
+      "rows": 1961,
+      "columns": [
+        "bangla",
+        "english",
+        "santali"
+      ]
+    }
+  },
+  "text_profiles": {
+    "First person markers.txt": {
+      "chars": 1022,
+      "nonempty_lines": 30
+    },
+    "neukom2000argument.txt": {
+      "chars": 41518,
+      "nonempty_lines": 480
+    }
+  },
+  "pdf_profiles": {
+    "preview-9781317828860_A24519766.pdf": {
+      "chars_extracted": 155609,
+      "CreationDate": "D:20211111105233+00'00'",
+      "Creator": "Rakuten Kobo",
+      "ModDate": "D:20150319144732+07'00'",
+      "Producer": "Acrobat Distiller 9.0.0 (Windows)",
+      "Title": "",
+      "pages": 81
+    },
+    "Santali_Pronoun.pdf": {
+      "chars_extracted": 2896,
+      "Author": "",
+      "CreationDate": "D:20240620170859+06'00'",
+      "ModDate": "D:20240620170859+06'00'",
+      "Producer": "Microsoft: Print To PDF",
+      "Title": "Microsoft Word - pronoun",
+      "pages": 4
+    }
+  },
+  "xlsx_profiles": {
+    "Dictionary": {
+      "rows": 7046,
+      "columns": [
+        "Santali (Headword)",
+        "IPA",
+        "Sense ID",
+        "Related Forms/Related Words",
+        "POS",
+        "English",
+        "Semantic Domain",
+        "Bangla"
+      ],
+      "pos_top": [
+        [
+          "n.",
+          3167
+        ],
+        [
+          "v.",
+          1838
+        ],
+        [
+          "adj.",
+          1393
+        ],
+        [
+          "adv.",
+          344
+        ],
+        [
+          "interj.",
+          32
+        ],
+        [
+          "prep.",
+          30
+        ],
+        [
+          "n. / adj.",
+          29
+        ],
+        [
+          "pron.",
+          28
+        ],
+        [
+          "num.",
+          25
+        ],
+        [
+          "n./adj.",
+          19
+        ],
+        [
+          "n. / v.",
+          19
+        ],
+        [
+          "n./v.",
+          15
+        ],
+        [
+          "conj.",
+          14
+        ],
+        [
+          "prep./adv.",
+          8
+        ],
+        [
+          "adj. / v.",
+          7
+        ],
+        [
+          "adj. / n.",
+          7
+        ],
+        [
+          "adj./n.",
+          6
+        ],
+        [
+          "v./adj.",
+          6
+        ],
+        [
+          "adv. / adj.",
+          6
+        ],
+        [
+          "phrase",
+          6
+        ]
+      ],
+      "semantic_domain_top": [
+        [
+          "Action",
+          1296
+        ],
+        [
+          "Quality",
+          670
+        ],
+        [
+          "State",
+          408
+        ],
+        [
+          "Manner",
+          222
+        ],
+        [
+          "Object",
+          219
+        ],
+        [
+          "Animal",
+          200
+        ],
+        [
+          "Emotion",
+          189
+        ],
+        [
+          "Plant",
+          185
+        ],
+        [
+          "Health",
+          178
+        ],
+        [
+          "Abstract",
+          166
+        ],
+        [
+          "Sound",
+          162
+        ],
+        [
+          "Nature",
+          148
+        ],
+        [
+          "Person",
+          147
+        ],
+        [
+          "Time",
+          119
+        ],
+        [
+          "Place",
+          117
+        ],
+        [
+          "Body",
+          116
+        ],
+        [
+          "Social",
+          109
+        ],
+        [
+          "Tool",
+          104
+        ],
+        [
+          "Material",
+          100
+        ],
+        [
+          "Food",
+          99
+        ]
+      ]
+    },
+    "Semantic_Domains": {
+      "rows": 257,
+      "sample": [
+        "Action",
+        "Quality",
+        "State",
+        "Manner",
+        "Object",
+        "Animal",
+        "Emotion",
+        "Plant",
+        "Health",
+        "Abstract",
+        "Sound",
+        "Nature",
+        "Person",
+        "Time",
+        "Place",
+        "Body",
+        "Social",
+        "Tool",
+        "Material",
+        "Food",
+        "Personality",
+        "Law",
+        "Religion",
+        "Grammar",
+        "Quantity",
+        "Speech",
+        "Body Part",
+        "Behavior",
+        "Relation",
+        "Finance"
+      ]
+    }
+  },
+  "annotation_label_top": [
+    [
+      "FIN",
+      1927
+    ],
+    [
+      "TOP",
+      1298
+    ],
+    [
+      "1SG",
+      748
+    ],
+    [
+      "3SG",
+      689
+    ],
+    [
+      "LOC",
+      598
+    ],
+    [
+      "GEN",
+      570
+    ],
+    [
+      "2SG",
+      519
+    ],
+    [
+      "PST",
+      482
+    ],
+    [
+      "3PL",
+      475
+    ],
+    [
+      "NEG",
+      454
+    ],
+    [
+      "EMPH",
+      416
+    ],
+    [
+      "N",
+      366
+    ],
+    [
+      "COP",
+      271
+    ],
+    [
+      "1PL",
+      254
+    ],
+    [
+      "PROG",
+      253
+    ],
+    [
+      "SUBJ",
+      243
+    ],
+    [
+      "2PL",
+      231
+    ],
+    [
+      "PL",
+      215
+    ],
+    [
+      "M",
+      210
+    ],
+    [
+      "and",
+      193
+    ],
+    [
+      "OBJ",
+      155
+    ],
+    [
+      "ABL",
+      151
+    ],
+    [
+      "And",
+      141
+    ],
+    [
+      "V",
+      122
+    ],
+    [
+      "EXCL",
+      119
+    ],
+    [
+      "IMP",
+      114
+    ],
+    [
+      "CVB",
+      114
+    ],
+    [
+      "3DU",
+      111
+    ],
+    [
+      "TR",
+      103
+    ],
+    [
+      "PRF",
+      93
+    ],
+    [
+      "Q",
+      92
+    ],
+    [
+      "CAUS",
+      87
+    ],
+    [
+      "INCL",
+      82
+    ],
+    [
+      "DEM",
+      82
+    ],
+    [
+      "PERF",
+      82
+    ],
+    [
+      "3SG:SUBJ",
+      81
+    ],
+    [
+      "INST",
+      81
+    ],
+    [
+      "INTR",
+      79
+    ],
+    [
+      "that",
+      78
+    ],
+    [
+      "1SG-GEN",
+      77
+    ],
+    [
+      "This",
+      76
+    ],
+    [
+      "ANIM",
+      75
+    ],
+    [
+      "FUT",
+      73
+    ],
+    [
+      "DET",
+      73
+    ],
+    [
+      "A",
+      72
+    ],
+    [
+      "MID",
+      72
+    ],
+    [
+      "COND",
+      70
+    ],
+    [
+      "PASS",
+      70
+    ],
+    [
+      "for",
+      69
+    ],
+    [
+      "INS",
+      66
+    ],
+    [
+      "very",
+      66
+    ],
+    [
+      "CLF",
+      64
+    ],
+    [
+      "INF",
+      64
+    ],
+    [
+      "INANIM",
+      62
+    ],
+    [
+      "INSTR",
+      62
+    ],
+    [
+      "PTCP",
+      60
+    ],
+    [
+      "what",
+      58
+    ],
+    [
+      "Jesus",
+      58
+    ],
+    [
+      "Go",
+      54
+    ],
+    [
+      "3SG-GEN",
+      54
+    ]
+  ],
+  "pronoun_pdf_bracketed_tokens": [
+    "[iɲ]",
+    "[əliɲ]",
+    "[alæ]",
+    "[am]",
+    "[aben]",
+    "[apæ]",
+    "[uni]",
+    "[unkin]",
+    "[unko]",
+    "[nui]",
+    "[nuking]",
+    "[nuko]",
+    "[noa]",
+    "[noakin]",
+    "[noako]",
+    "[həni]",
+    "[hankin]",
+    "[hanko]",
+    "[hana]",
+    "[hanakin]",
+    "[hanako]",
+    "[iɲaˀ]",
+    "[əliɲaˀ]",
+    "[alæaˀ]",
+    "[amaˀ]",
+    "[abenaˀ]",
+    "[apæaˀ]",
+    "[uniaˀ]",
+    "[unkinaˀ]",
+    "[unkoaˀ]",
+    "[nuiaˀ]",
+    "[nukinaˀ]",
+    "[nukoaˀ]",
+    "[noareaˀ]",
+    "[noakinaˀ]",
+    "[noakoaˀ]",
+    "[həniaˀ]",
+    "[hankinaˀ]",
+    "[hankoaˀ]",
+    "[hanareaˀ]",
+    "[hanakinaˀ]",
+    "[hanakoaˀ]"
+  ],
+  "synthetic_outputs": {
+    "layoutB": "synthetic_ground_truth_only\\santali_synthetic_layoutB_10000.csv",
+    "layoutA": "synthetic_ground_truth_only\\santali_synthetic_layoutA_10000.csv",
+    "parallel": "synthetic_ground_truth_only\\santali_synthetic_parallel_10000.csv"
+  },
+  "synthetic_validation": {
+    "rows": 10000,
+    "unique_ipa_normalized": 10000,
+    "exact_ground_truth_duplicates": 0,
+    "segments_match_glosses": true,
+    "segment_length_min": 2,
+    "segment_length_avg": 4.45,
+    "segment_length_max": 8,
+    "pattern_counts": [
+      [
+        "locative_exist",
+        1957
+      ],
+      [
+        "sequence",
+        1873
+      ],
+      [
+        "possessive_adjective",
+        1580
+      ],
+      [
+        "topic_adjective",
+        1258
+      ],
+      [
+        "contrast",
+        637
+      ],
+      [
+        "coordination",
+        617
+      ],
+      [
+        "transitive_fin",
+        459
+      ],
+      [
+        "negative_transitive",
+        443
+      ],
+      [
+        "past_transitive",
+        364
+      ],
+      [
+        "perfect_transitive",
+        329
+      ],
+      [
+        "classifier_exist",
+        291
+      ],
+      [
+        "progressive",
+        103
+      ],
+      [
+        "question",
+        50
+      ],
+      [
+        "imperative",
+        39
+      ]
+    ],
+    "file_counts": [
+      [
+        "synthetic_texts_glossed.eaf",
+        3215
+      ],
+      [
+        "synthetic_paradigm_glossed.eaf",
+        1944
+      ],
+      [
+        "synthetic_school_dialogue_glossed.eaf",
+        1873
+      ],
+      [
+        "synthetic_bangla_glossed.eaf",
+        1076
+      ],
+      [
+        "synthetic_dialogues_glossed.eaf",
+        687
+      ],
+      [
+        "synthetic_see_paradigm.eaf",
+        546
+      ],
+      [
+        "synthetic_new_glossed.eaf",
+        329
+      ],
+      [
+        "synthetic_new_glossed_3.eaf",
+        291
+      ],
+      [
+        "synthetic_imperatives_glossed.eaf",
+        39
+      ]
+    ],
+    "attempts": 27333
+  }
+}

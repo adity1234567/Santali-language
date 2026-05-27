@@ -1,0 +1,73 @@
+{
+  "file": "Santali_dataset_parsed.csv",
+  "total_rows": 1961,
+  "empty_bangla": 0,
+  "empty_english": 186,
+  "empty_santali": 13,
+  "duplicates": 6,
+  "replacement_char_count": 0,
+  "has_brackets_in_santali": 8,
+  "santali_contains_latin_letters": 1941,
+  "sample_rows": [
+    {
+      "bangla": "﻿ভাষা মানুষের পরিচয়।",
+      "english": "Language is the identity of people.",
+      "santali": "pɘɾsid̪ɔ mano͡a̯ko̯͡aʔ onoɾom kana."
+    },
+    {
+      "bangla": "যেখানে মানুষ সেখানেই ভাষা।",
+      "english": "Where there are people, there are languages.",
+      "santali": "ɟahãɾɛge mano̯͡a menaʔko, tahãɾɛge pɘɾsi mena.a."
+    },
+    {
+      "bangla": "ভাষা এক প্রজন্ম (যুগ) থেকে আরেক প্রজন্মে (যুগে) প্রবাহিত হয়।",
+      "english": "Language flows from one generation (age) to another generation (age).",
+      "santali": "pɘɾsi d̪ɔ mit̪̚ʔ bid̪ɘl kʰɔn aɾ mit̪̚ʔ bid̪ɘlɾɛ sɛn paɾɔmɔʔa."
+    },
+    {
+      "bangla": "পৃথিবীতে প্রায় ৭ হাজার ভাষা আছে।",
+      "english": "There are about 7 thousand languages in the world.",
+      "santali": "mɛnke.jam d̪ʰɘɾt̪iɾɛ e.ja͡i̯ haɟaɾgan pɘɾsi mena.a."
+    },
+    {
+      "bangla": "প্রতি ৩ মাসে/ ৩ মাস পর পর একটি করে ভাষা হারিয়ে যাচ্ছে।",
+      "english": "At a time one language is disappearing every 3 months.",
+      "santali": "ɟa͡o̯ pɛ cand̪oɾɛ mit̪̚ʔʈɛn kat̪ɛʔ pɘɾsi ad̪ɔʔkana."
+    },
+    {
+      "bangla": "সকল ভাষা সময়ের সাথে সাথে বদলায়।",
+      "english": "All languages change over time.",
+      "santali": "ɟɔt̪ɔ pɘɾsige ɔkt̪ɛ nɘpit̪̚ɾɛ bɔd̪ɔlɔʔt̪ege t̪ahɛnkana."
+    },
+    {
+      "bangla": "ভাষা পরিবর্তনের মতো সমাজের প্রথা-রীতিনীতিও বদলায়।",
+      "english": "Like the way a language changes, the customs and traditions of the society also change.",
+      "santali": "pɘɾsi bɔd̪ɔlɔʔlekage sɔmaɟɾe.jaʔ ɘn ɘɾihɔ̃ bɔd̪ɔlɔʔkana."
+    },
+    {
+      "bangla": "ভাষা মানুষের মধ্যে ঐক্য গড়ে তোলে/ ভাষা মানুষকে এক করে।",
+      "english": "Language builds unity among people/ Language unites people.",
+      "santali": "pɘɾsid̪ɔ mano̯͡ai̯ ɟumid̪ɛt̪̚ʔko̯͡a."
+    },
+    {
+      "bangla": "মানুষ প্রথম ভাষা শেখে তার মায়ের কাছ থেকে।",
+      "english": "People learn their language first from their mother.",
+      "santali": "mano̯͡akod̪ɔ gɔgɔʈʰɛnkʰɔnge pɘhil pɘɾsiko ceːd̪a."
+    },
+    {
+      "bangla": "ভাষার সাথে সাথে মানুষের চিন্তাভাবনাও বদলায়।",
+      "english": "People's thinking also changes along with language.",
+      "santali": "pɘɾsi sã͡o̯ sã͡o̯t̪ɛ mano̯͡ako̯͡aʔ hud̪iskohɔ̃ bɔd̪ɔlɔ.a."
+    },
+    {
+      "bangla": "লেখাপড়া ও চাকরির জন্য মানুষ নিজের ভাষা ছাড়াও অন্য ভাষা শেখে।",
+      "english": "People learn other languages apart from their own language for education and job.",
+      "santali": "ɔlɔʔ paɽha͡o̯ aɾ nukɾi lɘgit̪̚ʔ apnaɾ pɘɾsi cʰaɖahɔ̃ hɔɽ ɛʈaʔ ɛʈaʔ pɘɾsiko ceːd̪a."
+    },
+    {
+      "bangla": "মা: আগে তোমাকে রান্না শিখতে বলেছিলাম, তখন তুমি শোনোনি।",
+      "english": "Mother: Earlier I told you to learn cooking, you didn't listen to me at that time.",
+      "santali": "lahaɾɛ isin basaŋ cicit̪̚ʔiɲ met̪at̪̚ʔmɛ t̪ahẽkana, mɛnɛʔ bam aɲɟɔmled̪a."
+    }
+  ]
+}

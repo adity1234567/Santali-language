@@ -1,0 +1,744 @@
+Argument marking in Santali*
+
+Lukas NEUKOM
+University of Zurich
+
+
+1. Introduction
+
+Among the Munda languages, Santali¹ has the most elaborate verb morphology. Besides various types of argument marking the verb is inflected for seven tense/aspect/mood (=TAM) categories of which the markers have two shapes, one for transitive and one for intransitive use. In addition several derivational processes can apply to the stem, such as the marking of reciprocal or intensive.²
+
+After a short overview of Santali verb morphology the discussion will be limited to the marking of arguments³ on the verb. Santali arguments can appear as pronominal affixes in various ways. The table in (1) gives an overview:
+
+(1) Types of argument marking
+
+Subject            ø         dal-a-ŋ           'I will strike'
+Direct object      ø         dal-iŋ-a-e        'he will strike me'
+
+---
+*This paper is part of the project "South Asian areal typology", funded by the Swiss National Research Council under Grant No. 1214-049271.96/1. The project deals with the convergence area of the four language families (Indo-Aryan, Dravidian, Austro-Asiatic and Tibeto-Burman) in North-East India and Nepal. A preliminary version of the paper was presented at the 3rd project meeting of the European Cooperation project on Himalayan Languages (June 1998). I am grateful to Karen Ebert, Kathrin Cooper, Balthasar Bickel, John Peterson and Fernando Zúñiga for comments. Errors are all my own.
+
+¹Santali belongs to the Kherwari group of northern Munda languages (together with Mundari, Ho and some other dialects or languages). The number of speakers is 4.3 million (according to the 1991 census, cf. Ghosh 1994:3), most of them living in Bihar, West-Bengal and Orissa.
+
+²Santali morpho-semantics has been described by Bodding (1929a) and more thoroughly in Bodding (1929b). For paradigms see Skresfrud (1873), for a short introduction McPhail (1983) and for a recent treatment of the morphology Ghosh (1994). The data described here is taken from these sources; additionally I will cite examples from Bodding's huge Santali dictionary (1929-36) and from Santali folk tales (Bodding 1925). I use the following abbreviations: Bo = Bodding (1929a), Bo2 = Bodding (1929b), folktales = Bodding's folktales (1925), dictionary = Bodding's dictionary (1929-36), McP = McPhail (1983), Sk = Skrefsrud (1873). Following Bodding's orthography I had to slightly adapt citations from Skrefsrud (1873) and Grierson (1908:IV).
+
+³Unless further specified, the term "argument" includes both core (i.e. subject and object) and peripheral arguments (oblique objects).
+
+MON-KHMER STUDIES 30:95-113
+
+---
+
+[Page 96]
+
+Concerned object   -ta-   dal-ti-ŋ-a-e⁴   'he will strike mine'
+
+A fourth possibility involves a separate conjugation paradigm, that interacts with the TAM system in an intriguing way.
+
+Applicative        -a-    dal-a-ŋ-a-e      'he will strike for me'
+
+To further clarify the Santali data, we will have a look at two languages in the neighbourhood: the Indo-Aryan language Maithili, spoken in Bihar and Nepal, and the Tibeto-Burman language Hayu in Nepal.
+
+
+2. Overview of Santali verb morphology
+
+Santali verb morphology is of strong agglutinating character. There are various slots which are filled with person or TAM markers without fusion (one of the few exceptions is the combination of the possessor suffix -ta + ŋ (1s object) which yields -tiŋ). The following scheme reflects the rough sequence of affixes:
+
+(2) Affix order
+
+stem + TAM + pronoun (DO or dative) (+IPFV) + POSS+ pronoun (possessor) + FIN + pronoun (subject)
+
+The first slot is for pronouns referring either to the direct object or to the dative⁵; both can not be marked at the same time. The second slot contains possessor pronouns and the final position is for subject pronouns. The shape of the affixes is the same in all three slots. They are shown in (3):
+
+(3) Pronominal affixes⁶
+
+             singular     dual              plural
+                          excl   incl       excl   incl
+1            -ŋ           -liŋ   -laŋ       -le    -bon
+2            -m           -ben               -pe
+3 anim       -e           -kin               -ko
+3 inan       -k'
+
+In combination with a prefix a- they are all used as free personal pronouns, e.g. am 'you (sg.)', ape 'you (pl.)' (besides the two exceptions iŋ 'I' and ac 'he').
+
+---
+⁴The possessor affix -ta has the variant -ti when followed by palatal /ŋ/ 1s (cf. Mundari taiŋ (dictionary V.396)).
+
+⁵The term "dative" is used to subsume the functions "goal", "beneficiary", and "direction" (see 6.1).
+
+⁶The two variants -iŋ 1s and -me 2s are used for direct objects.
+
+---
+
+[Page 97]
+
+Pronominal reference is restricted to animate beings; with one exception: There is one affix for inanimate objects, -k', as indicated in Table (3). It appears only in the applicative construction.
+
+The three functions subject, direct object and dative share an interesting characteristic: A coreferential noun in the same clause is not marked for case. In other words, nouns with case suffixes are not resumed by pronominal affixes on the verb.
+
+In order to understand the examples, a short look at the TAM system is necessary. Santali distinguishes two sets of TAM markers: one appears with verbs in transitive function, the other one with verbs in intransitive function.
+
+(4) Tense / aspect / mood marker⁷
+
+                  transitive set     intransitive set
+Future            ø                  -ok'
+Present           -et'⁸ (-kan)⁹     -ok' -kan
+Past1             -ket'              -en
+Past2             -let'              -len
+Perfect           -akat'             -akan
+Optative          -ke                -k-ok'
+Conditional       -le                -len
+
+
+3. Subject pronominal suffixes
+
+The subject pronoun occupies the final position in the verb form, or, very frequently, it is attached to the word that immediately precedes the verb, cf. (5):¹⁰
+
+(5) a.  orak'-iŋ    ŋel-a.                b.  orak'  ŋel-a-ŋ.
+        house-1sS   see-FIN                    house  see-FIN-1sS
+        'I will see the house.'                'I will see the house.' (McP 30)
+
+According to McPhail (1957:30) (5a) is more common than (5b).
+
+The term "subject" is justified, since the agent of a transitive verb (6a) and the single argument of an intransitive verb (6b) are coded in the same way:
+
+---
+⁷The terms for the various TAM categories are of preliminary character; their exact function has yet to be specified.
+
+⁸The transitivity marker -t' changes to -d before pronominal suffixes with initial vowel.
+
+⁹Verbs in transitive use distinguish two present tenses, one with a progressive reading (with -kaŋ) and another one with habitual reading (without -kan).
+
+¹⁰The subject pronouns attached to the preceding word will be written as suffixes, as it is done by all previous writers on Santali. This is confirmed by morphophonological alternations (e.g. when the preceding word ends in u or ɔ, e (3s) is modified to i: guru-i ŋela 'the guru will see') and stress rules (e.g. normally diphthongs are stressed, but diphthongs arising through suffixation of the pronoun -e (3s) do not attract stress: 'adɔ 'then' + -e (3s) -> 'adɔe 'then he' (Bodding 1922:136)).
+
+---
+
+[Page 98]
+
+(6) a.  bebɔric'-ko     dal-ked-e-a.
+        terribly-3pS    strike-PST1:TR-3sO-FIN
+        'They beat him terribly.' (Bo 24)
+
+    b.  noa    ato-khɔn-ko         ŋir-en-a.
+        this   village-ABL-3pS     emigrate-PST1:ITR-FIN
+        'They emigrated from this village.' (sd IV.436)
+
+
+4. Pronominal suffixes in direct object function
+
+Animate direct objects are expressed by pronouns affixed to the verb. Their position is after the TAM marker, but before the imperfective marker -kan. They are found with all TAM categories.
+
+The object pronoun denotes various semantic roles: 1) the patient of an action, 2) the source or 3) the experiencer.
+
+Example (7) and (8) illustrate the use as patient. This is the most frequent function.
+
+(7)    idi-me-a-e.
+       take-2sO-FIN-3sS
+       'He will take you along with him.' (Bo 31)
+
+(8)    ere-ket'-le-a-kin.
+       deceive-PST1:TR-1pO-FIN-3dS
+       'They (two) deceived us.' (Bo 31)
+
+In addition the object pronoun can express source:
+
+(9)    taŋga-e          rec'-ked-iŋ-a.
+       axe-3sS          take-PST1:TR-1sO-FIN
+       'He took the axe from me.' (Sk 366)
+
+The next example shows an experiencer:
+
+(10)   reŋgec'-ed-iŋ-kan-a,          daka   em-a-ŋ-pe.
+       be_hungry-PRS:TR-1sO-IPFV-FIN  food   give-APPL-1sO-2p
+       'I am hungry, give me food.' (dictionary V.73)
+
+Other verbs which behave in a similar way are "be thirsty" or "be tasty". However, this construction is not so frequent; another way to express the experiencer role is by means of the intransitive tense markers (here marked by -ok', which makes a verb intransitive and occurs in the Future and in the Present):
+
+(11)   ruɔ-k'-kan-a-e,       ba-e    suk-ok'-kan-a.
+       be_ill-ITR-IPFV-FIN-3sS  NEG-3sS  be_at_ease-ITR-IPFV-FIN
+       'He is constantly ill, he is not at ease.' (dictionary V.370)
+
+---
+
+[Page 99]
+
+Animate objects, like bɔhu 'wife' in (12), are always marked as pronominal affixes on the verb, but not inanimate objects, like daka 'rice' in (13).
+
+(12)   bɔhu-i           ɔgu-ked-e-a.
+       wife-3sS          bring-PST1:TR-3sO-FIN
+       'He brought a wife.' (dictionary I.112)¹¹
+
+(13)   daka-ko     jɔm-a.
+       rice-3pS    eat-FIN
+       'They eat rice.' (Bo2 197)
+
+
+5. Pronominal suffixes in concerned object function
+
+5.1 Santali
+
+The Concerned Object function is expressed by the possessor suffix -ta on the verb, preceding the pronominal suffix. The affix -ta + pronominal suffix is placed after the tense marker and after (rarely before) the imperfective marker -kan. It is found with all TAM categories. To begin with, a few examples shall illustrate its use:
+
+(14)   hɔpɔn-e    hec'-en-ti-ŋ-a.
+       son-3sS    come-PST1:ITR-POSS-1s-FIN
+       'My son has come.' (McP 20)
+
+(15)   nahel  idi-ti-ŋ-me.
+       plough  take-POSS-1s-2s:IMP
+       'Take away my plough.' (McP 20)
+
+(16)   iŋ-ge   khajna-ŋ    calao-ket'-ta-ko-a.
+       I-FOC   rent-1sS    pay-PST1:TR-POSS-3p-FIN
+       'I paid their rent for them (lit. I paid their rent).' (dictionary III.457)
+
+The person marked by -ta on the verb is concerned by the situation described by the clause (= Concerned Object).¹² It can have beneficiary meaning as in (16) above. Typically it denotes the possessor of a core argument in the clause at the same time. By contrast, the possessor of peripheral arguments cannot be resumed on the verb; consider (17) where the possessed noun hɔrmɔ 'body' is marked for locative
+
+---
+¹¹The same sentence can equally well be translated as 'the wife brought him', provided that the context allows this.
+
+¹²Compare the "dativus ethicus" in German, e.g. dass du mir das ja nicht vergisst! 'you must not forget that, I am concerned about it', where the Dative expresses that the referent is concerned by the action. However in German this meaning appears only with first person pronouns and only in sentences with exclamatory character (Draye 1996:183). Another language where the function of Concerned Object is marked in a rather consistent way is the South American language Mapudungun (Sala 1992:131ff). Compare also a similar phenomenon in Choctaw (a Muskogean language in North America), called "possessor-raising" by Davies (1986:46).
+
+---
+
+[Page 100]
+
+and is peripheral, so that the verb form does not express the possessor (which would be expressed by janam-en-ta-e-a).
+
+(17)   adɔ   uni    rɔni-ak'       hɔrmɔ-re    rɔg
+       then  this   queen-GEN:INAN  body-LOC    sickness
+
+       bighin-ge   janam-en-a.
+       disease-FOC  come_up-PST1:ITR-FIN
+       'And several diseases broke out in the queen's body.' (folktales II.4)
+
+The affix -ta occurs with nouns as well, but not obligatorily. There are three ways to mark the possessor of a noun. One possibility is to add the suffixes -ŋ, -m, -t / -tet' to the noun. The suffixes are used for both singular and plural.
+
+(18)   dada-ŋ,          dada-m,         dada-t(tet')
+       brother-1         brother-2        brother-3POSS
+       'my / our brother'  'your brother'  'his / their brother' (Bo2 117)
+
+Secondly, there are variants occurring with -ta, especially in case the possessed noun has a number-suffix or in case the possessor is determined for number (Bodding 1929b:113, 117). The suffix following -ta always denotes the possessor (19a). In (19b) the suffix -ko is the plural marker of the noun. Note that in (19c) the possessor+pronominal affix precedes the noun to which it belongs.
+
+(19) a.  orak-ta-ko           b.  gɔi-ko-ta-e
+         house-POSS-3p             cow-PL-POSS-3s
+         'their house'             'his cows'
+
+     c.  hante-re    ta-ko    orak'
+         over_there-LOC  POSS-3p  house
+         'their house over there' (Bo2 113)
+
+It might be assumed that the possessor marker -ta plus a pronoun had been moved from the noun to the verb. The next example (20) illustrates that it can occur as an independent argument in the clause.
+
+(20)   kombro-et'-tahẽkan    ta-le    hɔr-iŋ    sap'-akad-e-a.
+       steal-PRS:TR-AUX:stay  POSS-1pe  man-1sS  catch-PF:TR-3sO-FIN
+       'I have caught the man who used to steal our (dhan.).' (Sk 362)
+
+Besides a few exceptions referred to as archaic by Bodding¹³ I found no instances where pronominal suffixes were attached both to the noun and to the verb referring to the same possessor of a noun. In (21) the noun dare 'tree' is first
+
+---
+¹³Consider the following example, where two pronominal suffixes for 2s appear, -me on the noun and -m on the verb. -laŋ for 1di is often used by singular speakers to express threat.
+       moca-me-laŋ             kɔtej-ta-m-a.
+       mouth-2sPOSS-1diS        beat-POSS-2sO-FIN
+       'I shall punch your mouth for you.' (Bo2 117)
+
+---
+
+[Page 101]
+
+marked for possessor, then unmarked in the second part of the clause, since it contains a verb form with possessor suffix.
+
+(21)   haere haere, toa  dare-ti-ŋ-dɔ,   toa  dare-dɔ
+       alas  alas   milk  tree-POSS-1s-TOP  milk  tree-TOP
+
+       gɔc'-gur-en-ti-ŋ-dɔ.
+       die-fall-PST1:ITR-POSS-1s-TOP
+       'Alas, alas, my milk-tree, my milk-tree has died and fallen (from a lamentation, by daughters on death of mother).' (dictionary II.37)
+
+However, there is a third way to signal the possessor, viz. by the personal pronoun (or a full noun) + genitive case, which precedes the possessed noun. Consider (22):
+
+(22)   Kandna  iŋ-ren    barea  gɔi-y-e¹⁴   gupi-y-et'-kin-ti-ŋ-a.
+       K.       I-GEN:ANIM  two   cow-y-3sS  herd-y-PRS:TR-3dO-POSS-1s-FIN
+       'Kandna is herding my two cows.' (Bo2 202)
+
+Here, the two cows belong to the speaker, marked by iŋ-ren. This fact is signalled a second time in the verb (by -ti-ŋ). The possessor suffix -ta is also used for an equivalent expression of the English 'to have'. It is attached to mena- 'be (locative), exist', cf. (23). The possessed object, gidrɔ 'the children' is treated as direct object, the possessor is marked by -ta (here by its variant -ti). The suffix -k' is used when the possessed argument has plural number.
+
+(23)   gidrɔ   mena-k'-ko-ti-ŋ-a.
+       child   be-PL-3pO-POSS-1s-FIN
+       'I have children.' (McP 41)
+
+However, for several reasons the marking on the verb can not be equalled with simple possessor marking. First, the marking on the verb is not obligatory. There are examples where the possessor is shown only on the noun. Consider the following sentence, where we might expect the suffix -ta-m in mɔilɔ-ge-ta-m-a-ko:
+
+(24)   am-ren         gidrɔ-ko-dɔ   ɔdi   mɔilɔ-ge-a-ko.
+       you(sg)-GEN:ANIM  child-PL-TOP  very  dirty-FOC-FIN-3pS
+       'Your children are very dirty.' (McP 21)
+
+If the function of -ta is interpreted as marking the concerned person, it is easily conceivable that the marking is optional: The speaker may or may not specify a person who is concerned. However, no example has been found where the concerned person marked by -ta on the verb is different from the possessor marked on the noun.
+
+---
+¹⁴The semi-vowels /w/ and /y/ are inserted between vowels of the same height, /w/ for low vowels and /y/ for high or mid-high vowels.
+
+---
+
+[Page 102]
+
+Secondly, when a sentence contains more than one explicit core argument (subject and object),¹⁵ -ta + pronoun refers to the possessor of the object (McPhail 1983:41). Consider (25) where -tiŋ POSS+1s refers to the possessor of kuri 'girl' which is the object.
+
+(25)   kɔra-dɔ   kuri-y-e     dal-ked-e-ti-ŋ-a.
+       boy-TOP   girl-y-3sS   beat-PST1:TR-3sO-POSS-1s-FIN
+       'The boy beat my girl. (*My boy beat the girl.)' (McP 41)
+
+This rule nicely fits in with the notion of Concerned Object, which entails that something is happening to the referent of the Concerned Object so that he has to suffer (at least in an indirect way) due to some action. This impact is bigger when he is the possessor of the object (= patient) than when he is the possessor of the subject (agent). In the example above the girl's father, who might utter this sentence, is more concerned by the situation than the boy's father would be.
+
+Thirdly, there are examples where the clause does not contain overt noun phrases of which the referent of the Concerned Object could be the possessor.
+
+(26)   teŋgo-len-me,    adɔ-ŋ    ŋel-ta-m-a.
+       stand_up-COND:ITR-2sS  then-1sS  see-POSS-2s-FIN
+       'Stand up, and I shall see what is the matter with you.' (Bo2 219)
+
+(27)   tinɔk'-em    dharao-akat'-ta-e-a?
+       how_much-2sS  owe-PF:TR-POSS-3s-FIN
+       'How much do you owe him?' (dictionary II.153)
+
+This type of construction is especially frequent with first person inclusive pronouns (dual or plural).¹⁶ The following examples illustrate this:¹⁷
+
+(The wife says to her husband and the two sons:)
+
+(28)   ape-dɔ    nɔŋde    hɔr-re-ge
+       you(pl)-TOP  here   road-LOC-FOC
+
+       daka-hatar-ta-bon-pe,         ar    iŋ-dɔ
+       prepare_food-V2:meanwhile-POSS-1pi-2p:IMP  and  I-TOP
+
+       uni   sodagɔr   kisɔr-then-iŋ   cala-k'-a   ar   abon   jɔtɔ
+       this  merchant  rich-DAT-1sS    go-ITR-FIN  and  we(pi)  all
+
+---
+¹⁵As noted above only possessors of core arguments can be cross-referenced on the verb.
+
+¹⁶Compare German where only the first person can figure as concerned object.
+
+¹⁷The pronominal affix -bon (1pi) in the examples (28,29) is employed to subsume all the participants of the interaction. This use is related to another phenomenon in Santali, namely the use of the first person inclusive dual pronoun -laŋ for singular persons in threatening language (see example in footnote 11). Konow in his preface to Bodding's folktales (1925:XV) says this about the "original meaning of the dual": "It does not signify the number two, but one or two who necessarily belong together as a pair. The man who threatens another sees himself in the act which he is to perform as necessarily connected with the other one."
+
+---
+
+[Page 103]
+
+       hɔr   logit'  jɔmak'  ar   kicric'-iŋ   kɔe-ɔgui-ta-bon-a.
+       person  for   food   and  clothes-1sS  ask-bring-POSS-1pi-FIN
+
+       'You stay here at the roadside and prepare food for us in the meantime, while I go to the rich merchant and beg and bring food and clothes for us all.' (folktales II.4)
+
+(The leopard is hunted and asks some traders for help:)
+
+(29)   daya-kate    ma-ge     oko-baŋcao-ka-ŋ-ta-bon-pe.
+       show_mercy-CONV  MOD-FOC  hide-save-RES-1sO-POSS-1pi-2p:IMP
+       'Please show kindness and hide and save me (lit. for us).' (folktales I.12)
+
+(30)   cet'   logit'-em   sen-len-tahẽkan-a,
+       what   for-2sS    go-PST2:ITR-AUX:stay-FIN
+
+       ma   se    lɔi-a-ŋ-ta-laŋ-me.
+       MOD  or    tell-APPL-1s-POSS-1di-2s:IMP
+       'Please tell me for what purpose you had gone.' (Bo2 213)
+
+Finally, there is an idiomatic use with the verb hoe 'become', where the -ta + pronominal affix denotes a concern in terms of obligation: the referent has to do something.
+
+(31)   cala-k'    hoe-y-en-ta-e-a.
+       go-ITR    become-y-PST1:ITR-POSS-3s-FIN
+       'He had to go.' (dictionary III.127)
+
+(32)   ape-dɔ   mɔre   māhā   din   ɔŋde-ge   tahen
+       you(p)-TOP  five  day   day   there-FOC  stay
+
+       ho-y-ok'-ta-pe-a.
+       become-y-ITR-POSS-2p-FIN
+       'You will have to remain there for five days.' (folktales I.229)
+
+To sum up: The affix -ta + pronominal affix marked on the verb always denotes a concerned object. But the possessive origin of the affix is still present insofar that the referent of a Concerned Object must be identical with any overt possessor of a core argument. In the example (24) above, repeated here as (33), the only possible pronominal affix is -m 2s; e.g. -ŋ 1s would not be possible.
+
+(33)   am-ren        gidrɔ-ko-dɔ   ɔdi   mɔilɔ-ge-ta-m-a-ko.
+       you(sg)-GEN:ANIM  child-PL-TOP  very  dirty-FOC-POSS-2s-FIN-3pS
+       'Your children are very dirty.'
+
+       *am-ren  gidrɔ-ko-dɔ  ɔdi  mɔilɔ-ge-ti-ŋ-a-ko.
+       'Your children are dirty to me.'
+
+---
+
+[Page 104]
+
+5.2 Maithili
+
+An interesting parallel concerning possessor marking on the verb is seen in the Indo-Aryan language Maithili, spoken to the north of the Santal region (Bickel, Bisang & Yadava 1998). Maithili also allows pronominal marking of peripheral noun phrases on the verb (in addition to subject and object); but whereas this type of marking is to a high degree limited to possessor marking in Santali, the Maithili pronominal affixes refer to a much broader range of possible peripheral participants.
+
+First, the possessed noun does not have to be a core argument as in Santali, as the following example shows:
+
+(34)   ham     tor-e           ghar   par
+       I(NOM)   you(nh):GEN-FOC  house  LOC
+
+       ge-l      ch-al-i-ah.
+       go-PART   AUX-PST-1NOM-2mh:nonNOM
+       'I had been to your house (not somebody else's).' (Bickel, Bisang & Yadava 1998:29)¹⁸
+
+Secondly, not only possessors, marked by genitive case, but any other non-nominative case (dative, ablative, locative) can trigger agreement on the verb, e.g. ablative:
+
+(35)   hunkā-sā    i   ghar   ban-ā-ol         ge-l-ainh.
+       he(h):OBL-ABL  this  house  build-CAUS-PART  AUX:PASS-PST-3h:nonNOM
+       'This house was built by him (i.e., at his request).' (Bickel, Bisang & Yadava 1998:11)
+
+On the other hand, not all persons are allowed in non-argumental marking: only non- or mid-honorific second person or honorific third person, which is historically due to several neutralizations in the intricate person agreement system.¹⁹
+
+In both languages this marking is optional and the pronominal affixes can encode referents that are not overtly present as noun phrases in the sentence. The range of semantic interpretation seems to be broader than in Santali. (36) is analogous to Santali, whereas the interpretation of (37) would be questionable in Santali:²⁰
+
+---
+¹⁸The glosses have been slightly modified.
+
+¹⁹The synchronic situation can be explained by the concepts of face and empathy (cf. Bickel, Bisang & Yadava 1998:28).
+
+²⁰Compare the following example, taken from a paradigm:
+       dal-e-ta-e-a-e.
+       strike-3sO-POSS-3s-FIN-3sS
+       'He will strike him, who is his.' (Sk 48)
+The relationship between the possessor pronoun -tae and the possessed pronoun -e cannot be determined further, since there are no text examples.
+
+---
+
+[Page 105]
+
+(36)   ham    okrā      dekha-l-i-ah
+       I:NOM   he(nh):DAT  see-PST-1-2mh:nonNOM
+       'I saw him (who is related to you).' (Bickel, Bisang & Yadava 1998: 30)
+
+(37)   bhāig    je-t-ainh.
+       run:CONV  AUX:TEL-FUT(3)-3h:nonNOM
+       'He (non-h) will run away (because he is afraid of him (honorific)).' (Bickel, Bisang & Yadava 1998:30)
+
+
+6. Pronominal suffixes in the applicative construction
+
+6.1 Santali
+
+Pronouns used in applicative constructions occupy the same position as pronouns in direct object function. In addition, they require the presence of the applicative suffix -a.²¹ It occurs with four tenses (Future, Present, Past 1 and Perfect), with which it forms fusional tense affixes, parallel to those mentioned above.²² Again, there are two sets of suffixes, depending on whether the verb is used transitively or not.
+
+(38) TAM markers with applicative suffix -a
+
+                  transitive set     intransitive set
+Future            -a                 -jɔŋ
+Present           -a -kan-           -jɔŋ -kan-
+Past1             -at'               -an
+Perfect           -aka-w-at'         -aka-w-an
+(Past2)           (-lak')
+
+In the Conditional and Optative the direct object pronouns are used. The Past2 is found only with the inanimate object marker -k' (in la-k'). Since the Past1 has no form for inanimate objects, the suffix la-k' seems to fill this gap in the paradigm.
+
+The applicative suffix -a allows another object than the patient to be cross-referenced on the verb. Compare the following sentence pair, where in (39a) the recipient is marked with the Dative case marker -then and is not represented by a pronoun on the verb, whereas in (39b) it is cross-referenced on the verb and no longer case-marked. Patient and recipient cannot be marked on the verb at the same time, so there is no pronominal affix referring to gidrɔ 'child' on the verb in (39b).
+
+---
+²¹Ghosh (1994) calls it "directional prefix" (p.94) or "dative marker" (p.114).
+
+²²It can be assumed that the Past1 marker -at' (-ad before vowels) has arisen from -a+ket', since the closely related language Ho still has the morpheme -aked (Pinnow 1966:119).
+
+---
+
+[Page 106]
+
+(39) a.  maejiu-then   gidrɔ-ŋ    em-ked-e-a.
+         woman-DAT     child-1sS   give-PST1:TR-3sO-FIN
+
+     b.  gidrɔ-dɔ   maejiu-iŋ   em-a-d-e-a.
+         child-TOP  woman-1sS   give-APPL-PST1:TR-3sO-FIN
+         'I gave the child to the woman.' (McP 41)
+
+According to McPhail (1983:41) there is no semantic difference between the two sentences (39a) and (39b). In my opinion, however, the second sentence, uttered in an appropriate context, can also mean 'I gave the woman to the child'.
+
+Let us look at another verb: ɔbuk' 'wash' usually incorporates the patient as a direct object. Consider (40) where pera hɔr 'visitor' of the preceding clause is resumed as object pronoun, expressed by the suffix -e:
+
+(40)   pera    hɔr-e    hec'-len-khan    jaŋga-ko   ɔbuk-e-a.
+       visitor  person-3sS  come-COND:ITR-when  feet-3pS   wash-3sO-FIN
+       'When a visitor comes, they wash his feet.' (dictionary I.103)
+
+The place where the washing happens would be marked by the locative case. However, it can be cross-referenced on the verb as well, using an applicative construction, e.g. in (41), taken from a text, in which a pond is scolding human beings:
+
+(41)   ŋel-pe,   iŋ-dɔ   ŋū-hɔ-pe     ŋū-ŋ-kan-a,
+       look-2p   I-TOP   drink-also-2p  drink-1sO-IPFV-FIN
+
+       ar    ic'-hɔ-pe              ɔbuk-a-ŋ-kan-a.
+       and   excrement-also-2p       wash-APPL-1sO-IPFV-FIN
+       'See, me you drink, and me you also use for washing yourself when you have gone to stool.' (folktales I.16)
+
+The applicative construction is used whenever the object is understood as being involved only in an indirect way by the action.²³ This is clearly seen with the causative marker oco-, e.g. in (42): (42a) with direct objects conveys causative meaning, whereas applicative in (42b) implies permissive meaning.
+
+(42) a.  kiriŋ-oco-ked-e-a-ŋ.
+         buy-CAUS-PST1:TR-3sO-FIN-1sS
+         'I made him buy (it, e.g. the bullock).'
+
+---
+²³Compare Bodding's (1929b:223) distinction between direct and indirect object (corresponding to pronouns in applicative constructions): "The difference is in the meaning, the relation of the verbal action to its object. With direct object we have the result of the performance, ... With indirect object the action is performed with the intention that it is to have special reference or application to somebody or something mentioned."
+
+---
+
+[Page 107]
+
+     b.  kiriŋ-oco-a-d-e-a-ŋ.
+         buy-CAUS-APPL-PST1:TR-3sO-FIN-1sS
+         'I allowed him buy (it).' (Bo 54)
+
+Other contrastive examples:
+
+disɔ-w-a-   'remind somebody'    cf.  disɔ-   'remember somebody'
+tɔl-a-      'tie on somebody'    cf.  tɔl-    'tie somebody'
+
+(43) a.  iŋ-iŋ   hiriŋ-le-khan   disɔ-w-a-ŋ-me.
+         I-1sS   forget-COND:TR-when  remember-w-APPL-1sO-2s:IMP
+         'If I forget it, remind me of it.'
+
+     b.  disɔ-ked-e-a-ŋ.
+         remember-PST1:TR-3sO-FIN-1sS
+         'I remembered him.' (dictionary II.89)
+
+The meaning of indirectness entails the following functions, which can be subsumed under the term "dative": goal, beneficiary, and direction. Compare the corresponding examples:
+
+(i) goals or recipients of transfer verbs, e.g. 'to give', 'to bring', 'to say':
+
+(44)   kurai-ko    em-a-ko-a.
+       wage-3pS    give-APPL-3pO-FIN
+       'They (will) give them their wages.' (Bo 66)
+
+(45)   lɔi-a-t'-ko-a-e,    ba-e   hatao-e-a   men-te.
+       tell-APPL-PST1:TR-3pO-FIN-3sS  NEG-3sS  take-3sO-FIN  say-INST
+       'He told them he would not take him.' (Bo 75)
+
+The applicative suffix -a is required in order to refer to the goal of the verb 'say'. Compare two other examples without -a:
+
+(46)   gɔnɔk-ko   lɔi-y-et'-a,   nes-dɔ   akal   hoe-ok'-a.
+       astrologer-3pS  tell-y-PRS:TR-FIN  this_year-TOP  scarcity  happen-ITR-FIN
+       'The astrologers say that there will be scarcity this year.' (dictionary II.466)
+
+(47)   lɔi-ked-e-a-e.
+       tell-PST1:TR-3sO-FIN-3sS
+       'He said that it was he (i.e. he informed against him).' (dictionary IV.66)
+
+(ii) Beneficiaries:
+
+(48)   parkɔm   bel-a-ko-m,    pera-ko   hec'-en-a.
+       bed      place-APPL-3pO-2sS  friend-3pS  come-PST1:ITR-FIN
+       'Place a bedstead for them to sit on, visitors have come.' (dictionary I.242)
+
+---
+
+[Page 108]
+
+(iii) Other examples suggest extending the meaning to include directed actions in general, directed towards a person.²⁴
+
+(49)   hec'-a-d-iŋ-a-e.
+       come-APPL-PST1:ITR-1sO-FIN-3sS
+       'He came to me.' (Sk 366)
+
+(50)   hola-e      dak'-a-t'-le-a.
+       yesterday-3sS  water-APPL-PST1:TR-1pe-FIN
+       'Yesterday we had rain.' (dictionary II.12)
+
+Inanimate dative objects are marked by -k', which is restricted to Present and Future tense. Example (50) contains an emotion verb; here daka 'food' is the affected object.
+
+(51)   daka  cak'-em    kurud-a-k'-kan-a,    jɔm-me.
+       food  what-2sS   hate-APPL-INAN-IPFV-FIN  eat-2s:IMP
+       'Why do you hate the food? Eat.' (said to children who don't eat) (dictionary III.622)
+
+In (52) it is a goal, in (53) a direction.
+
+(52)   katha   alo-m       jutuc'-a-k'-a.
+       speech  PROH-2sS    add-APPL-INAN-FIN
+       'Don't add anything to the statement.' (dictionary III.359)
+
+(53)   dare-ŋ   beŋget'-a-k'-kan-tahẽkan-a.
+       tree-1s  look-APPL-INAN-IPFV-AUX:stay-FIN
+       'I was looking at the tree.' (Bo 66)
+
+The same applicative effect as described above can be observed with the pronominal affix -k'. In (54) the locative noun phrase gaŋdo-re-y-e 'on the stool' is marked by -re without being resumed in the verb, whereas in (55) the locative indication mɔci 'stool' is unmarked for case but is incorporated in the verb by -ak'.
+
+(54)   adɔ   ɔbuk-bɔlɔ-kate    ona    gaŋdo-re-y-e
+       then  wash-enter-CONV    that   stool-LOC-y-3sS
+
+       durup'-en-khan-dɔ    daka-utu-i
+       sit_down-PST1:ITR-when-TOP  rice-curry-3sS
+
+       ɔgu-a-d-e-a.
+       bring-APPL-PST1:TR-3sO-FIN
+       (continuation below)
+
+---
+²⁴Compare the suffix -ay in the South Munda language Sora (Biligiri 1965:234), which indicates "orientation towards the speaker" vs. -e indicating "orientation away from the speaker". Unfortunately Biligiri gives very few examples.
+
+---
+
+[Page 109]
+
+'When he had washed his hands and come in again, he sat down on the stool, and she brought him the curry and rice.' (from a text in Grierson (1908:IV, p.58))
+
+(55)   mɔci-ko    durup'-a-k'-a.
+       stool-3pS  sit_down-APPL-INAN-FIN
+       'They will sit on the stool.' (Bo2 226)
+
+The intransitive set of TAM markers together with the applicative marker is interpreted as conveying reflexive meaning, i.e. the action is directed towards the subject.
+
+(56)   tupri   ar   aŋgrɔp-e    hɔrɔk'-akawan-a.
+       hat    and   coat-3sS    put_on-PF:ITR+APPL-FIN
+       'He has put on a hat and a coat.'
+
+       cf.   kurta-ko    hɔrɔk'-a-d-e-a.
+             jacket-3pS  put_on-APPL-PST1:TR-3sO-FIN
+             'They put a jacket on him.' (dictionary III.146)
+
+(57)   dhuri-y-e     ɔjɔk'-akawan-a.
+       dust-y-3sS   spatter-PF:ITR+APPL-FIN
+       'He has spattered himself with dust.' (dictionary IV.494)
+
+(58)   dare-akawan-a-e,    ki<k'>riŋ-dɔ   baŋ
+       get_trees-PF:ITR+APPL-2-FIN-3sS   buy<CAUS>-TOP  NEG
+
+       hoe-ok'-ta-e-a.
+       become-ITR-POSS-3s-FIN
+       'He has procured (fruit) trees for himself, he will not have to buy.' (dictionary II.38)
+
+
+6.2 Hayu
+
+A similar applicative construction appears in the Kiranti language Hayu.²⁵ The morpheme to be dealt with here is called "applicatif" by Michailovsky (1988:89ff, 139ff). In contrast to Santali, where the applicative is found with all person combinations and with all transitive verbs, the distribution of the Hayu applicative is limited. It is found only in about half the transitive verbs and, moreover, only in parts of their paradigms,²⁶ namely in the combinations 1s > 3, 1p > 2, 3, 2s > 3, 3 > 3. All these person / number suffixes have initial t-. For other person combinations the usual (non-applicative) forms are used. Some examples (Michailovsky 1988:90):
+
+---
+²⁵In some Kiranti languages (Limbu, Camling) another type of applicatives is found, which is not productive and belongs to stem extension, e.g. Camling ni- 'laugh', nit- 'laugh at s.b.' (Ebert 1994:20).
+
+²⁶Some transitive verbs with alternating verb stems (± -t) have a complete applicative paradigm: Non-applicative forms lack final -t, whereas applicative and nonfinite forms show final -t (p.99). However, the applicative forms do not distinguish past vs. non-past.
+
+---
+
+[Page 110]
+
+                    non-applicative          applicative
+
+1pi > 2, 3          pux-ke                   puk-tike           (k+k -> x-k)
+nonpast             'we lift you / them'      'we lift for you / them'
+
+1pi > 2, 3          pux-kikeŋ                puk-tikeŋ
+past                'we lifted you / them'    'we lifted for you / them'
+
+2s > 3p             pux-kome                 puk-tome
+                    'you lifted them'         'you lift / lifted for them'
+
+The fact that the applicative occurs in this restricted way can be explained in morphological terms: all the corresponding forms in the past tense have initial k-, which is replaced by t- in the applicative forms. Semantically all applicative forms involve a third person patient. As in Santali the Hayu applicative allows fewer tense distinctions: in most of the cases there is only one form for both past and nonpast tense and only the combination 1p > 2, 3 shows two distinct forms.
+
+Whereas the morphological differences are numerous, the semantics seems to be surprisingly similar. Generally speaking, the applicative is found when the object of a verb is considered beneficiary rather than patient. More precisely, a verb with applicative refers to an action which is directed towards the object, which either profits or suffers from this situation, or which is the original author of the situation. However, whether a transitive verb possesses applicative forms or not and which meaning they have has to be stated for each verb in the lexicon. In contrast to Hayu, any verb in Santali can appear with the applicative, provided that the semantics allows this.
+
+There are three classes of verbs in Hayu:
+
+(i)    verbs that never take applicative forms; e.g. jeŋ- 'see', op- 'tear'.
+
+(ii)   verbs that always take applicative forms; examples like ha- 'give' or mvm- 'offer' neatly fit into the description given above, but this group includes other verbs such as on- 'be strong' or sit- 'kill'.
+
+(iii)  verbs that can appear with applicative or non-applicative suffixes: ba- 'take' or cup- 'wear'. The applicative suffixes are found when the verb is used ditransitively.
+
+Syntactically we have the same constellation as in Santali: the patient is left unmarked in the applicative verb. Consider the following example (note that, in contrast to Santali, the agent is marked by the ergative -ha in Hayu; the two objects are in the unmarked absolutive case):
+
+---
+
+[Page 111]
+
+(59)   uxpu-ha    a-ta:wo    cu?wa-khata   cup-to-m.
+       father-ERG  his-son    cloth-PL      put_on-3s>3s:APPL-ASS
+       'The father dressed his son.' (Michailovsky 1988:143)
+
+When the beneficiary is not integrated into the verb by the applicative construction, the nominal in the clause must be designated by another marker than the absolutive, e.g. by -le:si 'for' in the following example:
+
+(60)   aŋ-mv-le:si    mi    cu?wa    cup-ko.
+       I-GEN-for       this   blouse   put_on-2s>3s/d:IMP:NON-APPL
+       'Put this blouse on for me!' (Michailovsky 1988:143)
+
+Note that inanimate objects are cross-referenced on the verb in Hayu, in contrast to Santali, where only inanimate goals are marked.
+
+The following example shows that all beneficiaries are not automatically objects of applicative verbs (sit- 'kill' belongs to the group of verbs that always take applicative forms):
+
+(61)   komi-ha   aŋ-le:si   kolu   xo:co    six-to-m.       (sit-to -> six-to)
+       he-ERG    I-for      a      chicken:ABS  kill-3s>3s:PST-ASS
+       'He killed a chicken for me.' (Michailovsky 1988:140)
+
+
+6.3 Summary
+
+The applicative exhibits the following characteristics in the two languages:
+
+                     Santali                          Hayu
+
+Syntactic:    Both allow the marking of an indirect object pronoun on the verb.
+
+Morphological: Form: -a                              Form: -t
+               Restrictions on TAM categories,       TAM and person restrictions.
+               no person restrictions
+
+Semantic:     Both refer to goals or imply a directed action.
+              No lexical restrictions.               Occurs only with a limited set
+                                                     of verbs.
+
+To conclude, I would like to present a last Santali example, illustrating multiple possessor marking. Bodding introduces this example by saying: "I remember an old woman saying with some pride."
+
+(62)   hɔpɔn-iŋ-dɔ   khube-ge-y-e    kami-ket'-ta-e-ti-ŋ-a.
+       son-1s-TOP     very_much-FOC-y-3sS  work-PST1:TR-POSS-3s-POSS-1s-FIN
+       'This son of mine worked very much and well for him.' (Bo2 166)
+
+---
+
+[Page 112]
+
+Abbreviations used in this article
+
+ABS      absolutive           LOC      locative
+ANIM     animate              mh       mid-honorific
+APPL     applicative          MOD      modal particle
+ASS      assertive            NEG      negative
+AUX      auxiliary            nh       non-honorific
+CAUS     causative            NOM      nominative
+COND     conditional          O        object
+CONV     converb              OPT      optative
+d        dual                 p / pl   plural
+DAT      dative               PART     participle
+DIR      directional          PASS     passive
+e        exclusive            PF       perfect
+ERG      ergative             POSS     possessive
+FIN      finite marker        PRS      present
+FOC      focus marker         PROH     prohibitive
+FUT      future               PST      past
+GEN      genitive             RES      reservative
+HAB      habitual             s / sg   singular
+IMP      imperative           S        subject
+INAN     inanimate (object)   TEL      telicizer
+IPFV     imperfective         TOP      topic marker
+ITR      intransitive         TR       transitive
+
+---
+
+[Page 113]
+
+REFERENCES
+
+Bickel, Balthasar, Walter Bisang and Yogendra P. Yadava. 1998. "Face vs. empathy: The social foundation of Maithili verb agreement." ms. 34 pp.
+Biligiri, H. S. 1965. "The Sora verb, a restricted study." Lingua 15: 231-50.
+Bodding, Paul O. 1922. Materials for a Santali Grammar I (Mostly Phonetic). Dumka: Santal Mission of the Northern Churches.
+Bodding, Paul O. 1925 [1997]. Santal Folk Tales. Oslo: H. Aschehoug & Co. [repr. New Delhi: Gyan Publishing House].
+Bodding, Paul O. 1929a. A Santali Grammar for Beginners. Benagaria: Santal Mission of the Northern Churches.
+Bodding, Paul O. 1929b. Materials for a Santali Grammar II (mostly morphological). Dumka: Santal Mission of the Northern Churches.
+Bodding, Paul O. 1929-36. A Santali Dictionary. Oslo: Dybwad.
+Davies, William D. 1986. Choctaw Verb Agreement and Universal Grammar. Dordrecht: Reidel.
+Draye, Luc. 1996. "The German dative." In William Van Belle and Willy Van Langendonck, eds. The dative pp. 155-215. Amsterdam: Benjamins.
+Ebert, Karen H. 1994. The Structure of Kiranti Languages. Comparative Grammar and Texts. Zürich: Universität.
+Ghosh, Arun. 1994. Santali - A Look into Santal Morphology. New Delhi: Gyan Publishing House.
+McPhail, R. M. 1957. An Introduction to Santali, Parts 1 & 2. Calcutta: KLM Private Limited.
+Michailovsky, Boyd. 1988. La Langue Hayu (Nepal). Paris: CNRS.
+Pinnow, H.-J. 1966. "A comparative study of the verb in the Munda languages." In Norman H. Zide, ed. SCAL pp. 96-193. The Hague: Mouton.
+Salas, Adalberto. 1992. El mapuche o araucano. Madrid: Editorial Mapfre.
+Skrefsrud, L. O. 1873. A Grammar of the Santhal Language. Benares: Medical Hall Press.
+
+Received: 20 October 1998
+
+Department of General Linguistics
+University of Zurich
+Plattenstr. 54, 8032 Zürich
+Switzerland
+<neukom@spw.unizh.ch>

@@ -1,0 +1,742 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" AUTHOR="" DATE="2026-04-25T00:00:00+00:00" FORMAT="3.0" VERSION="3.0" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:santali-matthew-glossed</PROPERTY>
+        <PROPERTY NAME="CORPUS">Santali Matthew Text Glossed Data</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <!-- Sentence 1: Jisu do dok'ic Babancaoic' kanae -->
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="0"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="2000"/>
+        <!-- Sentence 2: uni do serma raj reak' kangea -->
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="2200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="4200"/>
+        <!-- Sentence 3: noa Hukigot do eken Jehudi hor ko lagit' do ban kana -->
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="4400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="6400"/>
+        <!-- Sentence 4: uni do jione khemao let -->
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="6600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="8600"/>
+        <!-- Sentence 5: Soetan do uniye bagiadea -->
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="8800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="10800"/>
+        <!-- Sentence 6: dutko hec'kateko sap'soradea -->
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="11000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="13000"/>
+        <!-- Sentence 7: Jisu do Galil khon Jordante Johan thene hec'ena -->
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="13200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="15200"/>
+        <!-- Sentence 8: uni doe tana manakadea -->
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="15400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="17400"/>
+        <!-- Sentence 9: gota dhorom puk'rau lek kantalana -->
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="17600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="19600"/>
+        <!-- Sentence 10: serma do jhic'ena -->
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="19800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="21800"/>
+        <!-- Sentence 11: Nuige ihren dularia hopon do -->
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="22000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="24000"/>
+        <!-- Sentence 12: mon acurtape ente serma raj do sorakana -->
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="24200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="26200"/>
+        <!-- Sentence 13: Dela in tayomte ado manwa sasap keotaN hoe ocobena -->
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="26400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="28400"/>
+        <!-- Sentence 14: unkin do satmente jalko bagiat'tekin paNjakedea -->
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="28600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="30600"/>
+        <!-- Sentence 15: Jisu gota Galil disom dara darateye cetakokan -->
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="30800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="32800"/>
+        <!-- Sentence 16: disom horko talare sanam lekan rog bighin -->
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="33000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="35000"/>
+        <!-- Sentence 17: Monre renadejok'kankodeko bhagana -->
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="35200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="37200"/>
+        <!-- Sentence 18: Hirdauk'kankogeko bhagana -->
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="37400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="39400"/>
+        <!-- Sentence 19: Mahrkogeko bhagana ente onko do pirthimiko aidarijona -->
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="39600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="41600"/>
+        <!-- Sentence 20: Maya kankogeko bhagana ente onko doko maya ocok'a -->
+        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="41800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="43800"/>
+        <!-- Sentence 21: ape do dharti reak' bulun kanape -->
+        <TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="44000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="46000"/>
+        <!-- Sentence 22: ape do dharti reak' marsal kanape -->
+        <TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="46200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="48200"/>
+        <!-- Sentence 23: Alom khuna ar jahaedeye khun uni do bicarre dayike hoyok'a -->
+        <TIME_SLOT TIME_SLOT_ID="ts45" TIME_VALUE="48400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts46" TIME_VALUE="50400"/>
+        <!-- Sentence 24: amen boehae kuruda mi ke mi hor ao bicarre dayike hoyok'a -->
+        <TIME_SLOT TIME_SLOT_ID="ts47" TIME_VALUE="50600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts48" TIME_VALUE="52600"/>
+        <!-- Sentence 25: aperen bairik audarkopeante onko doko tir pitok'a -->
+        <TIME_SLOT TIME_SLOT_ID="ts49" TIME_VALUE="52800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts50" TIME_VALUE="54800"/>
+    </TIME_ORDER>
+
+    <!-- =================== TIER: ref (utterance) =================== -->
+    <TIER LINGUISTIC_TYPE_REF="utterance" TIER_ID="ref">
+
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1" TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
+                <ANNOTATION_VALUE>Jisu do d̪ok'ic' Bɑbɑn-cɑo-ic' kɑnɑ-e</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2" TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE>uni d̪o sermɑ rɑj reɑk' kɑŋ-e-ɑ</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3" TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts6">
+                <ANNOTATION_VALUE>noɑ Hukigot d̪o eken Jehud̪i hɔr ko lɑgit' d̪o bɑn kɑnɑ</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4" TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE>uni d̪o jiɔne kʰemɑo let</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5" TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts10">
+                <ANNOTATION_VALUE>Soetɑn d̪o uni-e bɑgiɑ-d̪eɑ</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6" TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE>d̪utko hec'kɑteko sɑp'sorɑ-d̪eɑ</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7" TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts14">
+                <ANNOTATION_VALUE>Jisu d̪o Gɑlil kʰon Jord̪ɑnte Johɑn tʰene hec'enɑ</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8" TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE>uni d̪oe tɑnɑ mɑnɑkɑd̪eɑ</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9" TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts18">
+                <ANNOTATION_VALUE>ɡotɑ d̪ʰɔrɔm puk'rɑu lek kɑntɑlɑnɑ</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10" TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE>sermɑ d̪o ʤʰic'enɑ</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11" TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts22">
+                <ANNOTATION_VALUE>Nui-ge iʰren d̪ulɑriɑ hɔpɔn d̪o</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12" TIME_SLOT_REF1="ts23" TIME_SLOT_REF2="ts24">
+                <ANNOTATION_VALUE>mɔn ɑcurtɑ-pe ente sermɑ rɑj d̪o sorɑkɑnɑ</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13" TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts26">
+                <ANNOTATION_VALUE>D̪elɑ iɲ tɑyɔmte ɑd̪o mɑnwɑ sɑsɑp keotɑɲ hoe ocobena</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14" TIME_SLOT_REF1="ts27" TIME_SLOT_REF2="ts28">
+                <ANNOTATION_VALUE>unkin d̪o sɑtmente jɑlko bɑgiɑt'tekin pɑɲɑked̪eɑ</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15" TIME_SLOT_REF1="ts29" TIME_SLOT_REF2="ts30">
+                <ANNOTATION_VALUE>Jisu ɡotɑ Gɑlil d̪isom d̪ɑrɑ d̪ɑrɑte-e cetɑkokɑn</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a16" TIME_SLOT_REF1="ts31" TIME_SLOT_REF2="ts32">
+                <ANNOTATION_VALUE>d̪isom hɔrko tɑlɑre sɑnɑm lekɑn rɔɡ biɡʰin</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a17" TIME_SLOT_REF1="ts33" TIME_SLOT_REF2="ts34">
+                <ANNOTATION_VALUE>mɔnre renɑd̪ejɔk'kɑnkod̪eko bʰɑɡɑnɑ</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a18" TIME_SLOT_REF1="ts35" TIME_SLOT_REF2="ts36">
+                <ANNOTATION_VALUE>hird̪ɑuk'kɑnkod̪eko bʰɑɡɑnɑ</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a19" TIME_SLOT_REF1="ts37" TIME_SLOT_REF2="ts38">
+                <ANNOTATION_VALUE>mɑhrkod̪eko bʰɑɡɑnɑ ente onko d̪o piɾtʰimi-ko ɑid̪ɑrijɔnɑ</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a20" TIME_SLOT_REF1="ts39" TIME_SLOT_REF2="ts40">
+                <ANNOTATION_VALUE>mɑyɑk'kod̪eko bʰɑɡɑnɑ ente onko d̪oko mɑyɑ ocok'ɑ</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a21" TIME_SLOT_REF1="ts41" TIME_SLOT_REF2="ts42">
+                <ANNOTATION_VALUE>ɑpe d̪o d̪ʰɑrti reɑk' bulun kɑnɑ-pe</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a22" TIME_SLOT_REF1="ts43" TIME_SLOT_REF2="ts44">
+                <ANNOTATION_VALUE>ɑpe d̪o d̪ʰɑrti reɑk' mɑrsɑl kɑnɑ-pe</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a23" TIME_SLOT_REF1="ts45" TIME_SLOT_REF2="ts46">
+                <ANNOTATION_VALUE>ɑlom kʰunɑ ɑr jɑhɑede-e kʰun uni d̪o bicɑrre d̪ɑyike hoyok'ɑ</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a24" TIME_SLOT_REF1="ts47" TIME_SLOT_REF2="ts48">
+                <ANNOTATION_VALUE>ɑcren boeʰɑ-e kurud̪ɑ-e mi ke mi hɔr ɑo bicɑrre d̪ɑyike hoyok'ɑ</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a25" TIME_SLOT_REF1="ts49" TIME_SLOT_REF2="ts50">
+                <ANNOTATION_VALUE>ɑperen bɑiri-ko ɑud̪ɑrkope ente onko d̪oko tir pitok'ɑ</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+
+    </TIER>
+
+    <!-- =================== TIER: mb (morpheme break) =================== -->
+    <TIER LINGUISTIC_TYPE_REF="morpheme" PARENT_REF="ref" TIER_ID="mb">
+
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a101" ANNOTATION_REF="a1">
+                <ANNOTATION_VALUE>Jisu d̪o d̪ok'-ic' Bɑbɑn-cɑo-ic' kɑnɑ-e</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a102" ANNOTATION_REF="a2">
+                <ANNOTATION_VALUE>uni d̪o sermɑ rɑj reɑk' kɑŋ-e-ɑ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a103" ANNOTATION_REF="a3">
+                <ANNOTATION_VALUE>noɑ Hukigot d̪o eken Jehud̪i hɔr ko lɑgit' d̪o bɑ-n kɑnɑ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a104" ANNOTATION_REF="a4">
+                <ANNOTATION_VALUE>uni d̪o jiɔn-e kʰemɑo-let</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a105" ANNOTATION_REF="a5">
+                <ANNOTATION_VALUE>Soetɑn d̪o uni-e bɑgiɑ-d̪eɑ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a106" ANNOTATION_REF="a6">
+                <ANNOTATION_VALUE>d̪ut-ko hec'-kɑte-ko sɑp'sorɑ-d̪eɑ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a107" ANNOTATION_REF="a7">
+                <ANNOTATION_VALUE>Jisu d̪o Gɑlil kʰon Jord̪ɑn-te Johɑn tʰen-e hec'-enɑ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a108" ANNOTATION_REF="a8">
+                <ANNOTATION_VALUE>uni d̪o-e tɑnɑ mɑnɑkɑ-d̪eɑ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a109" ANNOTATION_REF="a9">
+                <ANNOTATION_VALUE>ɡotɑ d̪ʰɔrɔm puk'rɑu lek kɑn-tɑlɑnɑ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a110" ANNOTATION_REF="a10">
+                <ANNOTATION_VALUE>sermɑ d̪o ʤʰic'-enɑ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a111" ANNOTATION_REF="a11">
+                <ANNOTATION_VALUE>Nui-ge iʰ-ren d̪ulɑriɑ hɔpɔn d̪o</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a112" ANNOTATION_REF="a12">
+                <ANNOTATION_VALUE>mɔn ɑcur-tɑ-pe ente sermɑ rɑj d̪o sorɑ-kɑnɑ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a113" ANNOTATION_REF="a13">
+                <ANNOTATION_VALUE>D̪elɑ iɲ tɑyɔm-te ɑd̪o mɑnwɑ sɑsɑp keotɑ-ɲ hoe ocobenɑ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a114" ANNOTATION_REF="a14">
+                <ANNOTATION_VALUE>un-kin d̪o sɑtmen-te jɑl-ko bɑgiɑt'-te-kin pɑɲɑke-d̪eɑ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a115" ANNOTATION_REF="a15">
+                <ANNOTATION_VALUE>Jisu ɡotɑ Gɑlil d̪isom d̪ɑrɑ d̪ɑrɑ-te-e cetɑko-kɑn</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a116" ANNOTATION_REF="a16">
+                <ANNOTATION_VALUE>d̪isom hɔr-ko tɑlɑ-re sɑnɑm lekɑn rɔɡ biɡʰin</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a117" ANNOTATION_REF="a17">
+                <ANNOTATION_VALUE>mɔn-re renɑ-d̪e-jɔk'-kɑn-ko-d̪e-ko bʰɑɡɑ-nɑ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a118" ANNOTATION_REF="a18">
+                <ANNOTATION_VALUE>hird̪ɑuk'-kɑn-ko-d̪e-ko bʰɑɡɑ-nɑ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a119" ANNOTATION_REF="a19">
+                <ANNOTATION_VALUE>mɑhr-ko-d̪e-ko bʰɑɡɑ-nɑ ente on-ko d̪o piɾtʰimi-ko ɑid̪ɑri-jonɑ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a120" ANNOTATION_REF="a20">
+                <ANNOTATION_VALUE>mɑyɑk'-ko-d̪e-ko bʰɑɡɑ-nɑ ente on-ko d̪o-ko mɑyɑ ocok'-ɑ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a121" ANNOTATION_REF="a21">
+                <ANNOTATION_VALUE>ɑpe d̪o d̪ʰɑrti reɑk' bulun kɑnɑ-pe</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a122" ANNOTATION_REF="a22">
+                <ANNOTATION_VALUE>ɑpe d̪o d̪ʰɑrti reɑk' mɑrsɑl kɑnɑ-pe</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a123" ANNOTATION_REF="a23">
+                <ANNOTATION_VALUE>ɑlom kʰunɑ ɑr jɑhɑe-d̪e-e kʰun uni d̪o bicɑr-re d̪ɑyike hoyok'-ɑ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a124" ANNOTATION_REF="a24">
+                <ANNOTATION_VALUE>ɑc-ren boeʰɑ-e kurud̪ɑ-e mi ke mi hɔr ɑo bicɑr-re d̪ɑyike hoyok'-ɑ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a125" ANNOTATION_REF="a25">
+                <ANNOTATION_VALUE>ɑpe-ren bɑiri-ko ɑud̪ɑr-ko-pe ente on-ko d̪o-ko tir pitok'-ɑ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+    </TIER>
+
+    <!-- =================== TIER: gl (gloss) =================== -->
+    <TIER LINGUISTIC_TYPE_REF="gloss" PARENT_REF="mb" TIER_ID="gl">
+
+        <!-- a1: Jisu do d̪ok'ic' Baban-cao-ic' kana-e -->
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a201" ANNOTATION_REF="a101">
+                <ANNOTATION_VALUE>Jesus TOP Baptize-TR Baptist COP-FIN-3SG:SUBJ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <!-- a2: uni d̪o sermɑ rɑj reɑk' kɑŋ-e-ɑ -->
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a202" ANNOTATION_REF="a102">
+                <ANNOTATION_VALUE>3SG TOP Heaven Kingdom GEN Belong-3SG:SUBJ-FIN</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <!-- a3: noɑ Hukigot d̪o eken Jehud̪i hɔr ko lɑgit' d̪o bɑ-n kɑnɑ -->
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a203" ANNOTATION_REF="a103">
+                <ANNOTATION_VALUE>This Gospel TOP Only Jewish People PL For TOP NEG-1SG COP-FIN</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <!-- a4: uni d̪o jiɔne kʰemɑo-let -->
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a204" ANNOTATION_REF="a104">
+                <ANNOTATION_VALUE>3SG TOP World-OBJ Save-PLUP:FIN</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <!-- a5: Soetɑn d̪o uni-e bɑgiɑ-d̪eɑ -->
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a205" ANNOTATION_REF="a105">
+                <ANNOTATION_VALUE>Satan TOP 3SG-3SG:SUBJ Tempt-REM:PST:FIN</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <!-- a6: d̪ut-ko hec'kɑte-ko sɑp'sorɑ-d̪eɑ -->
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a206" ANNOTATION_REF="a106">
+                <ANNOTATION_VALUE>Angels-PL Come-CVB-PL Serve-REM:PST:FIN</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <!-- a7: Jisu d̪o Gɑlil kʰon Jord̪ɑn-te Johɑn tʰen-e hec'-enɑ -->
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a207" ANNOTATION_REF="a107">
+                <ANNOTATION_VALUE>Jesus TOP Galilee ABL Jordan-LOC John TO-3SG:SUBJ Come-PLUP:FIN</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <!-- a8: uni d̪o-e tɑnɑ mɑnɑkɑ-d̪eɑ -->
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a208" ANNOTATION_REF="a108">
+                <ANNOTATION_VALUE>3SG TOP-3SG:SUBJ Refuse Deny-REM:PST:FIN</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <!-- a9: ɡotɑ d̪ʰɔrɔm puk'rɑu lek kɑn-tɑlɑnɑ -->
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a209" ANNOTATION_REF="a109">
+                <ANNOTATION_VALUE>All Righteousness Fulfil QUOT COP-1PL:SUBJ-FIN</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <!-- a10: sermɑ d̪o ʤʰic'-enɑ -->
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a210" ANNOTATION_REF="a110">
+                <ANNOTATION_VALUE>Sky TOP Open-PLUP:FIN</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <!-- a11: Nui-ge iʰ-ren d̪ulɑriɑ hɔpɔn d̪o -->
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a211" ANNOTATION_REF="a111">
+                <ANNOTATION_VALUE>3SG.PROX-EMPH 1SG-GEN Beloved Son TOP</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <!-- a12: mɔn ɑcur-tɑ-pe ente sermɑ rɑj d̪o sorɑ-kɑnɑ -->
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a212" ANNOTATION_REF="a112">
+                <ANNOTATION_VALUE>Mind Repent-IMP-2PL:SUBJ Because Heaven Kingdom TOP Near-COP:FIN</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <!-- a13: D̪elɑ iɲ tɑyɔm-te ɑd̪o mɑnwɑ sɑsɑp keotɑ-ɲ hoe ocobenɑ -->
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a213" ANNOTATION_REF="a113">
+                <ANNOTATION_VALUE>Come 1SG After-LOC THEN Person Catch Fisher-1SG:SUBJ Become Make:FIN</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <!-- a14: un-kin d̪o sɑtmen-te jɑl-ko bɑgiɑt'-te-kin pɑɲɑke-d̪eɑ -->
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a214" ANNOTATION_REF="a114">
+                <ANNOTATION_VALUE>3DU TOP Immediately-LOC Net-PL Leave-CVB-3DU:SUBJ Follow-REM:PST:FIN</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <!-- a15: Jisu ɡotɑ Gɑlil d̪isom d̪ɑrɑ d̪ɑrɑ-te-e cetɑko-kɑn -->
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a215" ANNOTATION_REF="a115">
+                <ANNOTATION_VALUE>Jesus All Galilee Land Wander Around-LOC-3SG:SUBJ Teach-COP-FIN</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <!-- a16: d̪isom hɔr-ko tɑlɑ-re sɑnɑm lekɑn rɔɡ biɡʰin -->
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a216" ANNOTATION_REF="a116">
+                <ANNOTATION_VALUE>Country People-PL Among-LOC All Kind Disease Illness</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <!-- a17: mɔn-re renɑ-d̪e-jɔk'-kɑn-ko-d̪e-ko bʰɑɡɑ-nɑ -->
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a217" ANNOTATION_REF="a117">
+                <ANNOTATION_VALUE>Mind-LOC Poor-EMPH-COP-PROG-3PL-EMPH-PL Blessed-FIN</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <!-- a18: hird̪ɑuk'-kɑn-ko-d̪e-ko bʰɑɡɑ-nɑ -->
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a218" ANNOTATION_REF="a118">
+                <ANNOTATION_VALUE>Grieve-PROG-3PL-EMPH-PL Blessed-FIN</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <!-- a19: mɑhr-ko-d̪e-ko bʰɑɡɑ-nɑ ente on-ko d̪o piɾtʰimi-ko ɑid̪ɑri-jonɑ -->
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a219" ANNOTATION_REF="a119">
+                <ANNOTATION_VALUE>Gentle-PL-EMPH-PL Blessed-FIN Because 3PL-PL TOP Earth-PL Inherit-3PL:FIN</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <!-- a20: mɑyɑk'-ko-d̪e-ko bʰɑɡɑ-nɑ ente on-ko d̪o-ko mɑyɑ ocok'-ɑ -->
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a220" ANNOTATION_REF="a120">
+                <ANNOTATION_VALUE>Merciful-PL-EMPH-PL Blessed-FIN Because 3PL-PL TOP-PL Mercy Receive-FIN</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <!-- a21: ɑpe d̪o d̪ʰɑrti reɑk' bulun kɑnɑ-pe -->
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a221" ANNOTATION_REF="a121">
+                <ANNOTATION_VALUE>2PL TOP Earth GEN Salt COP-2PL:SUBJ-FIN</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <!-- a22: ɑpe d̪o d̪ʰɑrti reɑk' mɑrsɑl kɑnɑ-pe -->
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a222" ANNOTATION_REF="a122">
+                <ANNOTATION_VALUE>2PL TOP Earth GEN Light COP-2PL:SUBJ-FIN</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <!-- a23: ɑlom kʰunɑ ɑr jɑhɑe-d̪e-e kʰun uni d̪o bicɑr-re d̪ɑyike hoyok'-ɑ -->
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a223" ANNOTATION_REF="a123">
+                <ANNOTATION_VALUE>PROHIB Kill And Whoever-EMPH-3SG:SUBJ Kill 3SG TOP Court-LOC Liable Become-FIN</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <!-- a24: ɑc-ren boeʰɑ-e kurud̪ɑ-e mi ke mi hɔr ɑo bicɑr-re d̪ɑyike hoyok'-ɑ -->
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a224" ANNOTATION_REF="a124">
+                <ANNOTATION_VALUE>1SG-GEN Brother-3SG:SUBJ Angry-3SG:SUBJ One-CLFR One Man VOC Court-LOC Liable Become-FIN</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <!-- a25: ɑpe-ren bɑiri-ko ɑud̪ɑr-ko-pe ente on-ko d̪o-ko tir pitok'-ɑ -->
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a225" ANNOTATION_REF="a125">
+                <ANNOTATION_VALUE>2PL-GEN Enemy-PL Love-PL-2PL:SUBJ Because 3PL-PL TOP-PL Satisfy Become-FIN</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+    </TIER>
+
+    <!-- =================== TIER: ft (free translation) =================== -->
+    <TIER LINGUISTIC_TYPE_REF="translation" PARENT_REF="ref" TIER_ID="ft">
+
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a301" ANNOTATION_REF="a1">
+                <ANNOTATION_VALUE>Jesus is the one called the Baptist.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a302" ANNOTATION_REF="a2">
+                <ANNOTATION_VALUE>The Kingdom of Heaven belongs to him.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a303" ANNOTATION_REF="a3">
+                <ANNOTATION_VALUE>This Good News is not only for the Jewish people.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a304" ANNOTATION_REF="a4">
+                <ANNOTATION_VALUE>He had come to save the world.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a305" ANNOTATION_REF="a5">
+                <ANNOTATION_VALUE>Satan tempted him.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a306" ANNOTATION_REF="a6">
+                <ANNOTATION_VALUE>Angels came and served him.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a307" ANNOTATION_REF="a7">
+                <ANNOTATION_VALUE>Jesus came from Galilee to the Jordan to John.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a308" ANNOTATION_REF="a8">
+                <ANNOTATION_VALUE>John tried to prevent him.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a309" ANNOTATION_REF="a9">
+                <ANNOTATION_VALUE>We must fulfil all righteousness.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a310" ANNOTATION_REF="a10">
+                <ANNOTATION_VALUE>The heavens were opened.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a311" ANNOTATION_REF="a11">
+                <ANNOTATION_VALUE>This is my beloved Son.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a312" ANNOTATION_REF="a12">
+                <ANNOTATION_VALUE>Repent, for the Kingdom of Heaven is near.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a313" ANNOTATION_REF="a13">
+                <ANNOTATION_VALUE>Come follow me and I will make you fishers of men.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a314" ANNOTATION_REF="a14">
+                <ANNOTATION_VALUE>The two of them immediately left the nets and followed him.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a315" ANNOTATION_REF="a15">
+                <ANNOTATION_VALUE>Jesus went around the whole of Galilee teaching.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a316" ANNOTATION_REF="a16">
+                <ANNOTATION_VALUE>All kinds of disease and illness among the people of the land.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a317" ANNOTATION_REF="a17">
+                <ANNOTATION_VALUE>Blessed are the poor in spirit.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a318" ANNOTATION_REF="a18">
+                <ANNOTATION_VALUE>Blessed are those who mourn.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a319" ANNOTATION_REF="a19">
+                <ANNOTATION_VALUE>Blessed are the meek, for they shall inherit the earth.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a320" ANNOTATION_REF="a20">
+                <ANNOTATION_VALUE>Blessed are the merciful, for they shall obtain mercy.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a321" ANNOTATION_REF="a21">
+                <ANNOTATION_VALUE>You are the salt of the earth.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a322" ANNOTATION_REF="a22">
+                <ANNOTATION_VALUE>You are the light of the world.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a323" ANNOTATION_REF="a23">
+                <ANNOTATION_VALUE>Do not kill, and whoever kills will be liable to judgment.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a324" ANNOTATION_REF="a24">
+                <ANNOTATION_VALUE>Whoever is angry with his brother will be liable to the court.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a325" ANNOTATION_REF="a25">
+                <ANNOTATION_VALUE>Love your enemies, that they may be satisfied.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+
+    </TIER>
+
+    <!-- =================== Linguistic Types =================== -->
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="utterance" TIME_ALIGNABLE="true" CONSTRAINTS="TIME_ALIGNABLE"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="morpheme" TIME_ALIGNABLE="false" CONSTRAINTS="INCLUDED_IN"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="gloss" TIME_ALIGNABLE="false" CONSTRAINTS="SYMBOLIC_ASSOCIATION"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="translation" TIME_ALIGNABLE="false" CONSTRAINTS="INCLUDED_IN"/>
+
+    <!-- =================== Constraints =================== -->
+    <CONSTRAINT DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations referring to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+
+</ANNOTATION_DOCUMENT>

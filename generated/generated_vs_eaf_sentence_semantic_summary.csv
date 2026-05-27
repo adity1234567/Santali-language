@@ -1,0 +1,15 @@
+﻿metric,value,status,detail
+generated_rows,40000,PASS,Generated rows tested.
+eaf_ground_truth_rows,1866,PASS,EAF utterance rows used as ground truth.
+mean_combined_similarity,0.3566,INFO,Mean nearest-neighbor score.
+median_combined_similarity,0.2582,INFO,Median nearest-neighbor score.
+p90_combined_similarity,0.6738,INFO,90th percentile score.
+p95_combined_similarity,0.7549,INFO,95th percentile score.
+max_combined_similarity,1.0000,INFO,Best score found.
+high_confidence_rows,7403,INFO,Rows scoring >= 0.55.
+medium_confidence_rows,10115,INFO,Rows scoring >= 0.30 and < 0.55.
+low_confidence_rows,22482,INFO,Rows scoring < 0.30.
+eaf_rows_used_as_best_match,841,INFO,Distinct EAF rows selected by at least one generated row.
+top_generated_templates,LOC_EXIST=1953; LOC_NEG_EXIST=1929; OBJECT_VERB_NEG=1913; ADV_VERB=1912; ADJ_NOUN=1909; PLACE_VERB=1893; NUM_NOUN_EXIST=1883; OBJECT_VERB=1833,INFO,Template distribution in generated data.
+top_high_confidence_templates,LOC_NEG_EXIST=1010; LOC_EXIST=498; NUM_NOUN_EXIST=456; SUBJ_ADJ=429; PLACE_VERB=427; ADV_VERB=407; SUBJ_NEG_ADJ=407; ADJ_NOUN=368,INFO,Templates most often close to EAF ground truth.
+sentence_ground_truth_filter,1866 of 2709 EAF rows kept,INFO,Excluded lexicon files and one-word lexical-style glosses.

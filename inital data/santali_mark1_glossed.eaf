@@ -1,0 +1,773 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" AUTHOR="" DATE="2026-04-27T00:00:00+00:00" FORMAT="3.0" VERSION="3.0" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:santali-mark1-glossed</PROPERTY>
+        <PROPERTY NAME="CORPUS">Santali Mark 1 Glossed Data</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="0"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="2000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="2200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="4200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="4400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="6400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="6600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="8600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="8800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="10800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="11000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="13000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="13200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="15200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="15400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="17400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="17600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="19600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="19800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="21800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="22000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="24000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="24200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="26200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="26400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="28400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="28600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="30600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="30800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="32800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="33000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="35000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="35200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="37200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="37400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="39400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="39600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="41600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="41800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="43800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="44000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="46000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="46200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="48200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts45" TIME_VALUE="48400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts46" TIME_VALUE="50400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts47" TIME_VALUE="50600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts48" TIME_VALUE="52600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts49" TIME_VALUE="52800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts50" TIME_VALUE="54800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts51" TIME_VALUE="55000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts52" TIME_VALUE="57000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts53" TIME_VALUE="57200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts54" TIME_VALUE="59200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts55" TIME_VALUE="59400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts56" TIME_VALUE="61400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts57" TIME_VALUE="61600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts58" TIME_VALUE="63600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts59" TIME_VALUE="63800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts60" TIME_VALUE="65800"/>
+        <TIME_SLOT TIME_SLOT_ID="ts61" TIME_VALUE="66000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts62" TIME_VALUE="68000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts63" TIME_VALUE="68200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts64" TIME_VALUE="70200"/>
+        <TIME_SLOT TIME_SLOT_ID="ts65" TIME_VALUE="70400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts66" TIME_VALUE="72400"/>
+        <TIME_SLOT TIME_SLOT_ID="ts67" TIME_VALUE="72600"/>
+        <TIME_SLOT TIME_SLOT_ID="ts68" TIME_VALUE="74600"/>
+    </TIME_ORDER>
+    <TIER LINGUISTIC_TYPE_REF="utterance" TIER_ID="ref">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1" TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
+                <ANNOTATION_VALUE>isɔr-ren hɔpɔn ɟisu mɑsiɑkʔ bʱɑge sɔmbɑt rekʔ etɔhɔpʔ</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2" TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE>ɟesɑe nɑbi-ɡe sɔmpuθire olɑkɑn lekɑ</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3" TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts6">
+                <ANNOTATION_VALUE>ɲelme iɲren ɑwɑt lɑhɑten kole kɑnɑ uni dɔ ɑmɑkʔ hɔre terɑ</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4" TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE>hɑhɑnkɑrre mitʔten hɔkʔhɔkɑnic rekʔ ɑrɑn</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5" TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts10">
+                <ANNOTATION_VALUE>prɔbʱuɑkʔ hɔr terkɑtɑepe uniɑkʔ suruc hɔrkɔ sɔɟʰe kɑtɑepe</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6" TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE>ɟɔhɑn bɑbɑptisicʔ dɔ hɑhɑnkɑrre mɔnɑcur rekʔ bɑptismɑ pɔrcɑrkɑne hecʔenɑ</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7" TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts14">
+                <ANNOTATION_VALUE>ɑdɔ ɡɔtɑ ɟihudɑ isɔm ɑr ɟerusɑlemren ɟɔtɔ uni θenkɔ ɔdɔkʔ cɑlɑkʔkɑnkɔ tɑhekɑnɑ</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8" TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE>ɑr ɑkɔɑkʔ kɑi ɑŋɔcʔkɑte uni tite ɟɔrdɑn ɡɑdɑrekɔ bɑptisɔkʔkɑn tɑhekɑnɑ</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9" TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts18">
+                <ANNOTATION_VALUE>ɟɔhɑn dɔ utʔ upʔ rekʔteye ɑŋrɔpɑkɑn tɑhekɑnɑ</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10" TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE>ɑr dɑndɑre dɔ hɑrtɑ rekʔ pɑθekʔɑkʔ tɑhekɑntɑeɑ ɑr pɔhɔ ɑr bir dumur rɑsɑe ɟɔmetʔ tɑhekɑnɑ</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11" TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts22">
+                <ANNOTATION_VALUE>ɑ nɔnkɑe pɔrcɑrkɑnɑ iɲ khɔn dɑreɑnic iɲ tɑyɔmte dɑrɑekɑnɑ</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12" TIME_SLOT_REF1="ts23" TIME_SLOT_REF2="ts24">
+                <ANNOTATION_VALUE>uniɑkʔ khɑrpɑ rekʔ tɔnɔl hɔ eŋɔtʔkɑte rɑrɑetɑe lek dɔn bɑn kɑn</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13" TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts26">
+                <ANNOTATION_VALUE>iɲ dɔ dɑkʔten bɑptiskepteɑ uni dɔ sɔnɔt ɟiute bɑptispeɑ</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14" TIME_SLOT_REF1="ts27" TIME_SLOT_REF2="ts28">
+                <ANNOTATION_VALUE>ɔnɑkɔ dinre nɔnkɑ hɔyenɑ ɟisu dɔ ɡɑlil rekʔ nɑsɑret khɔne hecʔenɑ</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15" TIME_SLOT_REF1="ts29" TIME_SLOT_REF2="ts30">
+                <ANNOTATION_VALUE>ɑr ɟɔrdɑnre ɟɔhɑn titeye bɑptisɑenɑ</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a16" TIME_SLOT_REF1="ts31" TIME_SLOT_REF2="ts32">
+                <ANNOTATION_VALUE>ɑr dɑkʔ khɔne rɑkɑpʔen tɔrɑɡe sermɑ ɔreɟɔkʔkɑne nɛlkɑdɑ</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a17" TIME_SLOT_REF1="ts33" TIME_SLOT_REF2="ts34">
+                <ANNOTATION_VALUE>ɑr ɟiu dɔ mitʔten pɔtɑm lekɑ ɑcre ɑrɡɔnkɑne ɲelkɑdɑ</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a18" TIME_SLOT_REF1="ts35" TIME_SLOT_REF2="ts36">
+                <ANNOTATION_VALUE>ɑr sermɑ khɔn ɑrɑn hɔyenɑ ɑm dɔ iɲren dulɑriɑ hɔpɔn kɑnɑm ɑrɑŋren kusiɑkɑnɑ</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a19" TIME_SLOT_REF1="ts37" TIME_SLOT_REF2="ts38">
+                <ANNOTATION_VALUE>khɑn ɟiu ɑɔ hɑhɑnkɑrte cʰɑtɑ idikedɑ</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a20" TIME_SLOT_REF1="ts39" TIME_SLOT_REF2="ts40">
+                <ANNOTATION_VALUE>ɑr hɑhɑnkɑrre dɔ pɔn ɡel mɑhɑe tɑhekɑnɑ sɔetɑn θen bidɑu ɔcɔkʔkɑn</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a21" TIME_SLOT_REF1="ts41" TIME_SLOT_REF2="ts42">
+                <ANNOTATION_VALUE>ɑr bir ɟɑnwɑrkɔ sɑɔteye tɑhekɑnɑ ɑr dutkɔ sɑpʔsɔrɑekɑn tɑhekɑnɑ</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a22" TIME_SLOT_REF1="ts43" TIME_SLOT_REF2="ts44">
+                <ANNOTATION_VALUE>ɑdɔ ɟɔhɑne sɔprɔt ɔcɔyen tɑyɔm ɟisu dɔ ɡɑlilteye hecʔenɑ</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a23" TIME_SLOT_REF1="ts45" TIME_SLOT_REF2="ts46">
+                <ANNOTATION_VALUE>ɑr isɔrɑkʔ bʱɑɡe sɔmbɑte pɔrcɑretʔ tɑhekɑnɑ</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a24" TIME_SLOT_REF1="ts47" TIME_SLOT_REF2="ts48">
+                <ANNOTATION_VALUE>ɔkte ɑɔ purɑuɑkɑnɑ ɑr isɔrɑkʔ rɑɟ dɔ sɔrɑkʔkɑnɑ mɔn ɑcurɑpe ɑr bʱɑɡe sɔmbɑtre pɑtɑukʔpe</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a25" TIME_SLOT_REF1="ts49" TIME_SLOT_REF2="ts50">
+                <ANNOTATION_VALUE>khɑn ɡɑlil ɑɔreɑɔ ɑre ɑreisiye cɑlɑɔ pɑrɔmɔkʔkɑn tɑhekɑnɡe</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a26" TIME_SLOT_REF1="ts51" TIME_SLOT_REF2="ts52">
+                <ANNOTATION_VALUE>simɔn ɑr simɔnren bɔehɑ ɑndreɑsʔtekin ɟɔreɡɔre hɑnde nhɑnde ɟɑl cɑkʔpɑkʔkɑne nɛl nɑmkekɑtinɑ</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a27" TIME_SLOT_REF1="ts53" TIME_SLOT_REF2="ts54">
+                <ANNOTATION_VALUE>ɑdɔ ɟisu unkine metɑtkɑtinɑ delɑ iɲ tɑyɔmte ɑdɔ mɑnwɑ sɑsɑpʔ keotɑn hɔe ɔcɔbenɑ</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a28" TIME_SLOT_REF1="ts55" TIME_SLOT_REF2="ts56">
+                <ANNOTATION_VALUE>khɑn inɑ tɑptɑɡe ɟɑlkɔ bɑɡiɑtʔtekin pɑnɟɑkedɑe</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a29" TIME_SLOT_REF1="ts57" TIME_SLOT_REF2="ts58">
+                <ANNOTATION_VALUE>ɑre sen lɑhɑ nɔkʔen khɑn sɑbdɑeɾen hɔpɔn ɟɑkɔb ɑr uniren bɔehɑ ɟɔhɑne nɛl nɑmkekɑtinɑ</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a30" TIME_SLOT_REF1="ts59" TIME_SLOT_REF2="ts60">
+                <ANNOTATION_VALUE>unkin hɔ lɑukɑre ɟɑlkɔkin ɟuɟutkɑn tɑhekɑnɑ</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a31" TIME_SLOT_REF1="ts61" TIME_SLOT_REF2="ts62">
+                <ANNOTATION_VALUE>ɑr unreɡeye hɔhɔɑtʔkɑtinɑ khɑnɡe ɑkinren ɑpɑt sɑbdɑe dɔ lɑukɑre muniskɔ tulucʔkin bɑɡi ɔtɔɑdɑ</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a32" TIME_SLOT_REF1="ts63" TIME_SLOT_REF2="ts64">
+                <ANNOTATION_VALUE>ɑr kɑpʰɑrnɑhumtekɔ seterɑenɑ</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a33" TIME_SLOT_REF1="ts65" TIME_SLOT_REF2="ts66">
+                <ANNOTATION_VALUE>ɑr pɑhil ɟirɑukʔ mɑhɑ hilɔkʔde sunɑɡɔɡre bɔlɔyentiye cetʔɑtʔkɔɑ</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a34" TIME_SLOT_REF1="ts67" TIME_SLOT_REF2="ts68">
+                <ANNOTATION_VALUE>ɑr uriɑkʔ cetʔɑtʔɑkʔtekɔ bʱɑrɔyenɑ ente ekotɑriɑnic lekɑe cetʔɑtʔkɔɑ</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="morpheme" PARENT_REF="ref" TIER_ID="mb">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a35" ANNOTATION_REF="a1">
+                <ANNOTATION_VALUE>isɔr-ren hɔpɔn ɟisu mɑsi-ɑkʔ bʱɑge sɔmbɑt re-kʔ etɔ-hɔpʔ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a36" ANNOTATION_REF="a2">
+                <ANNOTATION_VALUE>ɟesɑe nɑbi-ɡe sɔmpuθi-re olɑ-kɑn lekɑ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a37" ANNOTATION_REF="a3">
+                <ANNOTATION_VALUE>ɲel-me iɲ-ren ɑwɑt lɑhɑ-ten kole kɑn-ɑ uni dɔ ɑm-ɑkʔ hɔr-e terɑ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a38" ANNOTATION_REF="a4">
+                <ANNOTATION_VALUE>hɑhɑn-kɑr-re mitʔ-ten hɔkʔhɔ-kɑ-nic rekʔ ɑrɑn</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a39" ANNOTATION_REF="a5">
+                <ANNOTATION_VALUE>prɔbʱu-ɑkʔ hɔr ter-kɑtɑe-pe uni-ɑkʔ suruc hɔr-kɔ sɔɟʰe kɑtɑe-pe</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a40" ANNOTATION_REF="a6">
+                <ANNOTATION_VALUE>ɟɔhɑn bɑbɑptisicʔ dɔ hɑhɑn-kɑr-re mɔnɑ-cur rekʔ bɑptismɑ pɔrcɑr-kɑne hecʔ-enɑ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a41" ANNOTATION_REF="a7">
+                <ANNOTATION_VALUE>ɑdɔ ɡɔtɑ ɟihudɑ isɔm ɑr ɟerusɑlem-ren ɟɔtɔ uni θen-kɔ ɔdɔkʔ cɑlɑkʔ-kɑn-kɔ tɑhekɑnɑ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a42" ANNOTATION_REF="a8">
+                <ANNOTATION_VALUE>ɑr ɑk-ɔɑkʔ kɑi ɑŋɔcʔ-kɑte uni tite ɟɔrdɑn ɡɑdɑ-re-kɔ bɑptisɔkʔ-kɑn tɑhekɑnɑ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a43" ANNOTATION_REF="a9">
+                <ANNOTATION_VALUE>ɟɔhɑn dɔ utʔ-upʔ re-kʔ-te-ye ɑŋrɔp-ɑkɑn tɑhekɑnɑ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a44" ANNOTATION_REF="a10">
+                <ANNOTATION_VALUE>ɑr dɑndɑ-re dɔ hɑrtɑ re-kʔ pɑθekʔ-ɑkʔ tɑhekɑn-tɑe-ɑ ɑr pɔhɔ ɑr bir dumur rɑsɑ-e ɟɔm-etʔ tɑhekɑnɑ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a45" ANNOTATION_REF="a11">
+                <ANNOTATION_VALUE>ɑ nɔnkɑ-e pɔrcɑr-kɑnɑ iɲ khɔn dɑreɑ-nic iɲ tɑyɔm-te dɑrɑe-kɑnɑ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a46" ANNOTATION_REF="a12">
+                <ANNOTATION_VALUE>uni-ɑkʔ khɑrpɑ re-kʔ tɔnɔl hɔ eŋɔtʔ-kɑte rɑrɑe-tɑe lek dɔn bɑn kɑn</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a47" ANNOTATION_REF="a13">
+                <ANNOTATION_VALUE>iɲ dɔ dɑkʔ-ten bɑptis-kep-te-ɑ uni dɔ sɔnɔt ɟiu-te bɑptis-peɑ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a48" ANNOTATION_REF="a14">
+                <ANNOTATION_VALUE>ɔnɑ-kɔ din-re nɔnkɑ hɔy-enɑ ɟisu dɔ ɡɑlil re-kʔ nɑsɑret khɔn-e hecʔ-enɑ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a49" ANNOTATION_REF="a15">
+                <ANNOTATION_VALUE>ɑr ɟɔrdɑn-re ɟɔhɑn tite-ye bɑptisɑ-enɑ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a50" ANNOTATION_REF="a16">
+                <ANNOTATION_VALUE>ɑr dɑkʔ khɔn-e rɑkɑpʔ-en tɔrɑ-ɡe sermɑ ɔreɟɔkʔ-kɑ-ne nɛl-kɑdɑ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a51" ANNOTATION_REF="a17">
+                <ANNOTATION_VALUE>ɑr ɟiu dɔ mitʔ-ten pɔtɑm lekɑ ɑc-re ɑrɡɔn-kɑne ɲel-kɑdɑ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a52" ANNOTATION_REF="a18">
+                <ANNOTATION_VALUE>ɑr sermɑ khɔn ɑrɑn hɔy-enɑ ɑm dɔ iɲ-ren dulɑriɑ hɔpɔn kɑnɑ-m ɑrɑŋ-ren kusiɑ-kɑnɑ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a53" ANNOTATION_REF="a19">
+                <ANNOTATION_VALUE>khɑn ɟiu ɑ-ɔ hɑhɑn-kɑr-te cʰɑtɑ idi-kedɑ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a54" ANNOTATION_REF="a20">
+                <ANNOTATION_VALUE>ɑr hɑhɑn-kɑr-re dɔ pɔn ɡel mɑhɑ-e tɑhekɑnɑ sɔetɑn θen bidɑu ɔcɔkʔ-kɑn</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a55" ANNOTATION_REF="a21">
+                <ANNOTATION_VALUE>ɑr bir ɟɑnwɑr-kɔ sɑɔte-ye tɑhekɑnɑ ɑr dut-kɔ sɑpʔsɔrɑe-kɑn tɑhekɑnɑ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a56" ANNOTATION_REF="a22">
+                <ANNOTATION_VALUE>ɑdɔ ɟɔhɑn-e sɔprɔt ɔcɔ-yen tɑyɔm ɟisu dɔ ɡɑlil-te-ye hecʔ-enɑ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a57" ANNOTATION_REF="a23">
+                <ANNOTATION_VALUE>ɑr isɔr-ɑkʔ bʱɑɡe sɔmbɑt-e pɔrcɑr-etʔ tɑhekɑnɑ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a58" ANNOTATION_REF="a24">
+                <ANNOTATION_VALUE>ɔkte ɑ-ɔ purɑu-ɑkɑnɑ ɑr isɔr-ɑkʔ rɑɟ dɔ sɔrɑkʔ-kɑnɑ mɔn ɑcur-ɑ-pe ɑr bʱɑɡe sɔmbɑt-re pɑtɑukʔ-pe</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a59" ANNOTATION_REF="a25">
+                <ANNOTATION_VALUE>khɑn ɡɑlil ɑɔreɑɔ ɑre ɑrei-s-iye cɑlɑɔ pɑrɔmɔkʔ-kɑn tɑhekɑn-ɡe</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a60" ANNOTATION_REF="a26">
+                <ANNOTATION_VALUE>simɔn ɑr simɔn-ren bɔehɑ ɑndreɑsʔ-te-kin ɟɔreɡɔ-re hɑnde nhɑnde ɟɑl cɑkʔpɑkʔ-kɑne nɛl nɑmke-kɑ-tinɑ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a61" ANNOTATION_REF="a27">
+                <ANNOTATION_VALUE>ɑdɔ ɟisu unkin-e metɑt-kɑ-tinɑ delɑ iɲ tɑyɔm-te ɑdɔ mɑnwɑ sɑsɑpʔ keotɑn hɔe ɔcɔ-benɑ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a62" ANNOTATION_REF="a28">
+                <ANNOTATION_VALUE>khɑn inɑ tɑptɑ-ɡe ɟɑl-kɔ bɑɡiɑtʔ-te-kin pɑnɟɑ-kedɑ-e</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a63" ANNOTATION_REF="a29">
+                <ANNOTATION_VALUE>ɑre sen lɑhɑ nɔkʔ-en khɑn sɑbdɑe-ren hɔpɔn ɟɑkɔb ɑr uni-ren bɔehɑ ɟɔhɑn-e nɛl nɑmke-kɑ-tinɑ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a64" ANNOTATION_REF="a30">
+                <ANNOTATION_VALUE>un-kin hɔ lɑukɑ-re ɟɑl-kɔ-kin ɟuɟut-kɑn tɑhekɑnɑ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a65" ANNOTATION_REF="a31">
+                <ANNOTATION_VALUE>ɑr unre-ɡe-ye hɔhɔɑtʔ-kɑ-tinɑ khɑnɡe ɑkin-ren ɑpɑt sɑbdɑe dɔ lɑukɑ-re muni-skɔ tulucʔ-kin bɑɡi ɔtɔɑ-dɑ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a66" ANNOTATION_REF="a32">
+                <ANNOTATION_VALUE>ɑr kɑpʰɑrnɑhum-te-kɔ seter-ɑenɑ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a67" ANNOTATION_REF="a33">
+                <ANNOTATION_VALUE>ɑr pɑhil ɟirɑukʔ mɑhɑ hilɔkʔ-de sunɑɡɔɡ-re bɔlɔy-ente-ye cetʔɑtʔ-kɔɑ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a68" ANNOTATION_REF="a34">
+                <ANNOTATION_VALUE>ɑr uri-ɑkʔ cetʔɑtʔ-ɑkʔ-te-kɔ bʱɑrɔy-enɑ ente ekotɑriɑ-nic lekɑ-e cetʔɑtʔ-kɔɑ</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="gloss" PARENT_REF="mb" TIER_ID="gl">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a69" ANNOTATION_REF="a35">
+                <ANNOTATION_VALUE>God-GEN Son Jesus Christ-GEN Good News GEN-M Beginning-M</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a70" ANNOTATION_REF="a36">
+                <ANNOTATION_VALUE>Isaiah Prophet-EMPH Book-LOC Write-PST.REL Like</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a71" ANNOTATION_REF="a37">
+                <ANNOTATION_VALUE>See-IMP 1SG-GEN Messenger Before Send-PST COP-FIN 3SG TOP 2SG-GEN Path-3SG Prepare</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a72" ANNOTATION_REF="a38">
+                <ANNOTATION_VALUE>Wilderness-LOC One-CLSSFR Cry-FIN-NMLZ GEN Voice</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a73" ANNOTATION_REF="a39">
+                <ANNOTATION_VALUE>Lord-GEN Way Prepare-CVB-2PL 3SG-GEN Straight Path-3PL Make-CVB-2PL</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a74" ANNOTATION_REF="a40">
+                <ANNOTATION_VALUE>John Baptist TOP Wilderness-LOC Sin-Repent GEN Baptism Proclaim-CVB Come-PST.FIN</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a75" ANNOTATION_REF="a41">
+                <ANNOTATION_VALUE>And Whole Judea Region And Jerusalem-GEN All 3SG To-3PL Go-COP-3PL PST.COP</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a76" ANNOTATION_REF="a42">
+                <ANNOTATION_VALUE>And 3SG.REFL Sin Confess-CVB 3SG By Jordan River-LOC-3PL Baptize-PST.REL COP</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a77" ANNOTATION_REF="a43">
+                <ANNOTATION_VALUE>John TOP Camel-Hair LOC-M-INS-3SG Clothe-PST.REL COP</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a78" ANNOTATION_REF="a44">
+                <ANNOTATION_VALUE>And Waist-LOC TOP Leather LOC-M Belt-GEN COP-PST-FIN And Locust And Forest Honey-3SG Eat-PROG COP</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a79" ANNOTATION_REF="a45">
+                <ANNOTATION_VALUE>And Thus-3SG Proclaim-PROG.PST 1SG ABL Strong-NMLZ 1SG After-LOC Come-PROG.PST</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a80" ANNOTATION_REF="a46">
+                <ANNOTATION_VALUE>3SG-GEN Sandal GEN-M Strap Also Untie-CVB Worthy-PST QUOT NEG-1SG NEG COP</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a81" ANNOTATION_REF="a47">
+                <ANNOTATION_VALUE>1SG TOP Water-INS Baptize-2PL.OBJ-PST-FIN 3SG TOP Holy Spirit-INS Baptize-2PL.FIN</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a82" ANNOTATION_REF="a48">
+                <ANNOTATION_VALUE>DEM-3PL Day-LOC Thus Happen-PST.FIN Jesus TOP Galilee GEN-M Nazareth ABL-3SG Come-PST.FIN</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a83" ANNOTATION_REF="a49">
+                <ANNOTATION_VALUE>And Jordan-LOC John By-3SG Baptize-PST.FIN</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a84" ANNOTATION_REF="a50">
+                <ANNOTATION_VALUE>And Water ABL-3SG Come.up-PST Immediately-EMPH Sky Tear.open-FIN-CVB See-PST.A</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a85" ANNOTATION_REF="a51">
+                <ANNOTATION_VALUE>And Spirit TOP One-CLSSFR Dove Like 3SG-LOC Descend-CVB See-PST.A</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a86" ANNOTATION_REF="a52">
+                <ANNOTATION_VALUE>And Sky ABL Voice Happen-PST.FIN 2SG TOP 1SG-GEN Beloved Son COP-2SG 2SG.GEN-GEN Pleased-PST.FIN</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a87" ANNOTATION_REF="a53">
+                <ANNOTATION_VALUE>Then Spirit 3SG-REFL Wilderness-LOC Drive Send-PST.A</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a88" ANNOTATION_REF="a54">
+                <ANNOTATION_VALUE>And Wilderness-LOC TOP Four Ten Day-3SG COP.PST Satan To Tempt-PST.REL</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a89" ANNOTATION_REF="a55">
+                <ANNOTATION_VALUE>And Wild Animal-3PL With-3SG COP.PST And Angel-3PL Minister-PST.REL COP</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a90" ANNOTATION_REF="a56">
+                <ANNOTATION_VALUE>And John-3SG Arrest Do-PST After Jesus TOP Galilee-LOC-3SG Come-PST.FIN</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a91" ANNOTATION_REF="a57">
+                <ANNOTATION_VALUE>And God-GEN Good News-3SG Proclaim-PROG.PST COP</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a92" ANNOTATION_REF="a58">
+                <ANNOTATION_VALUE>Time 3SG.REFL Fulfill-PST And God-GEN Kingdom TOP Come-PST Repent-FIN-2PL And Good News-LOC Believe-2PL</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a93" ANNOTATION_REF="a59">
+                <ANNOTATION_VALUE>And Galilee Sea.shore Along Along-3SG Walk Pass-PST COP-EMPH</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a94" ANNOTATION_REF="a60">
+                <ANNOTATION_VALUE>Simon And Simon-GEN Brother Andrew-3SG-DUAL Sea-LOC Here There Net Cast-CVB See Find-FIN-DUAL.PST</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a95" ANNOTATION_REF="a61">
+                <ANNOTATION_VALUE>And Jesus 3SG.DUAL-3SG Tell-FIN-DUAL Come 1SG After-LOC And Human Fish Fisherman Become Make-1PL.FIN</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a96" ANNOTATION_REF="a62">
+                <ANNOTATION_VALUE>Then 3SG.DUAL Immediately-EMPH Net-3PL Abandon-CVB-DUAL Follow-PST-3SG</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a97" ANNOTATION_REF="a63">
+                <ANNOTATION_VALUE>And Go Further Little-PST Then Zebedee-GEN Son James And 3SG-GEN Brother John-3SG See Find-FIN-DUAL.PST</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a98" ANNOTATION_REF="a64">
+                <ANNOTATION_VALUE>3SG.DUAL Also Boat-LOC Net-3PL-DUAL Mend-PST.REL COP</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a99" ANNOTATION_REF="a65">
+                <ANNOTATION_VALUE>And There-EMPH-3SG Call-FIN-DUAL Immediately 3SG.DUAL-GEN Father Zebedee TOP Boat-LOC Worker-3PL With-DUAL Abandon Leave-PST</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a100" ANNOTATION_REF="a66">
+                <ANNOTATION_VALUE>And Capernaum-LOC-3PL Enter-PST.FIN</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a101" ANNOTATION_REF="a67">
+                <ANNOTATION_VALUE>And First Sabbath Day INDEF-LOC Synagogue-LOC Enter-CVB-3SG Teach-PST-3SG</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a102" ANNOTATION_REF="a68">
+                <ANNOTATION_VALUE>And 3SG-GEN Teaching-GEN-INS-3PL Astonish-PST.FIN Because Authority-NMLZ Like-3SG Teach-PST-3SG</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="translation" PARENT_REF="ref" TIER_ID="ft">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a103" ANNOTATION_REF="a1">
+                <ANNOTATION_VALUE>The beginning of the good news of Jesus Christ, the Son of God.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a104" ANNOTATION_REF="a2">
+                <ANNOTATION_VALUE>As it is written in Isaiah the prophet:</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a105" ANNOTATION_REF="a3">
+                <ANNOTATION_VALUE>Behold, I am sending my messenger ahead of you, who will prepare your way.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a106" ANNOTATION_REF="a4">
+                <ANNOTATION_VALUE>A voice of one crying in the wilderness:</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a107" ANNOTATION_REF="a5">
+                <ANNOTATION_VALUE>Prepare the way of the Lord; make his paths straight.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a108" ANNOTATION_REF="a6">
+                <ANNOTATION_VALUE>John the Baptist appeared in the wilderness, proclaiming a baptism of repentance.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a109" ANNOTATION_REF="a7">
+                <ANNOTATION_VALUE>And all the region of Judea and all Jerusalem were going out to him.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a110" ANNOTATION_REF="a8">
+                <ANNOTATION_VALUE>And confessing their sins, they were being baptized by him in the Jordan River.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a111" ANNOTATION_REF="a9">
+                <ANNOTATION_VALUE>John was clothed in camel's hair.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a112" ANNOTATION_REF="a10">
+                <ANNOTATION_VALUE>He had a leather belt around his waist and ate locusts and wild honey.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a113" ANNOTATION_REF="a11">
+                <ANNOTATION_VALUE>And he proclaimed: One who is mightier than me is coming after me.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a114" ANNOTATION_REF="a12">
+                <ANNOTATION_VALUE>I am not worthy to stoop down and untie the strap of his sandals.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a115" ANNOTATION_REF="a13">
+                <ANNOTATION_VALUE>I have baptized you with water; he will baptize you with the Holy Spirit.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a116" ANNOTATION_REF="a14">
+                <ANNOTATION_VALUE>In those days Jesus came from Nazareth of Galilee.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a117" ANNOTATION_REF="a15">
+                <ANNOTATION_VALUE>And was baptized by John in the Jordan.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a118" ANNOTATION_REF="a16">
+                <ANNOTATION_VALUE>And coming up out of the water, he immediately saw the heavens being torn open.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a119" ANNOTATION_REF="a17">
+                <ANNOTATION_VALUE>And the Spirit descending on him like a dove.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a120" ANNOTATION_REF="a18">
+                <ANNOTATION_VALUE>And a voice came from heaven: You are my beloved Son; with you I am well pleased.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a121" ANNOTATION_REF="a19">
+                <ANNOTATION_VALUE>The Spirit immediately drove him out into the wilderness.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a122" ANNOTATION_REF="a20">
+                <ANNOTATION_VALUE>And he was in the wilderness forty days, being tempted by Satan.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a123" ANNOTATION_REF="a21">
+                <ANNOTATION_VALUE>He was with the wild animals, and the angels were ministering to him.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a124" ANNOTATION_REF="a22">
+                <ANNOTATION_VALUE>After John was arrested, Jesus came to Galilee.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a125" ANNOTATION_REF="a23">
+                <ANNOTATION_VALUE>And proclaiming the good news of God.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a126" ANNOTATION_REF="a24">
+                <ANNOTATION_VALUE>The time is fulfilled and the kingdom of God has come near; repent and believe in the good news.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a127" ANNOTATION_REF="a25">
+                <ANNOTATION_VALUE>Passing alongside the Sea of Galilee,</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a128" ANNOTATION_REF="a26">
+                <ANNOTATION_VALUE>He saw Simon and Simon's brother Andrew casting a net into the sea.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a129" ANNOTATION_REF="a27">
+                <ANNOTATION_VALUE>Jesus said to them: Follow me and I will make you fish for people.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a130" ANNOTATION_REF="a28">
+                <ANNOTATION_VALUE>And immediately they left their nets and followed him.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a131" ANNOTATION_REF="a29">
+                <ANNOTATION_VALUE>Going a little farther, he saw James son of Zebedee and his brother John.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a132" ANNOTATION_REF="a30">
+                <ANNOTATION_VALUE>They were in their boat mending the nets.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a133" ANNOTATION_REF="a31">
+                <ANNOTATION_VALUE>And immediately he called them and they left their father Zebedee in the boat with the hired servants and followed him.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a134" ANNOTATION_REF="a32">
+                <ANNOTATION_VALUE>They went to Capernaum.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a135" ANNOTATION_REF="a33">
+                <ANNOTATION_VALUE>And immediately on the Sabbath he entered the synagogue and was teaching.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a136" ANNOTATION_REF="a34">
+                <ANNOTATION_VALUE>And they were astonished at his teaching, for he taught them as one who had authority.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="utterance" TIME_ALIGNABLE="true" CONSTRAINTS="TIME_ALIGNABLE"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="morpheme" TIME_ALIGNABLE="false" CONSTRAINTS="INCLUDED_IN"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="gloss" TIME_ALIGNABLE="false" CONSTRAINTS="SYMBOLIC_ASSOCIATION"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="translation" TIME_ALIGNABLE="false" CONSTRAINTS="INCLUDED_IN"/>
+    <CONSTRAINT DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations referring to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+</ANNOTATION_DOCUMENT>

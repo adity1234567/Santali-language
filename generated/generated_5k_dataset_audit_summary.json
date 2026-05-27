@@ -1,0 +1,252 @@
+[
+  {
+    "dataset": "generated_santali_5k_all_data.jsonl",
+    "physical_lines": 5000,
+    "rows_parsed": 5000,
+    "permissive_json_errors": 0,
+    "strict_json_errors": 217,
+    "strict_json_error_examples": [
+      {
+        "line": 17,
+        "error": "ValueError('invalid JSON constant NaN')"
+      },
+      {
+        "line": 37,
+        "error": "ValueError('invalid JSON constant NaN')"
+      },
+      {
+        "line": 39,
+        "error": "ValueError('invalid JSON constant NaN')"
+      },
+      {
+        "line": 73,
+        "error": "ValueError('invalid JSON constant NaN')"
+      },
+      {
+        "line": 156,
+        "error": "ValueError('invalid JSON constant NaN')"
+      }
+    ],
+    "unique_sentence_ids": 5000,
+    "duplicate_sentence_ids": 0,
+    "unique_santali_sentences": 5000,
+    "duplicate_santali_sentences": 0,
+    "confidence_counts": {
+      "medium": 4947,
+      "high": 53
+    },
+    "missing_required_counts": {
+      "sentence_id": 0,
+      "santali_sentence": 0,
+      "english_gloss": 4990,
+      "bangla_gloss": 5000,
+      "sentence_type": 5000,
+      "confidence": 0,
+      "source_eaf_file": 0,
+      "source_eaf_utterance_id": 4647,
+      "source_eaf_pattern": 0,
+      "dictionary_slots": 0,
+      "synthetic": 0,
+      "needs_native_review": 0
+    },
+    "one_token_outputs": 1330,
+    "two_or_fewer_token_outputs": 1662,
+    "english_like_santali_rows": 3226,
+    "possible_mojibake_rows": 0,
+    "valid_source_eaf_file_rows": 147,
+    "valid_source_file_utterance_rows": 147,
+    "source_pattern_verified_rows": 147,
+    "generated_sentence_found_in_cited_eaf_rows": 2,
+    "dictionary_slot_count": 5053,
+    "dictionary_slot_parse_errors": 0,
+    "dictionary_slot_blank_headwords": 0,
+    "dictionary_slot_headword_hits": 5053,
+    "top_source_files": [
+      [
+        "generated_santali_5k.csv",
+        1168
+      ],
+      [
+        "santali_synthetic_40k_sentences.csv",
+        958
+      ],
+      [
+        "generated_vs_eaf_sentence_semantic_matches.csv",
+        796
+      ],
+      [
+        "generated_vs_eaf_semantic_matches.csv",
+        785
+      ],
+      [
+        "generated_santali_large.csv",
+        518
+      ],
+      [
+        "generated_high_confidence_against_eaf.csv",
+        226
+      ],
+      [
+        "generated_high_confidence_sentence_eaf.csv",
+        171
+      ],
+      [
+        "initial_data_eaf_utterances.csv",
+        78
+      ],
+      [
+        "output_layoutA (1).csv",
+        76
+      ],
+      [
+        "output_layoutA.csv",
+        50
+      ],
+      [
+        "matthew_santali_glossed.eaf",
+        27
+      ],
+      [
+        "generated_santali_summary.csv",
+        16
+      ],
+      [
+        "santali_glossed_new_2.eaf",
+        14
+      ],
+      [
+        "lexicon(1).eaf",
+        13
+      ],
+      [
+        "santali_glossed_new_3(1).eaf",
+        10
+      ]
+    ]
+  },
+  {
+    "dataset": "generated_santali_5k.jsonl",
+    "physical_lines": 5000,
+    "rows_parsed": 5000,
+    "permissive_json_errors": 0,
+    "strict_json_errors": 4732,
+    "strict_json_error_examples": [
+      {
+        "line": 1,
+        "error": "ValueError('invalid JSON constant NaN')"
+      },
+      {
+        "line": 2,
+        "error": "ValueError('invalid JSON constant NaN')"
+      },
+      {
+        "line": 3,
+        "error": "ValueError('invalid JSON constant NaN')"
+      },
+      {
+        "line": 4,
+        "error": "ValueError('invalid JSON constant NaN')"
+      },
+      {
+        "line": 5,
+        "error": "ValueError('invalid JSON constant NaN')"
+      }
+    ],
+    "unique_sentence_ids": 5000,
+    "duplicate_sentence_ids": 0,
+    "unique_santali_sentences": 5000,
+    "duplicate_santali_sentences": 0,
+    "confidence_counts": {
+      "medium": 4669,
+      "high": 331
+    },
+    "missing_required_counts": {
+      "sentence_id": 0,
+      "santali_sentence": 0,
+      "english_gloss": 4732,
+      "bangla_gloss": 5000,
+      "sentence_type": 5000,
+      "confidence": 0,
+      "source_eaf_file": 0,
+      "source_eaf_utterance_id": 0,
+      "source_eaf_pattern": 0,
+      "dictionary_slots": 0,
+      "synthetic": 0,
+      "needs_native_review": 0
+    },
+    "one_token_outputs": 1916,
+    "two_or_fewer_token_outputs": 2627,
+    "english_like_santali_rows": 1662,
+    "possible_mojibake_rows": 0,
+    "valid_source_eaf_file_rows": 5000,
+    "valid_source_file_utterance_rows": 5000,
+    "source_pattern_verified_rows": 5000,
+    "generated_sentence_found_in_cited_eaf_rows": 1,
+    "dictionary_slot_count": 5372,
+    "dictionary_slot_parse_errors": 0,
+    "dictionary_slot_blank_headwords": 0,
+    "dictionary_slot_headword_hits": 5372,
+    "top_source_files": [
+      [
+        "matthew_santali_glossed.eaf",
+        600
+      ],
+      [
+        "lexicon.eaf",
+        335
+      ],
+      [
+        "lexicon(1).eaf",
+        329
+      ],
+      [
+        "santali_glossed_new_3.eaf",
+        318
+      ],
+      [
+        "santali_glossed_new_2.eaf",
+        316
+      ],
+      [
+        "santali_glossed_new_3(1).eaf",
+        316
+      ],
+      [
+        "santali_new_glossed.eaf",
+        314
+      ],
+      [
+        "matthew_santali_glossed_ipa.eaf",
+        268
+      ],
+      [
+        "santali_glossed_1.eaf",
+        268
+      ],
+      [
+        "santali_glossed_dialogues.eaf",
+        253
+      ],
+      [
+        "santali_dialogues_glossed.eaf",
+        218
+      ],
+      [
+        "santali_glossed_new.eaf",
+        217
+      ],
+      [
+        "santali_matthew_glossed(1).eaf",
+        200
+      ],
+      [
+        "santali_matthew_glossed.eaf",
+        199
+      ],
+      [
+        "santali_mark1_glossed.eaf",
+        133
+      ]
+    ]
+  }
+]

@@ -1,0 +1,13 @@
+﻿metric,value,status,detail
+eaf_files,30,PASS,Number of parsed .eaf files.
+eaf_utterance_rows,2709,PASS,Root utterance rows written from EAF.
+generated_rows,40000,PASS,Generated CSV row count.
+generated_unique_santali,40000,PASS,Unique generated Santali strings.
+generated_templates,25,PASS,Number of generation templates represented.
+exact_generated_matches_in_eaf,0,INFO,Exact normalized sentence matches. Low/zero is expected for synthetic expansion.
+generated_token_types,5460,INFO,Unique token types in generated Santali column.
+eaf_token_types,6254,INFO,Unique token types in EAF Santali-like tiers.
+overlapping_token_types,172,INFO,Token types shared by generated CSV and EAF source tiers.
+generated_token_type_coverage,0.0315,INFO,Shared generated token types divided by generated token types.
+largest_eaf_files_by_utterances,lexicon(1).eaf=249; lexicon.eaf=249; santali_paradigm_glossed.eaf=203; santali_glossed_3.eaf=146; santali_glossed_new_2.eaf=141; santali_with_ipa.eaf=136; santali_pasted_text.eaf=125; santali_new_glossed.eaf=111,INFO,Largest source files after flattening.
+largest_generated_templates,LOC_EXIST=1953; LOC_NEG_EXIST=1929; OBJECT_VERB_NEG=1913; ADV_VERB=1912; ADJ_NOUN=1909; PLACE_VERB=1893; NUM_NOUN_EXIST=1883; OBJECT_VERB=1833,INFO,Most frequent generated templates.

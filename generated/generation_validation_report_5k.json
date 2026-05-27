@@ -1,0 +1,12 @@
+{
+  "requested_N": 5000,
+  "generated": 5000,
+  "attempts": 5017,
+  "unique_headwords_used": 5280,
+  "target_vocab": 7000,
+  "confidence_counts": {
+    "medium": 4669,
+    "high": 331
+  },
+  "unique_source_patterns_used": 300
+}

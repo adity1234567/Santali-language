@@ -1,0 +1,81 @@
+{
+  "total_generated": 50,
+  "unique_sentences": 50,
+  "duplicates_removed": 0,
+  "confidence_counts": {
+    "high": 50
+  },
+  "unique_source_patterns": 50,
+  "top_sources_sample": [
+    [
+      [
+        "matthew_santali_glossed.eaf",
+        49
+      ],
+      1
+    ],
+    [
+      [
+        "matthew_santali_glossed.eaf",
+        8
+      ],
+      1
+    ],
+    [
+      [
+        "santali_glossed_1.eaf",
+        96
+      ],
+      1
+    ],
+    [
+      [
+        "matthew_santali_glossed.eaf",
+        47
+      ],
+      1
+    ],
+    [
+      [
+        "matthew_santali_glossed_ipa.eaf",
+        42
+      ],
+      1
+    ],
+    [
+      [
+        "santali_new_glossed.eaf",
+        60
+      ],
+      1
+    ],
+    [
+      [
+        "matthew_santali_glossed_ipa.eaf",
+        1
+      ],
+      1
+    ],
+    [
+      [
+        "santali_matthew_glossed.eaf",
+        19
+      ],
+      1
+    ],
+    [
+      [
+        "santali_glossed_new_3.eaf",
+        19
+      ],
+      1
+    ],
+    [
+      [
+        "lexicon.eaf",
+        180
+      ],
+      1
+    ]
+  ]
+}
